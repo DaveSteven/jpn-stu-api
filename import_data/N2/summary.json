@@ -1,0 +1,5005 @@
+{
+  "book_count": 25,
+  "books": [
+    {
+      "book_id": 1581142,
+      "book_name": "JLPT N2_01文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "の",
+          "book_id": 1581142,
+          "edge_id": 19070302,
+          "explanation": "",
+          "id": 25009381,
+          "index": 0,
+          "options": [
+            "の",
+            "に",
+            "で",
+            "な"
+          ],
+          "question_node_id": 21806593,
+          "question_text": "観光【　　　】際に、近くに住んでいる友達に会った。",
+          "stem": "観光【　　　】際に、近くに住んでいる友達に会った。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ぬいた",
+          "book_id": 1581142,
+          "edge_id": 19070308,
+          "explanation": "",
+          "id": 25009382,
+          "index": 1,
+          "options": [
+            "ぬいた",
+            "となった",
+            "わたった",
+            "つづいた"
+          ],
+          "question_node_id": 21806590,
+          "question_text": "厳しい試合だったが、選手たちは最後まで戦い【　　　】。",
+          "stem": "厳しい試合だったが、選手たちは最後まで戦い【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "からでないと",
+          "book_id": 1581142,
+          "edge_id": 19070422,
+          "explanation": "",
+          "id": 25009383,
+          "index": 2,
+          "options": [
+            "からでないと",
+            "ばかりに",
+            "しないかのうちに",
+            "かねないと"
+          ],
+          "question_node_id": 21806786,
+          "question_text": "書類を確認して【　　　】、サインはできません。",
+          "stem": "書類を確認して【　　　】、サインはできません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "やめる",
+          "book_id": 1581142,
+          "edge_id": 19070300,
+          "explanation": "",
+          "id": 25009384,
+          "index": 3,
+          "options": [
+            "やめる",
+            "やめて",
+            "やめた",
+            "やめず"
+          ],
+          "question_node_id": 21806592,
+          "question_text": "体調がよくないが、すぐに仕事を【　　　】わけにもいかない。",
+          "stem": "体調がよくないが、すぐに仕事を【　　　】わけにもいかない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "安い",
+          "book_id": 1581142,
+          "edge_id": 19070307,
+          "explanation": "",
+          "id": 25009385,
+          "index": 4,
+          "options": [
+            "安い",
+            "安くて",
+            "安く",
+            "安いの"
+          ],
+          "question_node_id": 21806595,
+          "question_text": "値段も【　　　】ことだし、欲しければ買ったらいいよ。",
+          "stem": "値段も【　　　】ことだし、欲しければ買ったらいいよ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "わからない",
+          "book_id": 1581142,
+          "edge_id": 19070303,
+          "explanation": "",
+          "id": 25009386,
+          "index": 5,
+          "options": [
+            "わからない",
+            "わかって",
+            "わからずに",
+            "わからず"
+          ],
+          "question_node_id": 21806599,
+          "question_text": "宝くじに当たるなんて、人生、何が起こるか【　　　】ものだ。",
+          "stem": "宝くじに当たるなんて、人生、何が起こるか【　　　】ものだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "あげく",
+          "book_id": 1581142,
+          "edge_id": 19070301,
+          "explanation": "",
+          "id": 25009387,
+          "index": 6,
+          "options": [
+            "あげく",
+            "にも",
+            "ことなく",
+            "ことか"
+          ],
+          "question_node_id": 21806597,
+          "question_text": "面接で2時間待たされた【　　　】、今日は会えないと言われた。",
+          "stem": "面接で2時間待たされた【　　　】、今日は会えないと言われた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "しない",
+          "book_id": 1581142,
+          "edge_id": 19070304,
+          "explanation": "",
+          "id": 25009388,
+          "index": 7,
+          "options": [
+            "しない",
+            "せず",
+            "しなけれ",
+            "しなくて"
+          ],
+          "question_node_id": 21806604,
+          "question_text": "留学するにしても【　　　】にしても、自分で決めたほうがいい。",
+          "stem": "留学するにしても【　　　】にしても、自分で決めたほうがいい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "というか",
+          "book_id": 1581142,
+          "edge_id": 19162695,
+          "explanation": "",
+          "id": 25009389,
+          "index": 8,
+          "options": [
+            "というか",
+            "限り",
+            "ところを",
+            "以上は"
+          ],
+          "question_node_id": 21923616,
+          "question_text": "A：大丈夫？頭が痛いの？B：うーん、痛い【　　　】、重い感じ。",
+          "stem": "A：大丈夫？頭が痛いの？B：うーん、痛い【　　　】、重い感じ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "といえば",
+          "book_id": 1581142,
+          "edge_id": 19162694,
+          "explanation": "",
+          "id": 25009390,
+          "index": 9,
+          "options": [
+            "といえば",
+            "をめぐって",
+            "にともなって",
+            "ほど"
+          ],
+          "question_node_id": 21923617,
+          "question_text": "A：来週、札幌に出張なんだ。B：札幌 【　　　】、山本さんの出身地だね。",
+          "stem": "A：来週、札幌に出張なんだ。B：札幌 【　　　】、山本さんの出身地だね。"
+        }
+      ],
+      "task_id": 112457248,
+      "task_order": 1
+    },
+    {
+      "book_id": 1581143,
+      "book_name": "JLPT N2_02文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "によっては",
+          "book_id": 1581143,
+          "edge_id": 19070319,
+          "explanation": "",
+          "id": 25009391,
+          "index": 0,
+          "options": [
+            "によっては",
+            "にかぎらず",
+            "ばかりか",
+            "ばかりでなく"
+          ],
+          "question_node_id": 21806606,
+          "question_text": "国【　　　】、外でアルコールを飲むことが禁止されているところもある。",
+          "stem": "国【　　　】、外でアルコールを飲むことが禁止されているところもある。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "とたんに",
+          "book_id": 1581143,
+          "edge_id": 19070316,
+          "explanation": "",
+          "id": 25009392,
+          "index": 1,
+          "options": [
+            "とたんに",
+            "否や",
+            "どころか",
+            "以来"
+          ],
+          "question_node_id": 21806605,
+          "question_text": "山田さんはオンライン会議が終わった【　　　】、弁当を食べ始めた。",
+          "stem": "山田さんはオンライン会議が終わった【　　　】、弁当を食べ始めた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "がんばった",
+          "book_id": 1581143,
+          "edge_id": 19070313,
+          "explanation": "",
+          "id": 25009393,
+          "index": 2,
+          "options": [
+            "がんばった",
+            "がんばろう",
+            "がんばって",
+            "がんばらず"
+          ],
+          "question_node_id": 21806613,
+          "question_text": "（　　）ものの、試験は不合格だった。",
+          "stem": "（　　）ものの、試験は不合格だった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581143,
+          "edge_id": 19070310,
+          "explanation": "",
+          "id": 25009394,
+          "index": 3,
+          "options": [
+            "に",
+            "の",
+            "が",
+            "で"
+          ],
+          "question_node_id": 21806607,
+          "question_text": "病人 【　　　】してみれば、急な客は迷惑だ。",
+          "stem": "病人 【　　　】してみれば、急な客は迷惑だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581143,
+          "edge_id": 19070314,
+          "explanation": "",
+          "id": 25009395,
+          "index": 4,
+          "options": [
+            "に",
+            "の",
+            "と",
+            "は"
+          ],
+          "question_node_id": 21806609,
+          "question_text": "皆、自分【　　　】限って、事故にあうようなことはないと思っている。",
+          "stem": "皆、自分【　　　】限って、事故にあうようなことはないと思っている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "なり",
+          "book_id": 1581143,
+          "edge_id": 19070317,
+          "explanation": "",
+          "id": 25009396,
+          "index": 5,
+          "options": [
+            "なり",
+            "なる",
+            "なれ",
+            "なろう"
+          ],
+          "question_node_id": 21806612,
+          "question_text": "季節は秋に【　　　】つつある。",
+          "stem": "季節は秋に【　　　】つつある。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581143,
+          "edge_id": 19070312,
+          "explanation": "",
+          "id": 25009397,
+          "index": 6,
+          "options": [
+            "に",
+            "×",
+            "で",
+            "の"
+          ],
+          "question_node_id": 21806608,
+          "question_text": "技術の進歩【　　　】ともなって、生活が楽になった。",
+          "stem": "技術の進歩【　　　】ともなって、生活が楽になった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "はらわない",
+          "book_id": 1581143,
+          "edge_id": 19070315,
+          "explanation": "",
+          "id": 25009398,
+          "index": 7,
+          "options": [
+            "はらわない",
+            "はらう",
+            "はらわずに",
+            "はらわないで"
+          ],
+          "question_node_id": 21806614,
+          "question_text": "給料が安くても税金を【　　　】わけにはいかない。",
+          "stem": "給料が安くても税金を【　　　】わけにはいかない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581143,
+          "edge_id": 19070318,
+          "explanation": "",
+          "id": 25009399,
+          "index": 8,
+          "options": [
+            "に",
+            "と",
+            "の",
+            "を"
+          ],
+          "question_node_id": 21806611,
+          "question_text": "給料は経験【　　　】応じて決まります。",
+          "stem": "給料は経験【　　　】応じて決まります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にこしたことはない",
+          "book_id": 1581143,
+          "edge_id": 19070311,
+          "explanation": "",
+          "id": 25009400,
+          "index": 9,
+          "options": [
+            "にこしたことはない",
+            "に基づく",
+            "というものだ",
+            "にもまして"
+          ],
+          "question_node_id": 21806616,
+          "question_text": "給料は高い【　　　】が、それだけで仕事を決めるのはよくない。",
+          "stem": "給料は高い【　　　】が、それだけで仕事を決めるのはよくない。"
+        }
+      ],
+      "task_id": 112457249,
+      "task_order": 2
+    },
+    {
+      "book_id": 1581144,
+      "book_name": "JLPT N2_03文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1581144,
+          "edge_id": 19070328,
+          "explanation": "",
+          "id": 25009401,
+          "index": 0,
+          "options": [
+            "を",
+            "の",
+            "で",
+            "に"
+          ],
+          "question_node_id": 21806617,
+          "question_text": "教育方法【　　　】めぐり、様々な意見が出てきた。",
+          "stem": "教育方法【　　　】めぐり、様々な意見が出てきた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581144,
+          "edge_id": 19070320,
+          "explanation": "",
+          "id": 25009402,
+          "index": 1,
+          "options": [
+            "に",
+            "が",
+            "で",
+            "の"
+          ],
+          "question_node_id": 21806627,
+          "question_text": "経験 【　　　】基づいた話は大変勉強になる。",
+          "stem": "経験 【　　　】基づいた話は大変勉強になる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "わかる",
+          "book_id": 1581144,
+          "edge_id": 19070323,
+          "explanation": "",
+          "id": 25009403,
+          "index": 2,
+          "options": [
+            "わかる",
+            "わかるか",
+            "わかるの",
+            "わかるかどうか"
+          ],
+          "question_node_id": 21806618,
+          "question_text": "結果は、やってみなければ【　　　】ものか。",
+          "stem": "結果は、やってみなければ【　　　】ものか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "じょう",
+          "book_id": 1581144,
+          "edge_id": 19070325,
+          "explanation": "",
+          "id": 25009404,
+          "index": 3,
+          "options": [
+            "じょう",
+            "をめぐって",
+            "のさいちゅう",
+            "ほど"
+          ],
+          "question_node_id": 21806619,
+          "question_text": "健康 【　　　】、運動は毎日したほうがいい。",
+          "stem": "健康 【　　　】、運動は毎日したほうがいい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "とは",
+          "book_id": 1581144,
+          "edge_id": 19070321,
+          "explanation": "",
+          "id": 25009405,
+          "index": 4,
+          "options": [
+            "とは",
+            "のみ",
+            "しか",
+            "とも"
+          ],
+          "question_node_id": 21806628,
+          "question_text": "健康【　　　】心と体のバランスがよいことだ。",
+          "stem": "健康【　　　】心と体のバランスがよいことだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "調べてみた",
+          "book_id": 1581144,
+          "edge_id": 19070329,
+          "explanation": "",
+          "id": 25009406,
+          "index": 5,
+          "options": [
+            "調べてみた",
+            "調べてみる",
+            "調べてみ",
+            "調べてみよう"
+          ],
+          "question_node_id": 21806631,
+          "question_text": "原因を【　　　】ところ、システムに問題があった。",
+          "stem": "原因を【　　　】ところ、システムに問題があった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581144,
+          "edge_id": 19070322,
+          "explanation": "",
+          "id": 25009407,
+          "index": 6,
+          "options": [
+            "に",
+            "が",
+            "を",
+            "と"
+          ],
+          "question_node_id": 21806630,
+          "question_text": "行動力 【　　　】かけては、母は家族で一番だ。",
+          "stem": "行動力 【　　　】かけては、母は家族で一番だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "行き先",
+          "book_id": 1581144,
+          "edge_id": 19070324,
+          "explanation": "",
+          "id": 25009408,
+          "index": 7,
+          "options": [
+            "行き先",
+            "行き先の",
+            "行き先で",
+            "行き先しか"
+          ],
+          "question_node_id": 21806633,
+          "question_text": "最近、弟は【　　　】さえ言わずに出かけることが多い。",
+          "stem": "最近、弟は【　　　】さえ言わずに出かけることが多い。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "暑さの",
+          "book_id": 1581144,
+          "edge_id": 19070327,
+          "explanation": "",
+          "id": 25009409,
+          "index": 8,
+          "options": [
+            "暑さの",
+            "暑い",
+            "暑いの",
+            "暑くて"
+          ],
+          "question_node_id": 21806636,
+          "question_text": "最近の【　　　】せいで、体調があまりよくない。",
+          "stem": "最近の【　　　】せいで、体調があまりよくない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "不安で",
+          "book_id": 1581144,
+          "edge_id": 19070326,
+          "explanation": "",
+          "id": 25009410,
+          "index": 9,
+          "options": [
+            "不安で",
+            "不安",
+            "不安じゃ",
+            "不安の"
+          ],
+          "question_node_id": 21806637,
+          "question_text": "試験の結果が【　　　】ならない。",
+          "stem": "試験の結果が【　　　】ならない。"
+        }
+      ],
+      "task_id": 112457250,
+      "task_order": 3
+    },
+    {
+      "book_id": 1581145,
+      "book_name": "JLPT N2_04文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "からには",
+          "book_id": 1581145,
+          "edge_id": 19070331,
+          "explanation": "",
+          "id": 25191365,
+          "index": 0,
+          "options": [
+            "からには",
+            "にかぎらず",
+            "以来",
+            "ことは"
+          ],
+          "question_node_id": 21806640,
+          "question_text": "試合に出る【　　　】、勝ちたい。",
+          "stem": "試合に出る【　　　】、勝ちたい。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "で",
+          "book_id": 1581145,
+          "edge_id": 19504566,
+          "explanation": "",
+          "id": 25191366,
+          "index": 1,
+          "options": [
+            "と",
+            "で",
+            "に"
+          ],
+          "question_node_id": 22353004,
+          "question_text": "資料の作成はやり方次第【　　　】、簡単にできます。",
+          "stem": "資料の作成はやり方次第【　　　】、簡単にできます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "心配せず",
+          "book_id": 1581145,
+          "edge_id": 19070330,
+          "explanation": "",
+          "id": 25191367,
+          "index": 2,
+          "options": [
+            "心配せず",
+            "心配しない",
+            "心配するな",
+            "心配で"
+          ],
+          "question_node_id": 21806639,
+          "question_text": "事故の話を聞いて【　　　】にはいられなかった。",
+          "stem": "事故の話を聞いて【　　　】にはいられなかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "といった",
+          "book_id": 1581145,
+          "edge_id": 19070335,
+          "explanation": "",
+          "id": 25191368,
+          "index": 3,
+          "options": [
+            "といった",
+            "としたら",
+            "を通じて",
+            "ばかりに"
+          ],
+          "question_node_id": 21806642,
+          "question_text": "鹿や猪 【　　　】動物は、日本各地で見られる。",
+          "stem": "鹿や猪 【　　　】動物は、日本各地で見られる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "反面",
+          "book_id": 1581145,
+          "edge_id": 19070334,
+          "explanation": "",
+          "id": 25191369,
+          "index": 4,
+          "options": [
+            "反面",
+            "限り",
+            "に対し",
+            "つつ"
+          ],
+          "question_node_id": 21806641,
+          "question_text": "就職が決まってうれしい【　　　】、不安も感じる。",
+          "stem": "就職が決まってうれしい【　　　】、不安も感じる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "あきらめない",
+          "book_id": 1581145,
+          "edge_id": 19070333,
+          "explanation": "",
+          "id": 25191370,
+          "index": 5,
+          "options": [
+            "あきらめない",
+            "あきらめ",
+            "あきらめず",
+            "あきらめなくて"
+          ],
+          "question_node_id": 21806647,
+          "question_text": "成功したいなら【　　　】ことだ。",
+          "stem": "成功したいなら【　　　】ことだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "終わるか終わらないか",
+          "book_id": 1581145,
+          "edge_id": 19070332,
+          "explanation": "",
+          "id": 25191371,
+          "index": 6,
+          "options": [
+            "終わるか終わらないか",
+            "終わるが終わらないが",
+            "終わりも終わりじゃないも",
+            "終わりが終わらないが"
+          ],
+          "question_node_id": 21806651,
+          "question_text": "説明が【　　　】のうちに、質問者が手をあげた。",
+          "stem": "説明が【　　　】のうちに、質問者が手をあげた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "読んだ",
+          "book_id": 1581145,
+          "edge_id": 19070336,
+          "explanation": "",
+          "id": 25191372,
+          "index": 7,
+          "options": [
+            "読んだ",
+            "読もう",
+            "読んで",
+            "読み"
+          ],
+          "question_node_id": 21806654,
+          "question_text": "説明書を【　　　】うえで、ご使用ください。",
+          "stem": "説明書を【　　　】うえで、ご使用ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581145,
+          "edge_id": 19070338,
+          "explanation": "",
+          "id": 25191373,
+          "index": 8,
+          "options": [
+            "に",
+            "の",
+            "で",
+            "×"
+          ],
+          "question_node_id": 21806643,
+          "question_text": "卒業【　　　】あたって、新しい出発への期待でわくわくしていた",
+          "stem": "卒業【　　　】あたって、新しい出発への期待でわくわくしていた"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1581145,
+          "edge_id": 19070337,
+          "explanation": "",
+          "id": 25191374,
+          "index": 9,
+          "options": [
+            "を",
+            "して",
+            "の",
+            "に"
+          ],
+          "question_node_id": 21806648,
+          "question_text": "努力【　　　】抜きにしては、彼の成功はなかった。",
+          "stem": "努力【　　　】抜きにしては、彼の成功はなかった。"
+        }
+      ],
+      "task_id": 112457251,
+      "task_order": 4
+    },
+    {
+      "book_id": 1581146,
+      "book_name": "JLPT N2_05文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にほかならない",
+          "book_id": 1581146,
+          "edge_id": 19070340,
+          "explanation": "",
+          "id": 25009421,
+          "index": 0,
+          "options": [
+            "にほかならない",
+            "ようがない",
+            "わけがない",
+            "向きだ"
+          ],
+          "question_node_id": 21806658,
+          "question_text": "特に決めることもないのに、会議をするのは時間の無駄 【　　　】と思う。",
+          "stem": "特に決めることもないのに、会議をするのは時間の無駄 【　　　】と思う。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1581146,
+          "edge_id": 19070347,
+          "explanation": "",
+          "id": 25009422,
+          "index": 1,
+          "options": [
+            "を",
+            "で",
+            "に",
+            "が"
+          ],
+          "question_node_id": 21806660,
+          "question_text": "入院期間 【　　　】通して、看護師さんにはお世話になった。",
+          "stem": "入院期間 【　　　】通して、看護師さんにはお世話になった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1581146,
+          "edge_id": 19070348,
+          "explanation": "",
+          "id": 25009423,
+          "index": 2,
+          "options": [
+            "を",
+            "に",
+            "で",
+            "と"
+          ],
+          "question_node_id": 21806657,
+          "question_text": "入院したの【　　　】契機に、たばこをやめた。",
+          "stem": "入院したの【　　　】契機に、たばこをやめた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にしたがって",
+          "book_id": 1581146,
+          "edge_id": 19070341,
+          "explanation": "",
+          "id": 25009424,
+          "index": 3,
+          "options": [
+            "にしたがって",
+            "ことなく",
+            "ようにも",
+            "つつ"
+          ],
+          "question_node_id": 21806665,
+          "question_text": "[年齢]（ねんれい）が上がる【　　　】責任も重くなるものだ。",
+          "stem": "[年齢]（ねんれい）が上がる【　　　】責任も重くなるものだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "うえに",
+          "book_id": 1581146,
+          "edge_id": 19070349,
+          "explanation": "",
+          "id": 25009425,
+          "index": 4,
+          "options": [
+            "うえに",
+            "からして",
+            "とかく",
+            "つつ"
+          ],
+          "question_node_id": 21806656,
+          "question_text": "納豆は安い【　　　】体にもいいからおすすめです。",
+          "stem": "納豆は安い【　　　】体にもいいからおすすめです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "し",
+          "book_id": 1581146,
+          "edge_id": 19070342,
+          "explanation": "",
+          "id": 25009426,
+          "index": 5,
+          "options": [
+            "し",
+            "の",
+            "して",
+            "する"
+          ],
+          "question_node_id": 21806662,
+          "question_text": "発生【　　　】うる問題を全て挙げてください。",
+          "stem": "発生【　　　】うる問題を全て挙げてください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "上がる",
+          "book_id": 1581146,
+          "edge_id": 19070343,
+          "explanation": "",
+          "id": 25009427,
+          "index": 6,
+          "options": [
+            "上がる",
+            "上がろう",
+            "上がった",
+            "上がって"
+          ],
+          "question_node_id": 21806666,
+          "question_text": "物価は【　　　】一方だ。",
+          "stem": "物価は【　　　】一方だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ことわらざる",
+          "book_id": 1581146,
+          "edge_id": 19070344,
+          "explanation": "",
+          "id": 25009428,
+          "index": 7,
+          "options": [
+            "ことわらざる",
+            "ことわらず",
+            "ことわらない",
+            "ことわる"
+          ],
+          "question_node_id": 21806667,
+          "question_text": "忙しすぎて、注文を【　　　】得ない。",
+          "stem": "忙しすぎて、注文を【　　　】得ない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "と",
+          "book_id": 1581146,
+          "edge_id": 19070345,
+          "explanation": "",
+          "id": 25009429,
+          "index": 8,
+          "options": [
+            "と",
+            "で",
+            "の",
+            "を"
+          ],
+          "question_node_id": 21806664,
+          "question_text": "野生の動物をペット【　　　】して飼うことに反対だ。",
+          "stem": "野生の動物をペット【　　　】して飼うことに反対だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にわたって",
+          "book_id": 1581146,
+          "edge_id": 19070346,
+          "explanation": "",
+          "id": 25009430,
+          "index": 9,
+          "options": [
+            "にわたって",
+            "にかかわって",
+            "にかけては",
+            "にもかかわらず"
+          ],
+          "question_node_id": 21806663,
+          "question_text": "約5時間【　　　】燃え続けた火事が、ようやく消火された。",
+          "stem": "約5時間【　　　】燃え続けた火事が、ようやく消火された。"
+        }
+      ],
+      "task_id": 112457252,
+      "task_order": 5
+    },
+    {
+      "book_id": 1581147,
+      "book_name": "JLPT N2_06文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "待って",
+          "book_id": 1581147,
+          "edge_id": 19070352,
+          "explanation": "",
+          "id": 25009431,
+          "index": 0,
+          "options": [
+            "待って",
+            "待つ",
+            "待った",
+            "待とう"
+          ],
+          "question_node_id": 21806669,
+          "question_text": "列に並んで３時間【　　　】でもこの店ラーメンが食べたい。",
+          "stem": "列に並んで３時間【　　　】でもこの店ラーメンが食べたい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "と",
+          "book_id": 1581147,
+          "edge_id": 19070351,
+          "explanation": "",
+          "id": 25009432,
+          "index": 1,
+          "options": [
+            "と",
+            "で",
+            "も",
+            "に"
+          ],
+          "question_node_id": 21806673,
+          "question_text": "恋人が海外に留学してから、1日【　　　】して彼女を思い出さない日はなかった。",
+          "stem": "恋人が海外に留学してから、1日【　　　】して彼女を思い出さない日はなかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "つくろう",
+          "book_id": 1581147,
+          "edge_id": 19070350,
+          "explanation": "",
+          "id": 25009433,
+          "index": 2,
+          "options": [
+            "つくろう",
+            "つくって",
+            "つくる",
+            "つくれ"
+          ],
+          "question_node_id": 21806672,
+          "question_text": "「住みやすい社会を【　　　】ではありませんか」と、選挙演説が聞こえた。",
+          "stem": "「住みやすい社会を【　　　】ではありませんか」と、選挙演説が聞こえた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "まよった",
+          "book_id": 1581147,
+          "edge_id": 19070354,
+          "explanation": "",
+          "id": 25009434,
+          "index": 3,
+          "options": [
+            "まよった",
+            "まよい",
+            "まよって",
+            "まよわない"
+          ],
+          "question_node_id": 21806668,
+          "question_text": "【　　　】あげく何も買わずに帰った。",
+          "stem": "【　　　】あげく何も買わずに帰った。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かなしみの",
+          "book_id": 1581147,
+          "edge_id": 19070355,
+          "explanation": "",
+          "id": 25009435,
+          "index": 4,
+          "options": [
+            "かなしみの",
+            "かなしさに",
+            "かなしみで",
+            "かなしくて"
+          ],
+          "question_node_id": 21806677,
+          "question_text": "【　　　】あまり、ほとんどものが食べられなくなった。",
+          "stem": "【　　　】あまり、ほとんどものが食べられなくなった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "暗くならない",
+          "book_id": 1581147,
+          "edge_id": 19070359,
+          "explanation": "",
+          "id": 25009436,
+          "index": 5,
+          "options": [
+            "暗くならない",
+            "暗くなる",
+            "暗くなかった",
+            "暗くならなかった"
+          ],
+          "question_node_id": 21806671,
+          "question_text": "【　　　】うちに帰ろう。",
+          "stem": "【　　　】うちに帰ろう。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "仕事だ",
+          "book_id": 1581147,
+          "edge_id": 19070353,
+          "explanation": "",
+          "id": 25009437,
+          "index": 6,
+          "options": [
+            "仕事だ",
+            "仕事",
+            "仕事で",
+            "仕事の"
+          ],
+          "question_node_id": 21806680,
+          "question_text": "【　　　】からと言って、体に悪い生活をするべきではない。",
+          "stem": "【　　　】からと言って、体に悪い生活をするべきではない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "父の",
+          "book_id": 1581147,
+          "edge_id": 19070357,
+          "explanation": "",
+          "id": 25009438,
+          "index": 7,
+          "options": [
+            "父の",
+            "父が",
+            "父に",
+            "父"
+          ],
+          "question_node_id": 21806682,
+          "question_text": "【　　　】ことだから、今から行っても30分は待たされるよ。",
+          "stem": "【　　　】ことだから、今から行っても30分は待たされるよ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "がんばった",
+          "book_id": 1581147,
+          "edge_id": 19187175,
+          "explanation": "",
+          "id": 25009439,
+          "index": 8,
+          "options": [
+            "がんばった",
+            "がんばる",
+            "がんばって",
+            "がんばること"
+          ],
+          "question_node_id": 21957138,
+          "question_text": "一生懸命【　　　】だけに、不合格で残念だ。",
+          "stem": "一生懸命【　　　】だけに、不合格で残念だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "時間",
+          "book_id": 1581147,
+          "edge_id": 19162696,
+          "explanation": "",
+          "id": 25009440,
+          "index": 9,
+          "options": [
+            "時間",
+            "時間の",
+            "時間で",
+            "時間を"
+          ],
+          "question_node_id": 21923618,
+          "question_text": "【　　　】さえあればできることだが、今は難しい。",
+          "stem": "【　　　】さえあればできることだが、今は難しい。"
+        }
+      ],
+      "task_id": 112457253,
+      "task_order": 6
+    },
+    {
+      "book_id": 1581148,
+      "book_name": "JLPT N2_07文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "サッカーやバレーボール",
+          "book_id": 1581148,
+          "edge_id": 19070361,
+          "explanation": "",
+          "id": 25009441,
+          "index": 0,
+          "options": [
+            "サッカーやバレーボール",
+            "サッカーではバレーボールか",
+            "サッカーもバレーボール",
+            "サッカーだしバレーボールだし"
+          ],
+          "question_node_id": 21806686,
+          "question_text": "【　　　】といったチームスポーツが好きだ。",
+          "stem": "【　　　】といったチームスポーツが好きだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "電車の中だった",
+          "book_id": 1581148,
+          "edge_id": 19162701,
+          "explanation": "",
+          "id": 25009442,
+          "index": 1,
+          "options": [
+            "電車の中だった",
+            "電車の中",
+            "電車の中で",
+            "電車の中に"
+          ],
+          "question_node_id": 21923623,
+          "question_text": "【　　　】もので、電話に出られませんでした。",
+          "stem": "【　　　】もので、電話に出られませんでした。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "見られる",
+          "book_id": 1581148,
+          "edge_id": 19070360,
+          "explanation": "",
+          "id": 25009443,
+          "index": 2,
+          "options": [
+            "見られる",
+            "見る",
+            "見て",
+            "見たい"
+          ],
+          "question_node_id": 21806688,
+          "question_text": "【　　　】ものなら、一度オーロラを見てみたい。",
+          "stem": "【　　　】ものなら、一度オーロラを見てみたい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "書いた",
+          "book_id": 1581148,
+          "edge_id": 19070362,
+          "explanation": "",
+          "id": 25009444,
+          "index": 3,
+          "options": [
+            "書いた",
+            "書く",
+            "書き",
+            "書こう"
+          ],
+          "question_node_id": 21806698,
+          "question_text": "１週間で【　　　】にしては、いいレポートになっている。",
+          "stem": "１週間で【　　　】にしては、いいレポートになっている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "きびしい",
+          "book_id": 1581148,
+          "edge_id": 19070369,
+          "explanation": "",
+          "id": 25009445,
+          "index": 4,
+          "options": [
+            "きびしい",
+            "きびしくて",
+            "きびしく",
+            "きびしさ"
+          ],
+          "question_node_id": 21806700,
+          "question_text": "３日でこれを終わらせるのは【　　　】ものがある。",
+          "stem": "３日でこれを終わらせるのは【　　　】ものがある。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "としたら",
+          "book_id": 1581148,
+          "edge_id": 19070364,
+          "explanation": "",
+          "id": 25009446,
+          "index": 5,
+          "options": [
+            "としたら",
+            "からでなければ",
+            "ばかりに",
+            "次第で"
+          ],
+          "question_node_id": 21806689,
+          "question_text": "90歳まで生きる【　　　】どのぐらい貯金が必要ですか。",
+          "stem": "90歳まで生きる【　　　】どのぐらい貯金が必要ですか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "わけにはいかない",
+          "book_id": 1581148,
+          "edge_id": 19162702,
+          "explanation": "",
+          "id": 25009447,
+          "index": 6,
+          "options": [
+            "わけにはいかない",
+            "わけだ",
+            "からでない",
+            "かねない"
+          ],
+          "question_node_id": 21923622,
+          "question_text": "A：就職活動はどう？B：大変だけどあきらめる【　　　】よ。",
+          "stem": "A：就職活動はどう？B：大変だけどあきらめる【　　　】よ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ものでしょうか",
+          "book_id": 1581148,
+          "edge_id": 19162700,
+          "explanation": "",
+          "id": 25009448,
+          "index": 7,
+          "options": [
+            "ものでしょうか",
+            "というものでしょうか",
+            "ことでしょうか",
+            "にこしたことはございませんか"
+          ],
+          "question_node_id": 21923619,
+          "question_text": "A：う～ん。少々お高いですね。なんとか、この予算内でお願いできない【　　　】。\nB：はあ…。難しいですが…、上司に相談いたします。",
+          "stem": "A：う～ん。少々お高いですね。なんとか、この予算内でお願いできない【　　　】。\nB：はあ…。難しいですが…、上司に相談いたします。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "というものではない",
+          "book_id": 1581148,
+          "edge_id": 19162698,
+          "explanation": "",
+          "id": 25009449,
+          "index": 8,
+          "options": [
+            "というものではない",
+            "ほかない",
+            "まい",
+            "にもまして"
+          ],
+          "question_node_id": 21923625,
+          "question_text": "A：この本、あまり売れていないんだって。すごくいいと思うんだけど。B：まあ、いい本だからよく売れる【　　　】ね。",
+          "stem": "A：この本、あまり売れていないんだって。すごくいいと思うんだけど。B：まあ、いい本だからよく売れる【　　　】ね。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いただけないでしょうか",
+          "book_id": 1581148,
+          "edge_id": 19162699,
+          "explanation": "",
+          "id": 25009450,
+          "index": 9,
+          "options": [
+            "いただけないでしょうか",
+            "いただきましょうか",
+            "いただきませんか",
+            "まいりましょうか"
+          ],
+          "question_node_id": 21923624,
+          "question_text": "A：すみません。忘れ物をしたんですが、調べて【　　　】。駅員：あ、はい。少々お待ちください。",
+          "stem": "A：すみません。忘れ物をしたんですが、調べて【　　　】。駅員：あ、はい。少々お待ちください。"
+        }
+      ],
+      "task_id": 112457254,
+      "task_order": 7
+    },
+    {
+      "book_id": 1581149,
+      "book_name": "JLPT N2_08文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "っぱなし",
+          "book_id": 1581149,
+          "edge_id": 19162706,
+          "explanation": "",
+          "id": 25775399,
+          "index": 0,
+          "options": [
+            "っぱなし",
+            "つつ",
+            "あげく",
+            "すえ"
+          ],
+          "question_node_id": 21923630,
+          "question_text": "A：使ったはさみ、出し【　　　】にしないで！片づけて！B：はーい",
+          "stem": "A：使ったはさみ、出し【　　　】にしないで！片づけて！B：はーい"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "旅行",
+          "book_id": 1581149,
+          "edge_id": 19162705,
+          "explanation": "",
+          "id": 25775400,
+          "index": 1,
+          "options": [
+            "旅行",
+            "旅行に",
+            "行きたい",
+            "行く"
+          ],
+          "question_node_id": 21923628,
+          "question_text": "A:旅行に行きたいな。\nB：【　　　】と言えば最近飛行機代が高いね。",
+          "stem": "A:旅行に行きたいな。\nB：【　　　】と言えば最近飛行機代が高いね。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "言い方",
+          "book_id": 1581149,
+          "edge_id": 19162707,
+          "explanation": "",
+          "id": 25775401,
+          "index": 2,
+          "options": [
+            "言い方",
+            "言い方の",
+            "言い方を",
+            "言い方で"
+          ],
+          "question_node_id": 21923629,
+          "question_text": "あの【　　　】からして、彼女は計画に賛成していないようだ。",
+          "stem": "あの【　　　】からして、彼女は計画に賛成していないようだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "するに",
+          "book_id": 1581149,
+          "edge_id": 19070379,
+          "explanation": "",
+          "id": 25775402,
+          "index": 3,
+          "options": [
+            "するに",
+            "しに",
+            "するの",
+            "して"
+          ],
+          "question_node_id": 21806709,
+          "question_text": "あのようなやり方では失敗【　　　】違いない。",
+          "stem": "あのようなやり方では失敗【　　　】違いない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にすぎない",
+          "book_id": 1581149,
+          "edge_id": 19070374,
+          "explanation": "",
+          "id": 25775403,
+          "index": 4,
+          "options": [
+            "にすぎない",
+            "反面",
+            "限り",
+            "以上"
+          ],
+          "question_node_id": 21806710,
+          "question_text": "あの人とは仕事上のつき合い【　　　】ので、プライベートなことは知らない。",
+          "stem": "あの人とは仕事上のつき合い【　　　】ので、プライベートなことは知らない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "相談した",
+          "book_id": 1581149,
+          "edge_id": 19162703,
+          "explanation": "",
+          "id": 25775404,
+          "index": 5,
+          "options": [
+            "相談した",
+            "相談",
+            "相談の",
+            "相談して"
+          ],
+          "question_node_id": 21923627,
+          "question_text": "あの人に【　　　】ばかりに、みんなに話されてしまった。",
+          "stem": "あの人に【　　　】ばかりに、みんなに話されてしまった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "よくなければ",
+          "book_id": 1581149,
+          "edge_id": 19070373,
+          "explanation": "",
+          "id": 25775405,
+          "index": 6,
+          "options": [
+            "よくなければ",
+            "いいし",
+            "よければ",
+            "よいなら"
+          ],
+          "question_node_id": 21806717,
+          "question_text": "あの店は店員のサービスも【　　　】、料理の種類も少ない。もう二度と行かない。",
+          "stem": "あの店は店員のサービスも【　　　】、料理の種類も少ない。もう二度と行かない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "して",
+          "book_id": 1581149,
+          "edge_id": 19070377,
+          "explanation": "",
+          "id": 25775406,
+          "index": 7,
+          "options": [
+            "して",
+            "する",
+            "しよう",
+            "しろ"
+          ],
+          "question_node_id": 21806714,
+          "question_text": "アルバイトを【　　　】はじめて仕事の大変さがわかった。",
+          "stem": "アルバイトを【　　　】はじめて仕事の大変さがわかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581149,
+          "edge_id": 19070378,
+          "explanation": "",
+          "id": 25775407,
+          "index": 8,
+          "options": [
+            "に",
+            "の",
+            "で",
+            "を"
+          ],
+          "question_node_id": 21806716,
+          "question_text": "いつも全然夢を見ないが、昨日【　　　】限って変な夢を見た。",
+          "stem": "いつも全然夢を見ないが、昨日【　　　】限って変な夢を見た。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かは",
+          "book_id": 1581149,
+          "edge_id": 19070376,
+          "explanation": "",
+          "id": 25775408,
+          "index": 9,
+          "options": [
+            "かは",
+            "のは",
+            "のが",
+            "かが"
+          ],
+          "question_node_id": 21806712,
+          "question_text": "いつ使う【　　　】さておき、安いものを見ると買いたくなる。",
+          "stem": "いつ使う【　　　】さておき、安いものを見ると買いたくなる。"
+        }
+      ],
+      "task_id": 112457255,
+      "task_order": 8
+    },
+    {
+      "book_id": 1581150,
+      "book_name": "JLPT N2_09文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "どころか",
+          "book_id": 1581150,
+          "edge_id": 19070382,
+          "explanation": "",
+          "id": 25221126,
+          "index": 0,
+          "options": [
+            "どころか",
+            "ばかりか",
+            "からには",
+            "かおこらないか"
+          ],
+          "question_node_id": 21806725,
+          "question_text": "インタビュアーは[失礼]（しつれい）な質問をしたが、彼女は怒る【　　　】笑顔で丁寧に答えた。",
+          "stem": "インタビュアーは[失礼]（しつれい）な質問をしたが、彼女は怒る【　　　】笑顔で丁寧に答えた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "限り",
+          "book_id": 1581150,
+          "edge_id": 19070380,
+          "explanation": "",
+          "id": 25221127,
+          "index": 1,
+          "options": [
+            "限り",
+            "ところ",
+            "反面",
+            "うえで"
+          ],
+          "question_node_id": 21806720,
+          "question_text": "お腹がすいていたので、皿に載る【　　　】の料理を持ってきた。",
+          "stem": "お腹がすいていたので、皿に載る【　　　】の料理を持ってきた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ところ",
+          "book_id": 1581150,
+          "edge_id": 19070381,
+          "explanation": "",
+          "id": 25221128,
+          "index": 2,
+          "options": [
+            "ところ",
+            "反面",
+            "ながら",
+            "限り"
+          ],
+          "question_node_id": 21806718,
+          "question_text": "お忙しい【　　　】、申し訳ありませんが、ちょっとよろしいでしょうか。",
+          "stem": "お忙しい【　　　】、申し訳ありませんが、ちょっとよろしいでしょうか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ない",
+          "book_id": 1581150,
+          "edge_id": 19162710,
+          "explanation": "",
+          "id": 25221129,
+          "index": 3,
+          "options": [
+            "ない",
+            "なくて",
+            "なく",
+            "ないで"
+          ],
+          "question_node_id": 21923634,
+          "question_text": "お金が（　　）にもかかわらず、無駄遣いをしている。",
+          "stem": "お金が（　　）にもかかわらず、無駄遣いをしている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "幸せ",
+          "book_id": 1581150,
+          "edge_id": 19070383,
+          "explanation": "",
+          "id": 25221130,
+          "index": 4,
+          "options": [
+            "幸せ",
+            "幸せじゃ",
+            "幸せの",
+            "幸せな"
+          ],
+          "question_node_id": 21806727,
+          "question_text": "お金があれば【　　　】というものでもない。",
+          "stem": "お金があれば【　　　】というものでもない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "使わない",
+          "book_id": 1581150,
+          "edge_id": 19070384,
+          "explanation": "",
+          "id": 25221131,
+          "index": 5,
+          "options": [
+            "使わない",
+            "使い",
+            "使おう",
+            "使わず"
+          ],
+          "question_node_id": 21806722,
+          "question_text": "お金はすぐに【　　　】にせよ、あれば安心だ。",
+          "stem": "お金はすぐに【　　　】にせよ、あれば安心だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ときに",
+          "book_id": 1581150,
+          "edge_id": 19162708,
+          "explanation": "",
+          "id": 25221132,
+          "index": 6,
+          "options": [
+            "ときに",
+            "で",
+            "ときで",
+            "は"
+          ],
+          "question_node_id": 21923633,
+          "question_text": "かさを持っていない【　　　】限って、が降る。",
+          "stem": "かさを持っていない【　　　】限って、が降る。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581150,
+          "edge_id": 19070387,
+          "explanation": "",
+          "id": 25221133,
+          "index": 7,
+          "options": [
+            "に",
+            "の",
+            "を",
+            "で"
+          ],
+          "question_node_id": 21806728,
+          "question_text": "クラシック【　　　】限らず、音楽は何でも好きです。",
+          "stem": "クラシック【　　　】限らず、音楽は何でも好きです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "立つ",
+          "book_id": 1581150,
+          "edge_id": 19070389,
+          "explanation": "",
+          "id": 25221134,
+          "index": 8,
+          "options": [
+            "立つ",
+            "立って",
+            "立ち",
+            "立たせる"
+          ],
+          "question_node_id": 21806731,
+          "question_text": "けんかをした日の夜は、悲しいやら、腹が【　　　】やら眠れなかった。",
+          "stem": "けんかをした日の夜は、悲しいやら、腹が【　　　】やら眠れなかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "×",
+          "book_id": 1581150,
+          "edge_id": 19070386,
+          "explanation": "",
+          "id": 25221135,
+          "index": 9,
+          "options": [
+            "×",
+            "が",
+            "と",
+            "の"
+          ],
+          "question_node_id": 21806730,
+          "question_text": "こういう服は若者【　　　】向けだと思います。",
+          "stem": "こういう服は若者【　　　】向けだと思います。"
+        }
+      ],
+      "task_id": 112457256,
+      "task_order": 9
+    },
+    {
+      "book_id": 1581151,
+      "book_name": "JLPT N2_10文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1581151,
+          "edge_id": 19162713,
+          "explanation": "",
+          "id": 25009471,
+          "index": 0,
+          "options": [
+            "を",
+            "が",
+            "で",
+            "に"
+          ],
+          "question_node_id": 21923636,
+          "question_text": "ここでは学歴 【　　　】問わずアルバイトを募集しています。",
+          "stem": "ここでは学歴 【　　　】問わずアルバイトを募集しています。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1581151,
+          "edge_id": 19162711,
+          "explanation": "",
+          "id": 25009472,
+          "index": 1,
+          "options": [
+            "を",
+            "が",
+            "で",
+            "に"
+          ],
+          "question_node_id": 21923637,
+          "question_text": "ここでは冬はスキー【　　　】はじめ、いろいろなウインタースポーツが楽しめる。",
+          "stem": "ここでは冬はスキー【　　　】はじめ、いろいろなウインタースポーツが楽しめる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "作れない",
+          "book_id": 1581151,
+          "edge_id": 19070395,
+          "explanation": "",
+          "id": 25009473,
+          "index": 2,
+          "options": [
+            "作れない",
+            "作らずに",
+            "作らず",
+            "作らない"
+          ],
+          "question_node_id": 21806740,
+          "question_text": "ここにあるものだけで、夕飯を【　　　】ものか、考えている。",
+          "stem": "ここにあるものだけで、夕飯を【　　　】ものか、考えている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にもかかわらず",
+          "book_id": 1581151,
+          "edge_id": 19162712,
+          "explanation": "",
+          "id": 25009474,
+          "index": 3,
+          "options": [
+            "にもかかわらず",
+            "となると",
+            "ことにかけては",
+            "つつ"
+          ],
+          "question_node_id": 21923635,
+          "question_text": "ここのケーキは他の店と比べて高い（　　）、いつも人が並んでいる人気の店だ。",
+          "stem": "ここのケーキは他の店と比べて高い（　　）、いつも人が並んでいる人気の店だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にあたって",
+          "book_id": 1581151,
+          "edge_id": 19070397,
+          "explanation": "",
+          "id": 25009475,
+          "index": 4,
+          "options": [
+            "にあたって",
+            "ところを",
+            "限り",
+            "反面"
+          ],
+          "question_node_id": 21806746,
+          "question_text": "こちらのコンテンツをご利用いただく【　　　】、下記の注意事項をご確認ください。",
+          "stem": "こちらのコンテンツをご利用いただく【　　　】、下記の注意事項をご確認ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "見る",
+          "book_id": 1581151,
+          "edge_id": 19070391,
+          "explanation": "",
+          "id": 25009476,
+          "index": 5,
+          "options": [
+            "見る",
+            "見るの",
+            "見ること",
+            "見て"
+          ],
+          "question_node_id": 21806745,
+          "question_text": "この景色を【　　　】につけ、心が落ち着く。",
+          "stem": "この景色を【　　　】につけ、心が落ち着く。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "は",
+          "book_id": 1581151,
+          "edge_id": 19070392,
+          "explanation": "",
+          "id": 25009477,
+          "index": 6,
+          "options": [
+            "は",
+            "の",
+            "に",
+            "で"
+          ],
+          "question_node_id": 21806736,
+          "question_text": "このアニメは子ども【　　　】もとより、大人にも人気です。",
+          "stem": "このアニメは子ども【　　　】もとより、大人にも人気です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "大変な",
+          "book_id": 1581151,
+          "edge_id": 19070394,
+          "explanation": "",
+          "id": 25009478,
+          "index": 7,
+          "options": [
+            "大変な",
+            "大変",
+            "大変だ",
+            "大変の"
+          ],
+          "question_node_id": 21806744,
+          "question_text": "このアルバイトは【　　　】わりに時給が安い。",
+          "stem": "このアルバイトは【　　　】わりに時給が安い。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "べきだ",
+          "book_id": 1581151,
+          "edge_id": 19070399,
+          "explanation": "",
+          "id": 25009479,
+          "index": 8,
+          "options": [
+            "べきだ",
+            "うえだ",
+            "ほどだ",
+            "ほかだ"
+          ],
+          "question_node_id": 21806737,
+          "question_text": "このぐらいの経済の知識は社会人として知っておく【　　　】。",
+          "stem": "このぐらいの経済の知識は社会人として知っておく【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1581151,
+          "edge_id": 19070398,
+          "explanation": "",
+          "id": 25009480,
+          "index": 9,
+          "options": [
+            "を",
+            "が",
+            "で",
+            "と"
+          ],
+          "question_node_id": 21806739,
+          "question_text": "このケーキは祖母のレシピ【　　　】もとにしています。",
+          "stem": "このケーキは祖母のレシピ【　　　】もとにしています。"
+        }
+      ],
+      "task_id": 112457257,
+      "task_order": 10
+    },
+    {
+      "book_id": 1581152,
+      "book_name": "JLPT N2_11文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "あっての",
+          "book_id": 1581152,
+          "edge_id": 19070408,
+          "explanation": "",
+          "id": 26748463,
+          "index": 0,
+          "options": [
+            "あっての",
+            "にもまして",
+            "のもと",
+            "末の"
+          ],
+          "question_node_id": 21806748,
+          "question_text": "このプロジェクトの成功はヤンさんの協力 【　　　】ものだと言える。",
+          "stem": "このプロジェクトの成功はヤンさんの協力 【　　　】ものだと言える。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "大変",
+          "book_id": 1581152,
+          "edge_id": 19070409,
+          "explanation": "",
+          "id": 26748464,
+          "index": 1,
+          "options": [
+            "大変",
+            "大変だ",
+            "大変な",
+            "大変の"
+          ],
+          "question_node_id": 21806750,
+          "question_text": "このような生活は、老人には【　　　】ではあるまいか。",
+          "stem": "このような生活は、老人には【　　　】ではあるまいか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "高い",
+          "book_id": 1581152,
+          "edge_id": 19070401,
+          "explanation": "",
+          "id": 26748465,
+          "index": 2,
+          "options": [
+            "高い",
+            "高くて",
+            "高いの",
+            "高く"
+          ],
+          "question_node_id": 21806751,
+          "question_text": "このレストランは【　　　】ばかりか、サービスも悪い。",
+          "stem": "このレストランは【　　　】ばかりか、サービスも悪い。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "入れて",
+          "book_id": 1581152,
+          "edge_id": 19070400,
+          "explanation": "",
+          "id": 26748466,
+          "index": 3,
+          "options": [
+            "入れて",
+            "入れる",
+            "入れた",
+            "入れない"
+          ],
+          "question_node_id": 21806754,
+          "question_text": "このロッカーはお金を【　　　】からでないと、鍵を掛けられない。",
+          "stem": "このロッカーはお金を【　　　】からでないと、鍵を掛けられない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "長い",
+          "book_id": 1581152,
+          "edge_id": 19070407,
+          "explanation": "",
+          "id": 26748467,
+          "index": 4,
+          "options": [
+            "長い",
+            "長く",
+            "長くて",
+            "長いの"
+          ],
+          "question_node_id": 21806752,
+          "question_text": "この映画は【　　　】上にストーリーがつまらない。",
+          "stem": "この映画は【　　　】上にストーリーがつまらない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581152,
+          "edge_id": 19070402,
+          "explanation": "",
+          "id": 26748468,
+          "index": 5,
+          "options": [
+            "に",
+            "と",
+            "が",
+            "で"
+          ],
+          "question_node_id": 21806749,
+          "question_text": "この作品 【　　　】限り、写真撮影可能です。",
+          "stem": "この作品 【　　　】限り、写真撮影可能です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "向き",
+          "book_id": 1581152,
+          "edge_id": 19070404,
+          "explanation": "",
+          "id": 26748469,
+          "index": 6,
+          "options": [
+            "向き",
+            "ため",
+            "ながら",
+            "つつ"
+          ],
+          "question_node_id": 21806755,
+          "question_text": "この山は初心者 【　　　】の登りやすい山だと思う。",
+          "stem": "この山は初心者 【　　　】の登りやすい山だと思う。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ほかない",
+          "book_id": 1581152,
+          "edge_id": 19070403,
+          "explanation": "",
+          "id": 26748470,
+          "index": 7,
+          "options": [
+            "ほかない",
+            "ほかだ",
+            "ほかよりだ",
+            "ほどない"
+          ],
+          "question_node_id": 21806753,
+          "question_text": "この時間ではもう電車もないし、お金もないのだから、歩いて帰る【　　　】。",
+          "stem": "この時間ではもう電車もないし、お金もないのだから、歩いて帰る【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ばかりか",
+          "book_id": 1581152,
+          "edge_id": 19070406,
+          "explanation": "",
+          "id": 26748471,
+          "index": 8,
+          "options": [
+            "ばかりか",
+            "だけに",
+            "とたんに",
+            "以来"
+          ],
+          "question_node_id": 21806757,
+          "question_text": "この地図アプリは場所の情報 【　　　】、店や観光の情報も詳しい。",
+          "stem": "この地図アプリは場所の情報 【　　　】、店や観光の情報も詳しい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ことだろう",
+          "book_id": 1581152,
+          "edge_id": 19070405,
+          "explanation": "",
+          "id": 26748472,
+          "index": 9,
+          "options": [
+            "ことだろう",
+            "にほかならない",
+            "わけがない",
+            "ようがない"
+          ],
+          "question_node_id": 21806756,
+          "question_text": "この日が来ることを、どれほど夢に見た【　　　】。",
+          "stem": "この日が来ることを、どれほど夢に見た【　　　】。"
+        }
+      ],
+      "task_id": 112457258,
+      "task_order": 11
+    },
+    {
+      "book_id": 1581153,
+      "book_name": "JLPT N2_12文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を問わず",
+          "book_id": 1581153,
+          "edge_id": 19070419,
+          "explanation": "",
+          "id": 25009491,
+          "index": 0,
+          "options": [
+            "を問わず",
+            "にあたって",
+            "の上で",
+            "限り"
+          ],
+          "question_node_id": 21806764,
+          "question_text": "この服は季節 【　　　】着られるので便利です。",
+          "stem": "この服は季節 【　　　】着られるので便利です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "わからないからに",
+          "book_id": 1581153,
+          "edge_id": 19070415,
+          "explanation": "",
+          "id": 25009492,
+          "index": 1,
+          "options": [
+            "わからないからに",
+            "わからないし",
+            "わからなくて",
+            "わからないので"
+          ],
+          "question_node_id": 21806772,
+          "question_text": "この問題が解決しないのは、原因が【　　　】ほかならない。",
+          "stem": "この問題が解決しないのは、原因が【　　　】ほかならない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ふしぎ",
+          "book_id": 1581153,
+          "edge_id": 19070414,
+          "explanation": "",
+          "id": 25009493,
+          "index": 2,
+          "options": [
+            "ふしぎ",
+            "ふしぎな",
+            "ふしぎの",
+            "ふしぎなの"
+          ],
+          "question_node_id": 21806765,
+          "question_text": "この料理は【　　　】というか、おもしろいというか初めての味だ。",
+          "stem": "この料理は【　　　】というか、おもしろいというか初めての味だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "めぐって",
+          "book_id": 1581153,
+          "edge_id": 19070411,
+          "explanation": "",
+          "id": 25009494,
+          "index": 3,
+          "options": [
+            "めぐって",
+            "ともない",
+            "さいちゅうに",
+            "わたって"
+          ],
+          "question_node_id": 21806759,
+          "question_text": "ゴルフ場建設を【　　　】、激しい議論となっている。",
+          "stem": "ゴルフ場建設を【　　　】、激しい議論となっている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ざるをえない",
+          "book_id": 1581153,
+          "edge_id": 19070410,
+          "explanation": "",
+          "id": 25009495,
+          "index": 4,
+          "options": [
+            "ざるをえない",
+            "ほかはない",
+            "をめぐる",
+            "っきりだ"
+          ],
+          "question_node_id": 21806761,
+          "question_text": "これ以上値引きしないと言われたらあきらめ【　　　】。",
+          "stem": "これ以上値引きしないと言われたらあきらめ【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581153,
+          "edge_id": 19070416,
+          "explanation": "",
+          "id": 25009496,
+          "index": 5,
+          "options": [
+            "に",
+            "の",
+            "と",
+            "で"
+          ],
+          "question_node_id": 21806760,
+          "question_text": "これ【　　　】関しては、来週の会議で話しましょう。",
+          "stem": "これ【　　　】関しては、来週の会議で話しましょう。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "あつかい",
+          "book_id": 1581153,
+          "edge_id": 19070412,
+          "explanation": "",
+          "id": 25009497,
+          "index": 6,
+          "options": [
+            "あつかい",
+            "あつかう",
+            "あつかって",
+            "あつかわ"
+          ],
+          "question_node_id": 21806770,
+          "question_text": "これは専門的な知識が必要なため、私には【　　　】かねます。",
+          "stem": "これは専門的な知識が必要なため、私には【　　　】かねます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "でも",
+          "book_id": 1581153,
+          "edge_id": 19162715,
+          "explanation": "",
+          "id": 25009498,
+          "index": 7,
+          "options": [
+            "でも",
+            "まい",
+            "すえ",
+            "では"
+          ],
+          "question_node_id": 21923639,
+          "question_text": "これはお金を払って【　　　】映画館で見たい映画だ。",
+          "stem": "これはお金を払って【　　　】映画館で見たい映画だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "簡単な",
+          "book_id": 1581153,
+          "edge_id": 19070417,
+          "explanation": "",
+          "id": 25009499,
+          "index": 8,
+          "options": [
+            "簡単な",
+            "簡単",
+            "簡単だ",
+            "簡単じゃ"
+          ],
+          "question_node_id": 21806762,
+          "question_text": "これは練習問題だ。試験がこんなに【　　　】わけがない。",
+          "stem": "これは練習問題だ。試験がこんなに【　　　】わけがない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "幸せな",
+          "book_id": 1581153,
+          "edge_id": 19070418,
+          "explanation": "",
+          "id": 25009500,
+          "index": 9,
+          "options": [
+            "幸せな",
+            "幸せ",
+            "幸せの",
+            "幸せに"
+          ],
+          "question_node_id": 21806763,
+          "question_text": "こんなに早く退院できるなんて【　　　】ことだ。",
+          "stem": "こんなに早く退院できるなんて【　　　】ことだ。"
+        }
+      ],
+      "task_id": 112457259,
+      "task_order": 12
+    },
+    {
+      "book_id": 1581154,
+      "book_name": "JLPT N2_13文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "なりかねない",
+          "book_id": 1581154,
+          "edge_id": 19070420,
+          "explanation": "",
+          "id": 25009501,
+          "index": 0,
+          "options": [
+            "なりかねない",
+            "なりかねる",
+            "なるわけにはいかない",
+            "ならないかのうちだ"
+          ],
+          "question_node_id": 21806774,
+          "question_text": "こんな食事をしていたら病気に【　　　】。",
+          "stem": "こんな食事をしていたら病気に【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "作る",
+          "book_id": 1581154,
+          "edge_id": 19070423,
+          "explanation": "",
+          "id": 25009502,
+          "index": 1,
+          "options": [
+            "作る",
+            "作ろう",
+            "作れば",
+            "作って"
+          ],
+          "question_node_id": 21806778,
+          "question_text": "コンビニのお弁当にしろ、自分で【　　　】にしろ、野菜中心のメニューにしている。",
+          "stem": "コンビニのお弁当にしろ、自分で【　　　】にしろ、野菜中心のメニューにしている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "わけがない",
+          "book_id": 1581154,
+          "edge_id": 19070421,
+          "explanation": "",
+          "id": 25009503,
+          "index": 2,
+          "options": [
+            "わけがない",
+            "ようがない",
+            "にほかならない",
+            "わけではない"
+          ],
+          "question_node_id": 21806780,
+          "question_text": "コンビニのおにぎりは、最初、売れる【　　　】と思われていたが、大ヒット商品になった。",
+          "stem": "コンビニのおにぎりは、最初、売れる【　　　】と思われていたが、大ヒット商品になった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "食べている",
+          "book_id": 1581154,
+          "edge_id": 19070424,
+          "explanation": "",
+          "id": 25009504,
+          "index": 3,
+          "options": [
+            "食べている",
+            "食べながら",
+            "食べる",
+            "食べた"
+          ],
+          "question_node_id": 21806781,
+          "question_text": "ご飯を【　　　】最中に、インターフォンが鳴った。",
+          "stem": "ご飯を【　　　】最中に、インターフォンが鳴った。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "さいちゅうに",
+          "book_id": 1581154,
+          "edge_id": 19070309,
+          "explanation": "",
+          "id": 25009505,
+          "index": 4,
+          "options": [
+            "さいちゅうに",
+            "にもまして",
+            "うえ",
+            "ほど"
+          ],
+          "question_node_id": 21806600,
+          "question_text": "ご飯を食べている【　　　】席を立ってはいけないと祖母に教えられた。",
+          "stem": "ご飯を食べている【　　　】席を立ってはいけないと祖母に教えられた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ことは",
+          "book_id": 1581154,
+          "edge_id": 19162716,
+          "explanation": "",
+          "id": 25009506,
+          "index": 5,
+          "options": [
+            "ことは",
+            "からには",
+            "ものは",
+            "どころか"
+          ],
+          "question_node_id": 21923640,
+          "question_text": "ジャンさんが退職することはわたしも聞いた【　　　】聞いたが、詳しいことは知らない",
+          "stem": "ジャンさんが退職することはわたしも聞いた【　　　】聞いたが、詳しいことは知らない"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を通じて",
+          "book_id": 1581154,
+          "edge_id": 19070429,
+          "explanation": "",
+          "id": 25009507,
+          "index": 6,
+          "options": [
+            "を通じて",
+            "といった",
+            "としたら",
+            "ばかりに"
+          ],
+          "question_node_id": 21806784,
+          "question_text": "スポーツ【　　　】、友達との関係や協力することを学んだ。",
+          "stem": "スポーツ【　　　】、友達との関係や協力することを学んだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に関する",
+          "book_id": 1581154,
+          "edge_id": 19070427,
+          "explanation": "",
+          "id": 25009508,
+          "index": 7,
+          "options": [
+            "に関する",
+            "を通じて",
+            "のことに",
+            "ばかりに"
+          ],
+          "question_node_id": 21806785,
+          "question_text": "セキュリティ【　　　】お問い合わせはこちらまで。",
+          "stem": "セキュリティ【　　　】お問い合わせはこちらまで。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "表し",
+          "book_id": 1581154,
+          "edge_id": 19070425,
+          "explanation": "",
+          "id": 25009509,
+          "index": 8,
+          "options": [
+            "表し",
+            "表す",
+            "表して",
+            "表そう"
+          ],
+          "question_node_id": 21806787,
+          "question_text": "その[景色]は言葉では【　　　】がたい美しさだ。",
+          "stem": "その[景色]は言葉では【　　　】がたい美しさだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おどろいた",
+          "book_id": 1581154,
+          "edge_id": 19070428,
+          "explanation": "",
+          "id": 25009510,
+          "index": 9,
+          "options": [
+            "おどろいた",
+            "おどろき",
+            "おどろいて",
+            "おどろかず"
+          ],
+          "question_node_id": 21806790,
+          "question_text": "そのニュースを聞いて、どれだけ【　　　】ことだろう。",
+          "stem": "そのニュースを聞いて、どれだけ【　　　】ことだろう。"
+        }
+      ],
+      "task_id": 112457260,
+      "task_order": 13
+    },
+    {
+      "book_id": 1581155,
+      "book_name": "JLPT N2_14文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "失い",
+          "book_id": 1581155,
+          "edge_id": 19070431,
+          "explanation": "",
+          "id": 25009511,
+          "index": 0,
+          "options": [
+            "失い",
+            "失う",
+            "失って",
+            "失った"
+          ],
+          "question_node_id": 21806799,
+          "question_text": "そのようなミスは信用を【　　　】かねない。",
+          "stem": "そのようなミスは信用を【　　　】かねない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "言った",
+          "book_id": 1581155,
+          "edge_id": 19070439,
+          "explanation": "",
+          "id": 25009512,
+          "index": 1,
+          "options": [
+            "言った",
+            "言って",
+            "言うの",
+            "言い"
+          ],
+          "question_node_id": 21806792,
+          "question_text": "その子は「知らない」と【　　　】きり、何も話さなかった。",
+          "stem": "その子は「知らない」と【　　　】きり、何も話さなかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "勉強した",
+          "book_id": 1581155,
+          "edge_id": 19070430,
+          "explanation": "",
+          "id": 25009513,
+          "index": 2,
+          "options": [
+            "勉強した",
+            "勉強",
+            "勉強の",
+            "勉強して"
+          ],
+          "question_node_id": 21806794,
+          "question_text": "ちょっと【　　　】ぐらいじゃ、外国語を話せるようにはならない。",
+          "stem": "ちょっと【　　　】ぐらいじゃ、外国語を話せるようにはならない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にもとづいて",
+          "book_id": 1581155,
+          "edge_id": 19070437,
+          "explanation": "",
+          "id": 25009514,
+          "index": 3,
+          "options": [
+            "にもとづいて",
+            "にもまして",
+            "限りの",
+            "をめぐって"
+          ],
+          "question_node_id": 21806800,
+          "question_text": "データ【　　　】今後の計画を立てよう。",
+          "stem": "データ【　　　】今後の計画を立てよう。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581155,
+          "edge_id": 19070434,
+          "explanation": "",
+          "id": 25009515,
+          "index": 4,
+          "options": [
+            "に",
+            "を",
+            "と",
+            "が"
+          ],
+          "question_node_id": 21806797,
+          "question_text": "テーマ【　　　】[沿]った記事を書く。",
+          "stem": "テーマ【　　　】[沿]った記事を書く。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "は",
+          "book_id": 1581155,
+          "edge_id": 19070435,
+          "explanation": "",
+          "id": 25009516,
+          "index": 5,
+          "options": [
+            "は",
+            "に",
+            "を",
+            "で"
+          ],
+          "question_node_id": 21806793,
+          "question_text": "できるかどうか【　　　】ともかくとして、試してみようと思います。",
+          "stem": "できるかどうか【　　　】ともかくとして、試してみようと思います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "言った",
+          "book_id": 1581155,
+          "edge_id": 19162717,
+          "explanation": "",
+          "id": 25009517,
+          "index": 6,
+          "options": [
+            "言った",
+            "言うこと",
+            "言うの",
+            "言って"
+          ],
+          "question_node_id": 21923641,
+          "question_text": "できると【　　　】以上は、最後まで責任をもってやりたい。",
+          "stem": "できると【　　　】以上は、最後まで責任をもってやりたい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "つけよう",
+          "book_id": 1581155,
+          "edge_id": 19070433,
+          "explanation": "",
+          "id": 25009518,
+          "index": 7,
+          "options": [
+            "つけよう",
+            "つける",
+            "つけて",
+            "つけた"
+          ],
+          "question_node_id": 21806798,
+          "question_text": "テストは文句の【　　　】がない点数でした。",
+          "stem": "テストは文句の【　　　】がない点数でした。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "勝つに",
+          "book_id": 1581155,
+          "edge_id": 19070436,
+          "explanation": "",
+          "id": 25009519,
+          "index": 8,
+          "options": [
+            "勝つに",
+            "勝つの",
+            "勝って",
+            "勝つこと"
+          ],
+          "question_node_id": 21806801,
+          "question_text": "テニスなら、彼女が【　　　】決まっている。",
+          "stem": "テニスなら、彼女が【　　　】決まっている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "でならない",
+          "book_id": 1581155,
+          "edge_id": 19070438,
+          "explanation": "",
+          "id": 25009520,
+          "index": 9,
+          "options": [
+            "でならない",
+            "でない",
+            "ではない",
+            "ではならない"
+          ],
+          "question_node_id": 21806803,
+          "question_text": "どうしてこんな無理な計画をたてたのか不思議 【　　　】。",
+          "stem": "どうしてこんな無理な計画をたてたのか不思議 【　　　】。"
+        }
+      ],
+      "task_id": 112457261,
+      "task_order": 14
+    },
+    {
+      "book_id": 1581156,
+      "book_name": "JLPT N2_15文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "する",
+          "book_id": 1581156,
+          "edge_id": 19070442,
+          "explanation": "",
+          "id": 25009521,
+          "index": 0,
+          "options": [
+            "する",
+            "しかた",
+            "せず",
+            "して"
+          ],
+          "question_node_id": 21806812,
+          "question_text": "ともだちにお金を貸したり借りたり【　　　】ものではない。",
+          "stem": "ともだちにお金を貸したり借りたり【　　　】ものではない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "んだろう",
+          "book_id": 1581156,
+          "edge_id": 19070446,
+          "explanation": "",
+          "id": 25009522,
+          "index": 1,
+          "options": [
+            "んだろう",
+            "とは思えない",
+            "かねない",
+            "ところか"
+          ],
+          "question_node_id": 21806811,
+          "question_text": "なんてひどい言い方をする【　　　】。",
+          "stem": "なんてひどい言い方をする【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "する",
+          "book_id": 1581156,
+          "edge_id": 19070445,
+          "explanation": "",
+          "id": 25009523,
+          "index": 2,
+          "options": [
+            "する",
+            "×",
+            "しよう",
+            "するか"
+          ],
+          "question_node_id": 21806805,
+          "question_text": "なんでも早めに準備【　　　】に越したことはない。",
+          "stem": "なんでも早めに準備【　　　】に越したことはない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "食べず",
+          "book_id": 1581156,
+          "edge_id": 19070443,
+          "explanation": "",
+          "id": 25009524,
+          "index": 3,
+          "options": [
+            "食べず",
+            "食べる",
+            "食べて",
+            "食べない"
+          ],
+          "question_node_id": 21806804,
+          "question_text": "パーティでは時間がなくて、何も【　　　】じまいだった。",
+          "stem": "パーティでは時間がなくて、何も【　　　】じまいだった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "末",
+          "book_id": 1581156,
+          "edge_id": 19070444,
+          "explanation": "",
+          "id": 25009525,
+          "index": 4,
+          "options": [
+            "末",
+            "でも",
+            "まい",
+            "では"
+          ],
+          "question_node_id": 21806813,
+          "question_text": "パソコンを買いに行ったが2時間迷った【　　　】、買わずに店を出た。",
+          "stem": "パソコンを買いに行ったが2時間迷った【　　　】、買わずに店を出た。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ともない",
+          "book_id": 1581156,
+          "edge_id": 19070448,
+          "explanation": "",
+          "id": 25009526,
+          "index": 5,
+          "options": [
+            "ともない",
+            "すえ",
+            "りゆうとして",
+            "ため"
+          ],
+          "question_node_id": 21806815,
+          "question_text": "ビルの工事に【　　　】、1階のカフェは閉店しております。",
+          "stem": "ビルの工事に【　　　】、1階のカフェは閉店しております。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "とり",
+          "book_id": 1581156,
+          "edge_id": 19070441,
+          "explanation": "",
+          "id": 25009527,
+          "index": 6,
+          "options": [
+            "とり",
+            "とる",
+            "とって",
+            "とれ"
+          ],
+          "question_node_id": 21806816,
+          "question_text": "メモを【　　　】つつ話を聞いた。",
+          "stem": "メモを【　　　】つつ話を聞いた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "待つ",
+          "book_id": 1581156,
+          "edge_id": 19070440,
+          "explanation": "",
+          "id": 25009528,
+          "index": 7,
+          "options": [
+            "待つ",
+            "待て",
+            "待って",
+            "待ち"
+          ],
+          "question_node_id": 21806807,
+          "question_text": "もう試験は終わった。あとは結果を【　　　】しかない。",
+          "stem": "もう試験は終わった。あとは結果を【　　　】しかない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "な",
+          "book_id": 1581156,
+          "edge_id": 19070447,
+          "explanation": "",
+          "id": 25009529,
+          "index": 8,
+          "options": [
+            "な",
+            "の",
+            "に",
+            "で"
+          ],
+          "question_node_id": 21806808,
+          "question_text": "もう使わないので必要【　　　】だけ、持って行ってください。",
+          "stem": "もう使わないので必要【　　　】だけ、持って行ってください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ぬすまれる",
+          "book_id": 1581156,
+          "edge_id": 19070449,
+          "explanation": "",
+          "id": 25009530,
+          "index": 9,
+          "options": [
+            "ぬすまれる",
+            "ぬすまれ",
+            "ぬすまれた",
+            "ぬすまれそう"
+          ],
+          "question_node_id": 21806814,
+          "question_text": "もう少しで財布を【　　　】ところだった。",
+          "stem": "もう少しで財布を【　　　】ところだった。"
+        }
+      ],
+      "task_id": 112457262,
+      "task_order": 15
+    },
+    {
+      "book_id": 1581157,
+      "book_name": "JLPT N2_16文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "来る",
+          "book_id": 1581157,
+          "edge_id": 19070450,
+          "explanation": "",
+          "id": 25009531,
+          "index": 0,
+          "options": [
+            "来る",
+            "来た",
+            "来ている",
+            "来い"
+          ],
+          "question_node_id": 21806818,
+          "question_text": "もう二度とこんなところに（　　）ものか。",
+          "stem": "もう二度とこんなところに（　　）ものか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "す",
+          "book_id": 1581157,
+          "edge_id": 19070454,
+          "explanation": "",
+          "id": 25009532,
+          "index": 1,
+          "options": [
+            "す",
+            "した",
+            "して",
+            "せ"
+          ],
+          "question_node_id": 21806817,
+          "question_text": "もっとまじめに勉強【　　　】べきだ。",
+          "stem": "もっとまじめに勉強【　　　】べきだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かと思うと",
+          "book_id": 1581157,
+          "edge_id": 19162718,
+          "explanation": "",
+          "id": 25009533,
+          "index": 2,
+          "options": [
+            "かと思うと",
+            "どころか",
+            "かというと",
+            "からには"
+          ],
+          "question_node_id": 21923642,
+          "question_text": "ルームメイトは帰ってきた（　　）、着替えてすぐに出て行った。",
+          "stem": "ルームメイトは帰ってきた（　　）、着替えてすぐに出て行った。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "自然の",
+          "book_id": 1581157,
+          "edge_id": 19070453,
+          "explanation": "",
+          "id": 25009534,
+          "index": 3,
+          "options": [
+            "自然の",
+            "自然が",
+            "自然を",
+            "自然な"
+          ],
+          "question_node_id": 21806825,
+          "question_text": "わたしは豊かな【　　　】もとで自由に育ちました。",
+          "stem": "わたしは豊かな【　　　】もとで自由に育ちました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "入って",
+          "book_id": 1581157,
+          "edge_id": 19070452,
+          "explanation": "",
+          "id": 25009535,
+          "index": 4,
+          "options": [
+            "入って",
+            "入った",
+            "入り",
+            "入る"
+          ],
+          "question_node_id": 21806822,
+          "question_text": "わたしはこの会社に【　　　】以来、ずっと同じ部署で働いている。",
+          "stem": "わたしはこの会社に【　　　】以来、ずっと同じ部署で働いている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "のあまり",
+          "book_id": 1581157,
+          "edge_id": 19070458,
+          "explanation": "",
+          "id": 25009536,
+          "index": 5,
+          "options": [
+            "のあまり",
+            "にもまして",
+            "にもとづいて",
+            "のもと"
+          ],
+          "question_node_id": 21806827,
+          "question_text": "一人暮らしで寂しさ【　　　】犬のロボットを買った。",
+          "stem": "一人暮らしで寂しさ【　　　】犬のロボットを買った。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "まもる",
+          "book_id": 1581157,
+          "edge_id": 19070455,
+          "explanation": "",
+          "id": 25009537,
+          "index": 6,
+          "options": [
+            "まもる",
+            "まもり",
+            "まもって",
+            "まもるの"
+          ],
+          "question_node_id": 21806828,
+          "question_text": "一度した約束は【　　　】ものだ。",
+          "stem": "一度した約束は【　　　】ものだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581157,
+          "edge_id": 19070459,
+          "explanation": "",
+          "id": 25009538,
+          "index": 7,
+          "options": [
+            "に",
+            "が",
+            "で",
+            "の"
+          ],
+          "question_node_id": 21806824,
+          "question_text": "引っ越し【　　　】際して、古い洗濯機を捨てた。",
+          "stem": "引っ越し【　　　】際して、古い洗濯機を捨てた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "休もう",
+          "book_id": 1581157,
+          "edge_id": 19070456,
+          "explanation": "",
+          "id": 25009539,
+          "index": 8,
+          "options": [
+            "休もう",
+            "休んで",
+            "休む",
+            "休み"
+          ],
+          "question_node_id": 21806823,
+          "question_text": "飲み会を【　　　】ものなら、あとでずっと文句を言われる。",
+          "stem": "飲み会を【　　　】ものなら、あとでずっと文句を言われる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "降らない",
+          "book_id": 1581157,
+          "edge_id": 19070457,
+          "explanation": "",
+          "id": 25009540,
+          "index": 9,
+          "options": [
+            "降らない",
+            "降り",
+            "降って",
+            "降らなかった"
+          ],
+          "question_node_id": 21806829,
+          "question_text": "雨が【　　　】限り、イベントを行います。",
+          "stem": "雨が【　　　】限り、イベントを行います。"
+        }
+      ],
+      "task_id": 112457263,
+      "task_order": 16
+    },
+    {
+      "book_id": 1581158,
+      "book_name": "JLPT N2_17文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "着き",
+          "book_id": 1581158,
+          "edge_id": 19162723,
+          "explanation": "",
+          "id": 25009541,
+          "index": 0,
+          "options": [
+            "着き",
+            "着く",
+            "着け",
+            "着いて"
+          ],
+          "question_node_id": 21923643,
+          "question_text": "駅に【　　　】次第、連絡します。",
+          "stem": "駅に【　　　】次第、連絡します。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "×",
+          "book_id": 1581158,
+          "edge_id": 19162719,
+          "explanation": "",
+          "id": 25009542,
+          "index": 1,
+          "options": [
+            "×",
+            "な",
+            "で",
+            "に"
+          ],
+          "question_node_id": 21923645,
+          "question_text": "何の連絡もなく、急に人を訪ねるのは迷惑【　　　】というものだ。",
+          "stem": "何の連絡もなく、急に人を訪ねるのは迷惑【　　　】というものだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ある",
+          "book_id": 1581158,
+          "edge_id": 19162722,
+          "explanation": "",
+          "id": 25009543,
+          "index": 2,
+          "options": [
+            "ある",
+            "あり",
+            "あって",
+            "あった"
+          ],
+          "question_node_id": 21923644,
+          "question_text": "家に【　　　】限りの、新聞紙を集めた。",
+          "stem": "家に【　　　】限りの、新聞紙を集めた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "となると",
+          "book_id": 1581158,
+          "edge_id": 19162720,
+          "explanation": "",
+          "id": 25009544,
+          "index": 3,
+          "options": [
+            "となると",
+            "次第で",
+            "にかけては",
+            "からいえば"
+          ],
+          "question_node_id": 21923649,
+          "question_text": "家族で住む【　　　】もっと広い家に引っ越さなければならない。",
+          "stem": "家族で住む【　　　】もっと広い家に引っ越さなければならない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "歩いた",
+          "book_id": 1581158,
+          "edge_id": 19162721,
+          "explanation": "",
+          "id": 25009545,
+          "index": 4,
+          "options": [
+            "歩いた",
+            "歩く",
+            "歩いて",
+            "歩き"
+          ],
+          "question_node_id": 21923646,
+          "question_text": "学生のころ、よくこの道を【　　　】ものだ。",
+          "stem": "学生のころ、よくこの道を【　　　】ものだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かけた",
+          "book_id": 1581158,
+          "edge_id": 19162724,
+          "explanation": "",
+          "id": 25009546,
+          "index": 5,
+          "options": [
+            "かけた",
+            "っきりの",
+            "にともない",
+            "うえの"
+          ],
+          "question_node_id": 21923650,
+          "question_text": "帰ろうと思って荷物をしまい【　　　】とき、上司に仕事を頼まれた。",
+          "stem": "帰ろうと思って荷物をしまい【　　　】とき、上司に仕事を頼まれた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にもまして",
+          "book_id": 1581158,
+          "edge_id": 19162728,
+          "explanation": "",
+          "id": 25009547,
+          "index": 6,
+          "options": [
+            "にもまして",
+            "に基づいて",
+            "末の",
+            "のもと"
+          ],
+          "question_node_id": 21923651,
+          "question_text": "久しぶりに会った友人は以前 【　　　】いきいきとしていた。",
+          "stem": "久しぶりに会った友人は以前 【　　　】いきいきとしていた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "やめたくて",
+          "book_id": 1581158,
+          "edge_id": 19162727,
+          "explanation": "",
+          "id": 25009548,
+          "index": 7,
+          "options": [
+            "やめたくて",
+            "やめようと",
+            "やめても",
+            "やめそうに"
+          ],
+          "question_node_id": 21923652,
+          "question_text": "去年から、仕事を【　　　】しょうがない。",
+          "stem": "去年から、仕事を【　　　】しょうがない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581158,
+          "edge_id": 19162725,
+          "explanation": "",
+          "id": 25009549,
+          "index": 8,
+          "options": [
+            "に",
+            "を",
+            "が",
+            "で"
+          ],
+          "question_node_id": 21923655,
+          "question_text": "九州の広い範囲 【　　　】わたって雨が降った。",
+          "stem": "九州の広い範囲 【　　　】わたって雨が降った。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "光った",
+          "book_id": 1581158,
+          "edge_id": 19162726,
+          "explanation": "",
+          "id": 25009550,
+          "index": 9,
+          "options": [
+            "光った",
+            "光る",
+            "光ろう",
+            "光って"
+          ],
+          "question_node_id": 21923654,
+          "question_text": "空が【　　　】かと思うと、大きな雷の音が鳴った。",
+          "stem": "空が【　　　】かと思うと、大きな雷の音が鳴った。"
+        }
+      ],
+      "task_id": 112457264,
+      "task_order": 17
+    },
+    {
+      "book_id": 1581159,
+      "book_name": "JLPT N2_18文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581159,
+          "edge_id": 19162730,
+          "explanation": "",
+          "id": 25009551,
+          "index": 0,
+          "options": [
+            "に",
+            "×",
+            "の",
+            "で"
+          ],
+          "question_node_id": 21923661,
+          "question_text": "工事中【　　　】つき、この先、通れません。",
+          "stem": "工事中【　　　】つき、この先、通れません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ほど",
+          "book_id": 1581159,
+          "edge_id": 19162735,
+          "explanation": "",
+          "id": 25009552,
+          "index": 1,
+          "options": [
+            "ほど",
+            "うえ",
+            "ほか",
+            "しか"
+          ],
+          "question_node_id": 21923658,
+          "question_text": "行きたくない飲み会に参加すること【　　　】つまらないものはない。",
+          "stem": "行きたくない飲み会に参加すること【　　　】つまらないものはない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "からいえば",
+          "book_id": 1581159,
+          "edge_id": 19162731,
+          "explanation": "",
+          "id": 25009553,
+          "index": 2,
+          "options": [
+            "からいえば",
+            "次第では",
+            "にわたって",
+            "ばかりに"
+          ],
+          "question_node_id": 21923660,
+          "question_text": "今の給料 【　　　】、この部屋を借りることは難しい。",
+          "stem": "今の給料 【　　　】、この部屋を借りることは難しい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "自由",
+          "book_id": 1581159,
+          "edge_id": 19162734,
+          "explanation": "",
+          "id": 25009554,
+          "index": 3,
+          "options": [
+            "自由",
+            "自由だけど",
+            "自由に",
+            "自由の"
+          ],
+          "question_node_id": 21923664,
+          "question_text": "今の生活は【　　　】と言えば自由だけど、暇すぎてつまらないです。",
+          "stem": "今の生活は【　　　】と言えば自由だけど、暇すぎてつまらないです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "つつ",
+          "book_id": 1581159,
+          "edge_id": 19162729,
+          "explanation": "",
+          "id": 25009555,
+          "index": 4,
+          "options": [
+            "つつ",
+            "次第",
+            "ぬき",
+            "となると"
+          ],
+          "question_node_id": 21923663,
+          "question_text": "今はいろいろな意見を聞き【　　　】、進路を考えている。",
+          "stem": "今はいろいろな意見を聞き【　　　】、進路を考えている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "しらべた",
+          "book_id": 1581159,
+          "edge_id": 19162736,
+          "explanation": "",
+          "id": 25009556,
+          "index": 5,
+          "options": [
+            "しらべた",
+            "しらべ",
+            "しらべて",
+            "しらべれば"
+          ],
+          "question_node_id": 21923665,
+          "question_text": "今回【　　　】限りでは、間違いはなかった。",
+          "stem": "今回【　　　】限りでは、間違いはなかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "出かけよう",
+          "book_id": 1581159,
+          "edge_id": 19162733,
+          "explanation": "",
+          "id": 25009557,
+          "index": 6,
+          "options": [
+            "出かけよう",
+            "出かける",
+            "出かけたい",
+            "出かけろ"
+          ],
+          "question_node_id": 21923662,
+          "question_text": "今朝地震があったとき、私はちょうど【　　　】としていた。",
+          "stem": "今朝地震があったとき、私はちょうど【　　　】としていた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "もと",
+          "book_id": 1581159,
+          "edge_id": 19162738,
+          "explanation": "",
+          "id": 25009558,
+          "index": 7,
+          "options": [
+            "もと",
+            "すえ",
+            "うえ",
+            "あまり"
+          ],
+          "question_node_id": 21923666,
+          "question_text": "山田先生の【　　　】で勉強ができたことは幸せでした。",
+          "stem": "山田先生の【　　　】で勉強ができたことは幸せでした。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "うえで",
+          "book_id": 1581159,
+          "edge_id": 19162737,
+          "explanation": "",
+          "id": 25009559,
+          "index": 8,
+          "options": [
+            "うえで",
+            "もとに",
+            "ところを",
+            "ばかりに"
+          ],
+          "question_node_id": 21923669,
+          "question_text": "仕事の報告をする【　　　】大切なのは、早く正確に伝えることだ。",
+          "stem": "仕事の報告をする【　　　】大切なのは、早く正確に伝えることだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "なってほしい",
+          "book_id": 1581159,
+          "edge_id": 19162732,
+          "explanation": "",
+          "id": 25009560,
+          "index": 9,
+          "options": [
+            "なってほしい",
+            "なる",
+            "なって",
+            "なりたい"
+          ],
+          "question_node_id": 21923667,
+          "question_text": "子どもには幸せに【　　　】ものだ。",
+          "stem": "子どもには幸せに【　　　】ものだ。"
+        }
+      ],
+      "task_id": 112457265,
+      "task_order": 18
+    },
+    {
+      "book_id": 1581160,
+      "book_name": "JLPT N2_19文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "×",
+          "book_id": 1581160,
+          "edge_id": 19570898,
+          "explanation": "",
+          "id": 25338713,
+          "index": 0,
+          "options": [
+            "に",
+            "しか",
+            "×"
+          ],
+          "question_node_id": 21923670,
+          "question_text": "子どもの問題は学校【　　　】のみならず、家庭でも取り組む問題だ。",
+          "stem": "子どもの問題は学校【　　　】のみならず、家庭でも取り組む問題だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ころ",
+          "book_id": 1581160,
+          "edge_id": 19162741,
+          "explanation": "",
+          "id": 25338714,
+          "index": 1,
+          "options": [
+            "ころ",
+            "ころの",
+            "ころに",
+            "ころで"
+          ],
+          "question_node_id": 21923671,
+          "question_text": "私が子どもの【　　　】なんて、ゲームも漫画も買ってもらえなかった。",
+          "stem": "私が子どもの【　　　】なんて、ゲームも漫画も買ってもらえなかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "休んで",
+          "book_id": 1581160,
+          "edge_id": 19162739,
+          "explanation": "",
+          "id": 25338715,
+          "index": 2,
+          "options": [
+            "休んで",
+            "休む",
+            "休んだ",
+            "休み"
+          ],
+          "question_node_id": 21923673,
+          "question_text": "私が病気のとき、彼は会社を【　　　】まで看病してくれた。",
+          "stem": "私が病気のとき、彼は会社を【　　　】まで看病してくれた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "したに",
+          "book_id": 1581160,
+          "edge_id": 19162742,
+          "explanation": "",
+          "id": 25338716,
+          "index": 3,
+          "options": [
+            "したに",
+            "した",
+            "したの",
+            "したので"
+          ],
+          "question_node_id": 21923678,
+          "question_text": "私は少しお手伝い【　　　】すぎません。",
+          "stem": "私は少しお手伝い【　　　】すぎません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581160,
+          "edge_id": 19162747,
+          "explanation": "",
+          "id": 25338717,
+          "index": 4,
+          "options": [
+            "に",
+            "が",
+            "で",
+            "を"
+          ],
+          "question_node_id": 21923672,
+          "question_text": "社員旅行の費用は、参加する、しない【　　　】かかわらず払ってください。",
+          "stem": "社員旅行の費用は、参加する、しない【　　　】かかわらず払ってください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "うれしさ",
+          "book_id": 1581160,
+          "edge_id": 19162748,
+          "explanation": "",
+          "id": 25338718,
+          "index": 5,
+          "options": [
+            "うれしさ",
+            "うれしい",
+            "うれしかった",
+            "うれし"
+          ],
+          "question_node_id": 21923674,
+          "question_text": "初めてペットを飼ったときの（　　）と言ったら、今でも[忘]れられない。",
+          "stem": "初めてペットを飼ったときの（　　）と言ったら、今でも[忘]れられない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "次第で",
+          "book_id": 1581160,
+          "edge_id": 19162740,
+          "explanation": "",
+          "id": 25338719,
+          "index": 6,
+          "options": [
+            "次第で",
+            "となると",
+            "にわたって",
+            "にもかかわらず"
+          ],
+          "question_node_id": 21923679,
+          "question_text": "乗り方【　　　】自転車はとても危ない乗り物になる。",
+          "stem": "乗り方【　　　】自転車はとても危ない乗り物になる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "考えた",
+          "book_id": 1581160,
+          "edge_id": 19162744,
+          "explanation": "",
+          "id": 25338720,
+          "index": 7,
+          "options": [
+            "考えた",
+            "考える",
+            "考え",
+            "考えの"
+          ],
+          "question_node_id": 21923681,
+          "question_text": "色々と【　　　】末、留学することに決めた。",
+          "stem": "色々と【　　　】末、留学することに決めた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "こともない",
+          "book_id": 1581160,
+          "edge_id": 19162745,
+          "explanation": "",
+          "id": 25338721,
+          "index": 8,
+          "options": [
+            "こともない",
+            "にもかかわらない",
+            "となる",
+            "ことはともかく"
+          ],
+          "question_node_id": 21923680,
+          "question_text": "食事は自分で作らない【　　　】けど、たいてい外食だ。",
+          "stem": "食事は自分で作らない【　　　】けど、たいてい外食だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にかけては",
+          "book_id": 1581160,
+          "edge_id": 19162746,
+          "explanation": "",
+          "id": 25338722,
+          "index": 9,
+          "options": [
+            "にかけては",
+            "にわたって",
+            "にもかかわらず",
+            "次第で"
+          ],
+          "question_node_id": 21923676,
+          "question_text": "新しいアイディアを思いつくこと【　　　】山口さん以上の人はいない。",
+          "stem": "新しいアイディアを思いつくこと【　　　】山口さん以上の人はいない。"
+        }
+      ],
+      "task_id": 112457266,
+      "task_order": 19
+    },
+    {
+      "book_id": 1581161,
+      "book_name": "JLPT N2_20文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "きった",
+          "book_id": 1581161,
+          "edge_id": 19162749,
+          "explanation": "",
+          "id": 25009571,
+          "index": 0,
+          "options": [
+            "きった",
+            "きりがない",
+            "きれない",
+            "きらない"
+          ],
+          "question_node_id": 21923695,
+          "question_text": "親に頼り【　　　】生活をしていたので、一人の生活は大変なことが多い。",
+          "stem": "親に頼り【　　　】生活をしていたので、一人の生活は大変なことが多い。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "見た",
+          "book_id": 1581161,
+          "edge_id": 19162754,
+          "explanation": "",
+          "id": 25009572,
+          "index": 1,
+          "options": [
+            "見た",
+            "見る",
+            "見て",
+            "見よう"
+          ],
+          "question_node_id": 21923685,
+          "question_text": "親の顔を【　　　】とたん、子どもは安心して泣き出した。",
+          "stem": "親の顔を【　　　】とたん、子どもは安心して泣き出した。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "心配し",
+          "book_id": 1581161,
+          "edge_id": 19162750,
+          "explanation": "",
+          "id": 25009573,
+          "index": 2,
+          "options": [
+            "心配し",
+            "心配する",
+            "心配",
+            "心配して"
+          ],
+          "question_node_id": 21923687,
+          "question_text": "親は【　　　】つつも、留学を許してくれた。",
+          "stem": "親は【　　　】つつも、留学を許してくれた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "心配する",
+          "book_id": 1581161,
+          "edge_id": 19162753,
+          "explanation": "",
+          "id": 25009574,
+          "index": 3,
+          "options": [
+            "心配する",
+            "心配の",
+            "心配して"
+          ],
+          "question_node_id": 21923692,
+          "question_text": "親は子どもを【　　　】ものだ。",
+          "stem": "親は子どもを【　　　】ものだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ことだ",
+          "book_id": 1581161,
+          "edge_id": 19162755,
+          "explanation": "",
+          "id": 25009575,
+          "index": 4,
+          "options": [
+            "ことだ",
+            "かねない",
+            "関する",
+            "しょうがない"
+          ],
+          "question_node_id": 21923683,
+          "question_text": "人の悪口は言わない【　　　】。",
+          "stem": "人の悪口は言わない【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "言う",
+          "book_id": 1581161,
+          "edge_id": 19162758,
+          "explanation": "",
+          "id": 25009576,
+          "index": 5,
+          "options": [
+            "言う",
+            "言おう",
+            "言い",
+            "言わず"
+          ],
+          "question_node_id": 21923684,
+          "question_text": "人を傷つけることだけは【　　　】まいといつも思っている。",
+          "stem": "人を傷つけることだけは【　　　】まいといつも思っている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "すまい",
+          "book_id": 1581161,
+          "edge_id": 19162751,
+          "explanation": "",
+          "id": 25009577,
+          "index": 6,
+          "options": [
+            "すまい",
+            "してでも",
+            "あっても",
+            "せまい"
+          ],
+          "question_node_id": 21923686,
+          "question_text": "先月は忙しくて体調を崩してしまった。もう無理は【　　　】と思った。",
+          "stem": "先月は忙しくて体調を崩してしまった。もう無理は【　　　】と思った。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "出そうにも",
+          "book_id": 1581161,
+          "edge_id": 19162756,
+          "explanation": "",
+          "id": 25009578,
+          "index": 7,
+          "options": [
+            "出そうにも",
+            "出そうと",
+            "出したくて",
+            "出しても"
+          ],
+          "question_node_id": 21923688,
+          "question_text": "相手の名刺をなくしてしまって、名前を思い【　　　】思い出せない。",
+          "stem": "相手の名刺をなくしてしまって、名前を思い【　　　】思い出せない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "手伝う",
+          "book_id": 1581161,
+          "edge_id": 19162757,
+          "explanation": "",
+          "id": 25009579,
+          "index": 8,
+          "options": [
+            "手伝う",
+            "手伝いの",
+            "手伝って",
+            "手伝うか"
+          ],
+          "question_node_id": 21923698,
+          "question_text": "他の人の仕事を【　　　】どころか自分の仕事も終わらないよ。",
+          "stem": "他の人の仕事を【　　　】どころか自分の仕事も終わらないよ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "まで",
+          "book_id": 1581161,
+          "edge_id": 19162752,
+          "explanation": "",
+          "id": 25009580,
+          "index": 9,
+          "options": [
+            "まで",
+            "まい",
+            "すえ",
+            "では"
+          ],
+          "question_node_id": 21923693,
+          "question_text": "体を壊して【　　　】やる意味がある仕事はない。",
+          "stem": "体を壊して【　　　】やる意味がある仕事はない。"
+        }
+      ],
+      "task_id": 112457267,
+      "task_order": 20
+    },
+    {
+      "book_id": 1581162,
+      "book_name": "JLPT N2_21文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "止めようがなかった",
+          "book_id": 1581162,
+          "edge_id": 19162759,
+          "explanation": "",
+          "id": 25009581,
+          "index": 0,
+          "options": [
+            "止めようがなかった",
+            "止めようとした",
+            "止めたことか",
+            "止めたわけがない"
+          ],
+          "question_node_id": 21923700,
+          "question_text": "台風だったが、友人はコンサートに絶対に行くと言って、【　　　】。",
+          "stem": "台風だったが、友人はコンサートに絶対に行くと言って、【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "わすれた",
+          "book_id": 1581162,
+          "edge_id": 19162760,
+          "explanation": "",
+          "id": 25009582,
+          "index": 1,
+          "options": [
+            "わすれた",
+            "わすれる",
+            "わすれ",
+            "わすれて"
+          ],
+          "question_node_id": 21923702,
+          "question_text": "田中さんは、会議に誰も来ていないと怒っているが、自分がキャンセルしたことを【　　　】とみえる。",
+          "stem": "田中さんは、会議に誰も来ていないと怒っているが、自分がキャンセルしたことを【　　　】とみえる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にかぎらず",
+          "book_id": 1581162,
+          "edge_id": 19162762,
+          "explanation": "",
+          "id": 25009583,
+          "index": 2,
+          "options": [
+            "にかぎらず",
+            "として",
+            "なんて",
+            "によっては"
+          ],
+          "question_node_id": 21923701,
+          "question_text": "電車【　　　】乗り物は何でも好きだ。",
+          "stem": "電車【　　　】乗り物は何でも好きだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "買った",
+          "book_id": 1581162,
+          "edge_id": 19162761,
+          "explanation": "",
+          "id": 25009584,
+          "index": 3,
+          "options": [
+            "買った",
+            "買い",
+            "買って",
+            "買うの"
+          ],
+          "question_node_id": 21923705,
+          "question_text": "土地を【　　　】といっても、だれも欲しがらないような田舎の土地だ。",
+          "stem": "土地を【　　　】といっても、だれも欲しがらないような田舎の土地だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "代わりに",
+          "book_id": 1581162,
+          "edge_id": 19162767,
+          "explanation": "",
+          "id": 25009585,
+          "index": 4,
+          "options": [
+            "代わりに",
+            "からでないと",
+            "ばかりに",
+            "によっては"
+          ],
+          "question_node_id": 21923711,
+          "question_text": "土曜日に仕事をする【　　　】、月曜日を休みにしてほしい。",
+          "stem": "土曜日に仕事をする【　　　】、月曜日を休みにしてほしい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かならないか",
+          "book_id": 1581162,
+          "edge_id": 19162763,
+          "explanation": "",
+          "id": 25009586,
+          "index": 5,
+          "options": [
+            "かならないか",
+            "次第",
+            "ともいえない",
+            "とはいえ"
+          ],
+          "question_node_id": 21923713,
+          "question_text": "東の空が明るくなった【　　　】のうちに、朝のジョギングに出かける。",
+          "stem": "東の空が明るくなった【　　　】のうちに、朝のジョギングに出かける。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ある",
+          "book_id": 1581162,
+          "edge_id": 19162768,
+          "explanation": "",
+          "id": 25009587,
+          "index": 6,
+          "options": [
+            "ある",
+            "ない",
+            "あり",
+            "なし"
+          ],
+          "question_node_id": 21923709,
+          "question_text": "二度も間違えることは【　　　】まい。",
+          "stem": "二度も間違えることは【　　　】まい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "というと",
+          "book_id": 1581162,
+          "edge_id": 19162764,
+          "explanation": "",
+          "id": 25009588,
+          "index": 7,
+          "options": [
+            "というと",
+            "とする",
+            "という",
+            "といって"
+          ],
+          "question_node_id": 21923712,
+          "question_text": "日本【　　　】桜のイメージだ。",
+          "stem": "日本【　　　】桜のイメージだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "来て",
+          "book_id": 1581162,
+          "edge_id": 19162766,
+          "explanation": "",
+          "id": 25009589,
+          "index": 8,
+          "options": [
+            "来て",
+            "来る",
+            "来た",
+            "来ない"
+          ],
+          "question_node_id": 21923714,
+          "question_text": "日本に【　　　】以来、一度も自分で料理をしていない。",
+          "stem": "日本に【　　　】以来、一度も自分で料理をしていない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "以上は",
+          "book_id": 1581162,
+          "edge_id": 19162765,
+          "explanation": "",
+          "id": 25009590,
+          "index": 9,
+          "options": [
+            "以上は",
+            "反面",
+            "というか",
+            "つつ"
+          ],
+          "question_node_id": 21923715,
+          "question_text": "日本に住む【　　　】、地震について知っておいたほうがいい。",
+          "stem": "日本に住む【　　　】、地震について知っておいたほうがいい。"
+        }
+      ],
+      "task_id": 112457268,
+      "task_order": 21
+    },
+    {
+      "book_id": 1581163,
+      "book_name": "JLPT N2_22文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "とる",
+          "book_id": 1581163,
+          "edge_id": 19162771,
+          "explanation": "",
+          "id": 26748473,
+          "index": 0,
+          "options": [
+            "とる",
+            "とり",
+            "とった",
+            "とれ"
+          ],
+          "question_node_id": 21923716,
+          "question_text": "年を【　　　】につれて　１年が短く感じる。",
+          "stem": "年を【　　　】につれて　１年が短く感じる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "きり",
+          "book_id": 1581163,
+          "edge_id": 19162770,
+          "explanation": "",
+          "id": 26748474,
+          "index": 1,
+          "options": [
+            "きり",
+            "たった",
+            "しか",
+            "つつ"
+          ],
+          "question_node_id": 21923721,
+          "question_text": "彼が会議で発言したのはそのとき1回【　　　】だった。",
+          "stem": "彼が会議で発言したのはそのとき1回【　　　】だった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "来ない",
+          "book_id": 1581163,
+          "edge_id": 19162777,
+          "explanation": "",
+          "id": 26748475,
+          "index": 2,
+          "options": [
+            "来ない",
+            "来よう",
+            "来て",
+            "来ず"
+          ],
+          "question_node_id": 21923718,
+          "question_text": "彼が【　　　】ことには、会議を始められない。",
+          "stem": "彼が【　　　】ことには、会議を始められない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "起こす",
+          "book_id": 1581163,
+          "edge_id": 19162773,
+          "explanation": "",
+          "id": 26748476,
+          "index": 3,
+          "options": [
+            "起こす",
+            "起こし",
+            "起こして",
+            "起こそう"
+          ],
+          "question_node_id": 21923723,
+          "question_text": "彼の運転は[事故]を【　　　】おそれがある。",
+          "stem": "彼の運転は[事故]を【　　　】おそれがある。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581163,
+          "edge_id": 19162769,
+          "explanation": "",
+          "id": 26748477,
+          "index": 4,
+          "options": [
+            "に",
+            "を",
+            "の",
+            "で"
+          ],
+          "question_node_id": 21923726,
+          "question_text": "彼は観客の拍手 【　　　】応えて、手を振った。",
+          "stem": "彼は観客の拍手 【　　　】応えて、手を振った。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ばかりに",
+          "book_id": 1581163,
+          "edge_id": 20246760,
+          "explanation": "",
+          "id": 26748478,
+          "index": 5,
+          "options": [
+            "ばかりに",
+            "とすれば",
+            "を通して",
+            "こと"
+          ],
+          "question_node_id": 23318785,
+          "question_text": "彼は恋人と一緒にいたい【　　　】、海外での仕事を辞めて帰国した。",
+          "stem": "彼は恋人と一緒にいたい【　　　】、海外での仕事を辞めて帰国した。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "知り",
+          "book_id": 1581163,
+          "edge_id": 19162778,
+          "explanation": "",
+          "id": 26748479,
+          "index": 6,
+          "options": [
+            "知り",
+            "知る",
+            "知って",
+            "知ってい"
+          ],
+          "question_node_id": 21923717,
+          "question_text": "彼はそんなことを【　　　】得ないはずだ。",
+          "stem": "彼はそんなことを【　　　】得ないはずだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581163,
+          "edge_id": 19162775,
+          "explanation": "",
+          "id": 26748480,
+          "index": 7,
+          "options": [
+            "に",
+            "と",
+            "を",
+            "の"
+          ],
+          "question_node_id": 21923719,
+          "question_text": "彼はチーム【　　　】とって非常に価値がある選手だ。",
+          "stem": "彼はチーム【　　　】とって非常に価値がある選手だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "にちがいない",
+          "book_id": 1581163,
+          "edge_id": 19162774,
+          "explanation": "",
+          "id": 26748481,
+          "index": 8,
+          "options": [
+            "にちがいない",
+            "向きだ",
+            "ようがない",
+            "あげくだ"
+          ],
+          "question_node_id": 21923727,
+          "question_text": "彼はとても緊張していた。今まで人前でスピーチをしたことがない【　　　】。",
+          "stem": "彼はとても緊張していた。今まで人前でスピーチをしたことがない【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "言いたげ",
+          "book_id": 1581163,
+          "edge_id": 19162776,
+          "explanation": "",
+          "id": 26748482,
+          "index": 9,
+          "options": [
+            "言いたげ",
+            "言ったとたん",
+            "言いえる",
+            "言うこと"
+          ],
+          "question_node_id": 21923724,
+          "question_text": "彼は何か【　　　】だったが、黙っていた。",
+          "stem": "彼は何か【　　　】だったが、黙っていた。"
+        }
+      ],
+      "task_id": 112457269,
+      "task_order": 22
+    },
+    {
+      "book_id": 1581164,
+      "book_name": "JLPT N2_23文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "のことと",
+          "book_id": 1581164,
+          "edge_id": 19162779,
+          "explanation": "",
+          "id": 26748585,
+          "index": 0,
+          "options": [
+            "のことと",
+            "のことは",
+            "のことが",
+            "のことで"
+          ],
+          "question_node_id": 21923728,
+          "question_text": "彼は子ども【　　　】なると、いくらでもお金を出そうとする。",
+          "stem": "彼は子ども【　　　】なると、いくらでもお金を出そうとする。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1581164,
+          "edge_id": 19162780,
+          "explanation": "",
+          "id": 26748586,
+          "index": 1,
+          "options": [
+            "に",
+            "の",
+            "が",
+            "で"
+          ],
+          "question_node_id": 21923736,
+          "question_text": "彼は自分【　　　】対する反対意見を完全に無視した。",
+          "stem": "彼は自分【　　　】対する反対意見を完全に無視した。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "話しているの",
+          "book_id": 1581164,
+          "edge_id": 19162781,
+          "explanation": "",
+          "id": 26748587,
+          "index": 2,
+          "options": [
+            "話しているの",
+            "話しそう",
+            "話そう",
+            "話して"
+          ],
+          "question_node_id": 21923738,
+          "question_text": "彼は他の人が【　　　】も構わず、自分の話を始めた。",
+          "stem": "彼は他の人が【　　　】も構わず、自分の話を始めた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "くやしくて",
+          "book_id": 1581164,
+          "edge_id": 19162787,
+          "explanation": "",
+          "id": 26748588,
+          "index": 3,
+          "options": [
+            "くやしくて",
+            "くやしい",
+            "くやしいの",
+            "くやしさ"
+          ],
+          "question_node_id": 21923729,
+          "question_text": "彼女に嘘をつかれて【　　　】しかたがない。",
+          "stem": "彼女に嘘をつかれて【　　　】しかたがない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "泣かない",
+          "book_id": 1581164,
+          "edge_id": 19162784,
+          "explanation": "",
+          "id": 26748589,
+          "index": 4,
+          "options": [
+            "泣かない",
+            "泣く",
+            "泣かず",
+            "泣き"
+          ],
+          "question_node_id": 21923732,
+          "question_text": "彼女の話を聞いて【　　　】ではいられなかった。",
+          "stem": "彼女の話を聞いて【　　　】ではいられなかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "はじめて",
+          "book_id": 1581164,
+          "edge_id": 19162782,
+          "explanation": "",
+          "id": 26748590,
+          "index": 5,
+          "options": [
+            "はじめて",
+            "限り",
+            "反面",
+            "あたり"
+          ],
+          "question_node_id": 21923731,
+          "question_text": "病気になって【　　　】健康の大切さがわかる。",
+          "stem": "病気になって【　　　】健康の大切さがわかる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "といった",
+          "book_id": 1581164,
+          "edge_id": 20246866,
+          "explanation": "",
+          "id": 26748591,
+          "index": 6,
+          "options": [
+            "といった",
+            "としたら",
+            "を通じて",
+            "ばかりに"
+          ],
+          "question_node_id": 23319073,
+          "question_text": "サッカーやバスケットボール【　　　】チームスポーツが好きです。",
+          "stem": "サッカーやバスケットボール【　　　】チームスポーツが好きです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "っきり",
+          "book_id": 1581164,
+          "edge_id": 19162783,
+          "explanation": "",
+          "id": 26748592,
+          "index": 7,
+          "options": [
+            "っきり",
+            "にともない",
+            "にもまして",
+            "つつ"
+          ],
+          "question_node_id": 21923734,
+          "question_text": "父は休みの日は座った【　　　】、テレビの前から動かない。",
+          "stem": "父は休みの日は座った【　　　】、テレビの前から動かない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "よぶ",
+          "book_id": 1581164,
+          "edge_id": 19162785,
+          "explanation": "",
+          "id": 26748593,
+          "index": 8,
+          "options": [
+            "よぶ",
+            "よんで",
+            "よんだ",
+            "よび"
+          ],
+          "question_node_id": 21923735,
+          "question_text": "部屋が散らかっていて、友達を【　　　】どころではない。",
+          "stem": "部屋が散らかっていて、友達を【　　　】どころではない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "のに",
+          "book_id": 1581164,
+          "edge_id": 19162786,
+          "explanation": "",
+          "id": 26748594,
+          "index": 9,
+          "options": [
+            "のに",
+            "と",
+            "の",
+            "のと"
+          ],
+          "question_node_id": 21923740,
+          "question_text": "北は雨が多い【　　　】対し、南は乾燥した地域が広がっている。",
+          "stem": "北は雨が多い【　　　】対し、南は乾燥した地域が広がっている。"
+        }
+      ],
+      "task_id": 112457270,
+      "task_order": 23
+    },
+    {
+      "book_id": 1581165,
+      "book_name": "JLPT N2_24文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "会ってい",
+          "book_id": 1581165,
+          "edge_id": 19162798,
+          "explanation": "",
+          "id": 25009611,
+          "index": 0,
+          "options": [
+            "会ってい",
+            "会った",
+            "会っていない",
+            "会わない"
+          ],
+          "question_node_id": 21923744,
+          "question_text": "毎日【　　　】ながら、彼の気持ちに気がつかなかった。",
+          "stem": "毎日【　　　】ながら、彼の気持ちに気がつかなかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "つつ",
+          "book_id": 1581165,
+          "edge_id": 19162794,
+          "explanation": "",
+          "id": 25009612,
+          "index": 1,
+          "options": [
+            "つつ",
+            "っぱなし",
+            "あげく",
+            "上に"
+          ],
+          "question_node_id": 21923742,
+          "question_text": "毎晩、早く帰ろうと思い【　　　】、仕事が終わらない。",
+          "stem": "毎晩、早く帰ろうと思い【　　　】、仕事が終わらない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "行く",
+          "book_id": 1581165,
+          "edge_id": 19162791,
+          "explanation": "",
+          "id": 25009613,
+          "index": 2,
+          "options": [
+            "行く",
+            "行き",
+            "行かない",
+            "行かず"
+          ],
+          "question_node_id": 21923745,
+          "question_text": "明日の飲み会に行こうか【　　　】まいか考え中だ。",
+          "stem": "明日の飲み会に行こうか【　　　】まいか考え中だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "変える",
+          "book_id": 1581165,
+          "edge_id": 19162795,
+          "explanation": "",
+          "id": 25009614,
+          "index": 3,
+          "options": [
+            "変える",
+            "変わる",
+            "変えて",
+            "変わって"
+          ],
+          "question_node_id": 21923743,
+          "question_text": "問題がなければ、計画を【　　　】ことはない。",
+          "stem": "問題がなければ、計画を【　　　】ことはない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "きらいな",
+          "book_id": 1581165,
+          "edge_id": 19162789,
+          "explanation": "",
+          "id": 25009615,
+          "index": 4,
+          "options": [
+            "きらいな",
+            "きらい",
+            "きらいで",
+            "きらいじゃ"
+          ],
+          "question_node_id": 21923749,
+          "question_text": "野菜が【　　　】わけではないが、あまり食べていない。",
+          "stem": "野菜が【　　　】わけではないが、あまり食べていない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1581165,
+          "edge_id": 19162790,
+          "explanation": "",
+          "id": 25009616,
+          "index": 5,
+          "options": [
+            "を",
+            "で",
+            "に",
+            "が"
+          ],
+          "question_node_id": 21923748,
+          "question_text": "友人【　　　】通じて、作者に連絡を取った。",
+          "stem": "友人【　　　】通じて、作者に連絡を取った。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "はげましてくれた",
+          "book_id": 1581165,
+          "edge_id": 19162797,
+          "explanation": "",
+          "id": 25009617,
+          "index": 6,
+          "options": [
+            "はげましてくれた",
+            "はげます",
+            "はげまし",
+            "はげましたこと"
+          ],
+          "question_node_id": 21923751,
+          "question_text": "友達が【　　　】おかげで、最後まで頑張れました。",
+          "stem": "友達が【　　　】おかげで、最後まで頑張れました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "行く",
+          "book_id": 1581165,
+          "edge_id": 19162793,
+          "explanation": "",
+          "id": 25009618,
+          "index": 7,
+          "options": [
+            "行く",
+            "行って",
+            "行った",
+            "行き"
+          ],
+          "question_node_id": 21923752,
+          "question_text": "旅行に【　　　】としたら、今から準備をしなければならない。",
+          "stem": "旅行に【　　　】としたら、今から準備をしなければならない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "少なくなったこと",
+          "book_id": 1581165,
+          "edge_id": 19162792,
+          "explanation": "",
+          "id": 25009619,
+          "index": 8,
+          "options": [
+            "少なくなったこと",
+            "少なさ",
+            "少ない",
+            "少なくなった"
+          ],
+          "question_node_id": 21923756,
+          "question_text": "旅行客が【　　　】により、店の経営は苦しくなった。",
+          "stem": "旅行客が【　　　】により、店の経営は苦しくなった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "言う",
+          "book_id": 1581165,
+          "edge_id": 19162796,
+          "explanation": "",
+          "id": 25009620,
+          "index": 9,
+          "options": [
+            "言う",
+            "言い",
+            "言って",
+            "言わず"
+          ],
+          "question_node_id": 21923755,
+          "question_text": "料理が得意と【　　　】だけのことはあって、彼の料理はどれもおいしそうだった。",
+          "stem": "料理が得意と【　　　】だけのことはあって、彼の料理はどれもおいしそうだった。"
+        }
+      ],
+      "task_id": 112457271,
+      "task_order": 24
+    },
+    {
+      "book_id": 1581166,
+      "book_name": "JLPT N2_25文法",
+      "level": "N2",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おぼえられない",
+          "book_id": 1581166,
+          "edge_id": 19070044,
+          "explanation": "",
+          "id": 25450905,
+          "index": 0,
+          "options": [
+            "おぼえられない",
+            "おぼえない",
+            "おぼえよう",
+            "おぼえたい"
+          ],
+          "question_node_id": 21806372,
+          "question_text": "新しいことが多すぎて、一度ではとても【　　　】。",
+          "stem": "新しいことが多すぎて、一度ではとても【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "とはかぎらない",
+          "book_id": 1581166,
+          "edge_id": 19070042,
+          "explanation": "",
+          "id": 25450906,
+          "index": 1,
+          "options": [
+            "とはかぎらない",
+            "にかぎる",
+            "わけがない",
+            "わけじゃない"
+          ],
+          "question_node_id": 21806373,
+          "question_text": "人気のある商品が良いものだ【　　　】。",
+          "stem": "人気のある商品が良いものだ【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "からといって",
+          "book_id": 1581166,
+          "edge_id": 19070043,
+          "explanation": "",
+          "id": 25450907,
+          "index": 2,
+          "options": [
+            "からといって",
+            "のだから",
+            "というよりも",
+            "からすると"
+          ],
+          "question_node_id": 21806376,
+          "question_text": "他の客がいない【　　　】、電車の中で横になって寝てはいけない。",
+          "stem": "他の客がいない【　　　】、電車の中で横になって寝てはいけない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "の",
+          "book_id": 1581166,
+          "edge_id": 19070039,
+          "explanation": "",
+          "id": 25450908,
+          "index": 3,
+          "options": [
+            "の",
+            "だった",
+            "な",
+            "×"
+          ],
+          "question_node_id": 21806374,
+          "question_text": "大学の試験 【　　　】ため、明日は欠席します。",
+          "stem": "大学の試験 【　　　】ため、明日は欠席します。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "つつ",
+          "book_id": 1581166,
+          "edge_id": 19070046,
+          "explanation": "",
+          "id": 25450909,
+          "index": 4,
+          "options": [
+            "つつ",
+            "しだい",
+            "ながら",
+            "ものの"
+          ],
+          "question_node_id": 21806375,
+          "question_text": "働き方についての人々の考え方は変わり【　　　】ある。",
+          "stem": "働き方についての人々の考え方は変わり【　　　】ある。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "知っている",
+          "book_id": 1581166,
+          "edge_id": 19070038,
+          "explanation": "",
+          "id": 25450910,
+          "index": 5,
+          "options": [
+            "知っている",
+            "知った",
+            "知って",
+            "知り"
+          ],
+          "question_node_id": 21806382,
+          "question_text": "彼は言葉の意味をよく【　　　】ことから、「歩く辞書」と呼ばれている。",
+          "stem": "彼は言葉の意味をよく【　　　】ことから、「歩く辞書」と呼ばれている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "なのだから",
+          "book_id": 1581166,
+          "edge_id": 19070050,
+          "explanation": "",
+          "id": 25450911,
+          "index": 6,
+          "options": [
+            "なのだから",
+            "なのは",
+            "といっても",
+            "ものの"
+          ],
+          "question_node_id": 21806380,
+          "question_text": "病気【　　　】無理をしてはいけない。",
+          "stem": "病気【　　　】無理をしてはいけない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "もらった",
+          "book_id": 1581166,
+          "edge_id": 19070041,
+          "explanation": "",
+          "id": 25450912,
+          "index": 7,
+          "options": [
+            "もらった",
+            "もらう",
+            "もらおう",
+            "もらって"
+          ],
+          "question_node_id": 21806383,
+          "question_text": "母に教えて【　　　】とおりに、作ってみました。",
+          "stem": "母に教えて【　　　】とおりに、作ってみました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "読んでいる",
+          "book_id": 1581166,
+          "edge_id": 19069481,
+          "explanation": "",
+          "id": 25450913,
+          "index": 8,
+          "options": [
+            "読んでいる",
+            "読もう",
+            "読んで",
+            "読んだ"
+          ],
+          "question_node_id": 21805809,
+          "question_text": "本を【　　　】うちに、寝てしまった。",
+          "stem": "本を【　　　】うちに、寝てしまった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おせわになり",
+          "book_id": 1581166,
+          "edge_id": 19162799,
+          "explanation": "",
+          "id": 25450914,
+          "index": 9,
+          "options": [
+            "おせわになり",
+            "お先にしつれいし",
+            "おせわし",
+            "おねがいし"
+          ],
+          "question_node_id": 21923758,
+          "question_text": "来月国に帰ります。今まで大変【　　　】ました。",
+          "stem": "来月国に帰ります。今まで大変【　　　】ました。"
+        }
+      ],
+      "task_id": 112457272,
+      "task_order": 25
+    }
+  ],
+  "class_id": 1253887,
+  "level": "N2",
+  "question_count": 250
+}

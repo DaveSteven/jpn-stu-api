@@ -1,0 +1,6000 @@
+[
+  {
+    "book_id": 1569165,
+    "book_name": "JLPT N1_01漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "おもむき",
+        "book_id": 1569165,
+        "edge_id": 19278778,
+        "explanation": "",
+        "id": 24849491,
+        "index": 0,
+        "options": [
+          "おもむき",
+          "しゅ",
+          "おもかげ",
+          "ふぜい"
+        ],
+        "question_node_id": 22069042,
+        "question_text": "ここは江戸時代に造られた庭園で、とても【趣】がある。",
+        "stem": "ここは江戸時代に造られた庭園で、とても【趣】がある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "渦",
+        "book_id": 1569165,
+        "edge_id": 19278780,
+        "explanation": "",
+        "id": 24849492,
+        "index": 1,
+        "options": [
+          "渦",
+          "過",
+          "鍋",
+          "禍"
+        ],
+        "question_node_id": 22069040,
+        "question_text": "波が【うず】を巻いている。",
+        "stem": "波が【うず】を巻いている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "溝",
+        "book_id": 1569165,
+        "edge_id": 19278779,
+        "explanation": "",
+        "id": 24849493,
+        "index": 2,
+        "options": [
+          "溝",
+          "講",
+          "構",
+          "購"
+        ],
+        "question_node_id": 22069039,
+        "question_text": "道の端に雨水を流す【みぞ】がある。",
+        "stem": "道の端に雨水を流す【みぞ】がある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "とうひ",
+        "book_id": 1569165,
+        "edge_id": 19278782,
+        "explanation": "",
+        "id": 24849494,
+        "index": 3,
+        "options": [
+          "とうひ",
+          "とうそう",
+          "ちょうひ",
+          "とうび"
+        ],
+        "question_node_id": 22069041,
+        "question_text": "現実から目を背け、夢の世界に【逃避】しても、何の解決にもならない。",
+        "stem": "現実から目を背け、夢の世界に【逃避】しても、何の解決にもならない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "おり",
+        "book_id": 1569165,
+        "edge_id": 19278787,
+        "explanation": "",
+        "id": 24849495,
+        "index": 4,
+        "options": [
+          "おり",
+          "せつ",
+          "しん",
+          "とき"
+        ],
+        "question_node_id": 22069049,
+        "question_text": "【折】に触れて思い出す。",
+        "stem": "【折】に触れて思い出す。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "髪の毛",
+        "book_id": 1569165,
+        "edge_id": 19278781,
+        "explanation": "",
+        "id": 24849496,
+        "index": 5,
+        "options": [
+          "髪の毛",
+          "紙の毛",
+          "髪の糸",
+          "紙の糸"
+        ],
+        "question_node_id": 22069047,
+        "question_text": "【かみのけ】をいじるのが彼女の癖だ。",
+        "stem": "【かみのけ】をいじるのが彼女の癖だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "摘んだ",
+        "book_id": 1569165,
+        "edge_id": 19278783,
+        "explanation": "",
+        "id": 24849497,
+        "index": 6,
+        "options": [
+          "摘んだ",
+          "積んだ",
+          "詰んだ",
+          "採んだ"
+        ],
+        "question_node_id": 22069057,
+        "question_text": "おいしそうなイチゴをたくさん【つんだ】。",
+        "stem": "おいしそうなイチゴをたくさん【つんだ】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "針金",
+        "book_id": 1569165,
+        "edge_id": 19278785,
+        "explanation": "",
+        "id": 24849498,
+        "index": 7,
+        "options": [
+          "針金",
+          "貼金",
+          "張金",
+          "梁金"
+        ],
+        "question_node_id": 22069051,
+        "question_text": "ペンチで【はりがね】をねじって切る。",
+        "stem": "ペンチで【はりがね】をねじって切る。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "やわらかい",
+        "book_id": 1569165,
+        "edge_id": 19278786,
+        "explanation": "",
+        "id": 24849499,
+        "index": 8,
+        "options": [
+          "やわらかい",
+          "さわらかい",
+          "じゅうらかい",
+          "ほこらかい"
+        ],
+        "question_node_id": 22069053,
+        "question_text": "【柔らかい】風がほおをなでた。",
+        "stem": "【柔らかい】風がほおをなでた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "こんじょう",
+        "book_id": 1569165,
+        "edge_id": 19278784,
+        "explanation": "",
+        "id": 24849500,
+        "index": 9,
+        "options": [
+          "こんじょう",
+          "こんしょう",
+          "ねしょう",
+          "ねじょう"
+        ],
+        "question_node_id": 22069054,
+        "question_text": "彼は【根性】がねじれている。",
+        "stem": "彼は【根性】がねじれている。"
+      }
+    ],
+    "task_id": 112458444,
+    "task_order": 1
+  },
+  {
+    "book_id": 1569166,
+    "book_name": "JLPT N1_02漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "研ぐ",
+        "book_id": 1569166,
+        "edge_id": 19278788,
+        "explanation": "",
+        "id": 24849501,
+        "index": 0,
+        "options": [
+          "研ぐ",
+          "砥ぐ",
+          "削ぐ",
+          "磨ぐ"
+        ],
+        "question_node_id": 22069058,
+        "question_text": "動物が爪を【とぐ】。",
+        "stem": "動物が爪を【とぐ】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "なついた",
+        "book_id": 1569166,
+        "edge_id": 19278789,
+        "explanation": "",
+        "id": 24849502,
+        "index": 1,
+        "options": [
+          "なついた",
+          "さついた",
+          "かいた",
+          "かついた"
+        ],
+        "question_node_id": 22069059,
+        "question_text": "幼稚園の新しい先生に子供たちはすぐに【懐いた】。",
+        "stem": "幼稚園の新しい先生に子供たちはすぐに【懐いた】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "かまわない",
+        "book_id": 1569166,
+        "edge_id": 19278797,
+        "explanation": "",
+        "id": 24849503,
+        "index": 2,
+        "options": [
+          "かまわない",
+          "こわない",
+          "こだわない",
+          "みあわない"
+        ],
+        "question_node_id": 22069071,
+        "question_text": "彼女はあまり服装に【構わない】。",
+        "stem": "彼女はあまり服装に【構わない】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "お土産",
+        "book_id": 1569166,
+        "edge_id": 19278790,
+        "explanation": "",
+        "id": 24849504,
+        "index": 3,
+        "options": [
+          "お土産",
+          "お士産",
+          "お圭産",
+          "お圧産"
+        ],
+        "question_node_id": 22069074,
+        "question_text": "【おみやげ】をねだる。",
+        "stem": "【おみやげ】をねだる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "もうもく",
+        "book_id": 1569166,
+        "edge_id": 19278792,
+        "explanation": "",
+        "id": 24849505,
+        "index": 4,
+        "options": [
+          "もうもく",
+          "もうぼく",
+          "めんぼく",
+          "もうめ"
+        ],
+        "question_node_id": 22069064,
+        "question_text": "【盲目】のピアニストの話を知って、心を強く揺さぶられた。",
+        "stem": "【盲目】のピアニストの話を知って、心を強く揺さぶられた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "おびやかした",
+        "book_id": 1569166,
+        "edge_id": 19278794,
+        "explanation": "",
+        "id": 24849506,
+        "index": 5,
+        "options": [
+          "おびやかした",
+          "おどかした",
+          "いかした",
+          "おろかした"
+        ],
+        "question_node_id": 22069065,
+        "question_text": "ひどい不況が庶民の生活を【脅かした】。",
+        "stem": "ひどい不況が庶民の生活を【脅かした】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "とまどった",
+        "book_id": 1569166,
+        "edge_id": 19278793,
+        "explanation": "",
+        "id": 24849507,
+        "index": 6,
+        "options": [
+          "とまどった",
+          "おもわくった",
+          "さまよった",
+          "とわくった"
+        ],
+        "question_node_id": 22069077,
+        "question_text": "会議で突然指名されて【戸惑った】。",
+        "stem": "会議で突然指名されて【戸惑った】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "慎む",
+        "book_id": 1569166,
+        "edge_id": 19278795,
+        "explanation": "",
+        "id": 24849508,
+        "index": 7,
+        "options": [
+          "慎む",
+          "真む",
+          "包む",
+          "包しむ"
+        ],
+        "question_node_id": 22069085,
+        "question_text": "言動を【つつしむ】。",
+        "stem": "言動を【つつしむ】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "触れ合う",
+        "book_id": 1569166,
+        "edge_id": 19278791,
+        "explanation": "",
+        "id": 24849509,
+        "index": 8,
+        "options": [
+          "触れ合う",
+          "接れ合う",
+          "腫れ合う",
+          "連れ合う"
+        ],
+        "question_node_id": 22069083,
+        "question_text": "手と手が【ふれあう】。",
+        "stem": "手と手が【ふれあう】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "懲りた",
+        "book_id": 1569166,
+        "edge_id": 19278796,
+        "explanation": "",
+        "id": 24849510,
+        "index": 9,
+        "options": [
+          "懲りた",
+          "微りた",
+          "拘りた",
+          "旬りた"
+        ],
+        "question_node_id": 22069084,
+        "question_text": "カジノで大損をした。賭け事はもう【こりた】。",
+        "stem": "カジノで大損をした。賭け事はもう【こりた】。"
+      }
+    ],
+    "task_id": 112458445,
+    "task_order": 2
+  },
+  {
+    "book_id": 1569167,
+    "book_name": "JLPT N1_03漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "はかって",
+        "book_id": 1569167,
+        "edge_id": 19278798,
+        "explanation": "",
+        "id": 24849511,
+        "index": 0,
+        "options": [
+          "はかって",
+          "わかって",
+          "はからって",
+          "つかって"
+        ],
+        "question_node_id": 22069092,
+        "question_text": "けがで欠場した本田選手は、今再起を【図って】リハビリに励んでいる。",
+        "stem": "けがで欠場した本田選手は、今再起を【図って】リハビリに励んでいる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "あやつって",
+        "book_id": 1569167,
+        "edge_id": 19278800,
+        "explanation": "",
+        "id": 24849512,
+        "index": 1,
+        "options": [
+          "あやつって",
+          "うって",
+          "たぐって",
+          "そうって"
+        ],
+        "question_node_id": 22069099,
+        "question_text": "この人形は上から糸で【操って】動かす。",
+        "stem": "この人形は上から糸で【操って】動かす。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "償う",
+        "book_id": 1569167,
+        "edge_id": 19278799,
+        "explanation": "",
+        "id": 24849513,
+        "index": 2,
+        "options": [
+          "償う",
+          "補う",
+          "賄う",
+          "賞う"
+        ],
+        "question_node_id": 22069091,
+        "question_text": "損害を【つぐなう】ために1,000万円払った。",
+        "stem": "損害を【つぐなう】ために1,000万円払った。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "極める",
+        "book_id": 1569167,
+        "edge_id": 19278803,
+        "explanation": "",
+        "id": 24849514,
+        "index": 3,
+        "options": [
+          "極める",
+          "究める",
+          "窮める",
+          "決める"
+        ],
+        "question_node_id": 22069094,
+        "question_text": "世界で初めて南極点を【きわめる】。",
+        "stem": "世界で初めて南極点を【きわめる】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "てっして",
+        "book_id": 1569167,
+        "edge_id": 19278801,
+        "explanation": "",
+        "id": 24849515,
+        "index": 4,
+        "options": [
+          "てっして",
+          "せっして",
+          "けっして",
+          "とっして"
+        ],
+        "question_node_id": 22069093,
+        "question_text": "今回は裏方に【徹して】働こうと思う。",
+        "stem": "今回は裏方に【徹して】働こうと思う。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ほどこす",
+        "book_id": 1569167,
+        "edge_id": 19278804,
+        "explanation": "",
+        "id": 24849516,
+        "index": 5,
+        "options": [
+          "ほどこす",
+          "ほとこす",
+          "ほどかす",
+          "ほとかす"
+        ],
+        "question_node_id": 22069104,
+        "question_text": "患者に治療を【施す】。",
+        "stem": "患者に治療を【施す】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "据え置き",
+        "book_id": 1569167,
+        "edge_id": 19278807,
+        "explanation": "",
+        "id": 24849517,
+        "index": 6,
+        "options": [
+          "据え置き",
+          "添え置き",
+          "据え起き",
+          "住え置き"
+        ],
+        "question_node_id": 22069109,
+        "question_text": "【すえおき】型のエアコン。",
+        "stem": "【すえおき】型のエアコン。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "携える",
+        "book_id": 1569167,
+        "edge_id": 19278806,
+        "explanation": "",
+        "id": 24849518,
+        "index": 7,
+        "options": [
+          "携える",
+          "抱える",
+          "掲える",
+          "提える"
+        ],
+        "question_node_id": 22069105,
+        "question_text": "武器を身に【たずさえる】。",
+        "stem": "武器を身に【たずさえる】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "とどこおる",
+        "book_id": 1569167,
+        "edge_id": 19278802,
+        "explanation": "",
+        "id": 24849519,
+        "index": 8,
+        "options": [
+          "とどこおる",
+          "とどこる",
+          "とどこうる",
+          "とどまる"
+        ],
+        "question_node_id": 22069102,
+        "question_text": "仕事が【滞る】。",
+        "stem": "仕事が【滞る】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "天候不順",
+        "book_id": 1569167,
+        "edge_id": 19278805,
+        "explanation": "",
+        "id": 24849520,
+        "index": 9,
+        "options": [
+          "天候不順",
+          "天候不純",
+          "天気不順",
+          "天候不調"
+        ],
+        "question_node_id": 22069112,
+        "question_text": "【てんこうふじゅん】で、工事がなかなかはかどらない。",
+        "stem": "【てんこうふじゅん】で、工事がなかなかはかどらない。"
+      }
+    ],
+    "task_id": 112458446,
+    "task_order": 3
+  },
+  {
+    "book_id": 1569168,
+    "book_name": "JLPT N1_04漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "つのる",
+        "book_id": 1569168,
+        "edge_id": 19278815,
+        "explanation": "",
+        "id": 24849521,
+        "index": 0,
+        "options": [
+          "つのる",
+          "づのる",
+          "ぼる",
+          "ほうる"
+        ],
+        "question_node_id": 22069121,
+        "question_text": "国の恋人への思いが【募る】ばかりだ。",
+        "stem": "国の恋人への思いが【募る】ばかりだ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "さぐる",
+        "book_id": 1569168,
+        "edge_id": 19278817,
+        "explanation": "",
+        "id": 24849522,
+        "index": 1,
+        "options": [
+          "さぐる",
+          "さがる",
+          "わかる",
+          "はかる"
+        ],
+        "question_node_id": 22069117,
+        "question_text": "敵の動きを【探る】。",
+        "stem": "敵の動きを【探る】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "むしばんで",
+        "book_id": 1569168,
+        "edge_id": 19278809,
+        "explanation": "",
+        "id": 24849523,
+        "index": 2,
+        "options": [
+          "むしばんで",
+          "こんで",
+          "しょっくんで",
+          "よわんで"
+        ],
+        "question_node_id": 22069126,
+        "question_text": "覚醒剤は、心も体も【蝕んで】ぼろぼろにしてしまう。",
+        "stem": "覚醒剤は、心も体も【蝕んで】ぼろぼろにしてしまう。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "障る",
+        "book_id": 1569168,
+        "edge_id": 19278816,
+        "explanation": "",
+        "id": 24849524,
+        "index": 3,
+        "options": [
+          "障る",
+          "触る",
+          "下わる",
+          "査わる"
+        ],
+        "question_node_id": 22069115,
+        "question_text": "私生活の乱れは仕事に【さわる】。",
+        "stem": "私生活の乱れは仕事に【さわる】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "押し寄せて",
+        "book_id": 1569168,
+        "edge_id": 19278814,
+        "explanation": "",
+        "id": 24849525,
+        "index": 4,
+        "options": [
+          "押し寄せて",
+          "抑し寄せて",
+          "推し寄せて",
+          "圧し寄せて"
+        ],
+        "question_node_id": 22069123,
+        "question_text": "敵の大群が城に【おしよせて】きた。",
+        "stem": "敵の大群が城に【おしよせて】きた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ひるがえって",
+        "book_id": 1569168,
+        "edge_id": 19278812,
+        "explanation": "",
+        "id": 24849526,
+        "index": 5,
+        "options": [
+          "ひるがえって",
+          "くつがえって",
+          "もどって",
+          "かえって"
+        ],
+        "question_node_id": 22069120,
+        "question_text": "旗が風に【翻って】いる。",
+        "stem": "旗が風に【翻って】いる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "くつがえった",
+        "book_id": 1569168,
+        "edge_id": 19278808,
+        "explanation": "",
+        "id": 24849527,
+        "index": 6,
+        "options": [
+          "くつがえった",
+          "おおった",
+          "ひっくりかえった",
+          "おどった"
+        ],
+        "question_node_id": 22069134,
+        "question_text": "中村選手の活躍により、3点差が【覆った】。",
+        "stem": "中村選手の活躍により、3点差が【覆った】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "潜めた",
+        "book_id": 1569168,
+        "edge_id": 19278813,
+        "explanation": "",
+        "id": 24849528,
+        "index": 7,
+        "options": [
+          "潜めた",
+          "図めた",
+          "顰めた",
+          "密めた"
+        ],
+        "question_node_id": 22069130,
+        "question_text": "彼は年をとってから強情さが影を【ひそめた】。",
+        "stem": "彼は年をとってから強情さが影を【ひそめた】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "動揺",
+        "book_id": 1569168,
+        "edge_id": 19278810,
+        "explanation": "",
+        "id": 24849529,
+        "index": 8,
+        "options": [
+          "動揺",
+          "童謡",
+          "同様",
+          "道用"
+        ],
+        "question_node_id": 22069135,
+        "question_text": "その場で嘘を見抜かれた彼は【どうよう】した。",
+        "stem": "その場で嘘を見抜かれた彼は【どうよう】した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "肺炎",
+        "book_id": 1569168,
+        "edge_id": 19278811,
+        "explanation": "",
+        "id": 24849530,
+        "index": 9,
+        "options": [
+          "肺炎",
+          "肺延",
+          "肺災",
+          "肺煙"
+        ],
+        "question_node_id": 22069136,
+        "question_text": "風邪をこじらせて、【はいえん】になってしまった。",
+        "stem": "風邪をこじらせて、【はいえん】になってしまった。"
+      }
+    ],
+    "task_id": 112458447,
+    "task_order": 4
+  },
+  {
+    "book_id": 1569169,
+    "book_name": "JLPT N1_05漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "へだてて",
+        "book_id": 1569169,
+        "edge_id": 19278818,
+        "explanation": "",
+        "id": 24849531,
+        "index": 0,
+        "options": [
+          "へだてて",
+          "かんてて",
+          "かけてて",
+          "ためてて"
+        ],
+        "question_node_id": 22069157,
+        "question_text": "テーブルを【隔てて】向かい合う。",
+        "stem": "テーブルを【隔てて】向かい合う。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "からめて",
+        "book_id": 1569169,
+        "edge_id": 19278827,
+        "explanation": "",
+        "id": 24849532,
+        "index": 1,
+        "options": [
+          "からめて",
+          "かくめて",
+          "とめて",
+          "ためてて"
+        ],
+        "question_node_id": 22069148,
+        "question_text": "恋人同士が腕を【絡めて】歩いている。",
+        "stem": "恋人同士が腕を【絡めて】歩いている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "まぎらした",
+        "book_id": 1569169,
+        "edge_id": 19278826,
+        "explanation": "",
+        "id": 24849533,
+        "index": 2,
+        "options": [
+          "まぎらした",
+          "ふらした",
+          "まぜらした",
+          "ふっらした"
+        ],
+        "question_node_id": 22069160,
+        "question_text": "心配なことがあるとき、音楽を聞いて気を【紛らした】。",
+        "stem": "心配なことがあるとき、音楽を聞いて気を【紛らした】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "すたれる",
+        "book_id": 1569169,
+        "edge_id": 19278820,
+        "explanation": "",
+        "id": 24849534,
+        "index": 3,
+        "options": [
+          "すたれる",
+          "すれる",
+          "おわれる",
+          "やぶれる"
+        ],
+        "question_node_id": 22069171,
+        "question_text": "現代社会では、流行は【廃れる】のも早い。",
+        "stem": "現代社会では、流行は【廃れる】のも早い。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "衰える",
+        "book_id": 1569169,
+        "edge_id": 19278823,
+        "explanation": "",
+        "id": 24849535,
+        "index": 4,
+        "options": [
+          "衰える",
+          "衰とろえる",
+          "衰る",
+          "衰ろえる"
+        ],
+        "question_node_id": 22069152,
+        "question_text": "老化で体力が【おとろえる】。",
+        "stem": "老化で体力が【おとろえる】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "うるおった",
+        "book_id": 1569169,
+        "edge_id": 19278821,
+        "explanation": "",
+        "id": 24849536,
+        "index": 5,
+        "options": [
+          "うるおった",
+          "じゅった",
+          "かおった",
+          "うろうった"
+        ],
+        "question_node_id": 22069149,
+        "question_text": "久しぶりの雨で田畑が【潤った】。",
+        "stem": "久しぶりの雨で田畑が【潤った】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "和らいで",
+        "book_id": 1569169,
+        "edge_id": 19278825,
+        "explanation": "",
+        "id": 24849537,
+        "index": 6,
+        "options": [
+          "和らいで",
+          "柔らいで",
+          "優らいで",
+          "弱らいで"
+        ],
+        "question_node_id": 22069172,
+        "question_text": "3月に入って、寒さが【やわらいで】きた。",
+        "stem": "3月に入って、寒さが【やわらいで】きた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "埋葬",
+        "book_id": 1569169,
+        "edge_id": 19278824,
+        "explanation": "",
+        "id": 24849538,
+        "index": 7,
+        "options": [
+          "埋葬",
+          "埋草",
+          "昧葬",
+          "埋掃"
+        ],
+        "question_node_id": 22069170,
+        "question_text": "古代人は、死者がよみがえらないよう【まいそう】に工夫を凝らした。",
+        "stem": "古代人は、死者がよみがえらないよう【まいそう】に工夫を凝らした。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "誘致",
+        "book_id": 1569169,
+        "edge_id": 19278822,
+        "explanation": "",
+        "id": 24849539,
+        "index": 8,
+        "options": [
+          "誘致",
+          "誘置",
+          "誘智",
+          "遊致"
+        ],
+        "question_node_id": 22069158,
+        "question_text": "財政を潤すため、市は工場の【ゆうち】に努めている。",
+        "stem": "財政を潤すため、市は工場の【ゆうち】に努めている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "甚大",
+        "book_id": 1569169,
+        "edge_id": 19278819,
+        "explanation": "",
+        "id": 24849540,
+        "index": 9,
+        "options": [
+          "甚大",
+          "尋大",
+          "壬大",
+          "震大"
+        ],
+        "question_node_id": 22069163,
+        "question_text": "津波が沿岸地域に【じんだい】な被害をもたらした。",
+        "stem": "津波が沿岸地域に【じんだい】な被害をもたらした。"
+      }
+    ],
+    "task_id": 112458448,
+    "task_order": 5
+  },
+  {
+    "book_id": 1569170,
+    "book_name": "JLPT N1_06漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ゆうゆう",
+        "book_id": 1569170,
+        "edge_id": 19278828,
+        "explanation": "",
+        "id": 24849541,
+        "index": 0,
+        "options": [
+          "ゆうゆう",
+          "ようよう",
+          "こうこう",
+          "しんしん"
+        ],
+        "question_node_id": 22069187,
+        "question_text": "【悠々】たる態度で臨む。",
+        "stem": "【悠々】たる態度で臨む。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "一気",
+        "book_id": 1569170,
+        "edge_id": 19278837,
+        "explanation": "",
+        "id": 24849542,
+        "index": 1,
+        "options": [
+          "一気",
+          "一極",
+          "一揆",
+          "一致"
+        ],
+        "question_node_id": 22069176,
+        "question_text": "ビール大ジョッキを【いっき】に飲み干した。",
+        "stem": "ビール大ジョッキを【いっき】に飲み干した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "うかべた",
+        "book_id": 1569170,
+        "edge_id": 19278831,
+        "explanation": "",
+        "id": 24849543,
+        "index": 2,
+        "options": [
+          "うかべた",
+          "おかべた",
+          "ふかべた",
+          "ふうかべた"
+        ],
+        "question_node_id": 22069175,
+        "question_text": "彼女はうっとりした表情を【浮かべた】。",
+        "stem": "彼女はうっとりした表情を【浮かべた】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "操作方法",
+        "book_id": 1569170,
+        "edge_id": 19278832,
+        "explanation": "",
+        "id": 24849544,
+        "index": 3,
+        "options": [
+          "操作方法",
+          "走査方法",
+          "創詐方法",
+          "相佐法々"
+        ],
+        "question_node_id": 22069177,
+        "question_text": "機械の【そうさほうほう】がわからず、おばあさんがまごまごしている。",
+        "stem": "機械の【そうさほうほう】がわからず、おばあさんがまごまごしている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "始業",
+        "book_id": 1569170,
+        "edge_id": 19278830,
+        "explanation": "",
+        "id": 24849545,
+        "index": 4,
+        "options": [
+          "始業",
+          "始動",
+          "始演",
+          "始筆"
+        ],
+        "question_node_id": 22069199,
+        "question_text": "9時の【しぎょう】にはゆうゆう間に合いそうだ。",
+        "stem": "9時の【しぎょう】にはゆうゆう間に合いそうだ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "あおいで",
+        "book_id": 1569170,
+        "edge_id": 19278829,
+        "explanation": "",
+        "id": 24849546,
+        "index": 5,
+        "options": [
+          "あおいで",
+          "おおいで",
+          "かついで",
+          "ふっといで"
+        ],
+        "question_node_id": 22069184,
+        "question_text": "エアコンを使わず、うちわで【扇いで】夏を過ごした。",
+        "stem": "エアコンを使わず、うちわで【扇いで】夏を過ごした。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "たばねて",
+        "book_id": 1569170,
+        "edge_id": 19278834,
+        "explanation": "",
+        "id": 24849547,
+        "index": 6,
+        "options": [
+          "たばねて",
+          "つかねて",
+          "さばねて",
+          "かまねて"
+        ],
+        "question_node_id": 22069192,
+        "question_text": "古新聞を【束ねて】回収日に出した。",
+        "stem": "古新聞を【束ねて】回収日に出した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "うちあける",
+        "book_id": 1569170,
+        "edge_id": 19278833,
+        "explanation": "",
+        "id": 24849548,
+        "index": 7,
+        "options": [
+          "うちあける",
+          "うちとける",
+          "うちまける",
+          "うちかける"
+        ],
+        "question_node_id": 22069201,
+        "question_text": "本心を【打ち明ける】。",
+        "stem": "本心を【打ち明ける】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "一生懸命",
+        "book_id": 1569170,
+        "edge_id": 19278835,
+        "explanation": "",
+        "id": 24849549,
+        "index": 8,
+        "options": [
+          "一生懸命",
+          "一心懸命",
+          "一生懸念",
+          "一心懸念"
+        ],
+        "question_node_id": 22069198,
+        "question_text": "いいアイデアを出そうと【いっしょうけんめい】頭をひねった。",
+        "stem": "いいアイデアを出そうと【いっしょうけんめい】頭をひねった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "井戸水",
+        "book_id": 1569170,
+        "edge_id": 19278836,
+        "explanation": "",
+        "id": 24849550,
+        "index": 9,
+        "options": [
+          "井戸水",
+          "井渡水",
+          "井度水",
+          "井土水"
+        ],
+        "question_node_id": 22069197,
+        "question_text": "バケツで【いどみず】をくむ。",
+        "stem": "バケツで【いどみず】をくむ。"
+      }
+    ],
+    "task_id": 112458449,
+    "task_order": 6
+  },
+  {
+    "book_id": 1569171,
+    "book_name": "JLPT N1_07漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ひざ",
+        "book_id": 1569171,
+        "edge_id": 19278846,
+        "explanation": "",
+        "id": 24849551,
+        "index": 0,
+        "options": [
+          "ひざ",
+          "ひじ",
+          "とう",
+          "こし"
+        ],
+        "question_node_id": 22069204,
+        "question_text": "彼は呆然として、【膝】をついた。",
+        "stem": "彼は呆然として、【膝】をついた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "間隔",
+        "book_id": 1569171,
+        "edge_id": 19278840,
+        "explanation": "",
+        "id": 24849552,
+        "index": 1,
+        "options": [
+          "間隔",
+          "感覚",
+          "感核",
+          "間格"
+        ],
+        "question_node_id": 22069205,
+        "question_text": "【かんかく】をあけて木を植えた。",
+        "stem": "【かんかく】をあけて木を植えた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "最高傑作",
+        "book_id": 1569171,
+        "edge_id": 19278847,
+        "explanation": "",
+        "id": 24849553,
+        "index": 2,
+        "options": [
+          "最高傑作",
+          "最高傑策",
+          "最高潔作",
+          "最高潔策"
+        ],
+        "question_node_id": 22069208,
+        "question_text": "この絵はまさに彼の【さいこうけっさく】だ。",
+        "stem": "この絵はまさに彼の【さいこうけっさく】だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "誠",
+        "book_id": 1569171,
+        "edge_id": 19278841,
+        "explanation": "",
+        "id": 24849554,
+        "index": 3,
+        "options": [
+          "誠",
+          "真",
+          "信",
+          "実"
+        ],
+        "question_node_id": 22069210,
+        "question_text": "【まこと】に申し訳ありません。",
+        "stem": "【まこと】に申し訳ありません。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "はげんだ",
+        "book_id": 1569171,
+        "edge_id": 19278838,
+        "explanation": "",
+        "id": 24849555,
+        "index": 4,
+        "options": [
+          "はげんだ",
+          "りきんだ",
+          "りっきんだ",
+          "はっけんだ"
+        ],
+        "question_node_id": 22069213,
+        "question_text": "けがをした選手はリハビリに【励んだ】。",
+        "stem": "けがをした選手はリハビリに【励んだ】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "奇妙",
+        "book_id": 1569171,
+        "edge_id": 19278842,
+        "explanation": "",
+        "id": 24849556,
+        "index": 5,
+        "options": [
+          "奇妙",
+          "希妙",
+          "奇秒",
+          "寄妙"
+        ],
+        "question_node_id": 22069217,
+        "question_text": "朝方、【きみょう】な夢を見て起きた。",
+        "stem": "朝方、【きみょう】な夢を見て起きた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ねぶそく",
+        "book_id": 1569171,
+        "edge_id": 19278844,
+        "explanation": "",
+        "id": 24849557,
+        "index": 6,
+        "options": [
+          "ねぶそく",
+          "ねぶそうく",
+          "うたたね",
+          "ねぶあし"
+        ],
+        "question_node_id": 22069220,
+        "question_text": "最近、【寝不足】で疲れる。",
+        "stem": "最近、【寝不足】で疲れる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "もっぱら",
+        "book_id": 1569171,
+        "edge_id": 19278843,
+        "explanation": "",
+        "id": 24849558,
+        "index": 7,
+        "options": [
+          "もっぱら",
+          "もはら",
+          "せんら",
+          "せら"
+        ],
+        "question_node_id": 22069224,
+        "question_text": "休みの日は【専ら】山歩きをしている。",
+        "stem": "休みの日は【専ら】山歩きをしている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "一旦",
+        "book_id": 1569171,
+        "edge_id": 19278839,
+        "explanation": "",
+        "id": 24849559,
+        "index": 8,
+        "options": [
+          "一旦",
+          "一端",
+          "一短",
+          "一暫"
+        ],
+        "question_node_id": 22069215,
+        "question_text": "【いったん】引き受けておいて後で断るなんて、無責任だ。",
+        "stem": "【いったん】引き受けておいて後で断るなんて、無責任だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "いちおう",
+        "book_id": 1569171,
+        "edge_id": 19278845,
+        "explanation": "",
+        "id": 24849560,
+        "index": 9,
+        "options": [
+          "いちおう",
+          "いちよう",
+          "いちお",
+          "いちおん"
+        ],
+        "question_node_id": 22069222,
+        "question_text": "研修を受けて、【一応】の仕事の流れはわかった。",
+        "stem": "研修を受けて、【一応】の仕事の流れはわかった。"
+      }
+    ],
+    "task_id": 112458450,
+    "task_order": 7
+  },
+  {
+    "book_id": 1569172,
+    "book_name": "JLPT N1_08漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "一律",
+        "book_id": 1569172,
+        "edge_id": 19278849,
+        "explanation": "",
+        "id": 25775436,
+        "index": 0,
+        "options": [
+          "一律",
+          "一率",
+          "一列",
+          "一理"
+        ],
+        "question_node_id": 22069228,
+        "question_text": "アルバイト店員に、ボーナスとして【いちりつ】に1万円支給された。",
+        "stem": "アルバイト店員に、ボーナスとして【いちりつ】に1万円支給された。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "おのおの",
+        "book_id": 1569172,
+        "edge_id": 19278853,
+        "explanation": "",
+        "id": 25775437,
+        "index": 1,
+        "options": [
+          "おのおの",
+          "かくかく",
+          "ここ",
+          "めいめい"
+        ],
+        "question_node_id": 22069235,
+        "question_text": "人には【各々】の役割がある。",
+        "stem": "人には【各々】の役割がある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "依然",
+        "book_id": 1569172,
+        "edge_id": 19278855,
+        "explanation": "",
+        "id": 25775438,
+        "index": 2,
+        "options": [
+          "依然",
+          "以然",
+          "依全",
+          "異然"
+        ],
+        "question_node_id": 22069242,
+        "question_text": "犯人は【いぜん】として捕まっていない。",
+        "stem": "犯人は【いぜん】として捕まっていない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ばくぜん",
+        "book_id": 1569172,
+        "edge_id": 19278851,
+        "explanation": "",
+        "id": 25775439,
+        "index": 3,
+        "options": [
+          "ばくぜん",
+          "ぼうぜん",
+          "まくぜん",
+          "そうぜん"
+        ],
+        "question_node_id": 22069230,
+        "question_text": "将来のことは、まだ【漠然】としか考えられない。",
+        "stem": "将来のことは、まだ【漠然】としか考えられない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "げん",
+        "book_id": 1569172,
+        "edge_id": 19278854,
+        "explanation": "",
+        "id": 25775440,
+        "index": 4,
+        "options": [
+          "げん",
+          "うつつ",
+          "あらわ",
+          "まさ"
+        ],
+        "question_node_id": 22069243,
+        "question_text": "彼は落ち着きがない。【現】に、今日もトイレに何度も行っている。",
+        "stem": "彼は落ち着きがない。【現】に、今日もトイレに何度も行っている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "よふかし",
+        "book_id": 1569172,
+        "edge_id": 19278856,
+        "explanation": "",
+        "id": 25775441,
+        "index": 5,
+        "options": [
+          "よふかし",
+          "よぶかし",
+          "よほかし",
+          "よこかし"
+        ],
+        "question_node_id": 22069245,
+        "question_text": "休みの前の日は、ビデオを見て【夜更かし】をする。",
+        "stem": "休みの前の日は、ビデオを見て【夜更かし】をする。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "晩年",
+        "book_id": 1569172,
+        "edge_id": 19278850,
+        "explanation": "",
+        "id": 25775442,
+        "index": 6,
+        "options": [
+          "晩年",
+          "万年",
+          "萬年",
+          "終年"
+        ],
+        "question_node_id": 22069232,
+        "question_text": "彼は若い頃は不遇だったが、【ばんねん】は幸せに過ごした。",
+        "stem": "彼は若い頃は不遇だったが、【ばんねん】は幸せに過ごした。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "庶民",
+        "book_id": 1569172,
+        "edge_id": 19278848,
+        "explanation": "",
+        "id": 25775443,
+        "index": 7,
+        "options": [
+          "庶民",
+          "庶門",
+          "諸民",
+          "諸者"
+        ],
+        "question_node_id": 22069244,
+        "question_text": "こんな立派で広い家は、【しょみん】には縁がない。",
+        "stem": "こんな立派で広い家は、【しょみん】には縁がない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "葬式",
+        "book_id": 1569172,
+        "edge_id": 19278852,
+        "explanation": "",
+        "id": 25775444,
+        "index": 8,
+        "options": [
+          "葬式",
+          "装式",
+          "喪式",
+          "葬志"
+        ],
+        "question_node_id": 22069234,
+        "question_text": "知人の【そうしき】に参列した。",
+        "stem": "知人の【そうしき】に参列した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "せけん",
+        "book_id": 1569172,
+        "edge_id": 19278857,
+        "explanation": "",
+        "id": 25775445,
+        "index": 9,
+        "options": [
+          "せけん",
+          "せかん",
+          "せま",
+          "よま"
+        ],
+        "question_node_id": 22069237,
+        "question_text": "汚職事件が【世間】を騒がせている。",
+        "stem": "汚職事件が【世間】を騒がせている。"
+      }
+    ],
+    "task_id": 112458451,
+    "task_order": 8
+  },
+  {
+    "book_id": 1569173,
+    "book_name": "JLPT N1_09漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "あくる",
+        "book_id": 1569173,
+        "edge_id": 19278858,
+        "explanation": "",
+        "id": 24849571,
+        "index": 0,
+        "options": [
+          "あくる",
+          "おくる",
+          "いくる",
+          "あさくる"
+        ],
+        "question_node_id": 22069272,
+        "question_text": "宴会の【明くる】日は早朝から会議が予定されていた。",
+        "stem": "宴会の【明くる】日は早朝から会議が予定されていた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "きたる",
+        "book_id": 1569173,
+        "edge_id": 19278867,
+        "explanation": "",
+        "id": 24849572,
+        "index": 1,
+        "options": [
+          "きたる",
+          "くる",
+          "こる",
+          "きる"
+        ],
+        "question_node_id": 22069249,
+        "question_text": "【来る】7月21日は、校外学習でディズニーリゾートへ行く。",
+        "stem": "【来る】7月21日は、校外学習でディズニーリゾートへ行く。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "さる",
+        "book_id": 1569173,
+        "edge_id": 19278866,
+        "explanation": "",
+        "id": 24849573,
+        "index": 2,
+        "options": [
+          "さる",
+          "ざる",
+          "いる",
+          "いぬる"
+        ],
+        "question_node_id": 22069268,
+        "question_text": "【去る】6月23日は、クルーズ船でお台場へ観光に行った。",
+        "stem": "【去る】6月23日は、クルーズ船でお台場へ観光に行った。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "創立",
+        "book_id": 1569173,
+        "edge_id": 19278863,
+        "explanation": "",
+        "id": 24849574,
+        "index": 3,
+        "options": [
+          "創立",
+          "総立",
+          "創律",
+          "総律"
+        ],
+        "question_node_id": 22069270,
+        "question_text": "学校の【そうりつ】記念日と私の誕生日は同じだった。",
+        "stem": "学校の【そうりつ】記念日と私の誕生日は同じだった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "式典",
+        "book_id": 1569173,
+        "edge_id": 19278860,
+        "explanation": "",
+        "id": 24849575,
+        "index": 4,
+        "options": [
+          "式典",
+          "式展",
+          "式点",
+          "式伝"
+        ],
+        "question_node_id": 22069260,
+        "question_text": "【しきてん】には礼装で参加するのがマナーだ。",
+        "stem": "【しきてん】には礼装で参加するのがマナーだ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "あゆむ",
+        "book_id": 1569173,
+        "edge_id": 19278859,
+        "explanation": "",
+        "id": 24849576,
+        "index": 5,
+        "options": [
+          "あゆむ",
+          "あるむ",
+          "ほむ",
+          "あるくむ"
+        ],
+        "question_node_id": 22069261,
+        "question_text": "苦難の人生を【歩む】。",
+        "stem": "苦難の人生を【歩む】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "たもつ",
+        "book_id": 1569173,
+        "edge_id": 19278861,
+        "explanation": "",
+        "id": 24849577,
+        "index": 6,
+        "options": [
+          "たもつ",
+          "ほつ",
+          "ほっつ",
+          "たっつ"
+        ],
+        "question_node_id": 22069263,
+        "question_text": "秩序を【保つ】。",
+        "stem": "秩序を【保つ】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "築く",
+        "book_id": 1569173,
+        "edge_id": 19278862,
+        "explanation": "",
+        "id": 24849578,
+        "index": 7,
+        "options": [
+          "築く",
+          "蓄く",
+          "建く",
+          "気付く"
+        ],
+        "question_node_id": 22069262,
+        "question_text": "繁栄を【きずく】。",
+        "stem": "繁栄を【きずく】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "絶える",
+        "book_id": 1569173,
+        "edge_id": 19278865,
+        "explanation": "",
+        "id": 24849579,
+        "index": 8,
+        "options": [
+          "絶える",
+          "耐える",
+          "無える",
+          "亡える"
+        ],
+        "question_node_id": 22069269,
+        "question_text": "家系が【たえる】。",
+        "stem": "家系が【たえる】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "途切れる",
+        "book_id": 1569173,
+        "edge_id": 19278864,
+        "explanation": "",
+        "id": 24849580,
+        "index": 9,
+        "options": [
+          "途切れる",
+          "都切れる",
+          "渡切れる",
+          "止切れる"
+        ],
+        "question_node_id": 22069259,
+        "question_text": "人通りが【とぎれる】。",
+        "stem": "人通りが【とぎれる】。"
+      }
+    ],
+    "task_id": 112458452,
+    "task_order": 9
+  },
+  {
+    "book_id": 1569174,
+    "book_name": "JLPT N1_10漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "しょくどう",
+        "book_id": 1569174,
+        "edge_id": 19278868,
+        "explanation": "",
+        "id": 24849581,
+        "index": 0,
+        "options": [
+          "しょくどう",
+          "しょっくどう",
+          "しょくとう",
+          "しょっぐどう"
+        ],
+        "question_node_id": 22069279,
+        "question_text": "食堂で食べたものが【食道】を通る。",
+        "stem": "食堂で食べたものが【食道】を通る。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "胃",
+        "book_id": 1569174,
+        "edge_id": 19278876,
+        "explanation": "",
+        "id": 24849582,
+        "index": 1,
+        "options": [
+          "胃",
+          "伊",
+          "井",
+          "衣"
+        ],
+        "question_node_id": 22069273,
+        "question_text": "石井さんの【い】に石が見つかった。",
+        "stem": "石井さんの【い】に石が見つかった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "しょうちょう",
+        "book_id": 1569174,
+        "edge_id": 19278875,
+        "explanation": "",
+        "id": 24849583,
+        "index": 2,
+        "options": [
+          "しょうちょう",
+          "しょっちょう",
+          "しょちょう",
+          "しょんちょう"
+        ],
+        "question_node_id": 22069278,
+        "question_text": "省庁に勤める人間が【小腸】を検査する。",
+        "stem": "省庁に勤める人間が【小腸】を検査する。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "心臓",
+        "book_id": 1569174,
+        "edge_id": 19278870,
+        "explanation": "",
+        "id": 24849584,
+        "index": 3,
+        "options": [
+          "心臓",
+          "心蔵",
+          "芯蔵",
+          "芯臓"
+        ],
+        "question_node_id": 22069274,
+        "question_text": "この患者さんは【しんぞう】の病気で入院している。",
+        "stem": "この患者さんは【しんぞう】の病気で入院している。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "だいちょう",
+        "book_id": 1569174,
+        "edge_id": 19278873,
+        "explanation": "",
+        "id": 24849585,
+        "index": 4,
+        "options": [
+          "だいちょう",
+          "たいちょう",
+          "おおちょう",
+          "おちょう"
+        ],
+        "question_node_id": 22069280,
+        "question_text": "「【大腸】の調子が悪いんだ」「だいじょうぶだよ」",
+        "stem": "「【大腸】の調子が悪いんだ」「だいじょうぶだよ」"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "はげんで",
+        "book_id": 1569174,
+        "edge_id": 19278869,
+        "explanation": "",
+        "id": 24849586,
+        "index": 5,
+        "options": [
+          "はげんで",
+          "りきんで",
+          "かんで",
+          "よろこんで"
+        ],
+        "question_node_id": 22069294,
+        "question_text": "オリンピック出場を目指して、毎日練習に【励んで】いる。",
+        "stem": "オリンピック出場を目指して、毎日練習に【励んで】いる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "とらえて",
+        "book_id": 1569174,
+        "edge_id": 19278872,
+        "explanation": "",
+        "id": 24849587,
+        "index": 6,
+        "options": [
+          "とらえて",
+          "そえて",
+          "そくえて",
+          "かまえて"
+        ],
+        "question_node_id": 22069291,
+        "question_text": "上手な似顔絵は、うまく特徴を【捉えて】書かれている。",
+        "stem": "上手な似顔絵は、うまく特徴を【捉えて】書かれている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "襲われ",
+        "book_id": 1569174,
+        "edge_id": 19278877,
+        "explanation": "",
+        "id": 24849588,
+        "index": 7,
+        "options": [
+          "襲われ",
+          "脅われ",
+          "喝われ",
+          "覆われ"
+        ],
+        "question_node_id": 22069292,
+        "question_text": "銀行が強盗に【おそわれ】、1億円奪われた。",
+        "stem": "銀行が強盗に【おそわれ】、1億円奪われた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "挙がった",
+        "book_id": 1569174,
+        "edge_id": 19278874,
+        "explanation": "",
+        "id": 24849589,
+        "index": 8,
+        "options": [
+          "挙がった",
+          "上がった",
+          "揚がった",
+          "跳がった"
+        ],
+        "question_node_id": 22069282,
+        "question_text": "司会者が意見を求めると、多くの手が【あがった】。",
+        "stem": "司会者が意見を求めると、多くの手が【あがった】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "負かされて",
+        "book_id": 1569174,
+        "edge_id": 19278871,
+        "explanation": "",
+        "id": 24849590,
+        "index": 9,
+        "options": [
+          "負かされて",
+          "敗かされて",
+          "負されて",
+          "敗されて"
+        ],
+        "question_node_id": 22069290,
+        "question_text": "彼女は将棋が強くて、何度やっても【まかされて】しまう。",
+        "stem": "彼女は将棋が強くて、何度やっても【まかされて】しまう。"
+      }
+    ],
+    "task_id": 112458453,
+    "task_order": 10
+  },
+  {
+    "book_id": 1569175,
+    "book_name": "JLPT N1_11漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "省みる",
+        "book_id": 1569175,
+        "edge_id": 19278880,
+        "explanation": "",
+        "id": 24849591,
+        "index": 0,
+        "options": [
+          "省みる",
+          "帰りみる",
+          "試みる",
+          "鑑みる"
+        ],
+        "question_node_id": 22069300,
+        "question_text": "毎晩日記を書いて、自分を【かえりみる】ことにしている。",
+        "stem": "毎晩日記を書いて、自分を【かえりみる】ことにしている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "やとった",
+        "book_id": 1569175,
+        "edge_id": 19278883,
+        "explanation": "",
+        "id": 24849592,
+        "index": 1,
+        "options": [
+          "やとった",
+          "こった",
+          "とった",
+          "やった"
+        ],
+        "question_node_id": 22069301,
+        "question_text": "この工場は新たに５人の従業員を【雇った】。",
+        "stem": "この工場は新たに５人の従業員を【雇った】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "やしなっている",
+        "book_id": 1569175,
+        "edge_id": 19278882,
+        "explanation": "",
+        "id": 24849593,
+        "index": 2,
+        "options": [
+          "やしなっている",
+          "よっている",
+          "しょっている",
+          "みっている"
+        ],
+        "question_node_id": 22069299,
+        "question_text": "彼女は一人で家族を【養っている】。",
+        "stem": "彼女は一人で家族を【養っている】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "あせる",
+        "book_id": 1569175,
+        "edge_id": 19278887,
+        "explanation": "",
+        "id": 24849594,
+        "index": 3,
+        "options": [
+          "あせる",
+          "じる",
+          "じれる",
+          "はしる"
+        ],
+        "question_node_id": 22069311,
+        "question_text": "【焦る】とろくなことはない。落ち着いて考えよう。",
+        "stem": "【焦る】とろくなことはない。落ち着いて考えよう。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "まじわっている",
+        "book_id": 1569175,
+        "edge_id": 19278878,
+        "explanation": "",
+        "id": 24849595,
+        "index": 4,
+        "options": [
+          "まじわっている",
+          "こわっている",
+          "さわっている",
+          "くわわっている"
+        ],
+        "question_node_id": 22069314,
+        "question_text": "国道に県道が【交わっている】。",
+        "stem": "国道に県道が【交わっている】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "どわすれ",
+        "book_id": 1569175,
+        "edge_id": 19278884,
+        "explanation": "",
+        "id": 24849596,
+        "index": 5,
+        "options": [
+          "どわすれ",
+          "たびわすれ",
+          "どぼうれ",
+          "たびぼうれ"
+        ],
+        "question_node_id": 22069321,
+        "question_text": "好きな俳優の名前を【度忘れ】してしまい、どうしても出てこない。",
+        "stem": "好きな俳優の名前を【度忘れ】してしまい、どうしても出てこない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "素質",
+        "book_id": 1569175,
+        "edge_id": 19278881,
+        "explanation": "",
+        "id": 24849597,
+        "index": 6,
+        "options": [
+          "素質",
+          "粗質",
+          "訴質",
+          "資質"
+        ],
+        "question_node_id": 22069315,
+        "question_text": "教師は生徒の【そしつ】を見抜いた。",
+        "stem": "教師は生徒の【そしつ】を見抜いた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "用心",
+        "book_id": 1569175,
+        "edge_id": 19278879,
+        "explanation": "",
+        "id": 24849598,
+        "index": 7,
+        "options": [
+          "用心",
+          "養心",
+          "要心",
+          "容心"
+        ],
+        "question_node_id": 22069319,
+        "question_text": "振り込め詐欺には十分【ようじん】してください。",
+        "stem": "振り込め詐欺には十分【ようじん】してください。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "倹約",
+        "book_id": 1569175,
+        "edge_id": 19278885,
+        "explanation": "",
+        "id": 24849599,
+        "index": 8,
+        "options": [
+          "倹約",
+          "検約",
+          "謙約",
+          "兼約"
+        ],
+        "question_node_id": 22069324,
+        "question_text": "給料が減ったので、もっと【けんやく】しなければならない。",
+        "stem": "給料が減ったので、もっと【けんやく】しなければならない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "縁起",
+        "book_id": 1569175,
+        "edge_id": 19278886,
+        "explanation": "",
+        "id": 24849600,
+        "index": 9,
+        "options": [
+          "縁起",
+          "演技",
+          "延儀",
+          "縁義"
+        ],
+        "question_node_id": 22069310,
+        "question_text": "【えんぎ】が良い数字を選んで、競馬で儲けた。",
+        "stem": "【えんぎ】が良い数字を選んで、競馬で儲けた。"
+      }
+    ],
+    "task_id": 112458454,
+    "task_order": 11
+  },
+  {
+    "book_id": 1569176,
+    "book_name": "JLPT N1_12漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "かけて",
+        "book_id": 1569176,
+        "edge_id": 19278896,
+        "explanation": "",
+        "id": 24849601,
+        "index": 0,
+        "options": [
+          "かけて",
+          "がけて",
+          "けっけて",
+          "けけて"
+        ],
+        "question_node_id": 22069325,
+        "question_text": "若者たちは国を守るために、命を【懸けて】戦った。",
+        "stem": "若者たちは国を守るために、命を【懸けて】戦った。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "かえりみる",
+        "book_id": 1569176,
+        "edge_id": 19278895,
+        "explanation": "",
+        "id": 24849602,
+        "index": 1,
+        "options": [
+          "かえりみる",
+          "こころみる",
+          "こみる",
+          "かんみる"
+        ],
+        "question_node_id": 22069328,
+        "question_text": "青春時代を【顧みる】と、恥ずかしかったことばかりだ。",
+        "stem": "青春時代を【顧みる】と、恥ずかしかったことばかりだ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "こころみた",
+        "book_id": 1569176,
+        "edge_id": 19278897,
+        "explanation": "",
+        "id": 24849603,
+        "index": 2,
+        "options": [
+          "こころみた",
+          "しきみた",
+          "かえりみた",
+          "しみた"
+        ],
+        "question_node_id": 22069329,
+        "question_text": "いろいろ【試みた】が、病気は一向に良くならなかった。",
+        "stem": "いろいろ【試みた】が、病気は一向に良くならなかった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "あんじる",
+        "book_id": 1569176,
+        "edge_id": 19278888,
+        "explanation": "",
+        "id": 24849604,
+        "index": 3,
+        "options": [
+          "あんじる",
+          "えんじる",
+          "そうじる",
+          "こうじる"
+        ],
+        "question_node_id": 22069342,
+        "question_text": "ことの成り行きを【案じる】。",
+        "stem": "ことの成り行きを【案じる】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "こごえて",
+        "book_id": 1569176,
+        "edge_id": 19278894,
+        "explanation": "",
+        "id": 24849605,
+        "index": 4,
+        "options": [
+          "こごえて",
+          "とうえて",
+          "こうえて",
+          "ここえて"
+        ],
+        "question_node_id": 22069344,
+        "question_text": "寒さで手が【凍えて】、指がうまく動かせない。",
+        "stem": "寒さで手が【凍えて】、指がうまく動かせない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "手近",
+        "book_id": 1569176,
+        "edge_id": 19278891,
+        "explanation": "",
+        "id": 24849606,
+        "index": 5,
+        "options": [
+          "手近",
+          "手直",
+          "手治下",
+          "手地下"
+        ],
+        "question_node_id": 22069333,
+        "question_text": "【てぢか】な例を挙げて説明する。",
+        "stem": "【てぢか】な例を挙げて説明する。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "難民",
+        "book_id": 1569176,
+        "edge_id": 19278889,
+        "explanation": "",
+        "id": 24849607,
+        "index": 6,
+        "options": [
+          "難民",
+          "灘民",
+          "南民",
+          "軟民"
+        ],
+        "question_node_id": 22069348,
+        "question_text": "戦争によって【なんみん】となった人々がいる。",
+        "stem": "戦争によって【なんみん】となった人々がいる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "全会一致",
+        "book_id": 1569176,
+        "edge_id": 19278890,
+        "explanation": "",
+        "id": 24849608,
+        "index": 7,
+        "options": [
+          "全会一致",
+          "前回一致",
+          "全界一致",
+          "全壊一致"
+        ],
+        "question_node_id": 22069347,
+        "question_text": "彼の提案は【ぜんかいいっち】で受け入れられた。",
+        "stem": "彼の提案は【ぜんかいいっち】で受け入れられた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "緊急事態",
+        "book_id": 1569176,
+        "edge_id": 19278892,
+        "explanation": "",
+        "id": 24849609,
+        "index": 8,
+        "options": [
+          "緊急事態",
+          "緊急事体",
+          "近急事態",
+          "近急事体"
+        ],
+        "question_node_id": 22069346,
+        "question_text": "「【きんきゅうじたい】です！」",
+        "stem": "「【きんきゅうじたい】です！」"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "態勢",
+        "book_id": 1569176,
+        "edge_id": 19278893,
+        "explanation": "",
+        "id": 24849610,
+        "index": 9,
+        "options": [
+          "態勢",
+          "体制",
+          "耐勢",
+          "対勢"
+        ],
+        "question_node_id": 22069345,
+        "question_text": "受け入れ【たいせい】を整える。",
+        "stem": "受け入れ【たいせい】を整える。"
+      }
+    ],
+    "task_id": 112458455,
+    "task_order": 12
+  },
+  {
+    "book_id": 1569177,
+    "book_name": "JLPT N1_13漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "とぼしく",
+        "book_id": 1569177,
+        "edge_id": 19278898,
+        "explanation": "",
+        "id": 24849611,
+        "index": 0,
+        "options": [
+          "とぼしく",
+          "まずしく",
+          "ひさしく",
+          "ゆきしく"
+        ],
+        "question_node_id": 22069362,
+        "question_text": "日本は地下資源が【乏しく】、多くを輸入に頼っている。",
+        "stem": "日本は地下資源が【乏しく】、多くを輸入に頼っている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "厳重",
+        "book_id": 1569177,
+        "edge_id": 19278906,
+        "explanation": "",
+        "id": 24849612,
+        "index": 1,
+        "options": [
+          "厳重",
+          "玄重",
+          "厳充",
+          "玄充"
+        ],
+        "question_node_id": 22069353,
+        "question_text": "警察は【げんじゅう】な警備態勢を敷いた。",
+        "stem": "警察は【げんじゅう】な警備態勢を敷いた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "そぼく",
+        "book_id": 1569177,
+        "edge_id": 19278901,
+        "explanation": "",
+        "id": 24849613,
+        "index": 2,
+        "options": [
+          "そぼく",
+          "すぼく",
+          "そばく",
+          "すぱく"
+        ],
+        "question_node_id": 22069355,
+        "question_text": "秋本さんは【素朴】な人柄で、人気がある。",
+        "stem": "秋本さんは【素朴】な人柄で、人気がある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "盛大",
+        "book_id": 1569177,
+        "edge_id": 19278900,
+        "explanation": "",
+        "id": 24849614,
+        "index": 3,
+        "options": [
+          "盛大",
+          "声大",
+          "成大",
+          "政大"
+        ],
+        "question_node_id": 22069357,
+        "question_text": "加藤先生の結婚式が【せいだい】に行われた。",
+        "stem": "加藤先生の結婚式が【せいだい】に行われた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "なめらか",
+        "book_id": 1569177,
+        "edge_id": 19278899,
+        "explanation": "",
+        "id": 24849615,
+        "index": 4,
+        "options": [
+          "なめらか",
+          "すべらか",
+          "あきらか",
+          "やわらか"
+        ],
+        "question_node_id": 22069361,
+        "question_text": "大理石を磨いて表面を【滑らか】にする。",
+        "stem": "大理石を磨いて表面を【滑らか】にする。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ふしん",
+        "book_id": 1569177,
+        "edge_id": 19278902,
+        "explanation": "",
+        "id": 24849616,
+        "index": 5,
+        "options": [
+          "ふしん",
+          "ふびん",
+          "ふはい",
+          "ふばん"
+        ],
+        "question_node_id": 22069366,
+        "question_text": "【不審】な男がうちの周りをうろうろしていたので、警察に電話した。",
+        "stem": "【不審】な男がうちの周りをうろうろしていたので、警察に電話した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "きゃっかんてき",
+        "book_id": 1569177,
+        "edge_id": 19278903,
+        "explanation": "",
+        "id": 24849617,
+        "index": 6,
+        "options": [
+          "きゃっかんてき",
+          "かくかんてき",
+          "らっかんてき",
+          "しゅかんてき"
+        ],
+        "question_node_id": 22069368,
+        "question_text": "当事者ではなく、第三者の【客観的】な意見が聞きたい。",
+        "stem": "当事者ではなく、第三者の【客観的】な意見が聞きたい。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "簡潔",
+        "book_id": 1569177,
+        "edge_id": 19278905,
+        "explanation": "",
+        "id": 24849618,
+        "index": 7,
+        "options": [
+          "簡潔",
+          "簡決",
+          "間清",
+          "簡結"
+        ],
+        "question_node_id": 22069364,
+        "question_text": "「要点を【かんけつ】に述べてください」",
+        "stem": "「要点を【かんけつ】に述べてください」"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "微妙",
+        "book_id": 1569177,
+        "edge_id": 19278904,
+        "explanation": "",
+        "id": 24849619,
+        "index": 8,
+        "options": [
+          "微妙",
+          "美妙",
+          "尾妙",
+          "未妙"
+        ],
+        "question_node_id": 22069371,
+        "question_text": "外国語の【びみょう】なニュアンスの違いまで理解するのは難しい。",
+        "stem": "外国語の【びみょう】なニュアンスの違いまで理解するのは難しい。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "急激",
+        "book_id": 1569177,
+        "edge_id": 19278907,
+        "explanation": "",
+        "id": 24849620,
+        "index": 9,
+        "options": [
+          "急激",
+          "急撃",
+          "急劇",
+          "急下気"
+        ],
+        "question_node_id": 22069370,
+        "question_text": "株価が【きゅうげき】に上昇した。",
+        "stem": "株価が【きゅうげき】に上昇した。"
+      }
+    ],
+    "task_id": 112458456,
+    "task_order": 13
+  },
+  {
+    "book_id": 1569178,
+    "book_name": "JLPT N1_14漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "温和",
+        "book_id": 1569178,
+        "edge_id": 19278915,
+        "explanation": "",
+        "id": 24849621,
+        "index": 0,
+        "options": [
+          "温和",
+          "穏和",
+          "恩和",
+          "隠和"
+        ],
+        "question_node_id": 22069375,
+        "question_text": "このあたりは気候が【おんわ】で住みやすい。",
+        "stem": "このあたりは気候が【おんわ】で住みやすい。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "不可欠",
+        "book_id": 1569178,
+        "edge_id": 19278917,
+        "explanation": "",
+        "id": 24849622,
+        "index": 1,
+        "options": [
+          "不可欠",
+          "不完決",
+          "不完欠",
+          "不可決"
+        ],
+        "question_node_id": 22069381,
+        "question_text": "決断力は、リーダーには【ふかけつ】な資質だと思う。",
+        "stem": "決断力は、リーダーには【ふかけつ】な資質だと思う。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "楽観",
+        "book_id": 1569178,
+        "edge_id": 19278916,
+        "explanation": "",
+        "id": 24849623,
+        "index": 2,
+        "options": [
+          "楽観",
+          "落看",
+          "落観",
+          "楽看"
+        ],
+        "question_node_id": 22069374,
+        "question_text": "自分の将来について、彼は【らっかん】している。",
+        "stem": "自分の将来について、彼は【らっかん】している。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "待ち遠しい",
+        "book_id": 1569178,
+        "edge_id": 19278908,
+        "explanation": "",
+        "id": 24849624,
+        "index": 3,
+        "options": [
+          "待ち遠しい",
+          "待ち通しい",
+          "町遠しい",
+          "町通しい"
+        ],
+        "question_node_id": 22069377,
+        "question_text": "帰国して家族に会える日が【まちどおしい】。",
+        "stem": "帰国して家族に会える日が【まちどおしい】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "うたがわしい",
+        "book_id": 1569178,
+        "edge_id": 19278914,
+        "explanation": "",
+        "id": 24849625,
+        "index": 4,
+        "options": [
+          "うたがわしい",
+          "うたかわしい",
+          "ぎわしい",
+          "ぎいわしい"
+        ],
+        "question_node_id": 22069395,
+        "question_text": "この記事が本当かどうか【疑わしい】。",
+        "stem": "この記事が本当かどうか【疑わしい】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ひょうしき",
+        "book_id": 1569178,
+        "edge_id": 19278909,
+        "explanation": "",
+        "id": 24849626,
+        "index": 5,
+        "options": [
+          "ひょうしき",
+          "しょうしき",
+          "ひょうしょく",
+          "ひょうじ"
+        ],
+        "question_node_id": 22069384,
+        "question_text": "交通【標識】を見落として、警察に注意された。",
+        "stem": "交通【標識】を見落として、警察に注意された。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "びんかん",
+        "book_id": 1569178,
+        "edge_id": 19278911,
+        "explanation": "",
+        "id": 24849627,
+        "index": 6,
+        "options": [
+          "びんかん",
+          "ひんかん",
+          "ぴかん",
+          "びかん"
+        ],
+        "question_node_id": 22069382,
+        "question_text": "新聞記者は社会の動きに【敏感】でなければならない。",
+        "stem": "新聞記者は社会の動きに【敏感】でなければならない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "おろかな",
+        "book_id": 1569178,
+        "edge_id": 19278910,
+        "explanation": "",
+        "id": 24849628,
+        "index": 7,
+        "options": [
+          "おろかな",
+          "まさかな",
+          "わずかな",
+          "おそろかな"
+        ],
+        "question_node_id": 22069393,
+        "question_text": "1ヵ月分の給料をギャンブルで失うという、【愚かな】ことをしてしまった。",
+        "stem": "1ヵ月分の給料をギャンブルで失うという、【愚かな】ことをしてしまった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "わかわかしい",
+        "book_id": 1569178,
+        "edge_id": 19278913,
+        "explanation": "",
+        "id": 24849629,
+        "index": 8,
+        "options": [
+          "わかわかしい",
+          "わくわくしい",
+          "にゃくにゃくしい",
+          "ううしい"
+        ],
+        "question_node_id": 22069398,
+        "question_text": "あの俳優はもう70代のはずだが、いつまでも【若々しい】。",
+        "stem": "あの俳優はもう70代のはずだが、いつまでも【若々しい】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "陽気",
+        "book_id": 1569178,
+        "edge_id": 19278912,
+        "explanation": "",
+        "id": 24849630,
+        "index": 9,
+        "options": [
+          "陽気",
+          "洋気",
+          "容気",
+          "揚気"
+        ],
+        "question_node_id": 22069402,
+        "question_text": "【ようき】な性格の彼女は、友だちができやすい。",
+        "stem": "【ようき】な性格の彼女は、友だちができやすい。"
+      }
+    ],
+    "task_id": 112458457,
+    "task_order": 14
+  },
+  {
+    "book_id": 1569179,
+    "book_name": "JLPT N1_15漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ごうまん",
+        "book_id": 1569179,
+        "edge_id": 19278919,
+        "explanation": "",
+        "id": 24849631,
+        "index": 0,
+        "options": [
+          "ごうまん",
+          "こうまん",
+          "かんまん",
+          "がんまん"
+        ],
+        "question_node_id": 22069415,
+        "question_text": "彼は態度が【傲慢】だから、あまり好かれていない。",
+        "stem": "彼は態度が【傲慢】だから、あまり好かれていない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "らんぼう",
+        "book_id": 1569179,
+        "edge_id": 19278918,
+        "explanation": "",
+        "id": 24849632,
+        "index": 1,
+        "options": [
+          "らんぼう",
+          "らんほう",
+          "らんぽう",
+          "らんもう"
+        ],
+        "question_node_id": 22069408,
+        "question_text": "物を【乱暴】に扱う。",
+        "stem": "物を【乱暴】に扱う。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "臆病",
+        "book_id": 1569179,
+        "edge_id": 19278927,
+        "explanation": "",
+        "id": 24849633,
+        "index": 2,
+        "options": [
+          "臆病",
+          "億弱",
+          "億病",
+          "臆弱"
+        ],
+        "question_node_id": 22069424,
+        "question_text": "私は恐がりで【おくびょう】な、よく泣く子どもだった。",
+        "stem": "私は恐がりで【おくびょう】な、よく泣く子どもだった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ひんじゃく",
+        "book_id": 1569179,
+        "edge_id": 19278920,
+        "explanation": "",
+        "id": 24849634,
+        "index": 3,
+        "options": [
+          "ひんじゃく",
+          "びんじゃく",
+          "ひんよわ",
+          "びんよわ"
+        ],
+        "question_node_id": 22069407,
+        "question_text": "この論文は内容が【貧弱】だ。",
+        "stem": "この論文は内容が【貧弱】だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "なまいき",
+        "book_id": 1569179,
+        "edge_id": 19278921,
+        "explanation": "",
+        "id": 24849635,
+        "index": 4,
+        "options": [
+          "なまいき",
+          "きいくじ",
+          "かちき",
+          "せいき"
+        ],
+        "question_node_id": 22069414,
+        "question_text": "新入社員のくせに先輩に説教するなんて、【生意気】だ。",
+        "stem": "新入社員のくせに先輩に説教するなんて、【生意気】だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "大胆",
+        "book_id": 1569179,
+        "edge_id": 19278922,
+        "explanation": "",
+        "id": 24849636,
+        "index": 5,
+        "options": [
+          "大胆",
+          "大端",
+          "代端",
+          "代胆"
+        ],
+        "question_node_id": 22069404,
+        "question_text": "未経験者が冬山に一人で登るなんて、【だいたん】というより無謀だ。",
+        "stem": "未経験者が冬山に一人で登るなんて、【だいたん】というより無謀だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "軽快",
+        "book_id": 1569179,
+        "edge_id": 19278924,
+        "explanation": "",
+        "id": 24849637,
+        "index": 6,
+        "options": [
+          "軽快",
+          "軽界",
+          "景快",
+          "敬快"
+        ],
+        "question_node_id": 22069409,
+        "question_text": "移動の疲れをものともせずに、【けいかい】な動きを見せた。",
+        "stem": "移動の疲れをものともせずに、【けいかい】な動きを見せた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "窮屈",
+        "book_id": 1569179,
+        "edge_id": 19278923,
+        "explanation": "",
+        "id": 24849638,
+        "index": 7,
+        "options": [
+          "窮屈",
+          "旧屈",
+          "急屈",
+          "級屈"
+        ],
+        "question_node_id": 22069406,
+        "question_text": "太って、服が【きゅうくつ】になってしまった。",
+        "stem": "太って、服が【きゅうくつ】になってしまった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ちゅうじつ",
+        "book_id": 1569179,
+        "edge_id": 19278926,
+        "explanation": "",
+        "id": 24849639,
+        "index": 8,
+        "options": [
+          "ちゅうじつ",
+          "ちゅじつ",
+          "ただみ",
+          "ちゅうみ"
+        ],
+        "question_node_id": 22069421,
+        "question_text": "犬は飼い主に【忠実】だと言われる。",
+        "stem": "犬は飼い主に【忠実】だと言われる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "残酷",
+        "book_id": 1569179,
+        "edge_id": 19278925,
+        "explanation": "",
+        "id": 24849640,
+        "index": 9,
+        "options": [
+          "残酷",
+          "惨酷",
+          "残国",
+          "断酷"
+        ],
+        "question_node_id": 22069422,
+        "question_text": "映画で【ざんこく】な場面を見て、思わず目を背けた。",
+        "stem": "映画で【ざんこく】な場面を見て、思わず目を背けた。"
+      }
+    ],
+    "task_id": 112458458,
+    "task_order": 15
+  },
+  {
+    "book_id": 1569180,
+    "book_name": "JLPT N1_16漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "しっと",
+        "book_id": 1569180,
+        "edge_id": 19278929,
+        "explanation": "",
+        "id": 24849641,
+        "index": 0,
+        "options": [
+          "しっと",
+          "しっせき",
+          "しつと",
+          "とせき"
+        ],
+        "question_node_id": 22069435,
+        "question_text": "ライバルの才能に【嫉妬】する。",
+        "stem": "ライバルの才能に【嫉妬】する。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "あやまち",
+        "book_id": 1569180,
+        "edge_id": 19278936,
+        "explanation": "",
+        "id": 24849642,
+        "index": 1,
+        "options": [
+          "あやまち",
+          "かち",
+          "てきち",
+          "すなわち"
+        ],
+        "question_node_id": 22069428,
+        "question_text": "彼は自分の【過ち】をなかなか認めようとしない。",
+        "stem": "彼は自分の【過ち】をなかなか認めようとしない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "苦心",
+        "book_id": 1569180,
+        "edge_id": 19278928,
+        "explanation": "",
+        "id": 24849643,
+        "index": 2,
+        "options": [
+          "苦心",
+          "苦辛",
+          "苦真",
+          "苦親"
+        ],
+        "question_node_id": 22069431,
+        "question_text": "【くしん】の作ができあがった。",
+        "stem": "【くしん】の作ができあがった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ほこり",
+        "book_id": 1569180,
+        "edge_id": 19278930,
+        "explanation": "",
+        "id": 24849644,
+        "index": 3,
+        "options": [
+          "ほこり",
+          "こり",
+          "かり",
+          "ゆうり"
+        ],
+        "question_node_id": 22069430,
+        "question_text": "平和憲法を持っていることは、我が国の【誇り】だ。",
+        "stem": "平和憲法を持っていることは、我が国の【誇り】だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "絶望",
+        "book_id": 1569180,
+        "edge_id": 19278935,
+        "explanation": "",
+        "id": 24849645,
+        "index": 4,
+        "options": [
+          "絶望",
+          "絶忙",
+          "絶忘",
+          "絶亡"
+        ],
+        "question_node_id": 22069437,
+        "question_text": "すべてを失った彼は、人生に【ぜつぼう】して自殺を図った。",
+        "stem": "すべてを失った彼は、人生に【ぜつぼう】して自殺を図った。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "べんかい",
+        "book_id": 1569180,
+        "edge_id": 19278933,
+        "explanation": "",
+        "id": 24849646,
+        "index": 5,
+        "options": [
+          "べんかい",
+          "べんけい",
+          "べんげ",
+          "べんかん"
+        ],
+        "question_node_id": 22069432,
+        "question_text": "信頼を裏切った彼の行為には【弁解】の余地はない。",
+        "stem": "信頼を裏切った彼の行為には【弁解】の余地はない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "没頭",
+        "book_id": 1569180,
+        "edge_id": 19278932,
+        "explanation": "",
+        "id": 24849647,
+        "index": 6,
+        "options": [
+          "没頭",
+          "没闘",
+          "沸騰",
+          "暴騰"
+        ],
+        "question_node_id": 22069440,
+        "question_text": "今、趣味の写真に【ぼっとう】している。",
+        "stem": "今、趣味の写真に【ぼっとう】している。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "協調",
+        "book_id": 1569180,
+        "edge_id": 19278931,
+        "explanation": "",
+        "id": 24849648,
+        "index": 7,
+        "options": [
+          "協調",
+          "興調",
+          "共調",
+          "強調"
+        ],
+        "question_node_id": 22069444,
+        "question_text": "環境問題の解決には、各国の【きょうちょう】が必要だ。",
+        "stem": "環境問題の解決には、各国の【きょうちょう】が必要だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ばつ",
+        "book_id": 1569180,
+        "edge_id": 19278937,
+        "explanation": "",
+        "id": 24849649,
+        "index": 8,
+        "options": [
+          "ばつ",
+          "つみ",
+          "ばち",
+          "つむ"
+        ],
+        "question_node_id": 22069436,
+        "question_text": "悪いことをしたら【罰】を受けるのは当然だ。",
+        "stem": "悪いことをしたら【罰】を受けるのは当然だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "沈黙",
+        "book_id": 1569180,
+        "edge_id": 19278934,
+        "explanation": "",
+        "id": 24849650,
+        "index": 9,
+        "options": [
+          "沈黙",
+          "鎮黙",
+          "珍黙",
+          "鎮目"
+        ],
+        "question_node_id": 22069442,
+        "question_text": "最初に【ちんもく】を破ったのは野村氏だった。",
+        "stem": "最初に【ちんもく】を破ったのは野村氏だった。"
+      }
+    ],
+    "task_id": 112458459,
+    "task_order": 16
+  },
+  {
+    "book_id": 1569181,
+    "book_name": "JLPT N1_17漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "こちょう",
+        "book_id": 1569181,
+        "edge_id": 19278938,
+        "explanation": "",
+        "id": 24849651,
+        "index": 0,
+        "options": [
+          "こちょう",
+          "ほちょう",
+          "ぼうちょう",
+          "こうちょう"
+        ],
+        "question_node_id": 22069450,
+        "question_text": "事件を【誇張】せず、ありのままに書く。",
+        "stem": "事件を【誇張】せず、ありのままに書く。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "さっかく",
+        "book_id": 1569181,
+        "edge_id": 19278939,
+        "explanation": "",
+        "id": 24849652,
+        "index": 1,
+        "options": [
+          "さっかく",
+          "さつかく",
+          "ざっかく",
+          "さっかん"
+        ],
+        "question_node_id": 22069460,
+        "question_text": "今日は木曜日なのに、金曜日と【錯覚】していた。",
+        "stem": "今日は木曜日なのに、金曜日と【錯覚】していた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "しょうだく",
+        "book_id": 1569181,
+        "edge_id": 19278946,
+        "explanation": "",
+        "id": 24849653,
+        "index": 2,
+        "options": [
+          "しょうだく",
+          "しょうたく",
+          "しょだく",
+          "しょったく"
+        ],
+        "question_node_id": 22069448,
+        "question_text": "父に結婚の【承諾】を得る。",
+        "stem": "父に結婚の【承諾】を得る。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "激励",
+        "book_id": 1569181,
+        "edge_id": 19278941,
+        "explanation": "",
+        "id": 24849654,
+        "index": 3,
+        "options": [
+          "激励",
+          "劇励",
+          "撃励",
+          "激隷"
+        ],
+        "question_node_id": 22069456,
+        "question_text": "選手団を【げきれい】するために、大勢の人が集まった。",
+        "stem": "選手団を【げきれい】するために、大勢の人が集まった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "してき",
+        "book_id": 1569181,
+        "edge_id": 19278940,
+        "explanation": "",
+        "id": 24849655,
+        "index": 4,
+        "options": [
+          "してき",
+          "しじ",
+          "しけき",
+          "しせき"
+        ],
+        "question_node_id": 22069464,
+        "question_text": "次の文の誤りを【指摘】しなさい。",
+        "stem": "次の文の誤りを【指摘】しなさい。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "利害",
+        "book_id": 1569181,
+        "edge_id": 19278947,
+        "explanation": "",
+        "id": 24849656,
+        "index": 5,
+        "options": [
+          "利害",
+          "理害",
+          "里害",
+          "理解"
+        ],
+        "question_node_id": 22069451,
+        "question_text": "共通の敵ができたことで【りがい】が一致した。",
+        "stem": "共通の敵ができたことで【りがい】が一致した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "損害",
+        "book_id": 1569181,
+        "edge_id": 19278943,
+        "explanation": "",
+        "id": 24849657,
+        "index": 6,
+        "options": [
+          "損害",
+          "尊害",
+          "失害",
+          "操害"
+        ],
+        "question_node_id": 22069457,
+        "question_text": "私のミスで会社に【そんがい】を与えてしまった。",
+        "stem": "私のミスで会社に【そんがい】を与えてしまった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "しや",
+        "book_id": 1569181,
+        "edge_id": 19278942,
+        "explanation": "",
+        "id": 24849658,
+        "index": 7,
+        "options": [
+          "しや",
+          "けんや",
+          "けんの",
+          "しの"
+        ],
+        "question_node_id": 22069454,
+        "question_text": "突然人影が【視野】に入ってきた。",
+        "stem": "突然人影が【視野】に入ってきた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "空白",
+        "book_id": 1569181,
+        "edge_id": 19278945,
+        "explanation": "",
+        "id": 24849659,
+        "index": 8,
+        "options": [
+          "空白",
+          "空伯",
+          "緊迫",
+          "気迫"
+        ],
+        "question_node_id": 22069455,
+        "question_text": "政治に【くうはく】は許されない。",
+        "stem": "政治に【くうはく】は許されない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "診療",
+        "book_id": 1569181,
+        "edge_id": 19278944,
+        "explanation": "",
+        "id": 24849660,
+        "index": 9,
+        "options": [
+          "診療",
+          "新療",
+          "真療",
+          "親療"
+        ],
+        "question_node_id": 22069467,
+        "question_text": "町の【しんりょう】所に通う。",
+        "stem": "町の【しんりょう】所に通う。"
+      }
+    ],
+    "task_id": 112458460,
+    "task_order": 17
+  },
+  {
+    "book_id": 1569182,
+    "book_name": "JLPT N1_18漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "採用",
+        "book_id": 1569182,
+        "edge_id": 19278948,
+        "explanation": "",
+        "id": 24849661,
+        "index": 0,
+        "options": [
+          "採用",
+          "最用",
+          "裁用",
+          "再用"
+        ],
+        "question_node_id": 22069470,
+        "question_text": "【さいよう】試験を受ける。",
+        "stem": "【さいよう】試験を受ける。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "所得",
+        "book_id": 1569182,
+        "edge_id": 19278953,
+        "explanation": "",
+        "id": 24849662,
+        "index": 1,
+        "options": [
+          "所得",
+          "所特",
+          "所徳",
+          "処得"
+        ],
+        "question_node_id": 22069474,
+        "question_text": "【しょとく】の範囲内で生活する。",
+        "stem": "【しょとく】の範囲内で生活する。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "たいぐう",
+        "book_id": 1569182,
+        "edge_id": 19278954,
+        "explanation": "",
+        "id": 24849663,
+        "index": 2,
+        "options": [
+          "たいぐう",
+          "たいくう",
+          "たぐう",
+          "たいぐ"
+        ],
+        "question_node_id": 22069482,
+        "question_text": "彼は部長【待遇】で入社した。",
+        "stem": "彼は部長【待遇】で入社した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "豊作",
+        "book_id": 1569182,
+        "edge_id": 19278951,
+        "explanation": "",
+        "id": 24849664,
+        "index": 3,
+        "options": [
+          "豊作",
+          "宝作",
+          "報作",
+          "芳作"
+        ],
+        "question_node_id": 22069488,
+        "question_text": "今年は米が【ほうさく】だ。",
+        "stem": "今年は米が【ほうさく】だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "しょぞく",
+        "book_id": 1569182,
+        "edge_id": 19278950,
+        "explanation": "",
+        "id": 24849665,
+        "index": 4,
+        "options": [
+          "しょぞく",
+          "しょとく",
+          "しょかつ",
+          "しょぞう"
+        ],
+        "question_node_id": 22069477,
+        "question_text": "私は区のボランティア会に【所属】している。",
+        "stem": "私は区のボランティア会に【所属】している。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "てんじょう",
+        "book_id": 1569182,
+        "edge_id": 19278957,
+        "explanation": "",
+        "id": 24849666,
+        "index": 5,
+        "options": [
+          "てんじょう",
+          "てんどん",
+          "いど",
+          "あまど"
+        ],
+        "question_node_id": 22069478,
+        "question_text": "【天井】に虫がいる。",
+        "stem": "【天井】に虫がいる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "光景",
+        "book_id": 1569182,
+        "edge_id": 19278949,
+        "explanation": "",
+        "id": 24849667,
+        "index": 6,
+        "options": [
+          "光景",
+          "光形",
+          "好景",
+          "広景"
+        ],
+        "question_node_id": 22069487,
+        "question_text": "温泉から眺める雪の【こうけい】に感動した。",
+        "stem": "温泉から眺める雪の【こうけい】に感動した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "報道",
+        "book_id": 1569182,
+        "edge_id": 19278955,
+        "explanation": "",
+        "id": 24849668,
+        "index": 7,
+        "options": [
+          "報道",
+          "放道",
+          "放導",
+          "報導"
+        ],
+        "question_node_id": 22069494,
+        "question_text": "選挙はリアルタイムで【ほうどう】される。",
+        "stem": "選挙はリアルタイムで【ほうどう】される。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "にほんかおく",
+        "book_id": 1569182,
+        "edge_id": 19278952,
+        "explanation": "",
+        "id": 24849669,
+        "index": 8,
+        "options": [
+          "にほんかおく",
+          "にほんやや",
+          "にほんがおく",
+          "にほんかや"
+        ],
+        "question_node_id": 22069484,
+        "question_text": "岐阜で伝統的な【日本家屋】を見学する。",
+        "stem": "岐阜で伝統的な【日本家屋】を見学する。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "たいしょ",
+        "book_id": 1569182,
+        "edge_id": 19278956,
+        "explanation": "",
+        "id": 24849670,
+        "index": 9,
+        "options": [
+          "たいしょ",
+          "たいじょ",
+          "たいそ",
+          "たいしょう"
+        ],
+        "question_node_id": 22069496,
+        "question_text": "客の苦情への【対処】法を考える。",
+        "stem": "客の苦情への【対処】法を考える。"
+      }
+    ],
+    "task_id": 112458461,
+    "task_order": 18
+  },
+  {
+    "book_id": 1569183,
+    "book_name": "JLPT N1_19漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "容疑者",
+        "book_id": 1569183,
+        "edge_id": 19278962,
+        "explanation": "",
+        "id": 24849671,
+        "index": 0,
+        "options": [
+          "容疑者",
+          "用疑者",
+          "要疑者",
+          "溶議者"
+        ],
+        "question_node_id": 22069499,
+        "question_text": "【ようぎしゃ】が連行された。",
+        "stem": "【ようぎしゃ】が連行された。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "しめいてはい",
+        "book_id": 1569183,
+        "edge_id": 19278965,
+        "explanation": "",
+        "id": 24849672,
+        "index": 1,
+        "options": [
+          "しめいてはい",
+          "さしなてはい",
+          "しめいしゅはい",
+          "さめいしゅばい"
+        ],
+        "question_node_id": 22069500,
+        "question_text": "【指名手配】された人を町で見かけた。",
+        "stem": "【指名手配】された人を町で見かけた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "脱税",
+        "book_id": 1569183,
+        "edge_id": 19278958,
+        "explanation": "",
+        "id": 24849673,
+        "index": 2,
+        "options": [
+          "脱税",
+          "奪税",
+          "脱済",
+          "奪済"
+        ],
+        "question_node_id": 22069504,
+        "question_text": "【だつぜい】した政治家の名前が報道された。",
+        "stem": "【だつぜい】した政治家の名前が報道された。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "刑務所",
+        "book_id": 1569183,
+        "edge_id": 19278960,
+        "explanation": "",
+        "id": 24849674,
+        "index": 3,
+        "options": [
+          "刑務所",
+          "警不所",
+          "敬無所",
+          "警務所"
+        ],
+        "question_node_id": 22069503,
+        "question_text": "真面目にしていれば、10年後に【けいむしょ】を出所できる。",
+        "stem": "真面目にしていれば、10年後に【けいむしょ】を出所できる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ごうとう",
+        "book_id": 1569183,
+        "edge_id": 19278959,
+        "explanation": "",
+        "id": 24849675,
+        "index": 4,
+        "options": [
+          "ごうとう",
+          "ごとう",
+          "きょうとう",
+          "きょとう"
+        ],
+        "question_node_id": 22069520,
+        "question_text": "宝石店に【強盗】が押し入った。",
+        "stem": "宝石店に【強盗】が押し入った。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "削減",
+        "book_id": 1569183,
+        "edge_id": 19278967,
+        "explanation": "",
+        "id": 24849676,
+        "index": 5,
+        "options": [
+          "削減",
+          "作減",
+          "策減",
+          "昨減"
+        ],
+        "question_node_id": 22069516,
+        "question_text": "従業員数の2割【さくげん】が目標だ。",
+        "stem": "従業員数の2割【さくげん】が目標だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "かげん",
+        "book_id": 1569183,
+        "edge_id": 19278961,
+        "explanation": "",
+        "id": 24849677,
+        "index": 6,
+        "options": [
+          "かげん",
+          "かけん",
+          "かみ",
+          "かあつ"
+        ],
+        "question_node_id": 22069519,
+        "question_text": "「湯【加減】はいかがですか」",
+        "stem": "「湯【加減】はいかがですか」"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "いっさい",
+        "book_id": 1569183,
+        "edge_id": 19278964,
+        "explanation": "",
+        "id": 24849678,
+        "index": 7,
+        "options": [
+          "いっさい",
+          "いっせい",
+          "ひときり",
+          "ひときれ"
+        ],
+        "question_node_id": 22069505,
+        "question_text": "「【一切】の責任は私が負います」",
+        "stem": "「【一切】の責任は私が負います」"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "よぶん",
+        "book_id": 1569183,
+        "edge_id": 19278963,
+        "explanation": "",
+        "id": 24849679,
+        "index": 8,
+        "options": [
+          "よぶん",
+          "やぶん",
+          "ようぶん",
+          "よぶ"
+        ],
+        "question_node_id": 22069510,
+        "question_text": "応募者が予定より少なく、賞品に【余分】が出た。",
+        "stem": "応募者が予定より少なく、賞品に【余分】が出た。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "進化",
+        "book_id": 1569183,
+        "edge_id": 19278966,
+        "explanation": "",
+        "id": 24849680,
+        "index": 9,
+        "options": [
+          "進化",
+          "新化",
+          "真化",
+          "深化"
+        ],
+        "question_node_id": 22069512,
+        "question_text": "生物の【しんか】の歴史を学びたい。",
+        "stem": "生物の【しんか】の歴史を学びたい。"
+      }
+    ],
+    "task_id": 112458462,
+    "task_order": 19
+  },
+  {
+    "book_id": 1569184,
+    "book_name": "JLPT N1_20漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "はっこう",
+        "book_id": 1569184,
+        "edge_id": 19278968,
+        "explanation": "",
+        "id": 24849681,
+        "index": 0,
+        "options": [
+          "はっこう",
+          "はつこう",
+          "はくこう",
+          "ばっこう"
+        ],
+        "question_node_id": 22069525,
+        "question_text": "チーズ、酒、納豆など、世界には【発酵】食品が数多くある。",
+        "stem": "チーズ、酒、納豆など、世界には【発酵】食品が数多くある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ほっそく",
+        "book_id": 1569184,
+        "edge_id": 19278975,
+        "explanation": "",
+        "id": 24849682,
+        "index": 1,
+        "options": [
+          "ほっそく",
+          "はっそく",
+          "ほそく",
+          "はつそく"
+        ],
+        "question_node_id": 22069532,
+        "question_text": "A市に町おこしのプロジェクト団体が【発足】した。",
+        "stem": "A市に町おこしのプロジェクト団体が【発足】した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "かくほ",
+        "book_id": 1569184,
+        "edge_id": 19278970,
+        "explanation": "",
+        "id": 24849683,
+        "index": 2,
+        "options": [
+          "かくほ",
+          "かくほく",
+          "かほ",
+          "かくほう"
+        ],
+        "question_node_id": 22069523,
+        "question_text": "紛争地域では、食料を【確保】することも難しい。",
+        "stem": "紛争地域では、食料を【確保】することも難しい。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "かくりつ",
+        "book_id": 1569184,
+        "edge_id": 19278969,
+        "explanation": "",
+        "id": 24849684,
+        "index": 3,
+        "options": [
+          "かくりつ",
+          "かくじつ",
+          "かくいつ",
+          "かくたち"
+        ],
+        "question_node_id": 22069524,
+        "question_text": "クーベルタンが近代オリンピックの基礎を【確立】した。",
+        "stem": "クーベルタンが近代オリンピックの基礎を【確立】した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "はつげん",
+        "book_id": 1569184,
+        "edge_id": 19278977,
+        "explanation": "",
+        "id": 24849685,
+        "index": 4,
+        "options": [
+          "はつげん",
+          "はっげん",
+          "はつけん",
+          "はつごん"
+        ],
+        "question_node_id": 22069522,
+        "question_text": "この会では、誰でも自由に【発言】することができる。",
+        "stem": "この会では、誰でも自由に【発言】することができる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "追跡",
+        "book_id": 1569184,
+        "edge_id": 19278974,
+        "explanation": "",
+        "id": 24849686,
+        "index": 5,
+        "options": [
+          "追跡",
+          "追責",
+          "追跡者",
+          "追石"
+        ],
+        "question_node_id": 22069539,
+        "question_text": "警察は警察犬を使って犯人を【ついせき】した。",
+        "stem": "警察は警察犬を使って犯人を【ついせき】した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "追及",
+        "book_id": 1569184,
+        "edge_id": 19278976,
+        "explanation": "",
+        "id": 24849687,
+        "index": 6,
+        "options": [
+          "追及",
+          "追吸",
+          "追究",
+          "追救"
+        ],
+        "question_node_id": 22069528,
+        "question_text": "事故を起こした会社の責任を【ついきゅう】するため、裁判を起こした。",
+        "stem": "事故を起こした会社の責任を【ついきゅう】するため、裁判を起こした。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "反発",
+        "book_id": 1569184,
+        "edge_id": 19278971,
+        "explanation": "",
+        "id": 24849688,
+        "index": 7,
+        "options": [
+          "反発",
+          "返発",
+          "反髪",
+          "半発"
+        ],
+        "question_node_id": 22069530,
+        "question_text": "厳しい親に【はんぱつ】して、彼女は17才のとき家を出た。",
+        "stem": "厳しい親に【はんぱつ】して、彼女は17才のとき家を出た。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "復帰",
+        "book_id": 1569184,
+        "edge_id": 19278973,
+        "explanation": "",
+        "id": 24849689,
+        "index": 8,
+        "options": [
+          "復帰",
+          "復基",
+          "復紀",
+          "覆帰"
+        ],
+        "question_node_id": 22069537,
+        "question_text": "半年の育児休暇の後、職場に【ふっき】した。",
+        "stem": "半年の育児休暇の後、職場に【ふっき】した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "特許",
+        "book_id": 1569184,
+        "edge_id": 19278972,
+        "explanation": "",
+        "id": 24849690,
+        "index": 9,
+        "options": [
+          "特許",
+          "特拠",
+          "特巨",
+          "徳許"
+        ],
+        "question_node_id": 22069541,
+        "question_text": "A社は新製品の【とっきょ】を取り、大きな利益を上げた。",
+        "stem": "A社は新製品の【とっきょ】を取り、大きな利益を上げた。"
+      }
+    ],
+    "task_id": 112458463,
+    "task_order": 20
+  },
+  {
+    "book_id": 1569185,
+    "book_name": "JLPT N1_21漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "てわけ",
+        "book_id": 1569185,
+        "edge_id": 19278978,
+        "explanation": "",
+        "id": 25775446,
+        "index": 0,
+        "options": [
+          "てわけ",
+          "しゅわけ",
+          "てまえわけ",
+          "てっわけ"
+        ],
+        "question_node_id": 22069553,
+        "question_text": "「急な仕事なので【手分け】しましょう」",
+        "stem": "「急な仕事なので【手分け】しましょう」"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "てぎわ",
+        "book_id": 1569185,
+        "edge_id": 19278985,
+        "explanation": "",
+        "id": 25775447,
+        "index": 1,
+        "options": [
+          "てぎわ",
+          "しゅさい",
+          "てさい",
+          "てきと"
+        ],
+        "question_node_id": 22069545,
+        "question_text": "不【手際】な対応で客を怒らせてしまった。",
+        "stem": "不【手際】な対応で客を怒らせてしまった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ひとで",
+        "book_id": 1569185,
+        "edge_id": 19278987,
+        "explanation": "",
+        "id": 25775448,
+        "index": 2,
+        "options": [
+          "ひとで",
+          "じんて",
+          "にんじゅ",
+          "じんしゅ"
+        ],
+        "question_node_id": 22069549,
+        "question_text": "週末はいつも【人手】が足りない。",
+        "stem": "週末はいつも【人手】が足りない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "人気",
+        "book_id": 1569185,
+        "edge_id": 19868260,
+        "explanation": "",
+        "id": 25775449,
+        "index": 3,
+        "options": [
+          "人気",
+          "一気",
+          "人家",
+          "一家"
+        ],
+        "question_node_id": 22810993,
+        "question_text": "夜は【ひとけ】のない道を一人で歩かない方が良い。",
+        "stem": "夜は【ひとけ】のない道を一人で歩かない方が良い。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ひとめ",
+        "book_id": 1569185,
+        "edge_id": 19278984,
+        "explanation": "",
+        "id": 25775450,
+        "index": 4,
+        "options": [
+          "ひとめ",
+          "じんめ",
+          "ひともく",
+          "にんめい"
+        ],
+        "question_node_id": 22069547,
+        "question_text": "「【人目】を気にせず、やりたいことをやりなさい」",
+        "stem": "「【人目】を気にせず、やりたいことをやりなさい」"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "暮れ",
+        "book_id": 1569185,
+        "edge_id": 19278986,
+        "explanation": "",
+        "id": 25775451,
+        "index": 5,
+        "options": [
+          "暮れ",
+          "昏れ",
+          "明れ",
+          "暗れ"
+        ],
+        "question_node_id": 22069558,
+        "question_text": "【くれ】かかった空に三日月が浮かんでいる。",
+        "stem": "【くれ】かかった空に三日月が浮かんでいる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "寄り",
+        "book_id": 1569185,
+        "edge_id": 19278979,
+        "explanation": "",
+        "id": 25775452,
+        "index": 6,
+        "options": [
+          "寄り",
+          "頼り",
+          "拠り",
+          "傾り"
+        ],
+        "question_node_id": 22069563,
+        "question_text": "立っているのが疲れたので、壁に【より】かかった。",
+        "stem": "立っているのが疲れたので、壁に【より】かかった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "詰め",
+        "book_id": 1569185,
+        "edge_id": 19278983,
+        "explanation": "",
+        "id": 25775453,
+        "index": 7,
+        "options": [
+          "詰め",
+          "積め",
+          "通め",
+          "摘め"
+        ],
+        "question_node_id": 22069564,
+        "question_text": "大物政治家の記者会見に、大勢の記者が【つめ】かけた。",
+        "stem": "大物政治家の記者会見に、大勢の記者が【つめ】かけた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "溺れ",
+        "book_id": 1569185,
+        "edge_id": 19278981,
+        "explanation": "",
+        "id": 25775454,
+        "index": 8,
+        "options": [
+          "溺れ",
+          "汚れ",
+          "沈れ",
+          "流れ"
+        ],
+        "question_node_id": 22069557,
+        "question_text": "海で泳いでいたときに、足がつって、【おぼれ】かけた。",
+        "stem": "海で泳いでいたときに、足がつって、【おぼれ】かけた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "つっか",
+        "book_id": 1569185,
+        "edge_id": 19278982,
+        "explanation": "",
+        "id": 25775455,
+        "index": 9,
+        "options": [
+          "つっか",
+          "とっか",
+          "ひっか",
+          "こっか"
+        ],
+        "question_node_id": 22069552,
+        "question_text": "牛はものすごい勢いで闘牛士に【突っか】かった。",
+        "stem": "牛はものすごい勢いで闘牛士に【突っか】かった。"
+      }
+    ],
+    "task_id": 112458464,
+    "task_order": 21
+  },
+  {
+    "book_id": 1569186,
+    "book_name": "JLPT N1_22漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "かけつけた",
+        "book_id": 1569186,
+        "edge_id": 19278988,
+        "explanation": "",
+        "id": 24849701,
+        "index": 0,
+        "options": [
+          "かけつけた",
+          "こけつけた",
+          "まけつけた",
+          "さけつけた"
+        ],
+        "question_node_id": 22069567,
+        "question_text": "お世話になった上司が入院したと聞き、病院に【駆けつけた】。",
+        "stem": "お世話になった上司が入院したと聞き、病院に【駆けつけた】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "すませた",
+        "book_id": 1569186,
+        "edge_id": 19278990,
+        "explanation": "",
+        "id": 24849702,
+        "index": 1,
+        "options": [
+          "すませた",
+          "そませた",
+          "とませた",
+          "よませた"
+        ],
+        "question_node_id": 22069580,
+        "question_text": "隣の部屋の物音に耳を【澄ませた】。",
+        "stem": "隣の部屋の物音に耳を【澄ませた】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "なまけて",
+        "book_id": 1569186,
+        "edge_id": 19278989,
+        "explanation": "",
+        "id": 24849703,
+        "index": 2,
+        "options": [
+          "なまけて",
+          "だらけて",
+          "だけて",
+          "なまんけて"
+        ],
+        "question_node_id": 22069578,
+        "question_text": "練習を【怠けて】いる選手がコーチに叱られた。",
+        "stem": "練習を【怠けて】いる選手がコーチに叱られた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "私語",
+        "book_id": 1569186,
+        "edge_id": 19278991,
+        "explanation": "",
+        "id": 24849704,
+        "index": 3,
+        "options": [
+          "私語",
+          "使語",
+          "始語",
+          "刺語"
+        ],
+        "question_node_id": 22069583,
+        "question_text": "教授は授業中に【しご】をしていた学生をにらみつけた。",
+        "stem": "教授は授業中に【しご】をしていた学生をにらみつけた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "余裕",
+        "book_id": 1569186,
+        "edge_id": 19278994,
+        "explanation": "",
+        "id": 24849705,
+        "index": 4,
+        "options": [
+          "余裕",
+          "予裕",
+          "余遊",
+          "誉裕"
+        ],
+        "question_node_id": 22069582,
+        "question_text": "授業中は先生の話を書き取るのに精一杯で、考える【よゆう】などない。",
+        "stem": "授業中は先生の話を書き取るのに精一杯で、考える【よゆう】などない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "すみきった",
+        "book_id": 1569186,
+        "edge_id": 19278992,
+        "explanation": "",
+        "id": 24849706,
+        "index": 5,
+        "options": [
+          "すみきった",
+          "とみっきった",
+          "よみきった",
+          "かみきった"
+        ],
+        "question_node_id": 22069573,
+        "question_text": "【澄み切った】青空のもとで、体育祭が行われた。",
+        "stem": "【澄み切った】青空のもとで、体育祭が行われた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "みかえして",
+        "book_id": 1569186,
+        "edge_id": 19278996,
+        "explanation": "",
+        "id": 24849707,
+        "index": 6,
+        "options": [
+          "みかえして",
+          "みがえして",
+          "みもどして",
+          "みわたして"
+        ],
+        "question_node_id": 22069572,
+        "question_text": "レポートを【見返して】いたら、誤字を発見した。",
+        "stem": "レポートを【見返して】いたら、誤字を発見した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "祖母",
+        "book_id": 1569186,
+        "edge_id": 19278997,
+        "explanation": "",
+        "id": 24849708,
+        "index": 7,
+        "options": [
+          "祖母",
+          "粗母",
+          "租母",
+          "阻母"
+        ],
+        "question_node_id": 22069576,
+        "question_text": "【そぼ】は耳が遠いので、聞き返すことがよくある。",
+        "stem": "【そぼ】は耳が遠いので、聞き返すことがよくある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "踏切",
+        "book_id": 1569186,
+        "edge_id": 19278993,
+        "explanation": "",
+        "id": 24849709,
+        "index": 8,
+        "options": [
+          "踏切",
+          "踏桐",
+          "歩切",
+          "踏禁"
+        ],
+        "question_node_id": 22069591,
+        "question_text": "【ふみきり】がなかなか開かずに遅刻してしまった。",
+        "stem": "【ふみきり】がなかなか開かずに遅刻してしまった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "抜き取った",
+        "book_id": 1569186,
+        "edge_id": 19278995,
+        "explanation": "",
+        "id": 24849710,
+        "index": 9,
+        "options": [
+          "抜き取った",
+          "貫き獲った",
+          "貫き捕った",
+          "抜き採った"
+        ],
+        "question_node_id": 22069601,
+        "question_text": "スリが財布から金を【ぬきとった】。",
+        "stem": "スリが財布から金を【ぬきとった】。"
+      }
+    ],
+    "task_id": 112458465,
+    "task_order": 22
+  },
+  {
+    "book_id": 1569187,
+    "book_name": "JLPT N1_23漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "とりつぐ",
+        "book_id": 1569187,
+        "edge_id": 19278999,
+        "explanation": "",
+        "id": 24849711,
+        "index": 0,
+        "options": [
+          "とりつぐ",
+          "とりつぎぐ",
+          "とりじぐ",
+          "とりじっく"
+        ],
+        "question_node_id": 22069602,
+        "question_text": "電話を【取り次ぐ】。",
+        "stem": "電話を【取り次ぐ】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "とりまく",
+        "book_id": 1569187,
+        "edge_id": 19278998,
+        "explanation": "",
+        "id": 24849712,
+        "index": 1,
+        "options": [
+          "とりまく",
+          "とりめく",
+          "とりまけく",
+          "とりしまく"
+        ],
+        "question_node_id": 22069605,
+        "question_text": "現在、我が社を【取り巻く】環境は厳しい。",
+        "stem": "現在、我が社を【取り巻く】環境は厳しい。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "取り替えた",
+        "book_id": 1569187,
+        "edge_id": 19279002,
+        "explanation": "",
+        "id": 24849713,
+        "index": 2,
+        "options": [
+          "取り替えた",
+          "取り換えた",
+          "取り変えた",
+          "取り代えた"
+        ],
+        "question_node_id": 22069607,
+        "question_text": "姉とセーターを【とりかえた】。",
+        "stem": "姉とセーターを【とりかえた】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "取締役",
+        "book_id": 1569187,
+        "edge_id": 19279005,
+        "explanation": "",
+        "id": 24849714,
+        "index": 3,
+        "options": [
+          "取締役",
+          "取絞役",
+          "取絞約",
+          "取締約"
+        ],
+        "question_node_id": 22069627,
+        "question_text": "A社の代表【とりしまりやく】が辞任を申し出た。",
+        "stem": "A社の代表【とりしまりやく】が辞任を申し出た。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "商談",
+        "book_id": 1569187,
+        "edge_id": 19279000,
+        "explanation": "",
+        "id": 24849715,
+        "index": 4,
+        "options": [
+          "商談",
+          "賞談",
+          "詳談",
+          "象談"
+        ],
+        "question_node_id": 22069631,
+        "question_text": "【しょうだん】を取りまとめる。",
+        "stem": "【しょうだん】を取りまとめる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "飛び散った",
+        "book_id": 1569187,
+        "edge_id": 19279003,
+        "explanation": "",
+        "id": 24849716,
+        "index": 5,
+        "options": [
+          "飛び散った",
+          "跳び散った",
+          "翔び散った",
+          "徒び散った"
+        ],
+        "question_node_id": 22069612,
+        "question_text": "床に落ちたグラスが割れ、破片が【とびちった】。",
+        "stem": "床に落ちたグラスが割れ、破片が【とびちった】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "とびはねて",
+        "book_id": 1569187,
+        "edge_id": 19279004,
+        "explanation": "",
+        "id": 24849717,
+        "index": 6,
+        "options": [
+          "とびはねて",
+          "とびかねて",
+          "とびばねて",
+          "とびこねて"
+        ],
+        "question_node_id": 22069638,
+        "question_text": "妹は合格がわかり、【飛び跳ねて】喜んだ。",
+        "stem": "妹は合格がわかり、【飛び跳ねて】喜んだ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "飛び越えて",
+        "book_id": 1569187,
+        "edge_id": 19279001,
+        "explanation": "",
+        "id": 24849718,
+        "index": 7,
+        "options": [
+          "飛び越えて",
+          "飛び声て",
+          "飛び肥えて",
+          "飛び超えて"
+        ],
+        "question_node_id": 22069626,
+        "question_text": "上野氏は先輩社員を【とびこえて】部長になった。",
+        "stem": "上野氏は先輩社員を【とびこえて】部長になった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "飛び降りる",
+        "book_id": 1569187,
+        "edge_id": 19279007,
+        "explanation": "",
+        "id": 24849719,
+        "index": 8,
+        "options": [
+          "飛び降りる",
+          "飛び落る",
+          "飛び下りる",
+          "飛び折りる"
+        ],
+        "question_node_id": 22069633,
+        "question_text": "高いところから【とびおりる】。",
+        "stem": "高いところから【とびおりる】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "さしだしにん",
+        "book_id": 1569187,
+        "edge_id": 19279006,
+        "explanation": "",
+        "id": 24849720,
+        "index": 9,
+        "options": [
+          "さしだしにん",
+          "さだしにん",
+          "さっしゅつにん",
+          "さしゅつにん"
+        ],
+        "question_node_id": 22069635,
+        "question_text": "この手紙には【差出人】の名前がない。",
+        "stem": "この手紙には【差出人】の名前がない。"
+      }
+    ],
+    "task_id": 112458466,
+    "task_order": 23
+  },
+  {
+    "book_id": 1569188,
+    "book_name": "JLPT N1_24漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ひきとり",
+        "book_id": 1569188,
+        "edge_id": 19279011,
+        "explanation": "",
+        "id": 24849721,
+        "index": 0,
+        "options": [
+          "ひきとり",
+          "ひきどり",
+          "いんきとり",
+          "いきとり"
+        ],
+        "question_node_id": 22069643,
+        "question_text": "「今日はもう遅いので、どうぞお【引き取り】ください」",
+        "stem": "「今日はもう遅いので、どうぞお【引き取り】ください」"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "さしはさんで",
+        "book_id": 1569188,
+        "edge_id": 19279010,
+        "explanation": "",
+        "id": 24849722,
+        "index": 1,
+        "options": [
+          "さしはさんで",
+          "さしこんで",
+          "さしおよんで",
+          "さしせまんで"
+        ],
+        "question_node_id": 22069644,
+        "question_text": "本にしおりを【差し挟んで】おいた。",
+        "stem": "本にしおりを【差し挟んで】おいた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "さしひかえ",
+        "book_id": 1569188,
+        "edge_id": 19279014,
+        "explanation": "",
+        "id": 24849723,
+        "index": 2,
+        "options": [
+          "さしひかえ",
+          "さしそらえ",
+          "さしおえ",
+          "さしかえ"
+        ],
+        "question_node_id": 22069657,
+        "question_text": "「今回の件に関するコメントは、【差し控え】させていただきます」",
+        "stem": "「今回の件に関するコメントは、【差し控え】させていただきます」"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "さしせまって",
+        "book_id": 1569188,
+        "edge_id": 19279017,
+        "explanation": "",
+        "id": 24849724,
+        "index": 3,
+        "options": [
+          "さしせまって",
+          "さしおって",
+          "さしはくって",
+          "さしつまって"
+        ],
+        "question_node_id": 22069661,
+        "question_text": "締め切りが【差し迫って】いる。",
+        "stem": "締め切りが【差し迫って】いる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ひきあげる",
+        "book_id": 1569188,
+        "edge_id": 19279016,
+        "explanation": "",
+        "id": 24849725,
+        "index": 4,
+        "options": [
+          "ひきあげる",
+          "ひきかかげる",
+          "ひきまげる",
+          "ひきさげる"
+        ],
+        "question_node_id": 22069665,
+        "question_text": "戦地から軍隊を【引き揚げる】。",
+        "stem": "戦地から軍隊を【引き揚げる】。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "南極",
+        "book_id": 1569188,
+        "edge_id": 19279009,
+        "explanation": "",
+        "id": 24849726,
+        "index": 5,
+        "options": [
+          "南極",
+          "南局",
+          "難極",
+          "納局"
+        ],
+        "question_node_id": 22069666,
+        "question_text": "【なんきょく】でペンギンの撮影をする。",
+        "stem": "【なんきょく】でペンギンの撮影をする。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "赤道",
+        "book_id": 1569188,
+        "edge_id": 19279008,
+        "explanation": "",
+        "id": 24849727,
+        "index": 6,
+        "options": [
+          "赤道",
+          "石道",
+          "積道",
+          "跡道"
+        ],
+        "question_node_id": 22069667,
+        "question_text": "【せきどう】直下の国を訪れる。",
+        "stem": "【せきどう】直下の国を訪れる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "太平洋",
+        "book_id": 1569188,
+        "edge_id": 19279012,
+        "explanation": "",
+        "id": 24849728,
+        "index": 7,
+        "options": [
+          "太平洋",
+          "大平洋",
+          "泰平洋",
+          "太兵洋"
+        ],
+        "question_node_id": 22069671,
+        "question_text": "【たいへいよう】に浮かぶ孤島に住む。",
+        "stem": "【たいへいよう】に浮かぶ孤島に住む。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "裁判官",
+        "book_id": 1569188,
+        "edge_id": 19279013,
+        "explanation": "",
+        "id": 24849729,
+        "index": 8,
+        "options": [
+          "裁判官",
+          "裁坂官",
+          "採判官",
+          "裁板官"
+        ],
+        "question_node_id": 22069673,
+        "question_text": "【さいばんかん】には公正な思考が求められる。",
+        "stem": "【さいばんかん】には公正な思考が求められる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "検察官",
+        "book_id": 1569188,
+        "edge_id": 19279015,
+        "explanation": "",
+        "id": 24849730,
+        "index": 9,
+        "options": [
+          "検察官",
+          "験察官",
+          "見察官",
+          "険察官"
+        ],
+        "question_node_id": 22069675,
+        "question_text": "【けんさつかん】の質問に答える。",
+        "stem": "【けんさつかん】の質問に答える。"
+      }
+    ],
+    "task_id": 112458467,
+    "task_order": 24
+  },
+  {
+    "book_id": 1569189,
+    "book_name": "JLPT N1_25漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "べんごし",
+        "book_id": 1569189,
+        "edge_id": 19279026,
+        "explanation": "",
+        "id": 24849731,
+        "index": 0,
+        "options": [
+          "べんごし",
+          "べんごうし",
+          "べんこし",
+          "べごし"
+        ],
+        "question_node_id": 22069679,
+        "question_text": "【弁護士】は[儲](もう)かると言われている。",
+        "stem": "【弁護士】は[儲](もう)かると言われている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ちょうえきけい",
+        "book_id": 1569189,
+        "edge_id": 19279027,
+        "explanation": "",
+        "id": 24849732,
+        "index": 1,
+        "options": [
+          "ちょうえきけい",
+          "ちょうやくけい",
+          "ちょえきけい",
+          "ちょやくけい"
+        ],
+        "question_node_id": 22069678,
+        "question_text": "逮捕された男に【懲役刑】が言い渡された。",
+        "stem": "逮捕された男に【懲役刑】が言い渡された。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "種",
+        "book_id": 1569189,
+        "edge_id": 19279018,
+        "explanation": "",
+        "id": 24849733,
+        "index": 2,
+        "options": [
+          "種",
+          "腫",
+          "苗",
+          "粒"
+        ],
+        "question_node_id": 22069692,
+        "question_text": "庭にアサガオの【たね】をまいた。",
+        "stem": "庭にアサガオの【たね】をまいた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "毒",
+        "book_id": 1569189,
+        "edge_id": 19279021,
+        "explanation": "",
+        "id": 24849734,
+        "index": 3,
+        "options": [
+          "毒",
+          "薬",
+          "菌",
+          "病"
+        ],
+        "question_node_id": 22069686,
+        "question_text": "このキノコには【どく】があるから、食べてはいけない。",
+        "stem": "このキノコには【どく】があるから、食べてはいけない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "例年",
+        "book_id": 1569189,
+        "edge_id": 19279020,
+        "explanation": "",
+        "id": 24849735,
+        "index": 4,
+        "options": [
+          "例年",
+          "年例",
+          "旧年",
+          "連年"
+        ],
+        "question_node_id": 22069677,
+        "question_text": "今年も新入生歓迎会が【れいねん】通りに行われた。",
+        "stem": "今年も新入生歓迎会が【れいねん】通りに行われた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "からて",
+        "book_id": 1569189,
+        "edge_id": 19279022,
+        "explanation": "",
+        "id": 24849736,
+        "index": 5,
+        "options": [
+          "からて",
+          "くうしゅ",
+          "くみて",
+          "さして"
+        ],
+        "question_node_id": 22069681,
+        "question_text": "【空手】を習って、心身ともにたくましくなった。",
+        "stem": "【空手】を習って、心身ともにたくましくなった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "相撲",
+        "book_id": 1569189,
+        "edge_id": 19279019,
+        "explanation": "",
+        "id": 24849737,
+        "index": 6,
+        "options": [
+          "相撲",
+          "相武",
+          "相僕",
+          "相模"
+        ],
+        "question_node_id": 22069689,
+        "question_text": "【すもう】は日本の国技だ。",
+        "stem": "【すもう】は日本の国技だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "さどう",
+        "book_id": 1569189,
+        "edge_id": 19279025,
+        "explanation": "",
+        "id": 24849738,
+        "index": 7,
+        "options": [
+          "さどう",
+          "ちゃみち",
+          "さじゅつ",
+          "さげい"
+        ],
+        "question_node_id": 22069685,
+        "question_text": "会社の帰りに【茶道】教室に通っている。",
+        "stem": "会社の帰りに【茶道】教室に通っている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "歌舞伎",
+        "book_id": 1569189,
+        "edge_id": 19279023,
+        "explanation": "",
+        "id": 24849739,
+        "index": 8,
+        "options": [
+          "歌舞伎",
+          "歌武伎",
+          "歌舞技",
+          "歌武技"
+        ],
+        "question_node_id": 22069684,
+        "question_text": "【かぶき】は日本代表する古典芸能だ。",
+        "stem": "【かぶき】は日本代表する古典芸能だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "いじわる",
+        "book_id": 1569189,
+        "edge_id": 19279024,
+        "explanation": "",
+        "id": 24849740,
+        "index": 9,
+        "options": [
+          "いじわる",
+          "いくじわる",
+          "いじあく",
+          "いしあく"
+        ],
+        "question_node_id": 22069695,
+        "question_text": "【意地悪】な彼女は、ライバルに毒を含んだ言葉を浴びせかけた。",
+        "stem": "【意地悪】な彼女は、ライバルに毒を含んだ言葉を浴びせかけた。"
+      }
+    ],
+    "task_id": 112458468,
+    "task_order": 25
+  },
+  {
+    "book_id": 1569190,
+    "book_name": "JLPT N1_26漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "てじな",
+        "book_id": 1569190,
+        "edge_id": 19279034,
+        "explanation": "",
+        "id": 24849741,
+        "index": 0,
+        "options": [
+          "てじな",
+          "てしな",
+          "しゅひん",
+          "しゅしな"
+        ],
+        "question_node_id": 22069701,
+        "question_text": "【手品】の種を教えることはできない。",
+        "stem": "【手品】の種を教えることはできない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "はいく",
+        "book_id": 1569190,
+        "edge_id": 19279037,
+        "explanation": "",
+        "id": 24849742,
+        "index": 1,
+        "options": [
+          "はいく",
+          "ひく",
+          "はいこう",
+          "はいくう"
+        ],
+        "question_node_id": 22069699,
+        "question_text": "祖父は【俳句】が趣味だった。",
+        "stem": "祖父は【俳句】が趣味だった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "化石燃料",
+        "book_id": 1569190,
+        "edge_id": 19279035,
+        "explanation": "",
+        "id": 24849743,
+        "index": 2,
+        "options": [
+          "化石燃料",
+          "化石然料",
+          "火石燃料",
+          "化積然料"
+        ],
+        "question_node_id": 22069700,
+        "question_text": "【かせきねんりょう】は永遠にあるわけではない。",
+        "stem": "【かせきねんりょう】は永遠にあるわけではない。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "電力",
+        "book_id": 1569190,
+        "edge_id": 19279028,
+        "explanation": "",
+        "id": 24849744,
+        "index": 3,
+        "options": [
+          "電力",
+          "電励",
+          "電気力",
+          "電量"
+        ],
+        "question_node_id": 22069706,
+        "question_text": "震災のあとに、【でんりょく】の問題が生じた",
+        "stem": "震災のあとに、【でんりょく】の問題が生じた"
+      },
+      {
+        "answer_index": 2,
+        "answer_node_id": null,
+        "answer_text": "自家発電",
+        "book_id": 1569190,
+        "edge_id": 19279036,
+        "explanation": "",
+        "id": 24849745,
+        "index": 4,
+        "options": [
+          "自化発電",
+          "自火発電",
+          "自家発電"
+        ],
+        "question_node_id": 22069717,
+        "question_text": "太陽光パネルを使って【じかはつでん】している。",
+        "stem": "太陽光パネルを使って【じかはつでん】している。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "はくりょく",
+        "book_id": 1569190,
+        "edge_id": 19279033,
+        "explanation": "",
+        "id": 24849746,
+        "index": 5,
+        "options": [
+          "はくりょく",
+          "せきりょく",
+          "せきりき",
+          "はくりき"
+        ],
+        "question_node_id": 22069702,
+        "question_text": "音楽はライブで聞くと【迫力】が違う。",
+        "stem": "音楽はライブで聞くと【迫力】が違う。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "開催",
+        "book_id": 1569190,
+        "edge_id": 19279032,
+        "explanation": "",
+        "id": 24849747,
+        "index": 6,
+        "options": [
+          "開催",
+          "開祭",
+          "回催",
+          "会祭"
+        ],
+        "question_node_id": 22069705,
+        "question_text": "2020年、東京でオリンピックが【かいさい】される。",
+        "stem": "2020年、東京でオリンピックが【かいさい】される。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "おうせい",
+        "book_id": 1569190,
+        "edge_id": 19279030,
+        "explanation": "",
+        "id": 24849748,
+        "index": 7,
+        "options": [
+          "おうせい",
+          "おうぜい",
+          "おうじょう",
+          "おうしょう"
+        ],
+        "question_node_id": 22069719,
+        "question_text": "彼女はチャレンジ精神が【旺盛】だ。",
+        "stem": "彼女はチャレンジ精神が【旺盛】だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "活性化",
+        "book_id": 1569190,
+        "edge_id": 19279029,
+        "explanation": "",
+        "id": 24849749,
+        "index": 8,
+        "options": [
+          "活性化",
+          "活生化",
+          "活正化",
+          "活清化"
+        ],
+        "question_node_id": 22069712,
+        "question_text": "地元を【かっせいか】させるプロジェクトに参加している。",
+        "stem": "地元を【かっせいか】させるプロジェクトに参加している。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "しょぞく",
+        "book_id": 1569190,
+        "edge_id": 19279031,
+        "explanation": "",
+        "id": 24849750,
+        "index": 9,
+        "options": [
+          "しょぞく",
+          "しゅぞく",
+          "しょうぞく",
+          "しょそく"
+        ],
+        "question_node_id": 22069715,
+        "question_text": "私は大学で田中先生のゼミに【所属】している。",
+        "stem": "私は大学で田中先生のゼミに【所属】している。"
+      }
+    ],
+    "task_id": 112458469,
+    "task_order": 26
+  },
+  {
+    "book_id": 1569191,
+    "book_name": "JLPT N1_27漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "はいふ",
+        "book_id": 1569191,
+        "edge_id": 19279046,
+        "explanation": "",
+        "id": 24849751,
+        "index": 0,
+        "options": [
+          "はいふ",
+          "はいふん",
+          "はいぶ",
+          "はいふう"
+        ],
+        "question_node_id": 22069727,
+        "question_text": "会員のリストを【配布】した。",
+        "stem": "会員のリストを【配布】した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "もうける",
+        "book_id": 1569191,
+        "edge_id": 19279041,
+        "explanation": "",
+        "id": 24849752,
+        "index": 1,
+        "options": [
+          "もうける",
+          "せつける",
+          "つける",
+          "かまける"
+        ],
+        "question_node_id": 22069722,
+        "question_text": "最近はインターンシップ制度を【設ける】企業が多い。",
+        "stem": "最近はインターンシップ制度を【設ける】企業が多い。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "沸騰",
+        "book_id": 1569191,
+        "edge_id": 19279044,
+        "explanation": "",
+        "id": 24849753,
+        "index": 2,
+        "options": [
+          "沸騰",
+          "発騰",
+          "払騰",
+          "沸湯"
+        ],
+        "question_node_id": 22069738,
+        "question_text": "水は100℃で【ふっとう】する。",
+        "stem": "水は100℃で【ふっとう】する。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "すみ",
+        "book_id": 1569191,
+        "edge_id": 19279038,
+        "explanation": "",
+        "id": 24849754,
+        "index": 3,
+        "options": [
+          "すみ",
+          "くま",
+          "わき",
+          "ぐう"
+        ],
+        "question_node_id": 22069721,
+        "question_text": "写真の【隅】に写っているのが私です。",
+        "stem": "写真の【隅】に写っているのが私です。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ふち",
+        "book_id": 1569191,
+        "edge_id": 19279040,
+        "explanation": "",
+        "id": 24849755,
+        "index": 4,
+        "options": [
+          "ふち",
+          "えん",
+          "はし",
+          "ろく"
+        ],
+        "question_node_id": 22069724,
+        "question_text": "茶碗の【縁】が欠けてしまった。",
+        "stem": "茶碗の【縁】が欠けてしまった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "かたまり",
+        "book_id": 1569191,
+        "edge_id": 19279042,
+        "explanation": "",
+        "id": 24849756,
+        "index": 5,
+        "options": [
+          "かたまり",
+          "たましい",
+          "かい",
+          "こん"
+        ],
+        "question_node_id": 22069740,
+        "question_text": "ご飯をかまずに【塊】で飲み込む。",
+        "stem": "ご飯をかまずに【塊】で飲み込む。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "空欄",
+        "book_id": 1569191,
+        "edge_id": 19279039,
+        "explanation": "",
+        "id": 24849757,
+        "index": 6,
+        "options": [
+          "空欄",
+          "空覧",
+          "空蘭",
+          "空間"
+        ],
+        "question_node_id": 22069729,
+        "question_text": "【くうらん】に名前を書いてください。",
+        "stem": "【くうらん】に名前を書いてください。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "審判",
+        "book_id": 1569191,
+        "edge_id": 19279047,
+        "explanation": "",
+        "id": 24849758,
+        "index": 7,
+        "options": [
+          "審判",
+          "審反",
+          "信判",
+          "真判"
+        ],
+        "question_node_id": 22069728,
+        "question_text": "【しんぱん】の判定にしたがう。",
+        "stem": "【しんぱん】の判定にしたがう。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "拒絶",
+        "book_id": 1569191,
+        "edge_id": 19279043,
+        "explanation": "",
+        "id": 24849759,
+        "index": 8,
+        "options": [
+          "拒絶",
+          "許絶",
+          "去絶"
+        ],
+        "question_node_id": 22069732,
+        "question_text": "彼は助けを【きょぜつ】した。",
+        "stem": "彼は助けを【きょぜつ】した。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "物産",
+        "book_id": 1569191,
+        "edge_id": 19279045,
+        "explanation": "",
+        "id": 24849760,
+        "index": 9,
+        "options": [
+          "物産",
+          "物散",
+          "仏産",
+          "部産"
+        ],
+        "question_node_id": 22069733,
+        "question_text": "今デパートで、北海道の【ぶっさん】フェアをやっている。",
+        "stem": "今デパートで、北海道の【ぶっさん】フェアをやっている。"
+      }
+    ],
+    "task_id": 112458470,
+    "task_order": 27
+  },
+  {
+    "book_id": 1569192,
+    "book_name": "JLPT N1_28漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "臓器移植",
+        "book_id": 1569192,
+        "edge_id": 19279056,
+        "explanation": "",
+        "id": 24849761,
+        "index": 0,
+        "options": [
+          "臓器移植",
+          "蔵器移殖",
+          "臓機異植",
+          "臓器異触"
+        ],
+        "question_node_id": 22069742,
+        "question_text": "【ぞうきいしょく】のドナーカードに署名をしている。",
+        "stem": "【ぞうきいしょく】のドナーカードに署名をしている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "遺伝子組み換え",
+        "book_id": 1569192,
+        "edge_id": 19279049,
+        "explanation": "",
+        "id": 24849762,
+        "index": 1,
+        "options": [
+          "遺伝子組み換え",
+          "違伝子組み替え",
+          "遺伝子組代え",
+          "違伝子組み変え"
+        ],
+        "question_node_id": 22069754,
+        "question_text": "【いでんしくみかえ】作物の流入が危惧される。",
+        "stem": "【いでんしくみかえ】作物の流入が危惧される。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "きんねん",
+        "book_id": 1569192,
+        "edge_id": 19279048,
+        "explanation": "",
+        "id": 24849763,
+        "index": 2,
+        "options": [
+          "きんねん",
+          "きんとし",
+          "こんねん",
+          "きねん"
+        ],
+        "question_node_id": 22069760,
+        "question_text": "今年は【近年】にない豊作だ。",
+        "stem": "今年は【近年】にない豊作だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "もっか",
+        "book_id": 1569192,
+        "edge_id": 19279050,
+        "explanation": "",
+        "id": 24849764,
+        "index": 3,
+        "options": [
+          "もっか",
+          "めっか",
+          "めした",
+          "めげ"
+        ],
+        "question_node_id": 22069752,
+        "question_text": "事故の原因は【目下】調査中だ。",
+        "stem": "事故の原因は【目下】調査中だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "終日",
+        "book_id": 1569192,
+        "edge_id": 19279051,
+        "explanation": "",
+        "id": 24849765,
+        "index": 4,
+        "options": [
+          "終日",
+          "週日",
+          "秋日",
+          "周日"
+        ],
+        "question_node_id": 22069748,
+        "question_text": "旅行の二日目は【しゅうじつ】市内観光だった。",
+        "stem": "旅行の二日目は【しゅうじつ】市内観光だった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "早急",
+        "book_id": 1569192,
+        "edge_id": 19279053,
+        "explanation": "",
+        "id": 24849766,
+        "index": 5,
+        "options": [
+          "早急",
+          "送急",
+          "早及",
+          "草急"
+        ],
+        "question_node_id": 22069765,
+        "question_text": "この問題については、【そうきゅう（さっきゅう）】に対処する必要がある。",
+        "stem": "この問題については、【そうきゅう（さっきゅう）】に対処する必要がある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "だしん",
+        "book_id": 1569192,
+        "edge_id": 19279052,
+        "explanation": "",
+        "id": 24849767,
+        "index": 6,
+        "options": [
+          "だしん",
+          "たじん",
+          "だっしん",
+          "たしん"
+        ],
+        "question_node_id": 22069762,
+        "question_text": "京都への転勤を【打診】された。",
+        "stem": "京都への転勤を【打診】された。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "極めて",
+        "book_id": 1569192,
+        "edge_id": 19279054,
+        "explanation": "",
+        "id": 24849768,
+        "index": 7,
+        "options": [
+          "極めて",
+          "究めて",
+          "窮めて",
+          "決めて"
+        ],
+        "question_node_id": 22069751,
+        "question_text": "食糧問題は【きわめて】重要な課題だ。",
+        "stem": "食糧問題は【きわめて】重要な課題だ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ひんぱん",
+        "book_id": 1569192,
+        "edge_id": 19279057,
+        "explanation": "",
+        "id": 24849769,
+        "index": 8,
+        "options": [
+          "ひんぱん",
+          "ほばん",
+          "ほはん",
+          "ひんぼん"
+        ],
+        "question_node_id": 22069753,
+        "question_text": "あの交差点は見通しが悪いため、【頻繁】に事故が起こっている。",
+        "stem": "あの交差点は見通しが悪いため、【頻繁】に事故が起こっている。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "しじゅう",
+        "book_id": 1569192,
+        "edge_id": 19279055,
+        "explanation": "",
+        "id": 24849770,
+        "index": 9,
+        "options": [
+          "しじゅう",
+          "ししゅう",
+          "しゅうし",
+          "しゅうとう"
+        ],
+        "question_node_id": 22069764,
+        "question_text": "弟は体が弱く、【始終】[風邪](かぜ)をひいている。",
+        "stem": "弟は体が弱く、【始終】[風邪](かぜ)をひいている。"
+      }
+    ],
+    "task_id": 112458471,
+    "task_order": 28
+  },
+  {
+    "book_id": 1569193,
+    "book_name": "JLPT N1_29漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "独裁者",
+        "book_id": 1569193,
+        "edge_id": 19279059,
+        "explanation": "",
+        "id": 24849771,
+        "index": 0,
+        "options": [
+          "独裁者",
+          "独才者",
+          "毒裁者",
+          "読裁者"
+        ],
+        "question_node_id": 22069766,
+        "question_text": "これは【どくさいしゃ】と呼ばれた男の映画である。",
+        "stem": "これは【どくさいしゃ】と呼ばれた男の映画である。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "副作用",
+        "book_id": 1569193,
+        "edge_id": 19279064,
+        "explanation": "",
+        "id": 24849772,
+        "index": 1,
+        "options": [
+          "副作用",
+          "副採用",
+          "複作用",
+          "復佐用"
+        ],
+        "question_node_id": 22069779,
+        "question_text": "この薬はごくまれに、【ふくさよう】が出ることがある。",
+        "stem": "この薬はごくまれに、【ふくさよう】が出ることがある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "いくぶん",
+        "book_id": 1569193,
+        "edge_id": 19279065,
+        "explanation": "",
+        "id": 24849773,
+        "index": 2,
+        "options": [
+          "いくぶん",
+          "きぶん",
+          "きわけ",
+          "いくわけ"
+        ],
+        "question_node_id": 22069780,
+        "question_text": "薬を飲んでしばらくたつと、痛みは【幾分】治まった。",
+        "stem": "薬を飲んでしばらくたつと、痛みは【幾分】治まった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "余裕",
+        "book_id": 1569193,
+        "edge_id": 19279066,
+        "explanation": "",
+        "id": 24849774,
+        "index": 3,
+        "options": [
+          "余裕",
+          "予裕",
+          "与裕",
+          "余遊"
+        ],
+        "question_node_id": 22069781,
+        "question_text": "席にはまだ【よゆう】がある。",
+        "stem": "席にはまだ【よゆう】がある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "行方不明",
+        "book_id": 1569193,
+        "edge_id": 19279058,
+        "explanation": "",
+        "id": 24849775,
+        "index": 4,
+        "options": [
+          "行方不明",
+          "行方不可",
+          "行処不明",
+          "幸方不可"
+        ],
+        "question_node_id": 22069772,
+        "question_text": "彼は財産を無くして【ゆくえふめい】になってしまったそうだ。",
+        "stem": "彼は財産を無くして【ゆくえふめい】になってしまったそうだ。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "雷",
+        "book_id": 1569193,
+        "edge_id": 19279060,
+        "explanation": "",
+        "id": 24849776,
+        "index": 5,
+        "options": [
+          "雷",
+          "電",
+          "霰",
+          "震"
+        ],
+        "question_node_id": 22069774,
+        "question_text": "空が光ったかと思うと、大きな【かみなり】の音がした。",
+        "stem": "空が光ったかと思うと、大きな【かみなり】の音がした。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ちゃくちゃく",
+        "book_id": 1569193,
+        "edge_id": 19279063,
+        "explanation": "",
+        "id": 24849777,
+        "index": 6,
+        "options": [
+          "ちゃくちゃく",
+          "きぎ",
+          "きき",
+          "ちょくちょく"
+        ],
+        "question_node_id": 22069783,
+        "question_text": "工事は予定通り、【着々】と進んでいる。",
+        "stem": "工事は予定通り、【着々】と進んでいる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "てつや",
+        "book_id": 1569193,
+        "edge_id": 19279067,
+        "explanation": "",
+        "id": 24849778,
+        "index": 7,
+        "options": [
+          "てつや",
+          "てつよる",
+          "てつよ",
+          "てちや"
+        ],
+        "question_node_id": 22069776,
+        "question_text": "【徹夜】をして、論文を仕上げた。",
+        "stem": "【徹夜】をして、論文を仕上げた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "きげん",
+        "book_id": 1569193,
+        "edge_id": 19279061,
+        "explanation": "",
+        "id": 24849779,
+        "index": 8,
+        "options": [
+          "きげん",
+          "きけん",
+          "きおん",
+          "きえん"
+        ],
+        "question_node_id": 22069775,
+        "question_text": "田中さんは【機嫌】が悪いらしく、返事をしなかった。",
+        "stem": "田中さんは【機嫌】が悪いらしく、返事をしなかった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "いっけん",
+        "book_id": 1569193,
+        "edge_id": 19279062,
+        "explanation": "",
+        "id": 24849780,
+        "index": 9,
+        "options": [
+          "いっけん",
+          "いちけん",
+          "ひとめ",
+          "ひとみ"
+        ],
+        "question_node_id": 22069784,
+        "question_text": "あの絵は【一見】の価値がある。",
+        "stem": "あの絵は【一見】の価値がある。"
+      }
+    ],
+    "task_id": 112458472,
+    "task_order": 29
+  },
+  {
+    "book_id": 1569194,
+    "book_name": "JLPT N1_30漢字",
+    "level": "N1_KANJI",
+    "question_count": 10,
+    "questions": [
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "いちがい",
+        "book_id": 1569194,
+        "edge_id": 19279068,
+        "explanation": "",
+        "id": 24849781,
+        "index": 0,
+        "options": [
+          "いちがい",
+          "いちげ",
+          "いっき",
+          "いっこう"
+        ],
+        "question_node_id": 22069792,
+        "question_text": "古い習慣を【一概】に否定するのはどうだろうか。",
+        "stem": "古い習慣を【一概】に否定するのはどうだろうか。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "一向",
+        "book_id": 1569194,
+        "edge_id": 19279069,
+        "explanation": "",
+        "id": 24849782,
+        "index": 1,
+        "options": [
+          "一向",
+          "一行",
+          "一光",
+          "一幸"
+        ],
+        "question_node_id": 22069794,
+        "question_text": "どれほど働いても、暮らしは【いっこう】によくならなかった。",
+        "stem": "どれほど働いても、暮らしは【いっこう】によくならなかった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "並び",
+        "book_id": 1569194,
+        "edge_id": 19279076,
+        "explanation": "",
+        "id": 24849783,
+        "index": 2,
+        "options": [
+          "並び",
+          "列び",
+          "習び",
+          "直び"
+        ],
+        "question_node_id": 22069789,
+        "question_text": "新入生【ならび】に保護者にも記念品が贈られた。",
+        "stem": "新入生【ならび】に保護者にも記念品が贈られた。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ただし",
+        "book_id": 1569194,
+        "edge_id": 19279070,
+        "explanation": "",
+        "id": 24849784,
+        "index": 3,
+        "options": [
+          "ただし",
+          "もし",
+          "まさし",
+          "しかし"
+        ],
+        "question_node_id": 22069803,
+        "question_text": "入場は無料です。【但し】、予約が必要です。",
+        "stem": "入場は無料です。【但し】、予約が必要です。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "単身赴任",
+        "book_id": 1569194,
+        "edge_id": 19279072,
+        "explanation": "",
+        "id": 24849785,
+        "index": 4,
+        "options": [
+          "単身赴任",
+          "単進赴任",
+          "単身布任",
+          "担身赴任"
+        ],
+        "question_node_id": 22069798,
+        "question_text": "4月から【たんしんふにん】でアメリカへ行きます。",
+        "stem": "4月から【たんしんふにん】でアメリカへ行きます。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "出願条件",
+        "book_id": 1569194,
+        "edge_id": 19279074,
+        "explanation": "",
+        "id": 24849786,
+        "index": 5,
+        "options": [
+          "出願条件",
+          "出版条件",
+          "出眼条件",
+          "述願条件"
+        ],
+        "question_node_id": 22069801,
+        "question_text": "大学の【しゅつがんじょうけん】を調べる。",
+        "stem": "大学の【しゅつがんじょうけん】を調べる。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "急患",
+        "book_id": 1569194,
+        "edge_id": 19279071,
+        "explanation": "",
+        "id": 24849787,
+        "index": 6,
+        "options": [
+          "急患",
+          "急看",
+          "救患",
+          "救看"
+        ],
+        "question_node_id": 22069793,
+        "question_text": "年末、病院では【きゅうかん】が続き、忙しかった。",
+        "stem": "年末、病院では【きゅうかん】が続き、忙しかった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "ここち",
+        "book_id": 1569194,
+        "edge_id": 19279077,
+        "explanation": "",
+        "id": 24849788,
+        "index": 7,
+        "options": [
+          "ここち",
+          "こころじ",
+          "しんち",
+          "しんじ"
+        ],
+        "question_node_id": 22069806,
+        "question_text": "運動後の体には、冷たい風が【心地】良かった。",
+        "stem": "運動後の体には、冷たい風が【心地】良かった。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "あいせき",
+        "book_id": 1569194,
+        "edge_id": 19279075,
+        "explanation": "",
+        "id": 24849789,
+        "index": 8,
+        "options": [
+          "あいせき",
+          "いせき",
+          "そうせき",
+          "あっせき"
+        ],
+        "question_node_id": 22069811,
+        "question_text": "小さな店では、昼時は【相席】になることもよくある。",
+        "stem": "小さな店では、昼時は【相席】になることもよくある。"
+      },
+      {
+        "answer_index": 0,
+        "answer_node_id": null,
+        "answer_text": "こうらく",
+        "book_id": 1569194,
+        "edge_id": 19279073,
+        "explanation": "",
+        "id": 24849790,
+        "index": 9,
+        "options": [
+          "こうらく",
+          "ぎょうがく",
+          "ぎょうらく",
+          "こうがく"
+        ],
+        "question_node_id": 22069804,
+        "question_text": "連休なので、【行楽】に出かける人が多い。",
+        "stem": "連休なので、【行楽】に出かける人が多い。"
+      }
+    ],
+    "task_id": 112458473,
+    "task_order": 30
+  }
+]

@@ -1,0 +1,3008 @@
+{
+  "book_count": 15,
+  "books": [
+    {
+      "book_id": 1580373,
+      "book_name": "JLPT N5_01かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "力",
+          "book_id": 1580373,
+          "edge_id": 18189381,
+          "explanation": "",
+          "id": 25001257,
+          "index": 0,
+          "options": [
+            "力",
+            "方",
+            "刀",
+            "刃"
+          ],
+          "question_node_id": 20689220,
+          "question_text": "ジョンさんは　【ちから】が　つよいです。",
+          "stem": "ジョンさんは　【ちから】が　つよいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "田んぼ",
+          "book_id": 1580373,
+          "edge_id": 18189378,
+          "explanation": "",
+          "id": 25001258,
+          "index": 1,
+          "options": [
+            "田んぼ",
+            "口んぼ",
+            "日んぼ",
+            "十んぼ"
+          ],
+          "question_node_id": 20689221,
+          "question_text": "【たんぼ】に　カエルが　います。",
+          "stem": "【たんぼ】に　カエルが　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "高い",
+          "book_id": 1580373,
+          "edge_id": 18189382,
+          "explanation": "",
+          "id": 25001259,
+          "index": 2,
+          "options": [
+            "高い",
+            "答い",
+            "南い",
+            "客い"
+          ],
+          "question_node_id": 20689226,
+          "question_text": "この　みせの　ようふくは　【たかい】です。",
+          "stem": "この　みせの　ようふくは　【たかい】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "買います",
+          "book_id": 1580373,
+          "edge_id": 17974289,
+          "explanation": "",
+          "id": 25001260,
+          "index": 3,
+          "options": [
+            "買います",
+            "貝います",
+            "目います",
+            "売います"
+          ],
+          "question_node_id": 20409208,
+          "question_text": "あたらしい　本を　【かいます】。",
+          "stem": "あたらしい　本を　【かいます】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "天気",
+          "book_id": 1580373,
+          "edge_id": 17974292,
+          "explanation": "",
+          "id": 25001261,
+          "index": 4,
+          "options": [
+            "天気",
+            "天生",
+            "天木",
+            "天汽"
+          ],
+          "question_node_id": 20409207,
+          "question_text": "今日は　【てんき】が　いいですね。",
+          "stem": "今日は　【てんき】が　いいですね。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "みず",
+          "book_id": 1580373,
+          "edge_id": 18189379,
+          "explanation": "",
+          "id": 25001262,
+          "index": 5,
+          "options": [
+            "みず",
+            "みす",
+            "すい",
+            "ずい"
+          ],
+          "question_node_id": 20689225,
+          "question_text": "【水】が　のみたいです。",
+          "stem": "【水】が　のみたいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "やま",
+          "book_id": 1580373,
+          "edge_id": 18189380,
+          "explanation": "",
+          "id": 25001263,
+          "index": 6,
+          "options": [
+            "やま",
+            "がわ",
+            "さん",
+            "ざん"
+          ],
+          "question_node_id": 20689224,
+          "question_text": "にほんは　【山】が　おおい　くにです。",
+          "stem": "にほんは　【山】が　おおい　くにです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いれて",
+          "book_id": 1580373,
+          "edge_id": 18189377,
+          "explanation": "",
+          "id": 25001264,
+          "index": 7,
+          "options": [
+            "いれて",
+            "はいれて",
+            "いりれて",
+            "はれて"
+          ],
+          "question_node_id": 20689222,
+          "question_text": "コーヒーに　さとうを　【入れて】　のみます。",
+          "stem": "コーヒーに　さとうを　【入れて】　のみます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "こない",
+          "book_id": 1580373,
+          "edge_id": 18189383,
+          "explanation": "",
+          "id": 25001265,
+          "index": 8,
+          "options": [
+            "こない",
+            "かない",
+            "きない",
+            "けない"
+          ],
+          "question_node_id": 20689223,
+          "question_text": "「きょう　パーティーに　【来ない】。」「うん、いく。」",
+          "stem": "「きょう　パーティーに　【来ない】。」「うん、いく。」"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "なに",
+          "book_id": 1580373,
+          "edge_id": 17974287,
+          "explanation": "",
+          "id": 25001266,
+          "index": 9,
+          "options": [
+            "なに",
+            "なんで",
+            "なんに",
+            "なん"
+          ],
+          "question_node_id": 20409210,
+          "question_text": "きのうの　よる　【何】を　食べましたか。",
+          "stem": "きのうの　よる　【何】を　食べましたか。"
+        }
+      ],
+      "task_id": 112454953,
+      "task_order": 1
+    },
+    {
+      "book_id": 1580374,
+      "book_name": "JLPT N5_02かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "王さま",
+          "book_id": 1580374,
+          "edge_id": 18189386,
+          "explanation": "",
+          "id": 25001267,
+          "index": 0,
+          "options": [
+            "王さま",
+            "玉さま",
+            "国さま",
+            "主さま"
+          ],
+          "question_node_id": 20689229,
+          "question_text": "わたしの　くにに　【おうさま】が　います。",
+          "stem": "わたしの　くにに　【おうさま】が　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "お母さん",
+          "book_id": 1580374,
+          "edge_id": 18189390,
+          "explanation": "",
+          "id": 25001268,
+          "index": 1,
+          "options": [
+            "お母さん",
+            "お父さん",
+            "お女さん",
+            "お妹さん"
+          ],
+          "question_node_id": 20689227,
+          "question_text": "【おかあさん】の　しごとは　なんですか。",
+          "stem": "【おかあさん】の　しごとは　なんですか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "肉",
+          "book_id": 1580374,
+          "edge_id": 17974297,
+          "explanation": "",
+          "id": 25001269,
+          "index": 2,
+          "options": [
+            "肉",
+            "内",
+            "丙",
+            "両"
+          ],
+          "question_node_id": 20409213,
+          "question_text": "わたしは　【にく】を　食べません。",
+          "stem": "わたしは　【にく】を　食べません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "先週",
+          "book_id": 1580374,
+          "edge_id": 17974298,
+          "explanation": "",
+          "id": 25001270,
+          "index": 3,
+          "options": [
+            "先週",
+            "今週",
+            "毎週",
+            "来週"
+          ],
+          "question_node_id": 20409217,
+          "question_text": "【せんしゅう】学校へ　行きませんでした。",
+          "stem": "【せんしゅう】学校へ　行きませんでした。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "午後",
+          "book_id": 1580374,
+          "edge_id": 18189384,
+          "explanation": "",
+          "id": 25001271,
+          "index": 4,
+          "options": [
+            "午後",
+            "後午",
+            "午前",
+            "十後"
+          ],
+          "question_node_id": 20689231,
+          "question_text": "じゅぎょうは　【ごご】１じからです。",
+          "stem": "じゅぎょうは　【ごご】１じからです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "くじ",
+          "book_id": 1580374,
+          "edge_id": 18189385,
+          "explanation": "",
+          "id": 25001272,
+          "index": 5,
+          "options": [
+            "くじ",
+            "きゅうじ",
+            "きゅじ",
+            "こじ"
+          ],
+          "question_node_id": 20689228,
+          "question_text": "まいあさ　【九じ】に　じゅぎょうが　はじまります。",
+          "stem": "まいあさ　【九じ】に　じゅぎょうが　はじまります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "さんびゃくまんえん",
+          "book_id": 1580374,
+          "edge_id": 18189388,
+          "explanation": "",
+          "id": 25001273,
+          "index": 6,
+          "options": [
+            "さんびゃくまんえん",
+            "さんぴゃくあんえん",
+            "さんひゃっまんいん",
+            "さんひゃくあんいん"
+          ],
+          "question_node_id": 20689230,
+          "question_text": "この　くるまは　【三百万円】　です。",
+          "stem": "この　くるまは　【三百万円】　です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いちにちじゅう",
+          "book_id": 1580374,
+          "edge_id": 18189387,
+          "explanation": "",
+          "id": 25001274,
+          "index": 7,
+          "options": [
+            "いちにちじゅう",
+            "いちひちゅう",
+            "ついたちじゅう",
+            "いちびなか"
+          ],
+          "question_node_id": 20689233,
+          "question_text": "きょうは　【一日中】　あつかったです。",
+          "stem": "きょうは　【一日中】　あつかったです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ぶつ",
+          "book_id": 1580374,
+          "edge_id": 17974299,
+          "explanation": "",
+          "id": 25001275,
+          "index": 8,
+          "options": [
+            "ぶつ",
+            "もの",
+            "もつ",
+            "ぶっ"
+          ],
+          "question_node_id": 20409216,
+          "question_text": "ともだちと　どう【物】えんへ　行きました。",
+          "stem": "ともだちと　どう【物】えんへ　行きました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "まち",
+          "book_id": 1580374,
+          "edge_id": 18189389,
+          "explanation": "",
+          "id": 25001276,
+          "index": 9,
+          "options": [
+            "まち",
+            "ちゅう",
+            "まっち",
+            "ちょう"
+          ],
+          "question_node_id": 20689232,
+          "question_text": "【町】の　おまつりは　にぎやかです。",
+          "stem": "【町】の　おまつりは　にぎやかです。"
+        }
+      ],
+      "task_id": 112454954,
+      "task_order": 2
+    },
+    {
+      "book_id": 1580375,
+      "book_name": "JLPT N5_03かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "土",
+          "book_id": 1580375,
+          "edge_id": 18189397,
+          "explanation": "",
+          "id": 25001277,
+          "index": 0,
+          "options": [
+            "土",
+            "工",
+            "士",
+            "王"
+          ],
+          "question_node_id": 20689234,
+          "question_text": "【ど】ようびに　ともだちと　えいがを　みます。",
+          "stem": "【ど】ようびに　ともだちと　えいがを　みます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "先",
+          "book_id": 1580375,
+          "edge_id": 18189391,
+          "explanation": "",
+          "id": 25001278,
+          "index": 1,
+          "options": [
+            "先",
+            "足",
+            "元",
+            "売"
+          ],
+          "question_node_id": 20689239,
+          "question_text": "アルバイトが　あります。【さき】に　かえります。",
+          "stem": "アルバイトが　あります。【さき】に　かえります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "好きです",
+          "book_id": 1580375,
+          "edge_id": 18189398,
+          "explanation": "",
+          "id": 25001279,
+          "index": 2,
+          "options": [
+            "好きです",
+            "妙きです",
+            "好です",
+            "妙です"
+          ],
+          "question_node_id": 20689235,
+          "question_text": "わたしの　母は　ラーメンが　【すきです】。",
+          "stem": "わたしの　母は　ラーメンが　【すきです】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "話して",
+          "book_id": 1580375,
+          "edge_id": 18189392,
+          "explanation": "",
+          "id": 25001280,
+          "index": 3,
+          "options": [
+            "話して",
+            "言して",
+            "書して",
+            "聞して"
+          ],
+          "question_node_id": 20689240,
+          "question_text": "せんせいは　ワットさんと　【はなして】います。",
+          "stem": "せんせいは　ワットさんと　【はなして】います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "安",
+          "book_id": 1580375,
+          "edge_id": 18189394,
+          "explanation": "",
+          "id": 25001281,
+          "index": 4,
+          "options": [
+            "安",
+            "女",
+            "高",
+            "円"
+          ],
+          "question_node_id": 20689236,
+          "question_text": "こどもが　げんきになって、【あん】しんしました。",
+          "stem": "こどもが　げんきになって、【あん】しんしました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "たして",
+          "book_id": 1580375,
+          "edge_id": 18189393,
+          "explanation": "",
+          "id": 25001282,
+          "index": 5,
+          "options": [
+            "たして",
+            "だして",
+            "そくて",
+            "あして"
+          ],
+          "question_node_id": 20689238,
+          "question_text": "スープに　しおを　【足して】ください。",
+          "stem": "スープに　しおを　【足して】ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "あがって",
+          "book_id": 1580375,
+          "edge_id": 17974302,
+          "explanation": "",
+          "id": 25001283,
+          "index": 6,
+          "options": [
+            "あがって",
+            "くがって",
+            "さがって",
+            "のがって"
+          ],
+          "question_node_id": 20409220,
+          "question_text": "かいだんで　三かいまで　【上がって】ください。",
+          "stem": "かいだんで　三かいまで　【上がって】ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かのじょ",
+          "book_id": 1580375,
+          "edge_id": 17974303,
+          "explanation": "",
+          "id": 25001284,
+          "index": 7,
+          "options": [
+            "かのじょ",
+            "かのにょ",
+            "かのじょう",
+            "かのにょう"
+          ],
+          "question_node_id": 20409225,
+          "question_text": "わたしには　日本人の　【かの女】が　います。",
+          "stem": "わたしには　日本人の　【かの女】が　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "のみます",
+          "book_id": 1580375,
+          "edge_id": 18189395,
+          "explanation": "",
+          "id": 25001285,
+          "index": 8,
+          "options": [
+            "のみます",
+            "しみます",
+            "かみます",
+            "のんみます"
+          ],
+          "question_node_id": 20689237,
+          "question_text": "まいあさ　コーヒーを　【飲みます】。",
+          "stem": "まいあさ　コーヒーを　【飲みます】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "でんき",
+          "book_id": 1580375,
+          "edge_id": 18189396,
+          "explanation": "",
+          "id": 25001286,
+          "index": 9,
+          "options": [
+            "でんき",
+            "てんき",
+            "げんき",
+            "たんき"
+          ],
+          "question_node_id": 20689241,
+          "question_text": "へやの　【電き】を　つけます。",
+          "stem": "へやの　【電き】を　つけます。"
+        }
+      ],
+      "task_id": 112454955,
+      "task_order": 3
+    },
+    {
+      "book_id": 1580376,
+      "book_name": "JLPT N5_04かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "六つ",
+          "book_id": 1580376,
+          "edge_id": 18189407,
+          "explanation": "",
+          "id": 25001287,
+          "index": 0,
+          "options": [
+            "六つ",
+            "八つ",
+            "四つ",
+            "五つ"
+          ],
+          "question_node_id": 20689243,
+          "question_text": "りんごが　【むっつ】　あります。",
+          "stem": "りんごが　【むっつ】　あります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "小さい",
+          "book_id": 1580376,
+          "edge_id": 18189402,
+          "explanation": "",
+          "id": 25001288,
+          "index": 1,
+          "options": [
+            "小さい",
+            "小いさい",
+            "少さい",
+            "少いさい"
+          ],
+          "question_node_id": 20689242,
+          "question_text": "この　かばんは　【ちいさい】です。",
+          "stem": "この　かばんは　【ちいさい】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "立っています",
+          "book_id": 1580376,
+          "edge_id": 18189406,
+          "explanation": "",
+          "id": 25001289,
+          "index": 2,
+          "options": [
+            "立っています",
+            "文っています",
+            "並っています",
+            "位っています"
+          ],
+          "question_node_id": 20689246,
+          "question_text": "あそこに　けいさつかんが　【たっています】。",
+          "stem": "あそこに　けいさつかんが　【たっています】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "明るい",
+          "book_id": 1580376,
+          "edge_id": 18189403,
+          "explanation": "",
+          "id": 25001290,
+          "index": 3,
+          "options": [
+            "明るい",
+            "朋るい",
+            "明かるい",
+            "朋い"
+          ],
+          "question_node_id": 20689248,
+          "question_text": "わたしの　へやは　【あかるい】です。",
+          "stem": "わたしの　へやは　【あかるい】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "長年",
+          "book_id": 1580376,
+          "edge_id": 18189399,
+          "explanation": "",
+          "id": 25001291,
+          "index": 4,
+          "options": [
+            "長年",
+            "張年",
+            "走年",
+            "多年"
+          ],
+          "question_node_id": 20689245,
+          "question_text": "わたしは　【ながねん】　ロンドンに　すんで　いました。",
+          "stem": "わたしは　【ながねん】　ロンドンに　すんで　いました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いっぽん",
+          "book_id": 1580376,
+          "edge_id": 18189401,
+          "explanation": "",
+          "id": 25001292,
+          "index": 5,
+          "options": [
+            "いっぽん",
+            "いちぽん",
+            "ひとぽん",
+            "いつぽん"
+          ],
+          "question_node_id": 20689244,
+          "question_text": "ペンを　【一ぽん】　かいました。",
+          "stem": "ペンを　【一ぽん】　かいました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "しんゆう",
+          "book_id": 1580376,
+          "edge_id": 17974305,
+          "explanation": "",
+          "id": 25001293,
+          "index": 6,
+          "options": [
+            "しんゆう",
+            "しんにゅう",
+            "しんとも",
+            "しんよう"
+          ],
+          "question_node_id": 20409228,
+          "question_text": "川上さんは　わたしの　【しん友】です。",
+          "stem": "川上さんは　わたしの　【しん友】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "だして",
+          "book_id": 1580376,
+          "edge_id": 18189404,
+          "explanation": "",
+          "id": 25001294,
+          "index": 7,
+          "options": [
+            "だして",
+            "たして",
+            "しゅっして",
+            "でして"
+          ],
+          "question_node_id": 20689247,
+          "question_text": "９じまでに　ごみを　【出して】ください。",
+          "stem": "９じまでに　ごみを　【出して】ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ぼこう",
+          "book_id": 1580376,
+          "edge_id": 18189400,
+          "explanation": "",
+          "id": 25001295,
+          "index": 8,
+          "options": [
+            "ぼこう",
+            "ぶこう",
+            "そこう",
+            "はこう"
+          ],
+          "question_node_id": 20689249,
+          "question_text": "きのう　【母校】へ　あそびに　いきました。",
+          "stem": "きのう　【母校】へ　あそびに　いきました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いま",
+          "book_id": 1580376,
+          "edge_id": 18189405,
+          "explanation": "",
+          "id": 25001296,
+          "index": 9,
+          "options": [
+            "いま",
+            "ことし",
+            "いほ",
+            "きょう"
+          ],
+          "question_node_id": 20689250,
+          "question_text": "ホワイトさんは　【今】　出かけて　います。",
+          "stem": "ホワイトさんは　【今】　出かけて　います。"
+        }
+      ],
+      "task_id": 112454956,
+      "task_order": 4
+    },
+    {
+      "book_id": 1580377,
+      "book_name": "JLPT N5_05かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "木",
+          "book_id": 1580377,
+          "edge_id": 18189408,
+          "explanation": "",
+          "id": 25001297,
+          "index": 0,
+          "options": [
+            "木",
+            "本",
+            "末",
+            "火"
+          ],
+          "question_node_id": 20689252,
+          "question_text": "えきの　まえに　さくらの　【き】が　あります。",
+          "stem": "えきの　まえに　さくらの　【き】が　あります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "学んで",
+          "book_id": 1580377,
+          "edge_id": 18189414,
+          "explanation": "",
+          "id": 25001298,
+          "index": 1,
+          "options": [
+            "学んで",
+            "安んで",
+            "覚んで",
+            "労んで"
+          ],
+          "question_node_id": 20689251,
+          "question_text": "ISIで　にほんごを　【まなんで】います。",
+          "stem": "ISIで　にほんごを　【まなんで】います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "車",
+          "book_id": 1580377,
+          "edge_id": 18189413,
+          "explanation": "",
+          "id": 25001299,
+          "index": 2,
+          "options": [
+            "車",
+            "来",
+            "束",
+            "輪"
+          ],
+          "question_node_id": 20689255,
+          "question_text": "あたらしい　【くるま】が　ほしいです。",
+          "stem": "あたらしい　【くるま】が　ほしいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "古い",
+          "book_id": 1580377,
+          "edge_id": 18189411,
+          "explanation": "",
+          "id": 25001300,
+          "index": 3,
+          "options": [
+            "古い",
+            "十い",
+            "口い",
+            "克い"
+          ],
+          "question_node_id": 20689254,
+          "question_text": "この　パソコンは　【ふるい】です。",
+          "stem": "この　パソコンは　【ふるい】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "赤い",
+          "book_id": 1580377,
+          "edge_id": 18189409,
+          "explanation": "",
+          "id": 25001301,
+          "index": 4,
+          "options": [
+            "赤い",
+            "青い",
+            "黒い",
+            "白い"
+          ],
+          "question_node_id": 20689257,
+          "question_text": "メアリーさんは　【あかい】バッグを　もって　います。",
+          "stem": "メアリーさんは　【あかい】バッグを　もって　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ひ",
+          "book_id": 1580377,
+          "edge_id": 18189410,
+          "explanation": "",
+          "id": 25001302,
+          "index": 5,
+          "options": [
+            "ひ",
+            "にち",
+            "か",
+            "び"
+          ],
+          "question_node_id": 20689253,
+          "question_text": "きょうは　ははの【日】　です。",
+          "stem": "きょうは　ははの【日】　です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "か",
+          "book_id": 1580377,
+          "edge_id": 18189415,
+          "explanation": "",
+          "id": 25001303,
+          "index": 6,
+          "options": [
+            "か",
+            "こ",
+            "け",
+            "く"
+          ],
+          "question_node_id": 20689258,
+          "question_text": "【花】びんを　ここに　おきましょう。",
+          "stem": "【花】びんを　ここに　おきましょう。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ちょうなん",
+          "book_id": 1580377,
+          "edge_id": 17974312,
+          "explanation": "",
+          "id": 25001304,
+          "index": 7,
+          "options": [
+            "ちょうなん",
+            "ちょうだん",
+            "ちょうねん",
+            "ちょうにん"
+          ],
+          "question_node_id": 20409236,
+          "question_text": "わたしは　三人きょうだいの　【ちょう男】です。",
+          "stem": "わたしは　三人きょうだいの　【ちょう男】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かいて",
+          "book_id": 1580377,
+          "edge_id": 17974314,
+          "explanation": "",
+          "id": 25001305,
+          "index": 8,
+          "options": [
+            "かいて",
+            "しょいて",
+            "きいて",
+            "くいて"
+          ],
+          "question_node_id": 20409234,
+          "question_text": "こちらに　お名まえを　【書いて】ください。",
+          "stem": "こちらに　お名まえを　【書いて】ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "やすい",
+          "book_id": 1580377,
+          "edge_id": 18189412,
+          "explanation": "",
+          "id": 25001306,
+          "index": 9,
+          "options": [
+            "やすい",
+            "ちかい",
+            "たかい",
+            "ひろい"
+          ],
+          "question_node_id": 20689256,
+          "question_text": "いつも　【安い】　スーパーへ　いきます。",
+          "stem": "いつも　【安い】　スーパーへ　いきます。"
+        }
+      ],
+      "task_id": 112454957,
+      "task_order": 5
+    },
+    {
+      "book_id": 1580378,
+      "book_name": "JLPT N5_06かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "下",
+          "book_id": 1580378,
+          "edge_id": 18189416,
+          "explanation": "",
+          "id": 25001307,
+          "index": 0,
+          "options": [
+            "下",
+            "千",
+            "中",
+            "土"
+          ],
+          "question_node_id": 20689260,
+          "question_text": "いすの　【した】に　ねこが　います。",
+          "stem": "いすの　【した】に　ねこが　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ほう石",
+          "book_id": 1580378,
+          "edge_id": 18189422,
+          "explanation": "",
+          "id": 25001308,
+          "index": 1,
+          "options": [
+            "ほう石",
+            "ほう右",
+            "ほう中",
+            "ほう台"
+          ],
+          "question_node_id": 20689264,
+          "question_text": "ダイヤモンドなどの　【ほうせき】は　たかいです。",
+          "stem": "ダイヤモンドなどの　【ほうせき】は　たかいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "新聞",
+          "book_id": 1580378,
+          "edge_id": 18189424,
+          "explanation": "",
+          "id": 25001309,
+          "index": 2,
+          "options": [
+            "新聞",
+            "新帰",
+            "新問",
+            "新門"
+          ],
+          "question_node_id": 20689261,
+          "question_text": "まいあさ　【しんぶん】を　よみます。",
+          "stem": "まいあさ　【しんぶん】を　よみます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "牛",
+          "book_id": 1580378,
+          "edge_id": 18189423,
+          "explanation": "",
+          "id": 25001310,
+          "index": 3,
+          "options": [
+            "牛",
+            "午",
+            "朱",
+            "千"
+          ],
+          "question_node_id": 20689259,
+          "question_text": "わたしは　【ぎゅう】にゅうを　たくさん　のみます。",
+          "stem": "わたしは　【ぎゅう】にゅうを　たくさん　のみます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "金",
+          "book_id": 1580378,
+          "edge_id": 18189417,
+          "explanation": "",
+          "id": 25001311,
+          "index": 4,
+          "options": [
+            "金",
+            "土",
+            "水",
+            "木"
+          ],
+          "question_node_id": 20689263,
+          "question_text": "【きん】ようびに　ともだちと　しょくじします。",
+          "stem": "【きん】ようびに　ともだちと　しょくじします。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "じん",
+          "book_id": 1580378,
+          "edge_id": 18189425,
+          "explanation": "",
+          "id": 25001312,
+          "index": 5,
+          "options": [
+            "じん",
+            "びと",
+            "ひと",
+            "にん"
+          ],
+          "question_node_id": 20689266,
+          "question_text": "ゆみさんは　にほん【人】です。",
+          "stem": "ゆみさんは　にほん【人】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "たいせつ",
+          "book_id": 1580378,
+          "edge_id": 18189419,
+          "explanation": "",
+          "id": 25001313,
+          "index": 6,
+          "options": [
+            "たいせつ",
+            "だいせつ",
+            "おおせつ",
+            "おせつ"
+          ],
+          "question_node_id": 20689262,
+          "question_text": "パスポートは　【大せつ】です。",
+          "stem": "パスポートは　【大せつ】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "きこく",
+          "book_id": 1580378,
+          "edge_id": 18189418,
+          "explanation": "",
+          "id": 25001314,
+          "index": 7,
+          "options": [
+            "きこく",
+            "かこく",
+            "さこく",
+            "りこく"
+          ],
+          "question_node_id": 20689268,
+          "question_text": "いつ　【帰こく】　しますか。",
+          "stem": "いつ　【帰こく】　しますか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "こめ",
+          "book_id": 1580378,
+          "edge_id": 18189420,
+          "explanation": "",
+          "id": 25001315,
+          "index": 8,
+          "options": [
+            "こめ",
+            "まい",
+            "き",
+            "さい"
+          ],
+          "question_node_id": 20689265,
+          "question_text": "せんしゅう　スーパーで　【米】を　かいました。",
+          "stem": "せんしゅう　スーパーで　【米】を　かいました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おおい",
+          "book_id": 1580378,
+          "edge_id": 18189421,
+          "explanation": "",
+          "id": 25001316,
+          "index": 9,
+          "options": [
+            "おおい",
+            "たかい",
+            "すくない",
+            "おおきい"
+          ],
+          "question_node_id": 20689267,
+          "question_text": "えきの　ちかくは　マンションが　【多い】です。",
+          "stem": "えきの　ちかくは　マンションが　【多い】です。"
+        }
+      ],
+      "task_id": 112454958,
+      "task_order": 6
+    },
+    {
+      "book_id": 1580379,
+      "book_name": "JLPT N5_07かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "外",
+          "book_id": 1580379,
+          "edge_id": 18189426,
+          "explanation": "",
+          "id": 25001317,
+          "index": 0,
+          "options": [
+            "外",
+            "内",
+            "夕",
+            "列"
+          ],
+          "question_node_id": 20689275,
+          "question_text": "あついですから　【そと】に　でたくないです。",
+          "stem": "あついですから　【そと】に　でたくないです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "国立",
+          "book_id": 1580379,
+          "edge_id": 18189429,
+          "explanation": "",
+          "id": 25001318,
+          "index": 1,
+          "options": [
+            "国立",
+            "国川",
+            "国二",
+            "国山"
+          ],
+          "question_node_id": 20689270,
+          "question_text": "わたしは　【こくりつ】大学に　かよって　います。",
+          "stem": "わたしは　【こくりつ】大学に　かよって　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "北",
+          "book_id": 1580379,
+          "edge_id": 18189432,
+          "explanation": "",
+          "id": 25001319,
+          "index": 2,
+          "options": [
+            "北",
+            "比",
+            "東",
+            "南"
+          ],
+          "question_node_id": 20689269,
+          "question_text": "つめたい　【きた】からの　かぜが　ふいて　います。",
+          "stem": "つめたい　【きた】からの　かぜが　ふいて　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "西",
+          "book_id": 1580379,
+          "edge_id": 18189428,
+          "explanation": "",
+          "id": 25001320,
+          "index": 3,
+          "options": [
+            "西",
+            "丙",
+            "茜",
+            "酉"
+          ],
+          "question_node_id": 20689272,
+          "question_text": "【にし】口に　大きい　デパートが　あります。",
+          "stem": "【にし】口に　大きい　デパートが　あります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "出て",
+          "book_id": 1580379,
+          "edge_id": 18189430,
+          "explanation": "",
+          "id": 25001321,
+          "index": 4,
+          "options": [
+            "出て",
+            "入て",
+            "古て",
+            "田て"
+          ],
+          "question_node_id": 20689273,
+          "question_text": "うしろの　ドアから　【でて】ください。",
+          "stem": "うしろの　ドアから　【でて】ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "みみ",
+          "book_id": 1580379,
+          "edge_id": 18189431,
+          "explanation": "",
+          "id": 25001322,
+          "index": 5,
+          "options": [
+            "みみ",
+            "みめ",
+            "もく",
+            "じび"
+          ],
+          "question_node_id": 20689271,
+          "question_text": "【耳】に　ピアスの　あなを　あけました。",
+          "stem": "【耳】に　ピアスの　あなを　あけました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "だいすき",
+          "book_id": 1580379,
+          "edge_id": 18189433,
+          "explanation": "",
+          "id": 25001323,
+          "index": 6,
+          "options": [
+            "だいすき",
+            "たいすき",
+            "おおすき",
+            "だいいすき"
+          ],
+          "question_node_id": 20689276,
+          "question_text": "わたしは　すしが　【大すき】です。",
+          "stem": "わたしは　すしが　【大すき】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "はたけ",
+          "book_id": 1580379,
+          "edge_id": 18189427,
+          "explanation": "",
+          "id": 25001324,
+          "index": 7,
+          "options": [
+            "はたけ",
+            "ぱた",
+            "ばたけ",
+            "た"
+          ],
+          "question_node_id": 20689274,
+          "question_text": "うちの　【畑】で　トマトを　つくって　います。",
+          "stem": "うちの　【畑】で　トマトを　つくって　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ほうげん",
+          "book_id": 1580379,
+          "edge_id": 18189434,
+          "explanation": "",
+          "id": 25001325,
+          "index": 8,
+          "options": [
+            "ほうげん",
+            "ほうい",
+            "ほうご",
+            "ほうごん"
+          ],
+          "question_node_id": 20689277,
+          "question_text": "「おおきに」は　かんさいの　【ほう言】　です。",
+          "stem": "「おおきに」は　かんさいの　【ほう言】　です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "がんじつ",
+          "book_id": 1580379,
+          "edge_id": 17974319,
+          "explanation": "",
+          "id": 25001326,
+          "index": 9,
+          "options": [
+            "がんじつ",
+            "けんじつ",
+            "げんじつ",
+            "かんじつ"
+          ],
+          "question_node_id": 20409242,
+          "question_text": "一月一日は　【元日】です。",
+          "stem": "一月一日は　【元日】です。"
+        }
+      ],
+      "task_id": 112454959,
+      "task_order": 7
+    },
+    {
+      "book_id": 1580380,
+      "book_name": "JLPT N5_08かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "左右",
+          "book_id": 1580380,
+          "edge_id": 18189436,
+          "explanation": "",
+          "id": 25001327,
+          "index": 0,
+          "options": [
+            "左右",
+            "右上",
+            "右左",
+            "左下"
+          ],
+          "question_node_id": 20689283,
+          "question_text": "【さゆう】を　よく　みて　みちを　わたって　ください。",
+          "stem": "【さゆう】を　よく　みて　みちを　わたって　ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "花見",
+          "book_id": 1580380,
+          "edge_id": 18189442,
+          "explanation": "",
+          "id": 25001328,
+          "index": 1,
+          "options": [
+            "花見",
+            "花耳",
+            "花目",
+            "花日"
+          ],
+          "question_node_id": 20689281,
+          "question_text": "せんしゅう　はじめて　【はなみ】を　しました。",
+          "stem": "せんしゅう　はじめて　【はなみ】を　しました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "森林",
+          "book_id": 1580380,
+          "edge_id": 18189435,
+          "explanation": "",
+          "id": 25001329,
+          "index": 2,
+          "options": [
+            "森林",
+            "林森",
+            "木林",
+            "木森"
+          ],
+          "question_node_id": 20689282,
+          "question_text": "日本は　【しんりん】が　おおい　くにです。",
+          "stem": "日本は　【しんりん】が　おおい　くにです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "空気",
+          "book_id": 1580380,
+          "edge_id": 18189443,
+          "explanation": "",
+          "id": 25001330,
+          "index": 3,
+          "options": [
+            "空気",
+            "空木",
+            "空汽",
+            "九気"
+          ],
+          "question_node_id": 20689278,
+          "question_text": "ふゆは　【くうき】が　かわいて　います。",
+          "stem": "ふゆは　【くうき】が　かわいて　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "外国",
+          "book_id": 1580380,
+          "edge_id": 17974323,
+          "explanation": "",
+          "id": 25001331,
+          "index": 4,
+          "options": [
+            "外国",
+            "中国",
+            "買国",
+            "夕国"
+          ],
+          "question_node_id": 20409245,
+          "question_text": "【がいこく】人は　ビザが　ひつようです。",
+          "stem": "【がいこく】人は　ビザが　ひつようです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "らいげつ",
+          "book_id": 1580380,
+          "edge_id": 18189439,
+          "explanation": "",
+          "id": 25001332,
+          "index": 5,
+          "options": [
+            "らいげつ",
+            "らいづき",
+            "らいつき",
+            "らいがつ"
+          ],
+          "question_node_id": 20689279,
+          "question_text": "【らい月】　ともだちが　にほんへ　きます。",
+          "stem": "【らい月】　ともだちが　にほんへ　きます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "あめ",
+          "book_id": 1580380,
+          "edge_id": 18189438,
+          "explanation": "",
+          "id": 25001333,
+          "index": 6,
+          "options": [
+            "あめ",
+            "うめ",
+            "おおめ",
+            "あみ"
+          ],
+          "question_node_id": 20689285,
+          "question_text": "にほんは　6月に　【雨】が　たくさん　ふります。",
+          "stem": "にほんは　6月に　【雨】が　たくさん　ふります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "やすみ",
+          "book_id": 1580380,
+          "edge_id": 18189437,
+          "explanation": "",
+          "id": 25001334,
+          "index": 7,
+          "options": [
+            "やすみ",
+            "ゆすみ",
+            "よすみ",
+            "やつみ"
+          ],
+          "question_node_id": 20689280,
+          "question_text": "【休み】の　日に　こうえんを　さんぽします。",
+          "stem": "【休み】の　日に　こうえんを　さんぽします。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "りょこう",
+          "book_id": 1580380,
+          "edge_id": 18189441,
+          "explanation": "",
+          "id": 25001335,
+          "index": 8,
+          "options": [
+            "りょこう",
+            "りょうこう",
+            "りょうこ",
+            "りょこ"
+          ],
+          "question_node_id": 20689284,
+          "question_text": "わたしは　【りょ行】が　すきです。",
+          "stem": "わたしは　【りょ行】が　すきです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "たべ",
+          "book_id": 1580380,
+          "edge_id": 18189440,
+          "explanation": "",
+          "id": 25001336,
+          "index": 9,
+          "options": [
+            "たべ",
+            "とべ",
+            "しょくべ",
+            "だべ"
+          ],
+          "question_node_id": 20689286,
+          "question_text": "きのう　カレーを　【食べ】ました。",
+          "stem": "きのう　カレーを　【食べ】ました。"
+        }
+      ],
+      "task_id": 112454960,
+      "task_order": 8
+    },
+    {
+      "book_id": 1580381,
+      "book_name": "JLPT N5_09かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "門",
+          "book_id": 1580381,
+          "edge_id": 18189450,
+          "explanation": "",
+          "id": 25001337,
+          "index": 0,
+          "options": [
+            "門",
+            "問",
+            "聞",
+            "間"
+          ],
+          "question_node_id": 20689287,
+          "question_text": "【もん】の　そばに　くるまを　とめました。",
+          "stem": "【もん】の　そばに　くるまを　とめました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "読みます",
+          "book_id": 1580381,
+          "edge_id": 17974330,
+          "explanation": "",
+          "id": 25001338,
+          "index": 1,
+          "options": [
+            "読みます",
+            "飲みます",
+            "言みます",
+            "語みます"
+          ],
+          "question_node_id": 20409252,
+          "question_text": "まいばん　本を　【よみます】。",
+          "stem": "まいばん　本を　【よみます】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "空",
+          "book_id": 1580381,
+          "edge_id": 18189446,
+          "explanation": "",
+          "id": 25001339,
+          "index": 2,
+          "options": [
+            "空",
+            "九",
+            "休",
+            "天汽"
+          ],
+          "question_node_id": 20689288,
+          "question_text": "【くう】こうで　パスポートを　なくしました。",
+          "stem": "【くう】こうで　パスポートを　なくしました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "小さい",
+          "book_id": 1580381,
+          "edge_id": 17974327,
+          "explanation": "",
+          "id": 25001340,
+          "index": 3,
+          "options": [
+            "小さい",
+            "少さい",
+            "水さい",
+            "木さい"
+          ],
+          "question_node_id": 20409253,
+          "question_text": "あの人の　こえは　【ちいさい】です。",
+          "stem": "あの人の　こえは　【ちいさい】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "高校",
+          "book_id": 1580381,
+          "edge_id": 18189444,
+          "explanation": "",
+          "id": 25001341,
+          "index": 4,
+          "options": [
+            "高校",
+            "広校",
+            "工校",
+            "語校"
+          ],
+          "question_node_id": 20689292,
+          "question_text": "おとうとが　【こうこう】を　そつぎょうしました。",
+          "stem": "おとうとが　【こうこう】を　そつぎょうしました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "むし",
+          "book_id": 1580381,
+          "edge_id": 18189451,
+          "explanation": "",
+          "id": 25001342,
+          "index": 5,
+          "options": [
+            "むし",
+            "むに",
+            "むひ",
+            "むち"
+          ],
+          "question_node_id": 20689291,
+          "question_text": "ちいさい　【虫】が　とんで　います。",
+          "stem": "ちいさい　【虫】が　とんで　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いっぽん",
+          "book_id": 1580381,
+          "edge_id": 18189445,
+          "explanation": "",
+          "id": 25001343,
+          "index": 6,
+          "options": [
+            "いっぽん",
+            "いちほん",
+            "いっぼん",
+            "ひとほん"
+          ],
+          "question_node_id": 20689289,
+          "question_text": "えんぴつを　【一本】　かして　ください。",
+          "stem": "えんぴつを　【一本】　かして　ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "らい",
+          "book_id": 1580381,
+          "edge_id": 18189448,
+          "explanation": "",
+          "id": 25001344,
+          "index": 7,
+          "options": [
+            "らい",
+            "れい",
+            "くる",
+            "きる"
+          ],
+          "question_node_id": 20689290,
+          "question_text": "わたしは　３月に　【来】日　しました。",
+          "stem": "わたしは　３月に　【来】日　しました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "せつめい",
+          "book_id": 1580381,
+          "edge_id": 18189447,
+          "explanation": "",
+          "id": 25001345,
+          "index": 8,
+          "options": [
+            "せつめい",
+            "せつぬい",
+            "せつねい",
+            "せつのい"
+          ],
+          "question_node_id": 20689294,
+          "question_text": "せんせいが　かん字の　よみかたを　【せつ明】しました。",
+          "stem": "せんせいが　かん字の　よみかたを　【せつ明】しました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "しょうじょ",
+          "book_id": 1580381,
+          "edge_id": 18189449,
+          "explanation": "",
+          "id": 25001346,
+          "index": 9,
+          "options": [
+            "しょうじょ",
+            "とうじょ",
+            "すうじょ",
+            "ちょうじょ"
+          ],
+          "question_node_id": 20689293,
+          "question_text": "かわいい　【少女】が　ベンチに　すわって　います。",
+          "stem": "かわいい　【少女】が　ベンチに　すわって　います。"
+        }
+      ],
+      "task_id": 112454961,
+      "task_order": 9
+    },
+    {
+      "book_id": 1580382,
+      "book_name": "JLPT N5_10かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "貝",
+          "book_id": 1580382,
+          "edge_id": 18189452,
+          "explanation": "",
+          "id": 25001347,
+          "index": 0,
+          "options": [
+            "貝",
+            "具",
+            "見",
+            "目"
+          ],
+          "question_node_id": 20689295,
+          "question_text": "【かい】の　さしみを　食べたいです。",
+          "stem": "【かい】の　さしみを　食べたいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "昼間",
+          "book_id": 1580382,
+          "edge_id": 18189458,
+          "explanation": "",
+          "id": 25001348,
+          "index": 1,
+          "options": [
+            "昼間",
+            "昼関",
+            "昼問",
+            "昼門"
+          ],
+          "question_node_id": 20689298,
+          "question_text": "【ひるま】は　アルバイトを　して　います。",
+          "stem": "【ひるま】は　アルバイトを　して　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "話",
+          "book_id": 1580382,
+          "edge_id": 17974336,
+          "explanation": "",
+          "id": 25001349,
+          "index": 2,
+          "options": [
+            "話",
+            "語",
+            "言",
+            "活"
+          ],
+          "question_node_id": 20409264,
+          "question_text": "わたしは　こわい【はなし】が　大好きです。",
+          "stem": "わたしは　こわい【はなし】が　大好きです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "七",
+          "book_id": 1580382,
+          "edge_id": 18189456,
+          "explanation": "",
+          "id": 25001350,
+          "index": 3,
+          "options": [
+            "七",
+            "八",
+            "六",
+            "土"
+          ],
+          "question_node_id": 20689297,
+          "question_text": "けさ　【しち】じに　おきました。",
+          "stem": "けさ　【しち】じに　おきました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "電車",
+          "book_id": 1580382,
+          "edge_id": 18189453,
+          "explanation": "",
+          "id": 25001351,
+          "index": 4,
+          "options": [
+            "電車",
+            "申車",
+            "雨車",
+            "雷車"
+          ],
+          "question_node_id": 20689296,
+          "question_text": "【でんしゃ】が　まだ　きません。",
+          "stem": "【でんしゃ】が　まだ　きません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かね",
+          "book_id": 1580382,
+          "edge_id": 18189455,
+          "explanation": "",
+          "id": 25001352,
+          "index": 5,
+          "options": [
+            "かね",
+            "きん",
+            "ぎん",
+            "がね"
+          ],
+          "question_node_id": 20689299,
+          "question_text": "いま　お【金】が　ぜんぜん　ありません。",
+          "stem": "いま　お【金】が　ぜんぜん　ありません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "みょうじ",
+          "book_id": 1580382,
+          "edge_id": 17974334,
+          "explanation": "",
+          "id": 25001353,
+          "index": 6,
+          "options": [
+            "みょうじ",
+            "めいじ",
+            "なじ",
+            "みょじ"
+          ],
+          "question_node_id": 20409262,
+          "question_text": "クラスに　おなじ　【名字】の　人が　三人います。",
+          "stem": "クラスに　おなじ　【名字】の　人が　三人います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "そふ",
+          "book_id": 1580382,
+          "edge_id": 18189454,
+          "explanation": "",
+          "id": 25001354,
+          "index": 7,
+          "options": [
+            "そふ",
+            "そぼ",
+            "そば",
+            "そへ"
+          ],
+          "question_node_id": 20689301,
+          "question_text": "わたしの　【そ父】は　まいあさ　さんぽします。",
+          "stem": "わたしの　【そ父】は　まいあさ　さんぽします。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ゆうがた",
+          "book_id": 1580382,
+          "edge_id": 18189457,
+          "explanation": "",
+          "id": 25001355,
+          "index": 8,
+          "options": [
+            "ゆうがた",
+            "ふうかた",
+            "ゆうかた",
+            "ふうがた"
+          ],
+          "question_node_id": 20689300,
+          "question_text": "【夕方】から　ずっと　雨が　ふって　います。",
+          "stem": "【夕方】から　ずっと　雨が　ふって　います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "しんにゅう",
+          "book_id": 1580382,
+          "edge_id": 17974333,
+          "explanation": "",
+          "id": 25001356,
+          "index": 9,
+          "options": [
+            "しんにゅう",
+            "しんにう",
+            "しんねん",
+            "しんゆう"
+          ],
+          "question_node_id": 20409263,
+          "question_text": "四月に　【新入】しゃいんが　二人　入りました。",
+          "stem": "四月に　【新入】しゃいんが　二人　入りました。"
+        }
+      ],
+      "task_id": 112454962,
+      "task_order": 10
+    },
+    {
+      "book_id": 1580383,
+      "book_name": "JLPT N5_11かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "半年",
+          "book_id": 1580383,
+          "edge_id": 18189459,
+          "explanation": "",
+          "id": 25001357,
+          "index": 0,
+          "options": [
+            "半年",
+            "洋年",
+            "羊年",
+            "未年"
+          ],
+          "question_node_id": 20689307,
+          "question_text": "【はんとし】まえに　日本へ　来ました。",
+          "stem": "【はんとし】まえに　日本へ　来ました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "黒い",
+          "book_id": 1580383,
+          "edge_id": 18189468,
+          "explanation": "",
+          "id": 25001358,
+          "index": 1,
+          "options": [
+            "黒い",
+            "白い",
+            "青い",
+            "赤い"
+          ],
+          "question_node_id": 20689303,
+          "question_text": "わたしの　かみは　【くろい】です。",
+          "stem": "わたしの　かみは　【くろい】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "少し",
+          "book_id": 1580383,
+          "edge_id": 18189467,
+          "explanation": "",
+          "id": 25001359,
+          "index": 2,
+          "options": [
+            "少し",
+            "小し",
+            "多し",
+            "大し"
+          ],
+          "question_node_id": 20689302,
+          "question_text": "もう【すこし】　ゆっくり　はなして　ください。",
+          "stem": "もう【すこし】　ゆっくり　はなして　ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "立って",
+          "book_id": 1580383,
+          "edge_id": 18189460,
+          "explanation": "",
+          "id": 25001360,
+          "index": 3,
+          "options": [
+            "立って",
+            "入って",
+            "多って",
+            "足って"
+          ],
+          "question_node_id": 20689305,
+          "question_text": "えきで　【たって】そばを　たべました。",
+          "stem": "えきで　【たって】そばを　たべました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "名前",
+          "book_id": 1580383,
+          "edge_id": 18189461,
+          "explanation": "",
+          "id": 25001361,
+          "index": 4,
+          "options": [
+            "名前",
+            "午前",
+            "夕前",
+            "月前"
+          ],
+          "question_node_id": 20689306,
+          "question_text": "ここに　【なまえ】を　かいて　ください。",
+          "stem": "ここに　【なまえ】を　かいて　ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "うえ",
+          "book_id": 1580383,
+          "edge_id": 18189465,
+          "explanation": "",
+          "id": 25001362,
+          "index": 5,
+          "options": [
+            "うえ",
+            "した",
+            "みぎ",
+            "いえ"
+          ],
+          "question_node_id": 20689304,
+          "question_text": "つくえの　【上】に　なにが　ありますか。",
+          "stem": "つくえの　【上】に　なにが　ありますか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "みぎ",
+          "book_id": 1580383,
+          "edge_id": 18189464,
+          "explanation": "",
+          "id": 25001363,
+          "index": 6,
+          "options": [
+            "みぎ",
+            "ひだり",
+            "めぎ",
+            "ひどり"
+          ],
+          "question_node_id": 20689310,
+          "question_text": "この　かどを　【右】に　まがって　ください。",
+          "stem": "この　かどを　【右】に　まがって　ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いし",
+          "book_id": 1580383,
+          "edge_id": 18189462,
+          "explanation": "",
+          "id": 25001364,
+          "index": 7,
+          "options": [
+            "いし",
+            "いち",
+            "き",
+            "くち"
+          ],
+          "question_node_id": 20689314,
+          "question_text": "あぶないですから、　【石】を　なげては　いけません。",
+          "stem": "あぶないですから、　【石】を　なげては　いけません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かわ",
+          "book_id": 1580383,
+          "edge_id": 18189463,
+          "explanation": "",
+          "id": 25001365,
+          "index": 8,
+          "options": [
+            "かわ",
+            "すい",
+            "みず",
+            "がわ"
+          ],
+          "question_node_id": 20689309,
+          "question_text": "にほんで　一ばん　ながい　【川】は　どこに　ありますか。",
+          "stem": "にほんで　一ばん　ながい　【川】は　どこに　ありますか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "からだ",
+          "book_id": 1580383,
+          "edge_id": 18189466,
+          "explanation": "",
+          "id": 25001366,
+          "index": 9,
+          "options": [
+            "からだ",
+            "からた",
+            "たい",
+            "だい"
+          ],
+          "question_node_id": 20689312,
+          "question_text": "ワンさんは　【体】が　よわいです。",
+          "stem": "ワンさんは　【体】が　よわいです。"
+        }
+      ],
+      "task_id": 112454963,
+      "task_order": 11
+    },
+    {
+      "book_id": 1580384,
+      "book_name": "JLPT N5_12かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "千",
+          "book_id": 1580384,
+          "edge_id": 18189476,
+          "explanation": "",
+          "id": 25001367,
+          "index": 0,
+          "options": [
+            "千",
+            "万",
+            "十",
+            "土"
+          ],
+          "question_node_id": 20689315,
+          "question_text": "この　ふくは　五【せん】円でした。",
+          "stem": "この　ふくは　五【せん】円でした。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "会社",
+          "book_id": 1580384,
+          "edge_id": 18189477,
+          "explanation": "",
+          "id": 25001368,
+          "index": 1,
+          "options": [
+            "会社",
+            "会土",
+            "会空",
+            "会校"
+          ],
+          "question_node_id": 20689322,
+          "question_text": "ここは　ちちの　【かいしゃ】です。",
+          "stem": "ここは　ちちの　【かいしゃ】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "海外",
+          "book_id": 1580384,
+          "edge_id": 18189471,
+          "explanation": "",
+          "id": 25001369,
+          "index": 2,
+          "options": [
+            "海外",
+            "水外",
+            "貝外",
+            "買外"
+          ],
+          "question_node_id": 20689319,
+          "question_text": "【かいがい】りょこうに　いきたいです。",
+          "stem": "【かいがい】りょこうに　いきたいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "青空",
+          "book_id": 1580384,
+          "edge_id": 18189469,
+          "explanation": "",
+          "id": 25001370,
+          "index": 3,
+          "options": [
+            "青空",
+            "赤空",
+            "月空",
+            "清空"
+          ],
+          "question_node_id": 20689325,
+          "question_text": "【あおぞら】が　きれいですね。",
+          "stem": "【あおぞら】が　きれいですね。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "東北",
+          "book_id": 1580384,
+          "edge_id": 18189478,
+          "explanation": "",
+          "id": 25001371,
+          "index": 4,
+          "options": [
+            "東北",
+            "東西",
+            "北東",
+            "東南"
+          ],
+          "question_node_id": 20689333,
+          "question_text": "こんしゅう　【とうほく】ちほうは　とても　さむいです。",
+          "stem": "こんしゅう　【とうほく】ちほうは　とても　さむいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "たいいく",
+          "book_id": 1580384,
+          "edge_id": 18189474,
+          "explanation": "",
+          "id": 25001372,
+          "index": 5,
+          "options": [
+            "たいいく",
+            "たいく",
+            "ていく",
+            "ていいく"
+          ],
+          "question_node_id": 20689332,
+          "question_text": "きょうは　【体いく】の　クラスが　あります。",
+          "stem": "きょうは　【体いく】の　クラスが　あります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おこないます",
+          "book_id": 1580384,
+          "edge_id": 18189475,
+          "explanation": "",
+          "id": 25001373,
+          "index": 6,
+          "options": [
+            "おこないます",
+            "いわないます",
+            "しいないます",
+            "いきないます"
+          ],
+          "question_node_id": 20689328,
+          "question_text": "あした　テストを　【行います】。",
+          "stem": "あした　テストを　【行います】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "もうどうけん",
+          "book_id": 1580384,
+          "edge_id": 18189470,
+          "explanation": "",
+          "id": 25001374,
+          "index": 7,
+          "options": [
+            "もうどうけん",
+            "もうどうかん",
+            "もうどういぬ",
+            "もうどうばん"
+          ],
+          "question_node_id": 20689330,
+          "question_text": "【もうどう犬】は　みせに　入ることが　できます。",
+          "stem": "【もうどう犬】は　みせに　入ることが　できます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おちゃ",
+          "book_id": 1580384,
+          "edge_id": 18189472,
+          "explanation": "",
+          "id": 25001375,
+          "index": 8,
+          "options": [
+            "おちゃ",
+            "おさ",
+            "おぢゃ",
+            "おちゅ"
+          ],
+          "question_node_id": 20689329,
+          "question_text": "あさ　はやく　おきて　【お茶】を　のみます。",
+          "stem": "あさ　はやく　おきて　【お茶】を　のみます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "さかな",
+          "book_id": 1580384,
+          "edge_id": 18189473,
+          "explanation": "",
+          "id": 25001376,
+          "index": 9,
+          "options": [
+            "さかな",
+            "ざかな",
+            "さがな",
+            "ざがな"
+          ],
+          "question_node_id": 20689331,
+          "question_text": "わたしは　【魚】が　きらいです。",
+          "stem": "わたしは　【魚】が　きらいです。"
+        }
+      ],
+      "task_id": 112454964,
+      "task_order": 12
+    },
+    {
+      "book_id": 1580385,
+      "book_name": "JLPT N5_13かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "火",
+          "book_id": 1580385,
+          "edge_id": 18189480,
+          "explanation": "",
+          "id": 25001377,
+          "index": 0,
+          "options": [
+            "火",
+            "水",
+            "大",
+            "木"
+          ],
+          "question_node_id": 20689336,
+          "question_text": "【ひ】を　つけて　ください。",
+          "stem": "【ひ】を　つけて　ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "友",
+          "book_id": 1580385,
+          "edge_id": 18189483,
+          "explanation": "",
+          "id": 25001378,
+          "index": 1,
+          "options": [
+            "友",
+            "又",
+            "反",
+            "宏"
+          ],
+          "question_node_id": 20689334,
+          "question_text": "【とも】だちが　いません。",
+          "stem": "【とも】だちが　いません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "国",
+          "book_id": 1580385,
+          "edge_id": 18189479,
+          "explanation": "",
+          "id": 25001379,
+          "index": 2,
+          "options": [
+            "国",
+            "困",
+            "口",
+            "回"
+          ],
+          "question_node_id": 20689339,
+          "question_text": "わたしの【くに】は　とおいです。",
+          "stem": "わたしの【くに】は　とおいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "六日",
+          "book_id": 1580385,
+          "edge_id": 18189485,
+          "explanation": "",
+          "id": 25001380,
+          "index": 3,
+          "options": [
+            "六日",
+            "三日",
+            "八日",
+            "穴日"
+          ],
+          "question_node_id": 20689335,
+          "question_text": "【むいか】に　うみへ　行きます。",
+          "stem": "【むいか】に　うみへ　行きます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "円",
+          "book_id": 1580385,
+          "edge_id": 18189482,
+          "explanation": "",
+          "id": 25001381,
+          "index": 4,
+          "options": [
+            "円",
+            "同",
+            "回",
+            "月"
+          ],
+          "question_node_id": 20689337,
+          "question_text": "この　ジュースは　100【えん】です。",
+          "stem": "この　ジュースは　100【えん】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "わけます",
+          "book_id": 1580385,
+          "edge_id": 18189488,
+          "explanation": "",
+          "id": 25001382,
+          "index": 5,
+          "options": [
+            "わけます",
+            "ふけます",
+            "よけます",
+            "かけます"
+          ],
+          "question_node_id": 20689344,
+          "question_text": "パーティーで　りょうりを　【分けます】。",
+          "stem": "パーティーで　りょうりを　【分けます】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "とき",
+          "book_id": 1580385,
+          "edge_id": 18189481,
+          "explanation": "",
+          "id": 25001383,
+          "index": 6,
+          "options": [
+            "とき",
+            "じかん",
+            "どき",
+            "しかん"
+          ],
+          "question_node_id": 20689338,
+          "question_text": "「【時】は　金なり」という　ことわざを　しって　いますか。",
+          "stem": "「【時】は　金なり」という　ことわざを　しって　いますか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いって",
+          "book_id": 1580385,
+          "edge_id": 18189486,
+          "explanation": "",
+          "id": 25001384,
+          "index": 7,
+          "options": [
+            "いって",
+            "やって",
+            "ゆって",
+            "いいって"
+          ],
+          "question_node_id": 20689342,
+          "question_text": "もういちど　【言って】ください。",
+          "stem": "もういちど　【言って】ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おん",
+          "book_id": 1580385,
+          "edge_id": 18189487,
+          "explanation": "",
+          "id": 25001385,
+          "index": 8,
+          "options": [
+            "おん",
+            "おと",
+            "あん",
+            "ね"
+          ],
+          "question_node_id": 20689343,
+          "question_text": "まいにち　日本語の　はつ【音】を　れんしゅうしなければなりません。",
+          "stem": "まいにち　日本語の　はつ【音】を　れんしゅうしなければなりません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いわ",
+          "book_id": 1580385,
+          "edge_id": 18189484,
+          "explanation": "",
+          "id": 25001386,
+          "index": 9,
+          "options": [
+            "いわ",
+            "いし",
+            "かん",
+            "がん"
+          ],
+          "question_node_id": 20689341,
+          "question_text": "この【岩】に　のぼっては　いけません。",
+          "stem": "この【岩】に　のぼっては　いけません。"
+        }
+      ],
+      "task_id": 112454965,
+      "task_order": 13
+    },
+    {
+      "book_id": 1580386,
+      "book_name": "JLPT N5_14かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "半分",
+          "book_id": 1580386,
+          "edge_id": 18189489,
+          "explanation": "",
+          "id": 25001387,
+          "index": 0,
+          "options": [
+            "半分",
+            "中分",
+            "半口",
+            "中日"
+          ],
+          "question_node_id": 20689355,
+          "question_text": "たくさん　あります。【はんぶん】どうぞ。",
+          "stem": "たくさん　あります。【はんぶん】どうぞ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "会います",
+          "book_id": 1580386,
+          "edge_id": 18189497,
+          "explanation": "",
+          "id": 25001388,
+          "index": 1,
+          "options": [
+            "会います",
+            "会ます",
+            "令います",
+            "令ます"
+          ],
+          "question_node_id": 20689356,
+          "question_text": "あした　かのじょに　【あいます】。",
+          "stem": "あした　かのじょに　【あいます】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "新しい",
+          "book_id": 1580386,
+          "edge_id": 18189496,
+          "explanation": "",
+          "id": 25001389,
+          "index": 2,
+          "options": [
+            "新しい",
+            "新い",
+            "親しい",
+            "親い"
+          ],
+          "question_node_id": 20689354,
+          "question_text": "この　くつは　【あたらしい】です。",
+          "stem": "この　くつは　【あたらしい】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "目",
+          "book_id": 1580386,
+          "edge_id": 18189493,
+          "explanation": "",
+          "id": 25001390,
+          "index": 3,
+          "options": [
+            "目",
+            "耳",
+            "口",
+            "足"
+          ],
+          "question_node_id": 20689351,
+          "question_text": "【め】が　あかいですね。　だいじょうぶですか。",
+          "stem": "【め】が　あかいですね。　だいじょうぶですか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "出口",
+          "book_id": 1580386,
+          "edge_id": 18189490,
+          "explanation": "",
+          "id": 25001391,
+          "index": 4,
+          "options": [
+            "出口",
+            "入口",
+            "山口",
+            "人口"
+          ],
+          "question_node_id": 20689348,
+          "question_text": "【でぐち】は　どこですか。",
+          "stem": "【でぐち】は　どこですか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "くらい",
+          "book_id": 1580386,
+          "edge_id": 18189491,
+          "explanation": "",
+          "id": 25001392,
+          "index": 5,
+          "options": [
+            "くらい",
+            "くうい",
+            "くろい",
+            "くるい"
+          ],
+          "question_node_id": 20689349,
+          "question_text": "へやが　【暗い】ですから、　でんきを　つけましょう。",
+          "stem": "へやが　【暗い】ですから、　でんきを　つけましょう。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ふるい",
+          "book_id": 1580386,
+          "edge_id": 18189492,
+          "explanation": "",
+          "id": 25001393,
+          "index": 6,
+          "options": [
+            "ふるい",
+            "ふらい",
+            "ふうい",
+            "ふろい"
+          ],
+          "question_node_id": 20689350,
+          "question_text": "【古い】　しゃしんを　見ました。",
+          "stem": "【古い】　しゃしんを　見ました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "てら",
+          "book_id": 1580386,
+          "edge_id": 18189498,
+          "explanation": "",
+          "id": 25001394,
+          "index": 7,
+          "options": [
+            "てら",
+            "でら",
+            "じ",
+            "へら"
+          ],
+          "question_node_id": 20689353,
+          "question_text": "うちの　ちかくに　ふるい　お【寺】が　あります。",
+          "stem": "うちの　ちかくに　ふるい　お【寺】が　あります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "とうなん",
+          "book_id": 1580386,
+          "edge_id": 18189494,
+          "explanation": "",
+          "id": 25001395,
+          "index": 8,
+          "options": [
+            "とうなん",
+            "とうみん",
+            "となん",
+            "とみん"
+          ],
+          "question_node_id": 20689357,
+          "question_text": "先しゅう　しごとで　【東南】アジアへ　行きました。",
+          "stem": "先しゅう　しごとで　【東南】アジアへ　行きました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "しょうがつ",
+          "book_id": 1580386,
+          "edge_id": 18189495,
+          "explanation": "",
+          "id": 25001396,
+          "index": 9,
+          "options": [
+            "しょうがつ",
+            "しょうげつ",
+            "しょうつき",
+            "しょうかつ"
+          ],
+          "question_node_id": 20689352,
+          "question_text": "【しょう月】に　きものを　きました。",
+          "stem": "【しょう月】に　きものを　きました。"
+        }
+      ],
+      "task_id": 112454966,
+      "task_order": 14
+    },
+    {
+      "book_id": 1580387,
+      "book_name": "JLPT N5_15かんじ",
+      "level": "N5_KANJI",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "時",
+          "book_id": 1580387,
+          "edge_id": 18189500,
+          "explanation": "",
+          "id": 25001397,
+          "index": 0,
+          "options": [
+            "時",
+            "年",
+            "週",
+            "月"
+          ],
+          "question_node_id": 20689364,
+          "question_text": "子どもの　【とき】、よく　このアニメを　見ました。",
+          "stem": "子どもの　【とき】、よく　このアニメを　見ました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "中",
+          "book_id": 1580387,
+          "edge_id": 18189499,
+          "explanation": "",
+          "id": 25001398,
+          "index": 1,
+          "options": [
+            "中",
+            "小",
+            "大",
+            "高"
+          ],
+          "question_node_id": 20689358,
+          "question_text": "あそこは　【ちゅう】学校です。",
+          "stem": "あそこは　【ちゅう】学校です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "先生",
+          "book_id": 1580387,
+          "edge_id": 18189504,
+          "explanation": "",
+          "id": 25001399,
+          "index": 2,
+          "options": [
+            "先生",
+            "生先",
+            "年生",
+            "先年"
+          ],
+          "question_node_id": 20689361,
+          "question_text": "やまだ【せんせい】は　しんせつです。",
+          "stem": "やまだ【せんせい】は　しんせつです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "白い",
+          "book_id": 1580387,
+          "edge_id": 18189501,
+          "explanation": "",
+          "id": 25001400,
+          "index": 3,
+          "options": [
+            "白い",
+            "日い",
+            "百い",
+            "自"
+          ],
+          "question_node_id": 20689362,
+          "question_text": "【しろい】スカートが　ほしいです。",
+          "stem": "【しろい】スカートが　ほしいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "大きい",
+          "book_id": 1580387,
+          "edge_id": 18189503,
+          "explanation": "",
+          "id": 25001401,
+          "index": 4,
+          "options": [
+            "大きい",
+            "犬きい",
+            "太きい",
+            "天きい"
+          ],
+          "question_node_id": 20689360,
+          "question_text": "【おおきい】うちですね。",
+          "stem": "【おおきい】うちですね。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "よっつ",
+          "book_id": 1580387,
+          "edge_id": 18189508,
+          "explanation": "",
+          "id": 25001402,
+          "index": 5,
+          "options": [
+            "よっつ",
+            "よんつ",
+            "しつ",
+            "やっつ"
+          ],
+          "question_node_id": 20689363,
+          "question_text": "りんごを　【四つ】　ください。",
+          "stem": "りんごを　【四つ】　ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ここのか",
+          "book_id": 1580387,
+          "edge_id": 18189502,
+          "explanation": "",
+          "id": 25001403,
+          "index": 6,
+          "options": [
+            "ここのか",
+            "きゅうか",
+            "くにち",
+            "きゅうひ"
+          ],
+          "question_node_id": 20689367,
+          "question_text": "テストは　１月【九日】です。",
+          "stem": "テストは　１月【九日】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "あいだ",
+          "book_id": 1580387,
+          "edge_id": 18189506,
+          "explanation": "",
+          "id": 25001404,
+          "index": 7,
+          "options": [
+            "あいだ",
+            "となり",
+            "みぎ",
+            "ひだり"
+          ],
+          "question_node_id": 20689366,
+          "question_text": "つくえと　つくえの　【間】に　何か　あります。",
+          "stem": "つくえと　つくえの　【間】に　何か　あります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ろっぷん",
+          "book_id": 1580387,
+          "edge_id": 18189505,
+          "explanation": "",
+          "id": 25001405,
+          "index": 8,
+          "options": [
+            "ろっぷん",
+            "ろくぷん",
+            "ろっふんぶ",
+            "ろくぶ"
+          ],
+          "question_node_id": 20689365,
+          "question_text": "えきまで　あるいて、【６分】ぐらいです。",
+          "stem": "えきまで　あるいて、【６分】ぐらいです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "あとで",
+          "book_id": 1580387,
+          "edge_id": 18189507,
+          "explanation": "",
+          "id": 25001406,
+          "index": 9,
+          "options": [
+            "あとで",
+            "ごで",
+            "こで",
+            "あどで"
+          ],
+          "question_node_id": 20689369,
+          "question_text": "【後で】でんわ　します。",
+          "stem": "【後で】でんわ　します。"
+        }
+      ],
+      "task_id": 112454967,
+      "task_order": 15
+    }
+  ],
+  "class_id": 1073585,
+  "level": "N5_KANJI",
+  "question_count": 150
+}

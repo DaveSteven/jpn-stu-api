@@ -1,0 +1,4809 @@
+{
+  "book_count": 24,
+  "books": [
+    {
+      "book_id": 1580569,
+      "book_name": "JLPT N3_01語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "溶ける",
+          "book_id": 1580569,
+          "edge_id": 18143649,
+          "explanation": "",
+          "id": 25003354,
+          "index": 0,
+          "options": [
+            "焼く",
+            "溶ける",
+            "出会う",
+            "食べる"
+          ],
+          "question_node_id": 20631203,
+          "question_text": "アイスクリームが【　　　】。\n\n①焼く\n②溶ける\n③出会う\n④食べる",
+          "stem": "アイスクリームが【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "歩く",
+          "book_id": 1580569,
+          "edge_id": 18143643,
+          "explanation": "",
+          "id": 25003355,
+          "index": 1,
+          "options": [
+            "通る",
+            "徹夜する",
+            "歩く",
+            "起こる"
+          ],
+          "question_node_id": 20631196,
+          "question_text": "【　　　】のは体にいい。\n\n①通る\n②徹夜する\n③歩く\n④起こる",
+          "stem": "【　　　】のは体にいい。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "折れる",
+          "book_id": 1580569,
+          "edge_id": 18143641,
+          "explanation": "",
+          "id": 25003356,
+          "index": 2,
+          "options": [
+            "感じる",
+            "折れる",
+            "感動する",
+            "手術する"
+          ],
+          "question_node_id": 20631195,
+          "question_text": "ほねが【　　　】。\n\n①感じる\n②折れる\n③感動する\n④手術する",
+          "stem": "ほねが【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "大雨",
+          "book_id": 1580569,
+          "edge_id": 18143642,
+          "explanation": "",
+          "id": 25003357,
+          "index": 3,
+          "options": [
+            "大雨",
+            "台風",
+            "雷",
+            "四季"
+          ],
+          "question_node_id": 20631197,
+          "question_text": "きのうは【　　　】が降った。\n\n①大雨\n②台風\n③雷\n④四季",
+          "stem": "きのうは【　　　】が降った。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "書",
+          "book_id": 1580569,
+          "edge_id": 18143645,
+          "explanation": "",
+          "id": 25003358,
+          "index": 4,
+          "options": [
+            "紙",
+            "差",
+            "毎",
+            "書"
+          ],
+          "question_node_id": 20631199,
+          "question_text": "仕事の報告【　　　】を作る。\n\n①紙\n②差\n③毎\n④書",
+          "stem": "仕事の報告【　　　】を作る。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "箱",
+          "book_id": 1580569,
+          "edge_id": 18143650,
+          "explanation": "",
+          "id": 25003359,
+          "index": 5,
+          "options": [
+            "ほか",
+            "箱",
+            "履歴書",
+            "郵送"
+          ],
+          "question_node_id": 20631202,
+          "question_text": "【　　　】の中に何か入っている。\n\n①ほか\n②箱\n③履歴書\n④郵送",
+          "stem": "【　　　】の中に何か入っている。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "お知らせ",
+          "book_id": 1580569,
+          "edge_id": 18143644,
+          "explanation": "",
+          "id": 25003360,
+          "index": 6,
+          "options": [
+            "資格",
+            "投票",
+            "お知らせ",
+            "おつかれ"
+          ],
+          "question_node_id": 20631200,
+          "question_text": "学校からの【　　　】を読む。\n\n①資格\n②投票\n③お知らせ\n④おつかれ",
+          "stem": "学校からの【　　　】を読む。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "ちゃんと",
+          "book_id": 1580569,
+          "edge_id": 18143646,
+          "explanation": "",
+          "id": 25003361,
+          "index": 7,
+          "options": [
+            "かなり",
+            "ぎっしり",
+            "いらいら",
+            "ちゃんと"
+          ],
+          "question_node_id": 20631198,
+          "question_text": "「【　　　】、人の話を聞いてください。」\n\n①かなり\n②ぎっしり\n③いらいら\n④ちゃんと",
+          "stem": "「【　　　】、人の話を聞いてください。」"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "相談",
+          "book_id": 1580569,
+          "edge_id": 18143648,
+          "explanation": "",
+          "id": 25003362,
+          "index": 8,
+          "options": [
+            "悩み",
+            "秘密",
+            "相談",
+            "親友"
+          ],
+          "question_node_id": 20631204,
+          "question_text": "友だちに【　　　】する。\n\n①悩み\n②秘密\n③相談\n④親友",
+          "stem": "友だちに【　　　】する。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "試合",
+          "book_id": 1580569,
+          "edge_id": 18143647,
+          "explanation": "",
+          "id": 25003363,
+          "index": 9,
+          "options": [
+            "監督",
+            "演奏",
+            "出場",
+            "試合"
+          ],
+          "question_node_id": 20631201,
+          "question_text": "【　　　】に出る。\n\n①監督\n②演奏\n③出場\n④試合",
+          "stem": "【　　　】に出る。"
+        }
+      ],
+      "task_id": 112456929,
+      "task_order": 1
+    },
+    {
+      "book_id": 1580570,
+      "book_name": "JLPT N3_02語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "曲",
+          "book_id": 1580570,
+          "edge_id": 18143651,
+          "explanation": "",
+          "id": 25003364,
+          "index": 0,
+          "options": [
+            "モデル",
+            "文句",
+            "曲",
+            "ドラマ"
+          ],
+          "question_node_id": 20631206,
+          "question_text": "この【　　　】、ピアノでひけますか。\n\n①モデル\n②文句\n③曲\n④ドラマ",
+          "stem": "この【　　　】、ピアノでひけますか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "迷う",
+          "book_id": 1580570,
+          "edge_id": 18143656,
+          "explanation": "",
+          "id": 25003365,
+          "index": 1,
+          "options": [
+            "迷う",
+            "経つ",
+            "超える",
+            "飽きる"
+          ],
+          "question_node_id": 20631205,
+          "question_text": "道に【　　　】。\n\n①迷う\n②経つ\n③超える\n④飽きる",
+          "stem": "道に【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "予定",
+          "book_id": 1580570,
+          "edge_id": 18143655,
+          "explanation": "",
+          "id": 25003366,
+          "index": 2,
+          "options": [
+            "予報",
+            "予定",
+            "様子",
+            "割引"
+          ],
+          "question_node_id": 20631213,
+          "question_text": "来月、帰国する【　　　】だ。\n\n①予報\n②予定\n③様子\n④割引",
+          "stem": "来月、帰国する【　　　】だ。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "しょうじき",
+          "book_id": 1580570,
+          "edge_id": 18143652,
+          "explanation": "",
+          "id": 25003367,
+          "index": 3,
+          "options": [
+            "まっすぐ",
+            "にっこり",
+            "しょうじき",
+            "すっかり"
+          ],
+          "question_node_id": 20631207,
+          "question_text": "【　　　】に話す。\n\n①まっすぐ\n②にっこり\n③しょうじき\n④すっかり",
+          "stem": "【　　　】に話す。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "チェック",
+          "book_id": 1580570,
+          "edge_id": 18143653,
+          "explanation": "",
+          "id": 25003368,
+          "index": 4,
+          "options": [
+            "ミス",
+            "チェック",
+            "コース",
+            "デモ"
+          ],
+          "question_node_id": 20631212,
+          "question_text": "忘れ物がないかどうか【　　　】する。\n\n①ミス\n②チェック\n③コース\n④デモ",
+          "stem": "忘れ物がないかどうか【　　　】する。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "手術",
+          "book_id": 1580570,
+          "edge_id": 18143658,
+          "explanation": "",
+          "id": 25003369,
+          "index": 5,
+          "options": [
+            "手術",
+            "入院",
+            "頭痛",
+            "健康"
+          ],
+          "question_node_id": 20631209,
+          "question_text": "病気が見つかって、【　　　】を受けることになった。\n\n①手術\n②入院\n③頭痛\n④健康",
+          "stem": "病気が見つかって、【　　　】を受けることになった。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "道路",
+          "book_id": 1580570,
+          "edge_id": 18143657,
+          "explanation": "",
+          "id": 25003370,
+          "index": 6,
+          "options": [
+            "地方",
+            "道路",
+            "配達",
+            "過去"
+          ],
+          "question_node_id": 20631214,
+          "question_text": "【　　　】の反対側に駅がある。\n\n①地方\n②道路\n③配達\n④過去",
+          "stem": "【　　　】の反対側に駅がある。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "約束",
+          "book_id": 1580570,
+          "edge_id": 18143654,
+          "explanation": "",
+          "id": 25003371,
+          "index": 7,
+          "options": [
+            "転勤",
+            "約束",
+            "完全",
+            "一流"
+          ],
+          "question_node_id": 20631208,
+          "question_text": "【　　　】の時間を過ぎてしまった。\n\n①転勤\n②約束\n③完全\n④一流",
+          "stem": "【　　　】の時間を過ぎてしまった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "書類",
+          "book_id": 1580570,
+          "edge_id": 18143660,
+          "explanation": "",
+          "id": 25003372,
+          "index": 8,
+          "options": [
+            "書類",
+            "入管",
+            "欠点",
+            "理解"
+          ],
+          "question_node_id": 20631211,
+          "question_text": "市役所に【　　　】を出す。\n\n①書類\n②入管\n③欠点\n④理解",
+          "stem": "市役所に【　　　】を出す。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "エアコン",
+          "book_id": 1580570,
+          "edge_id": 18143659,
+          "explanation": "",
+          "id": 25003373,
+          "index": 9,
+          "options": [
+            "エアコン",
+            "冷蔵庫",
+            "ファックス",
+            "電源"
+          ],
+          "question_node_id": 20631210,
+          "question_text": "【　　　】の風が強すぎて寒い。\n\n①エアコン\n②冷蔵庫\n③ファックス\n④電源",
+          "stem": "【　　　】の風が強すぎて寒い。"
+        }
+      ],
+      "task_id": 112456930,
+      "task_order": 2
+    },
+    {
+      "book_id": 1580571,
+      "book_name": "JLPT N3_03語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "重ねる",
+          "book_id": 1580571,
+          "edge_id": 18143661,
+          "explanation": "",
+          "id": 25003374,
+          "index": 0,
+          "options": [
+            "重ねる",
+            "治る",
+            "間違う",
+            "破る"
+          ],
+          "question_node_id": 20631215,
+          "question_text": "経験を【　　　】。\n\n①重ねる\n②治る\n③間違う\n④破る",
+          "stem": "経験を【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "着く",
+          "book_id": 1580571,
+          "edge_id": 18143662,
+          "explanation": "",
+          "id": 25003375,
+          "index": 1,
+          "options": [
+            "経つ",
+            "着く",
+            "抜く",
+            "離れる"
+          ],
+          "question_node_id": 20631218,
+          "question_text": "駅に【　　　】時間を教えてください。\n\n①経つ\n②着く\n③抜く\n④離れる",
+          "stem": "駅に【　　　】時間を教えてください。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "台風",
+          "book_id": 1580571,
+          "edge_id": 18143663,
+          "explanation": "",
+          "id": 25003376,
+          "index": 2,
+          "options": [
+            "土地",
+            "地震",
+            "運",
+            "台風"
+          ],
+          "question_node_id": 20631219,
+          "question_text": "ここはよく【　　　】が通る地域だ。\n\n①土地\n②地震\n③運\n④台風",
+          "stem": "ここはよく【　　　】が通る地域だ。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "結婚",
+          "book_id": 1580571,
+          "edge_id": 18143665,
+          "explanation": "",
+          "id": 25003377,
+          "index": 3,
+          "options": [
+            "独身",
+            "新婚",
+            "結婚",
+            "親戚"
+          ],
+          "question_node_id": 20631216,
+          "question_text": "彼は【　　　】している。\n\n①独身\n②新婚\n③結婚\n④親戚",
+          "stem": "彼は【　　　】している。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ストレス",
+          "book_id": 1580571,
+          "edge_id": 18143666,
+          "explanation": "",
+          "id": 25003378,
+          "index": 4,
+          "options": [
+            "ストレス",
+            "ガイド",
+            "インテリア",
+            "アラーム"
+          ],
+          "question_node_id": 20631221,
+          "question_text": "【　　　】を感じる。\n\n①ストレス\n②ガイド\n③インテリア\n④アラーム",
+          "stem": "【　　　】を感じる。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "見直し",
+          "book_id": 1580571,
+          "edge_id": 18143670,
+          "explanation": "",
+          "id": 25003379,
+          "index": 5,
+          "options": [
+            "見下し",
+            "見送り",
+            "見直し",
+            "見学"
+          ],
+          "question_node_id": 20631223,
+          "question_text": "テストを出す前にもう一度【　　　】をする。\n\n①見下し\n②見送り\n③見直し\n④見学",
+          "stem": "テストを出す前にもう一度【　　　】をする。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "お見合い",
+          "book_id": 1580571,
+          "edge_id": 18143664,
+          "explanation": "",
+          "id": 25003380,
+          "index": 6,
+          "options": [
+            "お見舞い",
+            "お祝い",
+            "お見合い",
+            "おしゃべり"
+          ],
+          "question_node_id": 20631220,
+          "question_text": "両親は【　　　】結婚だ。\n\n①お見舞い\n②お祝い\n③お見合い\n④おしゃべり",
+          "stem": "両親は【　　　】結婚だ。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "工場",
+          "book_id": 1580571,
+          "edge_id": 18143669,
+          "explanation": "",
+          "id": 25003381,
+          "index": 7,
+          "options": [
+            "印象",
+            "学期",
+            "工場",
+            "工事"
+          ],
+          "question_node_id": 20631224,
+          "question_text": "あそこに大きな【　　　】が見える。\n\n①印象\n②学期\n③工場\n④工事",
+          "stem": "あそこに大きな【　　　】が見える。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "監督",
+          "book_id": 1580571,
+          "edge_id": 18143668,
+          "explanation": "",
+          "id": 25003382,
+          "index": 8,
+          "options": [
+            "監督",
+            "就職",
+            "成績",
+            "大学院"
+          ],
+          "question_node_id": 20631222,
+          "question_text": "彼は選手をやめて【　　　】になるそうだ。\n\n①監督\n②就職\n③成績\n④大学院",
+          "stem": "彼は選手をやめて【　　　】になるそうだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "口",
+          "book_id": 1580571,
+          "edge_id": 18143667,
+          "explanation": "",
+          "id": 25003383,
+          "index": 9,
+          "options": [
+            "口",
+            "足",
+            "目",
+            "頭"
+          ],
+          "question_node_id": 20631217,
+          "question_text": "友だちの話に【　　　】を出す。\n\n①口\n②足\n③目\n④頭",
+          "stem": "友だちの話に【　　　】を出す。"
+        }
+      ],
+      "task_id": 112456931,
+      "task_order": 3
+    },
+    {
+      "book_id": 1580572,
+      "book_name": "JLPT N3_04語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "治る",
+          "book_id": 1580572,
+          "edge_id": 18143671,
+          "explanation": "",
+          "id": 25003384,
+          "index": 0,
+          "options": [
+            "眠る",
+            "治る",
+            "負ける",
+            "戻す"
+          ],
+          "question_node_id": 20631228,
+          "question_text": "病気が【　　　】。\n\n①眠る\n②治る\n③負ける\n④戻す",
+          "stem": "病気が【　　　】。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "辞める",
+          "book_id": 1580572,
+          "edge_id": 18143675,
+          "explanation": "",
+          "id": 25003385,
+          "index": 1,
+          "options": [
+            "取り組む",
+            "握る",
+            "向かう",
+            "辞める"
+          ],
+          "question_node_id": 20631229,
+          "question_text": "来月、会社を【　　　】。\n\n①取り組む\n②握る\n③向かう\n④辞める",
+          "stem": "来月、会社を【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "インフルエンザ",
+          "book_id": 1580572,
+          "edge_id": 18143673,
+          "explanation": "",
+          "id": 25003386,
+          "index": 2,
+          "options": [
+            "インフルエンザ",
+            "ミス",
+            "ピンク",
+            "マスク"
+          ],
+          "question_node_id": 20631231,
+          "question_text": "【　　　】になって学校を休む。\n\n①インフルエンザ\n②ミス\n③ピンク\n④マスク",
+          "stem": "【　　　】になって学校を休む。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "理解",
+          "book_id": 1580572,
+          "edge_id": 18143680,
+          "explanation": "",
+          "id": 25003387,
+          "index": 3,
+          "options": [
+            "誤解",
+            "理解",
+            "夢中",
+            "評判"
+          ],
+          "question_node_id": 20631225,
+          "question_text": "「ご【　　　】いただけるでしょうか。」\n\n①誤解\n②理解\n③夢中\n④評判",
+          "stem": "「ご【　　　】いただけるでしょうか。」"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "かえって",
+          "book_id": 1580572,
+          "edge_id": 18143672,
+          "explanation": "",
+          "id": 25003388,
+          "index": 4,
+          "options": [
+            "許して",
+            "安定して",
+            "かえって",
+            "向かって"
+          ],
+          "question_node_id": 20631226,
+          "question_text": "謝ったが、【　　　】怒らせてしまった。\n\n①許して\n②安定して\n③かえって\n④向かって",
+          "stem": "謝ったが、【　　　】怒らせてしまった。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "挑戦",
+          "book_id": 1580572,
+          "edge_id": 18143674,
+          "explanation": "",
+          "id": 25003389,
+          "index": 5,
+          "options": [
+            "繰り返す",
+            "挑戦",
+            "進学",
+            "計画"
+          ],
+          "question_node_id": 20631230,
+          "question_text": "新しいことに【　　　】する。\n\n①繰り返す\n②挑戦\n③進学\n④計画",
+          "stem": "新しいことに【　　　】する。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "田舎",
+          "book_id": 1580572,
+          "edge_id": 18143677,
+          "explanation": "",
+          "id": 25003390,
+          "index": 6,
+          "options": [
+            "家事",
+            "田舎",
+            "場所",
+            "出身"
+          ],
+          "question_node_id": 20631234,
+          "question_text": "私は都会より【　　　】に住みたい。\n\n①家事\n②田舎\n③場所\n④出身",
+          "stem": "私は都会より【　　　】に住みたい。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "以上",
+          "book_id": 1580572,
+          "edge_id": 18143678,
+          "explanation": "",
+          "id": 25003391,
+          "index": 7,
+          "options": [
+            "調子",
+            "ほぼ",
+            "以上",
+            "日程"
+          ],
+          "question_node_id": 20631233,
+          "question_text": "これ【　　　】、がまんできない。\n\n①調子\n②ほぼ\n③以上\n④日程",
+          "stem": "これ【　　　】、がまんできない。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "交通",
+          "book_id": 1580572,
+          "edge_id": 18143676,
+          "explanation": "",
+          "id": 25003392,
+          "index": 8,
+          "options": [
+            "信号",
+            "設計",
+            "交通",
+            "都会"
+          ],
+          "question_node_id": 20631227,
+          "question_text": "東京は【　　　】が便利だ。\n\n①信号\n②設計\n③交通\n④都会",
+          "stem": "東京は【　　　】が便利だ。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "黙る",
+          "book_id": 1580572,
+          "edge_id": 18143679,
+          "explanation": "",
+          "id": 25003393,
+          "index": 9,
+          "options": [
+            "勧める",
+            "浮かぶ",
+            "転ぶ",
+            "黙る"
+          ],
+          "question_node_id": 20631232,
+          "question_text": "答えたくないことを聞かれて【　　　】。\n\n①勧める\n②浮かぶ\n③転ぶ\n④黙る",
+          "stem": "答えたくないことを聞かれて【　　　】。"
+        }
+      ],
+      "task_id": 112456932,
+      "task_order": 4
+    },
+    {
+      "book_id": 1580573,
+      "book_name": "JLPT N3_05語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "相談",
+          "book_id": 1580573,
+          "edge_id": 18143685,
+          "explanation": "",
+          "id": 25003394,
+          "index": 0,
+          "options": [
+            "相談",
+            "緊張",
+            "ドライブ",
+            "トレーニング"
+          ],
+          "question_node_id": 20631235,
+          "question_text": "先生に【　　　】する。\n\n①相談\n②緊張\n③ドライブ\n④トレーニング",
+          "stem": "先生に【　　　】する。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "試合",
+          "book_id": 1580573,
+          "edge_id": 18143690,
+          "explanation": "",
+          "id": 25003395,
+          "index": 1,
+          "options": [
+            "試合",
+            "結果",
+            "雰囲気",
+            "メニュー"
+          ],
+          "question_node_id": 20631239,
+          "question_text": "サッカーの【　　　】に出る。\n\n①試合\n②結果\n③雰囲気\n④メニュー",
+          "stem": "サッカーの【　　　】に出る。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "吹く",
+          "book_id": 1580573,
+          "edge_id": 18143688,
+          "explanation": "",
+          "id": 25003396,
+          "index": 2,
+          "options": [
+            "さす",
+            "追う",
+            "吹く",
+            "撃つ"
+          ],
+          "question_node_id": 20631237,
+          "question_text": "風が【　　　】。\n\n①さす\n②追う\n③吹く\n④撃つ",
+          "stem": "風が【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "自由",
+          "book_id": 1580573,
+          "edge_id": 18143681,
+          "explanation": "",
+          "id": 25003397,
+          "index": 3,
+          "options": [
+            "自由",
+            "苦手",
+            "迷惑",
+            "無事"
+          ],
+          "question_node_id": 20631236,
+          "question_text": "「どうぞ、【　　　】に使ってください。」\n\n①自由\n②苦手\n③迷惑\n④無事",
+          "stem": "「どうぞ、【　　　】に使ってください。」"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "工場",
+          "book_id": 1580573,
+          "edge_id": 18143682,
+          "explanation": "",
+          "id": 25003398,
+          "index": 4,
+          "options": [
+            "工場",
+            "材料",
+            "種類",
+            "夜間"
+          ],
+          "question_node_id": 20631240,
+          "question_text": "今月から弁当【　　　】でアルバイトをする。\n\n①工場\n②材料\n③種類\n④夜間",
+          "stem": "今月から弁当【　　　】でアルバイトをする。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "迷惑",
+          "book_id": 1580573,
+          "edge_id": 18143683,
+          "explanation": "",
+          "id": 25003399,
+          "index": 5,
+          "options": [
+            "迷惑",
+            "失礼",
+            "希望",
+            "文句"
+          ],
+          "question_node_id": 20631244,
+          "question_text": "みんなに【　　　】をかけてしまった。\n\n①迷惑\n②失礼\n③希望\n④文句",
+          "stem": "みんなに【　　　】をかけてしまった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "戻る",
+          "book_id": 1580573,
+          "edge_id": 18143684,
+          "explanation": "",
+          "id": 25003400,
+          "index": 6,
+          "options": [
+            "戻る",
+            "帰る",
+            "来る",
+            "行く"
+          ],
+          "question_node_id": 20631243,
+          "question_text": "間違えたら、【　　　】ボタンを押してください。\n\n①戻る\n②帰る\n③来る\n④行く",
+          "stem": "間違えたら、【　　　】ボタンを押してください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "国家試験",
+          "book_id": 1580573,
+          "edge_id": 18143686,
+          "explanation": "",
+          "id": 25003401,
+          "index": 7,
+          "options": [
+            "国家試験",
+            "試合",
+            "選挙",
+            "問題"
+          ],
+          "question_node_id": 20631238,
+          "question_text": "【　　　】に合格する。\n\n①国家試験\n②試合\n③選挙\n④問題",
+          "stem": "【　　　】に合格する。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "環境",
+          "book_id": 1580573,
+          "edge_id": 18143689,
+          "explanation": "",
+          "id": 25003402,
+          "index": 8,
+          "options": [
+            "調子",
+            "環境",
+            "体調",
+            "土地"
+          ],
+          "question_node_id": 20631242,
+          "question_text": "自然【　　　】を守る。\n\n①調子\n②環境\n③体調\n④土地",
+          "stem": "自然【　　　】を守る。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "命令",
+          "book_id": 1580573,
+          "edge_id": 18143687,
+          "explanation": "",
+          "id": 25003403,
+          "index": 9,
+          "options": [
+            "面倒",
+            "命令",
+            "迷惑",
+            "評判"
+          ],
+          "question_node_id": 20631241,
+          "question_text": "これは社長【　　　】だ。\n\n①面倒\n②命令\n③迷惑\n④評判",
+          "stem": "これは社長【　　　】だ。"
+        }
+      ],
+      "task_id": 112456933,
+      "task_order": 5
+    },
+    {
+      "book_id": 1580574,
+      "book_name": "JLPT N3_06語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "お願い",
+          "book_id": 1580574,
+          "edge_id": 18143691,
+          "explanation": "",
+          "id": 25003404,
+          "index": 0,
+          "options": [
+            "緊張",
+            "お願い",
+            "おしゃれ",
+            "歓迎"
+          ],
+          "question_node_id": 20631245,
+          "question_text": "「ちょっと【　　　】したいことがあります\n\n①緊張\n②お願い\n③おしゃれ\n④歓迎",
+          "stem": "「ちょっと【　　　】したいことがあります"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "免許",
+          "book_id": 1580574,
+          "edge_id": 18143699,
+          "explanation": "",
+          "id": 25003405,
+          "index": 1,
+          "options": [
+            "面接",
+            "手術",
+            "免許",
+            "運転"
+          ],
+          "question_node_id": 20631246,
+          "question_text": "兄は医師の【　　　】を持っている。\n\n①面接\n②手術\n③免許\n④運転",
+          "stem": "兄は医師の【　　　】を持っている。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "チーム",
+          "book_id": 1580574,
+          "edge_id": 18143692,
+          "explanation": "",
+          "id": 25003406,
+          "index": 2,
+          "options": [
+            "チャンス",
+            "チーム",
+            "コンクール",
+            "ストーリー"
+          ],
+          "question_node_id": 20631248,
+          "question_text": "あの【　　　】は強い。\n\n①チャンス\n②チーム\n③コンクール\n④ストーリー",
+          "stem": "あの【　　　】は強い。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "突然",
+          "book_id": 1580574,
+          "edge_id": 18143696,
+          "explanation": "",
+          "id": 25003407,
+          "index": 3,
+          "options": [
+            "不安",
+            "うっかり",
+            "しっかり",
+            "突然"
+          ],
+          "question_node_id": 20631249,
+          "question_text": "【　　　】、おなかが痛くなった。\n\n①不安\n②うっかり\n③しっかり\n④突然",
+          "stem": "【　　　】、おなかが痛くなった。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "緊張感",
+          "book_id": 1580574,
+          "edge_id": 18143693,
+          "explanation": "",
+          "id": 25003408,
+          "index": 4,
+          "options": [
+            "実行力",
+            "緊張感",
+            "想像力",
+            "平均的"
+          ],
+          "question_node_id": 20631252,
+          "question_text": "【　　　】の中で仕事をする。\n\n①実行力\n②緊張感\n③想像力\n④平均的",
+          "stem": "【　　　】の中で仕事をする。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "出張",
+          "book_id": 1580574,
+          "edge_id": 18143700,
+          "explanation": "",
+          "id": 25003409,
+          "index": 5,
+          "options": [
+            "就職",
+            "渋滞",
+            "主張",
+            "出張"
+          ],
+          "question_node_id": 20631253,
+          "question_text": "今月は【　　　】が多くて、忙しい。\n\n①就職\n②渋滞\n③主張\n④出張",
+          "stem": "今月は【　　　】が多くて、忙しい。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "無責任",
+          "book_id": 1580574,
+          "edge_id": 18143695,
+          "explanation": "",
+          "id": 25003410,
+          "index": 6,
+          "options": [
+            "名物",
+            "人数",
+            "無責任",
+            "態度"
+          ],
+          "question_node_id": 20631254,
+          "question_text": "彼は【　　　】だ。\n\n①名物\n②人数\n③無責任\n④態度",
+          "stem": "彼は【　　　】だ。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "試合",
+          "book_id": 1580574,
+          "edge_id": 18143697,
+          "explanation": "",
+          "id": 25003411,
+          "index": 7,
+          "options": [
+            "確認",
+            "試合",
+            "喜び",
+            "募集"
+          ],
+          "question_node_id": 20631250,
+          "question_text": "サッカーの【　　　】に出る。\n\n①確認\n②試合\n③喜び\n④募集",
+          "stem": "サッカーの【　　　】に出る。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "無理",
+          "book_id": 1580574,
+          "edge_id": 18143698,
+          "explanation": "",
+          "id": 25003412,
+          "index": 8,
+          "options": [
+            "調子",
+            "疲れ",
+            "無理",
+            "内緒"
+          ],
+          "question_node_id": 20631251,
+          "question_text": "あなたには【　　　】をしてほしくない。\n\n①調子\n②疲れ\n③無理\n④内緒",
+          "stem": "あなたには【　　　】をしてほしくない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "つい",
+          "book_id": 1580574,
+          "edge_id": 18143694,
+          "explanation": "",
+          "id": 25003413,
+          "index": 9,
+          "options": [
+            "つい",
+            "よし",
+            "せっかく",
+            "まるで"
+          ],
+          "question_node_id": 20631247,
+          "question_text": "授業中、【　　　】スマホをさわってしまう。\n\n①つい\n②よし\n③せっかく\n④まるで",
+          "stem": "授業中、【　　　】スマホをさわってしまう。"
+        }
+      ],
+      "task_id": 112456934,
+      "task_order": 6
+    },
+    {
+      "book_id": 1580575,
+      "book_name": "JLPT N3_07語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "生える",
+          "book_id": 1580575,
+          "edge_id": 18143701,
+          "explanation": "",
+          "id": 25003414,
+          "index": 0,
+          "options": [
+            "でき上がる",
+            "起こる",
+            "超える",
+            "生える"
+          ],
+          "question_node_id": 20631256,
+          "question_text": "庭に草が【　　　】。\n\n①でき上がる\n②起こる\n③超える\n④生える",
+          "stem": "庭に草が【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "期待",
+          "book_id": 1580575,
+          "edge_id": 18143707,
+          "explanation": "",
+          "id": 25003415,
+          "index": 1,
+          "options": [
+            "期待",
+            "中止",
+            "再生",
+            "通勤"
+          ],
+          "question_node_id": 20631258,
+          "question_text": "【　　　】していたが、合格できなかった。\n\n①期待\n②中止\n③再生\n④通勤",
+          "stem": "【　　　】していたが、合格できなかった。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "痛み",
+          "book_id": 1580575,
+          "edge_id": 18143702,
+          "explanation": "",
+          "id": 25003416,
+          "index": 2,
+          "options": [
+            "痛み",
+            "いや",
+            "幸運",
+            "苦手"
+          ],
+          "question_node_id": 20631255,
+          "question_text": "【　　　】が強くなる。\n\n①痛み\n②いや\n③幸運\n④苦手",
+          "stem": "【　　　】が強くなる。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "意見",
+          "book_id": 1580575,
+          "edge_id": 18143704,
+          "explanation": "",
+          "id": 25003417,
+          "index": 3,
+          "options": [
+            "相手",
+            "一流",
+            "意見",
+            "乱暴"
+          ],
+          "question_node_id": 20631262,
+          "question_text": "「何か【　　　】がありますか。」\n\n①相手\n②一流\n③意見\n④乱暴",
+          "stem": "「何か【　　　】がありますか。」"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "材料",
+          "book_id": 1580575,
+          "edge_id": 18143703,
+          "explanation": "",
+          "id": 25003418,
+          "index": 4,
+          "options": [
+            "材料",
+            "生産",
+            "物価",
+            "無料"
+          ],
+          "question_node_id": 20631264,
+          "question_text": "スーパーへ料理の【　　　】を買いに行く。\n\n①材料\n②生産\n③物価\n④無料",
+          "stem": "スーパーへ料理の【　　　】を買いに行く。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "サイクリング",
+          "book_id": 1580575,
+          "edge_id": 18143705,
+          "explanation": "",
+          "id": 25003419,
+          "index": 5,
+          "options": [
+            "ワンピース",
+            "パイロット",
+            "サイクリング",
+            "エンジニア"
+          ],
+          "question_node_id": 20631263,
+          "question_text": "天気が良かったら、【　　　】に行こう。\n\n①ワンピース\n②パイロット\n③サイクリング\n④エンジニア",
+          "stem": "天気が良かったら、【　　　】に行こう。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "おめでとうございます",
+          "book_id": 1580575,
+          "edge_id": 18143710,
+          "explanation": "",
+          "id": 25003420,
+          "index": 6,
+          "options": [
+            "おつかれさまです",
+            "おめでとうございます",
+            "ありがとうございます",
+            "さようなら"
+          ],
+          "question_node_id": 20631259,
+          "question_text": "「ご結婚、【　　　】。」\n\n①おつかれさまです\n②おめでとうございます\n③ありがとうございます\n④さようなら",
+          "stem": "「ご結婚、【　　　】。」"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "勝つ",
+          "book_id": 1580575,
+          "edge_id": 18143709,
+          "explanation": "",
+          "id": 25003421,
+          "index": 7,
+          "options": [
+            "かかる",
+            "満足する",
+            "勝つ",
+            "目立つ"
+          ],
+          "question_node_id": 20631257,
+          "question_text": "じゃんけんに【　　　】。\n\n①かかる\n②満足する\n③勝つ\n④目立つ",
+          "stem": "じゃんけんに【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ゆっくり",
+          "book_id": 1580575,
+          "edge_id": 18143706,
+          "explanation": "",
+          "id": 25003422,
+          "index": 8,
+          "options": [
+            "ゆっくり",
+            "少し",
+            "なるべく",
+            "もしも"
+          ],
+          "question_node_id": 20631260,
+          "question_text": "「もっと【　　　】話してください。」\n\n①ゆっくり\n②少し\n③なるべく\n④もしも",
+          "stem": "「もっと【　　　】話してください。」"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "引っ越し",
+          "book_id": 1580575,
+          "edge_id": 18143708,
+          "explanation": "",
+          "id": 25003423,
+          "index": 9,
+          "options": [
+            "立て札",
+            "引っ越し",
+            "地区",
+            "態度"
+          ],
+          "question_node_id": 20631261,
+          "question_text": "来月【　　　】をする。\n\n①立て札\n②引っ越し\n③地区\n④態度",
+          "stem": "来月【　　　】をする。"
+        }
+      ],
+      "task_id": 112456935,
+      "task_order": 7
+    },
+    {
+      "book_id": 1580576,
+      "book_name": "JLPT N3_08語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "検査",
+          "book_id": 1580576,
+          "edge_id": 18143712,
+          "explanation": "",
+          "id": 25003424,
+          "index": 0,
+          "options": [
+            "検査",
+            "お見舞い",
+            "健康",
+            "薬局"
+          ],
+          "question_node_id": 20631268,
+          "question_text": "病院で【　　　】を受ける。\n\n①検査\n②お見舞い\n③健康\n④薬局",
+          "stem": "病院で【　　　】を受ける。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "習慣",
+          "book_id": 1580576,
+          "edge_id": 18143715,
+          "explanation": "",
+          "id": 25003425,
+          "index": 1,
+          "options": [
+            "試合",
+            "努力",
+            "マナー",
+            "習慣"
+          ],
+          "question_node_id": 20631265,
+          "question_text": "私は早寝早起きを【　　　】にしている。\n\n①試合\n②努力\n③マナー\n④習慣",
+          "stem": "私は早寝早起きを【　　　】にしている。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "感じる",
+          "book_id": 1580576,
+          "edge_id": 18143711,
+          "explanation": "",
+          "id": 25003426,
+          "index": 2,
+          "options": [
+            "努力する",
+            "戦う",
+            "感じる",
+            "揺れる"
+          ],
+          "question_node_id": 20631266,
+          "question_text": "寒さを【　　　　】。\n\n①努力する\n②戦う\n③感じる\n④揺れる",
+          "stem": "寒さを【　　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "他",
+          "book_id": 1580576,
+          "edge_id": 18143714,
+          "explanation": "",
+          "id": 25003427,
+          "index": 3,
+          "options": [
+            "他",
+            "苦手",
+            "かゆい",
+            "豊か"
+          ],
+          "question_node_id": 20631270,
+          "question_text": "【　　　】の人の話をよく聞く。\n\n①他\n②苦手\n③かゆい\n④豊か",
+          "stem": "【　　　】の人の話をよく聞く。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "不足",
+          "book_id": 1580576,
+          "edge_id": 18143716,
+          "explanation": "",
+          "id": 25003428,
+          "index": 4,
+          "options": [
+            "わずか",
+            "朝食",
+            "不足",
+            "すっぱい"
+          ],
+          "question_node_id": 20631273,
+          "question_text": "最近野菜が【　　　】しているので、サラダを買った。\n\n①わずか\n②朝食\n③不足\n④すっぱい",
+          "stem": "最近野菜が【　　　】しているので、サラダを買った。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "態度",
+          "book_id": 1580576,
+          "edge_id": 18143713,
+          "explanation": "",
+          "id": 25003429,
+          "index": 5,
+          "options": [
+            "迷惑",
+            "態度",
+            "様子",
+            "感覚"
+          ],
+          "question_node_id": 20631274,
+          "question_text": "【　　　】が悪いと先生に注意された。\n\n①迷惑\n②態度\n③様子\n④感覚",
+          "stem": "【　　　】が悪いと先生に注意された。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "流行",
+          "book_id": 1580576,
+          "edge_id": 18143720,
+          "explanation": "",
+          "id": 25003430,
+          "index": 6,
+          "options": [
+            "優勝",
+            "乾燥",
+            "流行",
+            "安定"
+          ],
+          "question_node_id": 20631269,
+          "question_text": "今年の夏は緑色の服が【　　　】している。\n\n①優勝\n②乾燥\n③流行\n④安定",
+          "stem": "今年の夏は緑色の服が【　　　】している。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "ポスター",
+          "book_id": 1580576,
+          "edge_id": 18143717,
+          "explanation": "",
+          "id": 25003431,
+          "index": 7,
+          "options": [
+            "スイッチ",
+            "ポスター",
+            "ストレス",
+            "トレーニング"
+          ],
+          "question_node_id": 20631267,
+          "question_text": "壁に【　　　】をはる。\n\n①スイッチ\n②ポスター\n③ストレス\n④トレーニング",
+          "stem": "壁に【　　　】をはる。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "頼む",
+          "book_id": 1580576,
+          "edge_id": 18143719,
+          "explanation": "",
+          "id": 25003432,
+          "index": 8,
+          "options": [
+            "謝る",
+            "教授する",
+            "行動する",
+            "頼む"
+          ],
+          "question_node_id": 20631272,
+          "question_text": "友だちに手伝いを【　　　】。\n\n①謝る\n②教授する\n③行動する\n④頼む",
+          "stem": "友だちに手伝いを【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "約束",
+          "book_id": 1580576,
+          "edge_id": 18143718,
+          "explanation": "",
+          "id": 25003433,
+          "index": 9,
+          "options": [
+            "約束",
+            "事情",
+            "被害",
+            "割引"
+          ],
+          "question_node_id": 20631271,
+          "question_text": "明日は友だちと【　　　】がある。\n\n①約束\n②事情\n③被害\n④割引",
+          "stem": "明日は友だちと【　　　】がある。"
+        }
+      ],
+      "task_id": 112456936,
+      "task_order": 8
+    },
+    {
+      "book_id": 1580577,
+      "book_name": "JLPT N3_09語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "緊張",
+          "book_id": 1580577,
+          "edge_id": 18143723,
+          "explanation": "",
+          "id": 25003434,
+          "index": 0,
+          "options": [
+            "緊張",
+            "瞬間",
+            "帰宅",
+            "注文"
+          ],
+          "question_node_id": 20631276,
+          "question_text": "校長先生と話すとき、【　　　】する。\n\n①緊張\n②瞬間\n③帰宅\n④注文",
+          "stem": "校長先生と話すとき、【　　　】する。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "さまざま",
+          "book_id": 1580577,
+          "edge_id": 18143722,
+          "explanation": "",
+          "id": 25003435,
+          "index": 1,
+          "options": [
+            "ごろごろ",
+            "さまざま",
+            "そっくり",
+            "たくさん"
+          ],
+          "question_node_id": 20631275,
+          "question_text": "私には【　　　】な国の友だちがいます。\n\n①ごろごろ\n②さまざま\n③そっくり\n④たくさん",
+          "stem": "私には【　　　】な国の友だちがいます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "自然",
+          "book_id": 1580577,
+          "edge_id": 18143721,
+          "explanation": "",
+          "id": 25003436,
+          "index": 2,
+          "options": [
+            "自然",
+            "地震",
+            "風景",
+            "面積"
+          ],
+          "question_node_id": 20631279,
+          "question_text": "この辺りは【　　　】が多くて、気持ちがいい。\n\n①自然\n②地震\n③風景\n④面積",
+          "stem": "この辺りは【　　　】が多くて、気持ちがいい。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "教授",
+          "book_id": 1580577,
+          "edge_id": 18143730,
+          "explanation": "",
+          "id": 25003437,
+          "index": 3,
+          "options": [
+            "大統領",
+            "教授",
+            "研究",
+            "独身"
+          ],
+          "question_node_id": 20631282,
+          "question_text": "大学の【　　　】にメールを送る。\n\n①大統領\n②教授\n③研究\n④独身",
+          "stem": "大学の【　　　】にメールを送る。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "生産",
+          "book_id": 1580577,
+          "edge_id": 18143725,
+          "explanation": "",
+          "id": 25003438,
+          "index": 4,
+          "options": [
+            "免許",
+            "募集",
+            "生産",
+            "産業"
+          ],
+          "question_node_id": 20631278,
+          "question_text": "国内【　　　】の野菜はおいしい。\n\n①免許\n②募集\n③生産\n④産業",
+          "stem": "国内【　　　】の野菜はおいしい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "体",
+          "book_id": 1580577,
+          "edge_id": 18143724,
+          "explanation": "",
+          "id": 25003439,
+          "index": 5,
+          "options": [
+            "体",
+            "昔",
+            "当日",
+            "体温"
+          ],
+          "question_node_id": 20631281,
+          "question_text": "「そんな生活は【　　　】に悪いですよ。」\n\n①体\n②昔\n③当日\n④体温",
+          "stem": "「そんな生活は【　　　】に悪いですよ。」"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "必要な",
+          "book_id": 1580577,
+          "edge_id": 18143727,
+          "explanation": "",
+          "id": 25003440,
+          "index": 6,
+          "options": [
+            "必ず",
+            "夢中な",
+            "豊富な",
+            "必要な"
+          ],
+          "question_node_id": 20631284,
+          "question_text": "手続きに【　　　】のをじゅんびする。\n\n①必ず\n②夢中な\n③豊富な\n④必要な",
+          "stem": "手続きに【　　　】のをじゅんびする。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "店長",
+          "book_id": 1580577,
+          "edge_id": 18143728,
+          "explanation": "",
+          "id": 25003441,
+          "index": 7,
+          "options": [
+            "店長",
+            "説明",
+            "履歴書",
+            "国産"
+          ],
+          "question_node_id": 20631283,
+          "question_text": "【　　　】に仕事を教えてもらう。\n\n①店長\n②説明\n③履歴書\n④国産",
+          "stem": "【　　　】に仕事を教えてもらう。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "スイッチ",
+          "book_id": 1580577,
+          "edge_id": 18143726,
+          "explanation": "",
+          "id": 25003442,
+          "index": 8,
+          "options": [
+            "スピード",
+            "イメージ",
+            "シーズン",
+            "スイッチ"
+          ],
+          "question_node_id": 20631277,
+          "question_text": "「その【　　　】を押してください。」\n\n①スピード\n②イメージ\n③シーズン\n④スイッチ",
+          "stem": "「その【　　　】を押してください。」"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "断る",
+          "book_id": 1580577,
+          "edge_id": 18143729,
+          "explanation": "",
+          "id": 25003443,
+          "index": 9,
+          "options": [
+            "黙る",
+            "断る",
+            "流行する",
+            "汚す"
+          ],
+          "question_node_id": 20631280,
+          "question_text": "友だちのお願いを【　　　】。\n\n①黙る\n②断る\n③流行する\n④汚す",
+          "stem": "友だちのお願いを【　　　】。"
+        }
+      ],
+      "task_id": 112456937,
+      "task_order": 9
+    },
+    {
+      "book_id": 1580578,
+      "book_name": "JLPT N3_10語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "ドラマ",
+          "book_id": 1580578,
+          "edge_id": 18143733,
+          "explanation": "",
+          "id": 25003444,
+          "index": 0,
+          "options": [
+            "デート",
+            "キャンセル",
+            "ドラマ",
+            "曲"
+          ],
+          "question_node_id": 20631291,
+          "question_text": "日本の【　　　】をよく見ます。\n\n①デート\n②キャンセル\n③ドラマ\n④曲",
+          "stem": "日本の【　　　】をよく見ます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "都合",
+          "book_id": 1580578,
+          "edge_id": 18143731,
+          "explanation": "",
+          "id": 25003445,
+          "index": 1,
+          "options": [
+            "都合",
+            "場合",
+            "無地",
+            "雰囲気"
+          ],
+          "question_node_id": 20631286,
+          "question_text": "「【　　　】のいい時間を教えてください。」\n\n①都合\n②場合\n③無地\n④雰囲気",
+          "stem": "「【　　　】のいい時間を教えてください。」"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "痛み",
+          "book_id": 1580578,
+          "edge_id": 18143734,
+          "explanation": "",
+          "id": 25003446,
+          "index": 2,
+          "options": [
+            "夜間",
+            "痛み",
+            "いや",
+            "汚れ"
+          ],
+          "question_node_id": 20631285,
+          "question_text": "激しい【　　　】で目が覚めた。\n\n①夜間\n②痛み\n③いや\n④汚れ",
+          "stem": "激しい【　　　】で目が覚めた。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "研究",
+          "book_id": 1580578,
+          "edge_id": 18143732,
+          "explanation": "",
+          "id": 25003447,
+          "index": 3,
+          "options": [
+            "世話",
+            "おしゃべり",
+            "進学",
+            "研究"
+          ],
+          "question_node_id": 20631287,
+          "question_text": "大学院で言語学を【　　　】する。\n\n①世話\n②おしゃべり\n③進学\n④研究",
+          "stem": "大学院で言語学を【　　　】する。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "ウイルス",
+          "book_id": 1580578,
+          "edge_id": 18143739,
+          "explanation": "",
+          "id": 25003448,
+          "index": 4,
+          "options": [
+            "メニュー",
+            "ウイルス",
+            "ファックス",
+            "トレーニング"
+          ],
+          "question_node_id": 20631289,
+          "question_text": "かぜの【　　　】に気を付ける。\n\n①メニュー\n②ウイルス\n③ファックス\n④トレーニング",
+          "stem": "かぜの【　　　】に気を付ける。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "みんな",
+          "book_id": 1580578,
+          "edge_id": 18143736,
+          "explanation": "",
+          "id": 25003449,
+          "index": 5,
+          "options": [
+            "全部",
+            "みんな",
+            "商品",
+            "政府"
+          ],
+          "question_node_id": 20631292,
+          "question_text": "旅行先で【　　　】にお土産を買う。\n\n①全部\n②みんな\n③商品\n④政府",
+          "stem": "旅行先で【　　　】にお土産を買う。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "大会",
+          "book_id": 1580578,
+          "edge_id": 18143735,
+          "explanation": "",
+          "id": 25003450,
+          "index": 6,
+          "options": [
+            "試合",
+            "ドライブ",
+            "メール",
+            "大会"
+          ],
+          "question_node_id": 20631293,
+          "question_text": "マラソン【　　　】に出る。\n\n①試合\n②ドライブ\n③メール\n④大会",
+          "stem": "マラソン【　　　】に出る。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "質",
+          "book_id": 1580578,
+          "edge_id": 18143738,
+          "explanation": "",
+          "id": 25003451,
+          "index": 7,
+          "options": [
+            "質",
+            "体",
+            "量",
+            "骨"
+          ],
+          "question_node_id": 20631294,
+          "question_text": "高くても【　　　】のいいものを着たい。\n\n①質\n②体\n③量\n④骨",
+          "stem": "高くても【　　　】のいいものを着たい。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "入管",
+          "book_id": 1580578,
+          "edge_id": 18143740,
+          "explanation": "",
+          "id": 25003452,
+          "index": 8,
+          "options": [
+            "運動場",
+            "アイロン",
+            "演劇",
+            "入管"
+          ],
+          "question_node_id": 20631288,
+          "question_text": "【　　　】でビザを申込む。\n\n①運動場\n②アイロン\n③演劇\n④入管",
+          "stem": "【　　　】でビザを申込む。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "注意書き",
+          "book_id": 1580578,
+          "edge_id": 18143737,
+          "explanation": "",
+          "id": 25003453,
+          "index": 9,
+          "options": [
+            "注意報",
+            "注意書き",
+            "注文",
+            "注目"
+          ],
+          "question_node_id": 20631290,
+          "question_text": "【　　　】をよく読んでから始めてください。\n\n①注意報\n②注意書き\n③注文\n④注目",
+          "stem": "【　　　】をよく読んでから始めてください。"
+        }
+      ],
+      "task_id": 112456938,
+      "task_order": 10
+    },
+    {
+      "book_id": 1580579,
+      "book_name": "JLPT N3_11語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "鳴りました",
+          "book_id": 1580579,
+          "edge_id": 18143741,
+          "explanation": "",
+          "id": 25003454,
+          "index": 0,
+          "options": [
+            "鳴りました",
+            "開きました",
+            "落ちました",
+            "つながりました"
+          ],
+          "question_node_id": 20631299,
+          "question_text": "ベルが【　　　】。\n\n①鳴りました\n②開きました\n③落ちました\n④つながりました",
+          "stem": "ベルが【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "中止",
+          "book_id": 1580579,
+          "edge_id": 18143748,
+          "explanation": "",
+          "id": 25003455,
+          "index": 1,
+          "options": [
+            "退学",
+            "中止",
+            "活躍",
+            "工事"
+          ],
+          "question_node_id": 20631298,
+          "question_text": "計画を【　　　】する。\n\n①退学\n②中止\n③活躍\n④工事",
+          "stem": "計画を【　　　】する。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "揺れる",
+          "book_id": 1580579,
+          "edge_id": 18143743,
+          "explanation": "",
+          "id": 25003456,
+          "index": 2,
+          "options": [
+            "感じる",
+            "破る",
+            "揺れる",
+            "居眠り"
+          ],
+          "question_node_id": 20631300,
+          "question_text": "飛行機が【　　　】。\n\n①感じる\n②破る\n③揺れる\n④居眠り",
+          "stem": "飛行機が【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "取り組む",
+          "book_id": 1580579,
+          "edge_id": 18143744,
+          "explanation": "",
+          "id": 25003457,
+          "index": 3,
+          "options": [
+            "取り出す",
+            "取り上げる",
+            "取り組む",
+            "取り消す"
+          ],
+          "question_node_id": 20631304,
+          "question_text": "社会問題に【　　　】。\n\n①取り出す\n②取り上げる\n③取り組む\n④取り消す",
+          "stem": "社会問題に【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "外国語",
+          "book_id": 1580579,
+          "edge_id": 18143742,
+          "explanation": "",
+          "id": 25003458,
+          "index": 4,
+          "options": [
+            "海外語",
+            "国外語",
+            "外国語",
+            "国立語"
+          ],
+          "question_node_id": 20631296,
+          "question_text": "【　　　】の勉強をする。\n\n①海外語\n②国外語\n③外国語\n④国立語",
+          "stem": "【　　　】の勉強をする。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "嫌う",
+          "book_id": 1580579,
+          "edge_id": 18143746,
+          "explanation": "",
+          "id": 25003459,
+          "index": 5,
+          "options": [
+            "嫌う",
+            "嫌",
+            "かっこ悪い",
+            "延期する"
+          ],
+          "question_node_id": 20631295,
+          "question_text": "彼を【　　　】人はいないだろう。\n\n①嫌う\n②嫌\n③かっこ悪い\n④延期する",
+          "stem": "彼を【　　　】人はいないだろう。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "選手",
+          "book_id": 1580579,
+          "edge_id": 18143745,
+          "explanation": "",
+          "id": 25003460,
+          "index": 6,
+          "options": [
+            "選手",
+            "大会",
+            "成績",
+            "優勝"
+          ],
+          "question_node_id": 20631302,
+          "question_text": "むすこの夢はスポーツ【　　　】になることだ。\n\n①選手\n②大会\n③成績\n④優勝",
+          "stem": "むすこの夢はスポーツ【　　　】になることだ。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "さっき",
+          "book_id": 1580579,
+          "edge_id": 18143750,
+          "explanation": "",
+          "id": 25003461,
+          "index": 7,
+          "options": [
+            "先",
+            "さっき",
+            "シンプル",
+            "とんでもない"
+          ],
+          "question_node_id": 20631303,
+          "question_text": "お昼ごはんは【　　　】食べました。\n\n①先\n②さっき\n③シンプル\n④とんでもない",
+          "stem": "お昼ごはんは【　　　】食べました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "アドレス",
+          "book_id": 1580579,
+          "edge_id": 18143747,
+          "explanation": "",
+          "id": 25003462,
+          "index": 8,
+          "options": [
+            "メニュー",
+            "パジャマ",
+            "アドレス",
+            "スピード"
+          ],
+          "question_node_id": 20631301,
+          "question_text": "良かったら、メール【　　　】を教えてください。\n\n①メニュー\n②パジャマ\n③アドレス\n④スピード",
+          "stem": "良かったら、メール【　　　】を教えてください。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "部長",
+          "book_id": 1580579,
+          "edge_id": 18143749,
+          "explanation": "",
+          "id": 25003463,
+          "index": 9,
+          "options": [
+            "入社",
+            "部長",
+            "履歴書",
+            "評価"
+          ],
+          "question_node_id": 20631297,
+          "question_text": "【　　　】に資料を見せる。\n\n①入社\n②部長\n③履歴書\n④評価",
+          "stem": "【　　　】に資料を見せる。"
+        }
+      ],
+      "task_id": 112456939,
+      "task_order": 11
+    },
+    {
+      "book_id": 1580580,
+      "book_name": "JLPT N3_12語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "注文",
+          "book_id": 1580580,
+          "edge_id": 18143751,
+          "explanation": "",
+          "id": 25003464,
+          "index": 0,
+          "options": [
+            "商店",
+            "サービス",
+            "ウェブサイト",
+            "注文"
+          ],
+          "question_node_id": 20631309,
+          "question_text": "インターネットで商品を【　　　】する。\n\n①商店\n②サービス\n③ウェブサイト\n④注文",
+          "stem": "インターネットで商品を【　　　】する。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "いや",
+          "book_id": 1580580,
+          "edge_id": 18143758,
+          "explanation": "",
+          "id": 25003465,
+          "index": 1,
+          "options": [
+            "がまん",
+            "キャンセル",
+            "イベント",
+            "いや"
+          ],
+          "question_node_id": 20631310,
+          "question_text": "【　　　】なことが続く。\n\n①がまん\n②キャンセル\n③イベント\n④いや",
+          "stem": "【　　　】なことが続く。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "しっかり",
+          "book_id": 1580580,
+          "edge_id": 18143755,
+          "explanation": "",
+          "id": 25003466,
+          "index": 2,
+          "options": [
+            "すっきり",
+            "せっかく",
+            "しっかり",
+            "まっすぐ"
+          ],
+          "question_node_id": 20631306,
+          "question_text": "【　　　】勉強する。\n\n①すっきり\n②せっかく\n③しっかり\n④まっすぐ",
+          "stem": "【　　　】勉強する。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "学ぶ",
+          "book_id": 1580580,
+          "edge_id": 18143754,
+          "explanation": "",
+          "id": 25003467,
+          "index": 3,
+          "options": [
+            "学ぶ",
+            "似る",
+            "出張する",
+            "飛び出す"
+          ],
+          "question_node_id": 20631312,
+          "question_text": "他の国の文化を【　　　】。\n\n①学ぶ\n②似る\n③出張する\n④飛び出す",
+          "stem": "他の国の文化を【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "年間",
+          "book_id": 1580580,
+          "edge_id": 18143757,
+          "explanation": "",
+          "id": 25003468,
+          "index": 4,
+          "options": [
+            "年間",
+            "年内",
+            "年中",
+            "年末年始"
+          ],
+          "question_node_id": 20631313,
+          "question_text": "この会社で3【　　　】働いた。\n\n①年間\n②年内\n③年中\n④年末年始",
+          "stem": "この会社で3【　　　】働いた。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "優勝",
+          "book_id": 1580580,
+          "edge_id": 18143752,
+          "explanation": "",
+          "id": 25003469,
+          "index": 5,
+          "options": [
+            "出場",
+            "停止",
+            "優勝",
+            "通り過ぎた"
+          ],
+          "question_node_id": 20631305,
+          "question_text": "大会で【　　　】した。\n\n①出場\n②停止\n③優勝\n④通り過ぎた",
+          "stem": "大会で【　　　】した。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "連絡",
+          "book_id": 1580580,
+          "edge_id": 18143756,
+          "explanation": "",
+          "id": 25003470,
+          "index": 6,
+          "options": [
+            "成長",
+            "通学",
+            "連絡",
+            "にっこり"
+          ],
+          "question_node_id": 20631311,
+          "question_text": "毎日電話で【　　】する。\n\n①成長\n②通学\n③連絡\n④にっこり",
+          "stem": "毎日電話で【　　】する。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "説明",
+          "book_id": 1580580,
+          "edge_id": 18143753,
+          "explanation": "",
+          "id": 25003471,
+          "index": 7,
+          "options": [
+            "進歩",
+            "中年",
+            "説明",
+            "書類"
+          ],
+          "question_node_id": 20631308,
+          "question_text": "【　　　】を聞いてもよくわからない。\n\n①進歩\n②中年\n③説明\n④書類",
+          "stem": "【　　　】を聞いてもよくわからない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "立て札",
+          "book_id": 1580580,
+          "edge_id": 18143759,
+          "explanation": "",
+          "id": 25003472,
+          "index": 8,
+          "options": [
+            "立て札",
+            "お札",
+            "学習",
+            "基礎"
+          ],
+          "question_node_id": 20631307,
+          "question_text": "【　　　】に、「立ち入り禁止」と書いてある。\n\n①立て札\n②お札\n③学習\n④基礎",
+          "stem": "【　　　】に、「立ち入り禁止」と書いてある。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "きびしい",
+          "book_id": 1580580,
+          "edge_id": 18143760,
+          "explanation": "",
+          "id": 25003473,
+          "index": 9,
+          "options": [
+            "きびしい",
+            "親切だ",
+            "幸運だ",
+            "貧しい"
+          ],
+          "question_node_id": 20631314,
+          "question_text": "母はやさしいが、父はとても【　　　】。\n\n①きびしい\n②親切だ\n③幸運だ\n④貧しい",
+          "stem": "母はやさしいが、父はとても【　　　】。"
+        }
+      ],
+      "task_id": 112456940,
+      "task_order": 12
+    },
+    {
+      "book_id": 1580581,
+      "book_name": "JLPT N3_13語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "爆発",
+          "book_id": 1580581,
+          "edge_id": 18143761,
+          "explanation": "",
+          "id": 25003474,
+          "index": 0,
+          "options": [
+            "害",
+            "大水",
+            "爆発",
+            "火傷"
+          ],
+          "question_node_id": 20631315,
+          "question_text": "大きな【　　　】で電車が止まった。\n\n①害\n②大水\n③爆発\n④火傷",
+          "stem": "大きな【　　　】で電車が止まった。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "不安",
+          "book_id": 1580581,
+          "edge_id": 18143768,
+          "explanation": "",
+          "id": 25003475,
+          "index": 1,
+          "options": [
+            "きつい",
+            "幼い",
+            "不安",
+            "感謝"
+          ],
+          "question_node_id": 20631319,
+          "question_text": "【　　　】な気持ちで新しい生活を始める。\n\n①きつい\n②幼い\n③不安\n④感謝",
+          "stem": "【　　　】な気持ちで新しい生活を始める。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "世話",
+          "book_id": 1580581,
+          "edge_id": 18143769,
+          "explanation": "",
+          "id": 25003476,
+          "index": 2,
+          "options": [
+            "世話",
+            "命令",
+            "想像",
+            "保存"
+          ],
+          "question_node_id": 20631324,
+          "question_text": "犬の【　　　】をする。\n\n①世話\n②命令\n③想像\n④保存",
+          "stem": "犬の【　　　】をする。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "クレジットカード",
+          "book_id": 1580581,
+          "edge_id": 18143762,
+          "explanation": "",
+          "id": 25003477,
+          "index": 3,
+          "options": [
+            "景気",
+            "計算",
+            "クレジットカード",
+            "支払い"
+          ],
+          "question_node_id": 20631322,
+          "question_text": "【　　　】でお金を払う。\n\n①景気\n②計算\n③クレジットカード\n④支払い",
+          "stem": "【　　　】でお金を払う。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "でき上がった",
+          "book_id": 1580581,
+          "edge_id": 18143763,
+          "explanation": "",
+          "id": 25003478,
+          "index": 4,
+          "options": [
+            "食べた",
+            "燃えた",
+            "でき上がった",
+            "酔った"
+          ],
+          "question_node_id": 20631321,
+          "question_text": "料理が【　　　】ら、呼びますね。\n\n①食べた\n②燃えた\n③でき上がった\n④酔った",
+          "stem": "料理が【　　　】ら、呼びますね。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "外出",
+          "book_id": 1580581,
+          "edge_id": 18143764,
+          "explanation": "",
+          "id": 25003479,
+          "index": 5,
+          "options": [
+            "道路",
+            "外出",
+            "睡眠",
+            "発見"
+          ],
+          "question_node_id": 20631323,
+          "question_text": "雨が降ってきたので、【　　　】をやめた。\n\n①道路\n②外出\n③睡眠\n④発見",
+          "stem": "雨が降ってきたので、【　　　】をやめた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "お願いします",
+          "book_id": 1580581,
+          "edge_id": 18143766,
+          "explanation": "",
+          "id": 25003480,
+          "index": 6,
+          "options": [
+            "お願いします",
+            "おめでとうございます",
+            "ありがとうございます",
+            "いたします"
+          ],
+          "question_node_id": 20631316,
+          "question_text": "「どうぞよろしく【　　　】。」\n\n①お願いします\n②おめでとうございます\n③ありがとうございます\n④いたします",
+          "stem": "「どうぞよろしく【　　　】。」"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "文化祭",
+          "book_id": 1580581,
+          "edge_id": 18143765,
+          "explanation": "",
+          "id": 25003481,
+          "index": 7,
+          "options": [
+            "地震",
+            "文化祭",
+            "鍋",
+            "虹"
+          ],
+          "question_node_id": 20631317,
+          "question_text": "明日は学校の【　　　】だ。\n\n①地震\n②文化祭\n③鍋\n④虹",
+          "stem": "明日は学校の【　　　】だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "話し合った",
+          "book_id": 1580581,
+          "edge_id": 18143770,
+          "explanation": "",
+          "id": 25003482,
+          "index": 8,
+          "options": [
+            "話し合った",
+            "引っ越した",
+            "製造した",
+            "追加した"
+          ],
+          "question_node_id": 20631318,
+          "question_text": "クラスみんなでよく【　　　】。\n\n①話し合った\n②引っ越した\n③製造した\n④追加した",
+          "stem": "クラスみんなでよく【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "妻",
+          "book_id": 1580581,
+          "edge_id": 18143767,
+          "explanation": "",
+          "id": 25003483,
+          "index": 9,
+          "options": [
+            "ご主人",
+            "奥様",
+            "妻",
+            "夫婦"
+          ],
+          "question_node_id": 20631320,
+          "question_text": "「紹介します。私の【　　　】です。」\n\n①ご主人\n②奥様\n③妻\n④夫婦",
+          "stem": "「紹介します。私の【　　　】です。」"
+        }
+      ],
+      "task_id": 112456941,
+      "task_order": 13
+    },
+    {
+      "book_id": 1580583,
+      "book_name": "JLPT N3_14語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "被害",
+          "book_id": 1580583,
+          "edge_id": 18143771,
+          "explanation": "",
+          "id": 25003484,
+          "index": 0,
+          "options": [
+            "被害",
+            "大雨",
+            "無地",
+            "逮捕"
+          ],
+          "question_node_id": 20631330,
+          "question_text": "【　　　】を受ける。\n\n①被害\n②大雨\n③無地\n④逮捕",
+          "stem": "【　　　】を受ける。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "ちょっと",
+          "book_id": 1580583,
+          "edge_id": 18143779,
+          "explanation": "",
+          "id": 25003485,
+          "index": 1,
+          "options": [
+            "きのう",
+            "ついに",
+            "ぐっすり",
+            "ちょっと"
+          ],
+          "question_node_id": 20631328,
+          "question_text": "「【　　　　】、お聞きしたいことがあります。」\n\n①きのう\n②ついに\n③ぐっすり\n④ちょっと",
+          "stem": "「【　　　　】、お聞きしたいことがあります。」"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "弁当",
+          "book_id": 1580583,
+          "edge_id": 18143778,
+          "explanation": "",
+          "id": 25003486,
+          "index": 2,
+          "options": [
+            "弁当",
+            "買い物",
+            "実力",
+            "筋肉"
+          ],
+          "question_node_id": 20631331,
+          "question_text": "【　　　】を持って公園へ行く。\n\n①弁当\n②買い物\n③実力\n④筋肉",
+          "stem": "【　　　】を持って公園へ行く。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "重い",
+          "book_id": 1580583,
+          "edge_id": 18143773,
+          "explanation": "",
+          "id": 25003487,
+          "index": 3,
+          "options": [
+            "深い",
+            "軟らかい",
+            "重い",
+            "緩い"
+          ],
+          "question_node_id": 20631325,
+          "question_text": "この仕事は責任が【　　　】。\n\n①深い\n②軟らかい\n③重い\n④緩い",
+          "stem": "この仕事は責任が【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "型",
+          "book_id": 1580583,
+          "edge_id": 18143772,
+          "explanation": "",
+          "id": 25003488,
+          "index": 4,
+          "options": [
+            "産",
+            "型",
+            "形",
+            "部"
+          ],
+          "question_node_id": 20631332,
+          "question_text": "血液【　　　】を調べる。\n\n①産\n②型\n③形\n④部",
+          "stem": "血液【　　　】を調べる。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "飼えない",
+          "book_id": 1580583,
+          "edge_id": 18143780,
+          "explanation": "",
+          "id": 25003489,
+          "index": 5,
+          "options": [
+            "行えない",
+            "飼えない",
+            "仕様がない",
+            "信じられない"
+          ],
+          "question_node_id": 20631329,
+          "question_text": "このマンションではペットが【　　　】。\n\n①行えない\n②飼えない\n③仕様がない\n④信じられない",
+          "stem": "このマンションではペットが【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "転勤",
+          "book_id": 1580583,
+          "edge_id": 18143775,
+          "explanation": "",
+          "id": 25003490,
+          "index": 6,
+          "options": [
+            "距離",
+            "転勤",
+            "親戚",
+            "公務員"
+          ],
+          "question_node_id": 20631326,
+          "question_text": "東京から大阪に【　　　】が決まる。\n\n①距離\n②転勤\n③親戚\n④公務員",
+          "stem": "東京から大阪に【　　　】が決まる。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "室",
+          "book_id": 1580583,
+          "edge_id": 18143774,
+          "explanation": "",
+          "id": 25003491,
+          "index": 7,
+          "options": [
+            "場",
+            "校",
+            "館",
+            "室"
+          ],
+          "question_node_id": 20631333,
+          "question_text": "先生は教務【　　　】にいます。\n\n①場\n②校\n③館\n④室",
+          "stem": "先生は教務【　　　】にいます。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "まず",
+          "book_id": 1580583,
+          "edge_id": 18143776,
+          "explanation": "",
+          "id": 25003492,
+          "index": 8,
+          "options": [
+            "せっかく",
+            "たまに",
+            "まず",
+            "しんと"
+          ],
+          "question_node_id": 20631334,
+          "question_text": "【　　　】、部屋のそうじから始める。\n\n①せっかく\n②たまに\n③まず\n④しんと",
+          "stem": "【　　　】、部屋のそうじから始める。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "集合",
+          "book_id": 1580583,
+          "edge_id": 18143777,
+          "explanation": "",
+          "id": 25003493,
+          "index": 9,
+          "options": [
+            "普段",
+            "集合",
+            "場合",
+            "夜間"
+          ],
+          "question_node_id": 20631327,
+          "question_text": "【　　　】時間より、早く駅に着いた。\n\n①普段\n②集合\n③場合\n④夜間",
+          "stem": "【　　　】時間より、早く駅に着いた。"
+        }
+      ],
+      "task_id": 112456942,
+      "task_order": 14
+    },
+    {
+      "book_id": 1580584,
+      "book_name": "JLPT N3_15語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "気が合う",
+          "book_id": 1580584,
+          "edge_id": 18143788,
+          "explanation": "",
+          "id": 25003494,
+          "index": 0,
+          "options": [
+            "気がいい",
+            "気が合う",
+            "気に入る",
+            "気が付く"
+          ],
+          "question_node_id": 20631340,
+          "question_text": "彼女とは【　　　】。\n\n①気がいい\n②気が合う\n③気に入る\n④気が付く",
+          "stem": "彼女とは【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "人生",
+          "book_id": 1580584,
+          "edge_id": 18143781,
+          "explanation": "",
+          "id": 25003495,
+          "index": 1,
+          "options": [
+            "人生",
+            "世の中",
+            "物価",
+            "未来"
+          ],
+          "question_node_id": 20631336,
+          "question_text": "豊かな【　　　】を送る。\n\n①人生\n②世の中\n③物価\n④未来",
+          "stem": "豊かな【　　　】を送る。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "お支払い",
+          "book_id": 1580584,
+          "edge_id": 18143784,
+          "explanation": "",
+          "id": 25003496,
+          "index": 2,
+          "options": [
+            "クレジットカード",
+            "お支払い",
+            "携帯電話",
+            "通学"
+          ],
+          "question_node_id": 20631337,
+          "question_text": "「【　　　】は現金ですか、カードですか。」\n\n①クレジットカード\n②お支払い\n③携帯電話\n④通学",
+          "stem": "「【　　　】は現金ですか、カードですか。」"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "経った",
+          "book_id": 1580584,
+          "edge_id": 18143787,
+          "explanation": "",
+          "id": 25003497,
+          "index": 3,
+          "options": [
+            "なった",
+            "経った",
+            "勝った",
+            "信じた"
+          ],
+          "question_node_id": 20631344,
+          "question_text": "日本へ来てもう５年【　　　】。\n\n①なった\n②経った\n③勝った\n④信じた",
+          "stem": "日本へ来てもう５年【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "退屈",
+          "book_id": 1580584,
+          "edge_id": 18143786,
+          "explanation": "",
+          "id": 25003498,
+          "index": 4,
+          "options": [
+            "回収",
+            "参考",
+            "退屈",
+            "退職"
+          ],
+          "question_node_id": 20631343,
+          "question_text": "この仕事は【　　　】でつまらない。\n\n①回収\n②参考\n③退屈\n④退職",
+          "stem": "この仕事は【　　　】でつまらない。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "部屋",
+          "book_id": 1580584,
+          "edge_id": 18143785,
+          "explanation": "",
+          "id": 25003499,
+          "index": 5,
+          "options": [
+            "室",
+            "状態",
+            "部屋",
+            "募集"
+          ],
+          "question_node_id": 20631341,
+          "question_text": "学校の寮は二人【　　　】だ。\n\n①室\n②状態\n③部屋\n④募集",
+          "stem": "学校の寮は二人【　　　】だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "かなり",
+          "book_id": 1580584,
+          "edge_id": 18143782,
+          "explanation": "",
+          "id": 25003500,
+          "index": 6,
+          "options": [
+            "かなり",
+            "必ず",
+            "じっと",
+            "どうしても"
+          ],
+          "question_node_id": 20631342,
+          "question_text": "彼は【　　　】つかれているようだ。\n\n①かなり\n②必ず\n③じっと\n④どうしても",
+          "stem": "彼は【　　　】つかれているようだ。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "お別れ",
+          "book_id": 1580584,
+          "edge_id": 18143789,
+          "explanation": "",
+          "id": 25003501,
+          "index": 7,
+          "options": [
+            "入学",
+            "お別れ",
+            "出発",
+            "見送り"
+          ],
+          "question_node_id": 20631338,
+          "question_text": "今日でこの学校と【　　　】だ。さびしい。\n\n①入学\n②お別れ\n③出発\n④見送り",
+          "stem": "今日でこの学校と【　　　】だ。さびしい。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "今日中",
+          "book_id": 1580584,
+          "edge_id": 18143783,
+          "explanation": "",
+          "id": 25003502,
+          "index": 8,
+          "options": [
+            "今日",
+            "今日中",
+            "日程",
+            "年中"
+          ],
+          "question_node_id": 20631339,
+          "question_text": "この資料、【　　　】に作ってください。\n\n①今日\n②今日中\n③日程\n④年中",
+          "stem": "この資料、【　　　】に作ってください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "なるべく",
+          "book_id": 1580584,
+          "edge_id": 18143790,
+          "explanation": "",
+          "id": 25003503,
+          "index": 9,
+          "options": [
+            "なるべく",
+            "なかなか",
+            "もしかしたら",
+            "まさか"
+          ],
+          "question_node_id": 20631335,
+          "question_text": "毎日、【　　　】早く寝るようにしている。\n\n①なるべく\n②なかなか\n③もしかしたら\n④まさか",
+          "stem": "毎日、【　　　】早く寝るようにしている。"
+        }
+      ],
+      "task_id": 112456943,
+      "task_order": 15
+    },
+    {
+      "book_id": 1580585,
+      "book_name": "JLPT N3_16語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "起こる",
+          "book_id": 1580585,
+          "edge_id": 18678199,
+          "explanation": "",
+          "id": 25003504,
+          "index": 0,
+          "options": [
+            "出来上がる",
+            "起こる",
+            "着く",
+            "握る"
+          ],
+          "question_node_id": 21304695,
+          "question_text": "事故が【　　　】。\n\n①出来上がる\n②起こる\n③着く\n④握る",
+          "stem": "事故が【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "がまん",
+          "book_id": 1580585,
+          "edge_id": 18678198,
+          "explanation": "",
+          "id": 25003505,
+          "index": 1,
+          "options": [
+            "不安",
+            "信頼",
+            "がまん",
+            "迷惑"
+          ],
+          "question_node_id": 21304699,
+          "question_text": "痛くて【　　　】できない。\n\n①不安\n②信頼\n③がまん\n④迷惑",
+          "stem": "痛くて【　　　】できない。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "苦手",
+          "book_id": 1580585,
+          "edge_id": 18678192,
+          "explanation": "",
+          "id": 25003506,
+          "index": 2,
+          "options": [
+            "気楽",
+            "苦手",
+            "迷惑",
+            "満足"
+          ],
+          "question_node_id": 21304693,
+          "question_text": "私は人前で話すのが【　　　】だ。\n\n①気楽\n②苦手\n③迷惑\n④満足",
+          "stem": "私は人前で話すのが【　　　】だ。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "希望",
+          "book_id": 1580585,
+          "edge_id": 18678191,
+          "explanation": "",
+          "id": 25003507,
+          "index": 3,
+          "options": [
+            "お願い",
+            "停止",
+            "希望",
+            "設計"
+          ],
+          "question_node_id": 21304694,
+          "question_text": "【　　　】する大学に入学したい。\n\n①お願い\n②停止\n③希望\n④設計",
+          "stem": "【　　　】する大学に入学したい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "まんが",
+          "book_id": 1580585,
+          "edge_id": 18678193,
+          "explanation": "",
+          "id": 25003508,
+          "index": 4,
+          "options": [
+            "まんが",
+            "アニメ",
+            "曲",
+            "携帯電話"
+          ],
+          "question_node_id": 21304698,
+          "question_text": "ひまなときはよく【　　　】を読んでいる。\n\n①まんが\n②アニメ\n③曲\n④携帯電話",
+          "stem": "ひまなときはよく【　　　】を読んでいる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "辺り",
+          "book_id": 1580585,
+          "edge_id": 18678194,
+          "explanation": "",
+          "id": 25003509,
+          "index": 5,
+          "options": [
+            "辺り",
+            "工事",
+            "部屋",
+            "学年"
+          ],
+          "question_node_id": 21304700,
+          "question_text": "この【　　　】に銀行がありますか。\n\n①辺り\n②工事\n③部屋\n④学年",
+          "stem": "この【　　　】に銀行がありますか。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "確認",
+          "book_id": 1580585,
+          "edge_id": 18678196,
+          "explanation": "",
+          "id": 25003510,
+          "index": 6,
+          "options": [
+            "結果",
+            "上品",
+            "確認",
+            "孫"
+          ],
+          "question_node_id": 21304696,
+          "question_text": "もう一度【　　　】する。\n\n①結果\n②上品\n③確認\n④孫",
+          "stem": "もう一度【　　　】する。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "みんな",
+          "book_id": 1580585,
+          "edge_id": 18678195,
+          "explanation": "",
+          "id": 25003511,
+          "index": 7,
+          "options": [
+            "みんな",
+            "すっぱい",
+            "使う",
+            "全部"
+          ],
+          "question_node_id": 21304697,
+          "question_text": "【　　　】でご飯を食べる。\n\n①みんな\n②すっぱい\n③使う\n④全部",
+          "stem": "【　　　】でご飯を食べる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "せっかく",
+          "book_id": 1580585,
+          "edge_id": 18678197,
+          "explanation": "",
+          "id": 25003512,
+          "index": 8,
+          "options": [
+            "せっかく",
+            "まっすぐ",
+            "もしも",
+            "まるで"
+          ],
+          "question_node_id": 21304701,
+          "question_text": "【　　　】作ったのに、誰も食べてくれない。\n\n①せっかく\n②まっすぐ\n③もしも\n④まるで",
+          "stem": "【　　　】作ったのに、誰も食べてくれない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おもちゃ",
+          "book_id": 1580585,
+          "edge_id": 18678200,
+          "explanation": "",
+          "id": 25003513,
+          "index": 9,
+          "options": [
+            "おもちゃ",
+            "約束",
+            "税金",
+            "ふるさと"
+          ],
+          "question_node_id": 21304702,
+          "question_text": "子どもの誕生日に【　　　】を買う。\n\n①おもちゃ\n②約束\n③税金\n④ふるさと",
+          "stem": "子どもの誕生日に【　　　】を買う。"
+        }
+      ],
+      "task_id": 112456944,
+      "task_order": 16
+    },
+    {
+      "book_id": 1580586,
+      "book_name": "JLPT N3_17語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "草",
+          "book_id": 1580586,
+          "edge_id": 18678208,
+          "explanation": "",
+          "id": 25003514,
+          "index": 0,
+          "options": [
+            "神",
+            "草",
+            "曲",
+            "カロリー"
+          ],
+          "question_node_id": 21304704,
+          "question_text": "庭の【　　　】をとる。\n\n①神\n②草\n③曲\n④カロリー",
+          "stem": "庭の【　　　】をとる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "増えた",
+          "book_id": 1580586,
+          "edge_id": 18678201,
+          "explanation": "",
+          "id": 25003515,
+          "index": 1,
+          "options": [
+            "増えた",
+            "のびた",
+            "飛び出した",
+            "腐った"
+          ],
+          "question_node_id": 21304703,
+          "question_text": "食べ過ぎて体重が【　　　】。\n\n①増えた\n②のびた\n③飛び出した\n④腐った",
+          "stem": "食べ過ぎて体重が【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "体型",
+          "book_id": 1580586,
+          "edge_id": 18678209,
+          "explanation": "",
+          "id": 25003516,
+          "index": 2,
+          "options": [
+            "体型",
+            "気",
+            "豊富",
+            "満足"
+          ],
+          "question_node_id": 21304708,
+          "question_text": "【　　　】に合った服を選んでください。\n\n①体型\n②気\n③豊富\n④満足",
+          "stem": "【　　　】に合った服を選んでください。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "競争",
+          "book_id": 1580586,
+          "edge_id": 18678203,
+          "explanation": "",
+          "id": 25003517,
+          "index": 3,
+          "options": [
+            "完成",
+            "演劇",
+            "競争",
+            "命令"
+          ],
+          "question_node_id": 21304707,
+          "question_text": "どちらがはやいか【　　　】する。\n\n①完成\n②演劇\n③競争\n④命令",
+          "stem": "どちらがはやいか【　　　】する。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "次男",
+          "book_id": 1580586,
+          "edge_id": 18678204,
+          "explanation": "",
+          "id": 25003518,
+          "index": 4,
+          "options": [
+            "成長",
+            "夫婦",
+            "次男",
+            "関係"
+          ],
+          "question_node_id": 21304711,
+          "question_text": "来月、【　　　】が結婚する。\n\n①成長\n②夫婦\n③次男\n④関係",
+          "stem": "来月、【　　　】が結婚する。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "体",
+          "book_id": 1580586,
+          "edge_id": 18678202,
+          "explanation": "",
+          "id": 25003519,
+          "index": 5,
+          "options": [
+            "体温",
+            "体操",
+            "体調",
+            "体"
+          ],
+          "question_node_id": 21304705,
+          "question_text": "今日は【　　　】の調子が悪い。\n\n①体温\n②体操\n③体調\n④体",
+          "stem": "今日は【　　　】の調子が悪い。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "昔",
+          "book_id": 1580586,
+          "edge_id": 18678205,
+          "explanation": "",
+          "id": 25003520,
+          "index": 6,
+          "options": [
+            "村",
+            "今",
+            "昔",
+            "いつも"
+          ],
+          "question_node_id": 21304710,
+          "question_text": "【　　　】、この辺りに住んでいた。\n\n①村\n②今\n③昔\n④いつも",
+          "stem": "【　　　】、この辺りに住んでいた。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "けが",
+          "book_id": 1580586,
+          "edge_id": 18678207,
+          "explanation": "",
+          "id": 25003521,
+          "index": 7,
+          "options": [
+            "無事",
+            "体力",
+            "けが",
+            "成長"
+          ],
+          "question_node_id": 21304709,
+          "question_text": "階段で転んで足に【　　　】をした。\n\n①無事\n②体力\n③けが\n④成長",
+          "stem": "階段で転んで足に【　　　】をした。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "調子",
+          "book_id": 1580586,
+          "edge_id": 18678210,
+          "explanation": "",
+          "id": 25003522,
+          "index": 8,
+          "options": [
+            "調子",
+            "体調",
+            "洗剤",
+            "トラブル"
+          ],
+          "question_node_id": 21304706,
+          "question_text": "このパソコン、最近【　　　】が良くない。\n\n①調子\n②体調\n③洗剤\n④トラブル",
+          "stem": "このパソコン、最近【　　　】が良くない。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "きたない",
+          "book_id": 1580586,
+          "edge_id": 18678206,
+          "explanation": "",
+          "id": 25003523,
+          "index": 9,
+          "options": [
+            "しつこい",
+            "もったいない",
+            "きびしい",
+            "きたない"
+          ],
+          "question_node_id": 21304712,
+          "question_text": "部屋が【　　　】から、片づけよう。\n\n①しつこい\n②もったいない\n③きびしい\n④きたない",
+          "stem": "部屋が【　　　】から、片づけよう。"
+        }
+      ],
+      "task_id": 112456945,
+      "task_order": 17
+    },
+    {
+      "book_id": 1580587,
+      "book_name": "JLPT N3_18語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "無理",
+          "book_id": 1580587,
+          "edge_id": 18678219,
+          "explanation": "",
+          "id": 25003524,
+          "index": 0,
+          "options": [
+            "無理",
+            "瞬間",
+            "涙",
+            "お菓子"
+          ],
+          "question_node_id": 21304713,
+          "question_text": "あまり【　　　】をしないでくださいね。\n\n①無理\n②瞬間\n③涙\n④お菓子",
+          "stem": "あまり【　　　】をしないでくださいね。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "かまいません",
+          "book_id": 1580587,
+          "edge_id": 18678220,
+          "explanation": "",
+          "id": 25003525,
+          "index": 1,
+          "options": [
+            "しまいません",
+            "しまいます",
+            "かまいません",
+            "かまいます"
+          ],
+          "question_node_id": 21304715,
+          "question_text": "そのままで【　　　　】。\n\n①しまいません\n②しまいます\n③かまいません\n④かまいます",
+          "stem": "そのままで【　　　　】。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "海外",
+          "book_id": 1580587,
+          "edge_id": 18678211,
+          "explanation": "",
+          "id": 25003526,
+          "index": 2,
+          "options": [
+            "外遊び",
+            "留学",
+            "飛行機",
+            "海外"
+          ],
+          "question_node_id": 21304714,
+          "question_text": "夏休みに【　　　】旅行に行く。\n\n①外遊び\n②留学\n③飛行機\n④海外",
+          "stem": "夏休みに【　　　】旅行に行く。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "かなり",
+          "book_id": 1580587,
+          "edge_id": 18678218,
+          "explanation": "",
+          "id": 25003527,
+          "index": 3,
+          "options": [
+            "ぎりぎり",
+            "しばらく",
+            "かなり",
+            "多く"
+          ],
+          "question_node_id": 21304720,
+          "question_text": "最近【　　　】疲れている。\n\n①ぎりぎり\n②しばらく\n③かなり\n④多く",
+          "stem": "最近【　　　】疲れている。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "反対",
+          "book_id": 1580587,
+          "edge_id": 18678215,
+          "explanation": "",
+          "id": 25003528,
+          "index": 4,
+          "options": [
+            "夢中",
+            "訪問",
+            "必要",
+            "反対"
+          ],
+          "question_node_id": 21304717,
+          "question_text": "その意見に【　　　】する。\n\n①夢中\n②訪問\n③必要\n④反対",
+          "stem": "その意見に【　　　】する。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "伝わった",
+          "book_id": 1580587,
+          "edge_id": 18678213,
+          "explanation": "",
+          "id": 25003529,
+          "index": 5,
+          "options": [
+            "戻った",
+            "伝わった",
+            "引っ越した",
+            "教わった"
+          ],
+          "question_node_id": 21304716,
+          "question_text": "漢字は中国から日本に【　　　】\n\n①戻った\n②伝わった\n③引っ越した\n④教わった",
+          "stem": "漢字は中国から日本に【　　　】"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ほっと",
+          "book_id": 1580587,
+          "edge_id": 18678214,
+          "explanation": "",
+          "id": 25003530,
+          "index": 6,
+          "options": [
+            "ほっと",
+            "ちゃんと",
+            "ふらふら",
+            "ぼんやり"
+          ],
+          "question_node_id": 21304719,
+          "question_text": "大丈夫だと知って、【　　　】した。\n\n①ほっと\n②ちゃんと\n③ふらふら\n④ぼんやり",
+          "stem": "大丈夫だと知って、【　　　】した。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "合格",
+          "book_id": 1580587,
+          "edge_id": 18678212,
+          "explanation": "",
+          "id": 25003531,
+          "index": 7,
+          "options": [
+            "試験",
+            "コンクール",
+            "合格",
+            "フリー"
+          ],
+          "question_node_id": 21304718,
+          "question_text": "N３に【　　　】したい！\n\n①試験\n②コンクール\n③合格\n④フリー",
+          "stem": "N３に【　　　】したい！"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "迷惑",
+          "book_id": 1580587,
+          "edge_id": 18678216,
+          "explanation": "",
+          "id": 25003532,
+          "index": 8,
+          "options": [
+            "迷惑",
+            "命令",
+            "試着",
+            "満足"
+          ],
+          "question_node_id": 21304721,
+          "question_text": "ご【　　　】をおかけし、申し訳ございません。\n\n①迷惑\n②命令\n③試着\n④満足",
+          "stem": "ご【　　　】をおかけし、申し訳ございません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "年上",
+          "book_id": 1580587,
+          "edge_id": 18678217,
+          "explanation": "",
+          "id": 25003533,
+          "index": 9,
+          "options": [
+            "年上",
+            "先人",
+            "学年",
+            "上級"
+          ],
+          "question_node_id": 21304722,
+          "question_text": "夫は私より５歳【　　　】です。\n\n①年上\n②先人\n③学年\n④上級",
+          "stem": "夫は私より５歳【　　　】です。"
+        }
+      ],
+      "task_id": 112456946,
+      "task_order": 18
+    },
+    {
+      "book_id": 1580588,
+      "book_name": "JLPT N3_19語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "修理",
+          "book_id": 1580588,
+          "edge_id": 18678221,
+          "explanation": "",
+          "id": 25003534,
+          "index": 0,
+          "options": [
+            "手術",
+            "掃除",
+            "修理",
+            "整理"
+          ],
+          "question_node_id": 21304723,
+          "question_text": "この自転車、【　　　】すれば、まだ使える。\n\n①手術\n②掃除\n③修理\n④整理",
+          "stem": "この自転車、【　　　】すれば、まだ使える。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "湖",
+          "book_id": 1580588,
+          "edge_id": 18678222,
+          "explanation": "",
+          "id": 25003535,
+          "index": 1,
+          "options": [
+            "地震",
+            "湖",
+            "嵐",
+            "皮"
+          ],
+          "question_node_id": 21304725,
+          "question_text": "【　　　】の近くを散歩する。\n\n①地震\n②湖\n③嵐\n④皮",
+          "stem": "【　　　】の近くを散歩する。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "歩く",
+          "book_id": 1580588,
+          "edge_id": 18678223,
+          "explanation": "",
+          "id": 25003536,
+          "index": 2,
+          "options": [
+            "歩く",
+            "辞める",
+            "残す",
+            "落ち着く"
+          ],
+          "question_node_id": 21304724,
+          "question_text": "仕事について考えながらゆっくり【　　　】。\n\n①歩く\n②辞める\n③残す\n④落ち着く",
+          "stem": "仕事について考えながらゆっくり【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "関係",
+          "book_id": 1580588,
+          "edge_id": 18678228,
+          "explanation": "",
+          "id": 25003537,
+          "index": 3,
+          "options": [
+            "誤解",
+            "秘密",
+            "関係",
+            "発展"
+          ],
+          "question_node_id": 21304727,
+          "question_text": "友達との【　　　】が悪くなる。\n\n①誤解\n②秘密\n③関係\n④発展",
+          "stem": "友達との【　　　】が悪くなる。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "上手",
+          "book_id": 1580588,
+          "edge_id": 18678224,
+          "explanation": "",
+          "id": 25003538,
+          "index": 4,
+          "options": [
+            "丈夫",
+            "状態",
+            "上手",
+            "少数"
+          ],
+          "question_node_id": 21304730,
+          "question_text": "母は料理が【　　　】だ。\n\n①丈夫\n②状態\n③上手\n④少数",
+          "stem": "母は料理が【　　　】だ。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "祭り",
+          "book_id": 1580588,
+          "edge_id": 18678229,
+          "explanation": "",
+          "id": 25003539,
+          "index": 5,
+          "options": [
+            "観光",
+            "徹夜",
+            "祭り",
+            "大会"
+          ],
+          "question_node_id": 21304728,
+          "question_text": "日本のお【　　】に行ってみたい。\n\n①観光\n②徹夜\n③祭り\n④大会",
+          "stem": "日本のお【　　】に行ってみたい。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "かかる",
+          "book_id": 1580588,
+          "edge_id": 18678230,
+          "explanation": "",
+          "id": 25003540,
+          "index": 6,
+          "options": [
+            "経つ",
+            "過ごす",
+            "かかる",
+            "激しい"
+          ],
+          "question_node_id": 21304732,
+          "question_text": "このやり方は時間が【　　　】。\n\n①経つ\n②過ごす\n③かかる\n④激しい",
+          "stem": "このやり方は時間が【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "入学",
+          "book_id": 1580588,
+          "edge_id": 18678227,
+          "explanation": "",
+          "id": 25003541,
+          "index": 7,
+          "options": [
+            "試験",
+            "入学",
+            "取り消す",
+            "修学旅行"
+          ],
+          "question_node_id": 21304731,
+          "question_text": "明日は大学の【　　　】式だ。\n\n①試験\n②入学\n③取り消す\n④修学旅行",
+          "stem": "明日は大学の【　　　】式だ。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "健康診断",
+          "book_id": 1580588,
+          "edge_id": 18678226,
+          "explanation": "",
+          "id": 25003542,
+          "index": 8,
+          "options": [
+            "注意書き",
+            "健康診断",
+            "受験",
+            "計算"
+          ],
+          "question_node_id": 21304726,
+          "question_text": "１年に１回【　　　】を受ける。\n\n①注意書き\n②健康診断\n③受験\n④計算",
+          "stem": "１年に１回【　　　】を受ける。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "さっき",
+          "book_id": 1580588,
+          "edge_id": 18678225,
+          "explanation": "",
+          "id": 25003543,
+          "index": 9,
+          "options": [
+            "先",
+            "さっき",
+            "今まで",
+            "しばらく"
+          ],
+          "question_node_id": 21304729,
+          "question_text": "【　　　】ご飯を食べたのに、もうお腹がすいている。\n\n①先\n②さっき\n③今まで\n④しばらく",
+          "stem": "【　　　】ご飯を食べたのに、もうお腹がすいている。"
+        }
+      ],
+      "task_id": 112456947,
+      "task_order": 19
+    },
+    {
+      "book_id": 1580589,
+      "book_name": "JLPT N3_20語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "登る",
+          "book_id": 1580589,
+          "edge_id": 18678231,
+          "explanation": "",
+          "id": 25003544,
+          "index": 0,
+          "options": [
+            "登る",
+            "溶ける",
+            "確認する",
+            "休む"
+          ],
+          "question_node_id": 21304733,
+          "question_text": "山に【　　　】。\n\n①登る\n②溶ける\n③確認する\n④休む",
+          "stem": "山に【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "経つ",
+          "book_id": 1580589,
+          "edge_id": 18678235,
+          "explanation": "",
+          "id": 25003545,
+          "index": 1,
+          "options": [
+            "起こる",
+            "経つ",
+            "延ばす",
+            "眺める"
+          ],
+          "question_node_id": 21304734,
+          "question_text": "時間が【　　　】のがはやい。\n\n①起こる\n②経つ\n③延ばす\n④眺める",
+          "stem": "時間が【　　　】のがはやい。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "頼む",
+          "book_id": 1580589,
+          "edge_id": 18678232,
+          "explanation": "",
+          "id": 25003546,
+          "index": 2,
+          "options": [
+            "取り組む",
+            "訓練する",
+            "頼む",
+            "救う"
+          ],
+          "question_node_id": 21304738,
+          "question_text": "一人ではできないので、友だちに【　　　】。\n\n①取り組む\n②訓練する\n③頼む\n④救う",
+          "stem": "一人ではできないので、友だちに【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "親しい",
+          "book_id": 1580589,
+          "edge_id": 18678239,
+          "explanation": "",
+          "id": 25003547,
+          "index": 3,
+          "options": [
+            "親しい",
+            "重い",
+            "軽い",
+            "評判"
+          ],
+          "question_node_id": 21304741,
+          "question_text": "【　　】友人と食事に行く。\n\n①親しい\n②重い\n③軽い\n④評判",
+          "stem": "【　　】友人と食事に行く。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "相手",
+          "book_id": 1580589,
+          "edge_id": 18678233,
+          "explanation": "",
+          "id": 25003548,
+          "index": 4,
+          "options": [
+            "相手",
+            "言葉",
+            "合宿",
+            "調子"
+          ],
+          "question_node_id": 21304740,
+          "question_text": "ひまなので話し【　　　】がほしい。\n\n①相手\n②言葉\n③合宿\n④調子",
+          "stem": "ひまなので話し【　　　】がほしい。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "村",
+          "book_id": 1580589,
+          "edge_id": 18678234,
+          "explanation": "",
+          "id": 25003549,
+          "index": 5,
+          "options": [
+            "日程",
+            "村",
+            "昔",
+            "面接"
+          ],
+          "question_node_id": 21304739,
+          "question_text": "隣の【　　　】までは、車で30分だ。\n\n①日程\n②村\n③昔\n④面接",
+          "stem": "隣の【　　　】までは、車で30分だ。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "結果",
+          "book_id": 1580589,
+          "edge_id": 18678236,
+          "explanation": "",
+          "id": 25003550,
+          "index": 6,
+          "options": [
+            "試合",
+            "不合格",
+            "結果",
+            "平等"
+          ],
+          "question_node_id": 21304735,
+          "question_text": "試験の【　　　】が気になる。\n\n①試合\n②不合格\n③結果\n④平等",
+          "stem": "試験の【　　　】が気になる。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "引き受ける",
+          "book_id": 1580589,
+          "edge_id": 18678238,
+          "explanation": "",
+          "id": 25003551,
+          "index": 7,
+          "options": [
+            "引き受ける",
+            "とり組む",
+            "取り外す",
+            "不足する"
+          ],
+          "question_node_id": 21304737,
+          "question_text": "仕事を【　　　】。\n\n①引き受ける\n②とり組む\n③取り外す\n④不足する",
+          "stem": "仕事を【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "一言",
+          "book_id": 1580589,
+          "edge_id": 18678237,
+          "explanation": "",
+          "id": 25003552,
+          "index": 8,
+          "options": [
+            "簡単",
+            "一言",
+            "相当",
+            "鋭い"
+          ],
+          "question_node_id": 21304742,
+          "question_text": "【　　　】お礼が言いたい。\n\n①簡単\n②一言\n③相当\n④鋭い",
+          "stem": "【　　　】お礼が言いたい。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "一生けんめい",
+          "book_id": 1580589,
+          "edge_id": 18678240,
+          "explanation": "",
+          "id": 25003553,
+          "index": 9,
+          "options": [
+            "一生けんめい",
+            "真剣",
+            "きちんとした",
+            "ようやく"
+          ],
+          "question_node_id": 21304736,
+          "question_text": "【　　　】走ったが、間に合わなかった。\n\n①一生けんめい\n②真剣\n③きちんとした\n④ようやく",
+          "stem": "【　　　】走ったが、間に合わなかった。"
+        }
+      ],
+      "task_id": 112456948,
+      "task_order": 20
+    },
+    {
+      "book_id": 1580590,
+      "book_name": "JLPT N3_21語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "価値",
+          "book_id": 1580590,
+          "edge_id": 18678241,
+          "explanation": "",
+          "id": 25003554,
+          "index": 0,
+          "options": [
+            "価値",
+            "整理",
+            "問題集",
+            "評判"
+          ],
+          "question_node_id": 21304747,
+          "question_text": "この絵には【　　　】がある。\n\n①価値\n②整理\n③問題集\n④評判",
+          "stem": "この絵には【　　　】がある。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "指示",
+          "book_id": 1580590,
+          "edge_id": 18678242,
+          "explanation": "",
+          "id": 25003555,
+          "index": 1,
+          "options": [
+            "自由",
+            "指示",
+            "実力",
+            "残業"
+          ],
+          "question_node_id": 21304745,
+          "question_text": "社長の【　　　】のとおりにする。\n\n①自由\n②指示\n③実力\n④残業",
+          "stem": "社長の【　　　】のとおりにする。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "わずか",
+          "book_id": 1580590,
+          "edge_id": 18678245,
+          "explanation": "",
+          "id": 25003556,
+          "index": 2,
+          "options": [
+            "少し",
+            "ちょっと",
+            "距離",
+            "わずか"
+          ],
+          "question_node_id": 21304743,
+          "question_text": "学校から駅までは【　　　】5分で着く。\n\n①少し\n②ちょっと\n③距離\n④わずか",
+          "stem": "学校から駅までは【　　　】5分で着く。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "許して",
+          "book_id": 1580590,
+          "edge_id": 18678247,
+          "explanation": "",
+          "id": 25003557,
+          "index": 3,
+          "options": [
+            "似合って",
+            "結んで",
+            "許して",
+            "かえって"
+          ],
+          "question_node_id": 21304746,
+          "question_text": "謝って【　　　】もらった。\n\n①似合って\n②結んで\n③許して\n④かえって",
+          "stem": "謝って【　　　】もらった。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "行う",
+          "book_id": 1580590,
+          "edge_id": 18678243,
+          "explanation": "",
+          "id": 25003558,
+          "index": 4,
+          "options": [
+            "伝わる",
+            "翻訳する",
+            "行う",
+            "発展する"
+          ],
+          "question_node_id": 21304744,
+          "question_text": "卒業式を【　　　】。\n\n①伝わる\n②翻訳する\n③行う\n④発展する",
+          "stem": "卒業式を【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "成長",
+          "book_id": 1580590,
+          "edge_id": 18678244,
+          "explanation": "",
+          "id": 25003559,
+          "index": 5,
+          "options": [
+            "成長",
+            "確認",
+            "付き合い",
+            "配達"
+          ],
+          "question_node_id": 21304752,
+          "question_text": "子どもの【　　　】が楽しみだ。\n\n①成長\n②確認\n③付き合い\n④配達",
+          "stem": "子どもの【　　　】が楽しみだ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "進まない",
+          "book_id": 1580590,
+          "edge_id": 18678249,
+          "explanation": "",
+          "id": 25003560,
+          "index": 6,
+          "options": [
+            "進まない",
+            "進めない",
+            "流れる",
+            "まとめる"
+          ],
+          "question_node_id": 21304751,
+          "question_text": "明日のパーティー、気が【　　　】なあ。\n\n①進まない\n②進めない\n③流れる\n④まとめる",
+          "stem": "明日のパーティー、気が【　　　】なあ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "辞める",
+          "book_id": 1580590,
+          "edge_id": 18678246,
+          "explanation": "",
+          "id": 25003561,
+          "index": 7,
+          "options": [
+            "辞める",
+            "中止する",
+            "期限",
+            "休憩する"
+          ],
+          "question_node_id": 21304748,
+          "question_text": "この会社を【　　　】つもりだ。\n\n①辞める\n②中止する\n③期限\n④休憩する",
+          "stem": "この会社を【　　　】つもりだ。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "なかなか",
+          "book_id": 1580590,
+          "edge_id": 18678250,
+          "explanation": "",
+          "id": 25003562,
+          "index": 8,
+          "options": [
+            "どんどん",
+            "なかなか",
+            "のろのろ",
+            "にこにこ"
+          ],
+          "question_node_id": 21304750,
+          "question_text": "練習しても【　　　】覚えられない。\n\n①どんどん\n②なかなか\n③のろのろ\n④にこにこ",
+          "stem": "練習しても【　　　】覚えられない。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "まだまだ",
+          "book_id": 1580590,
+          "edge_id": 18678248,
+          "explanation": "",
+          "id": 25003563,
+          "index": 9,
+          "options": [
+            "いよいよ",
+            "うきうき",
+            "まだまだ",
+            "なかなか"
+          ],
+          "question_node_id": 21304749,
+          "question_text": "A:「日本語が上手ですね。」\nB:「いいえ、【　　　】です。」\n\n①いよいよ\n②うきうき\n③まだまだ\n④なかなか",
+          "stem": "A:「日本語が上手ですね。」\nB:「いいえ、【　　　】です。」"
+        }
+      ],
+      "task_id": 112456949,
+      "task_order": 21
+    },
+    {
+      "book_id": 1580591,
+      "book_name": "JLPT N3_22語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "昼寝",
+          "book_id": 1580591,
+          "edge_id": 18678252,
+          "explanation": "",
+          "id": 25003564,
+          "index": 0,
+          "options": [
+            "免許",
+            "昼寝",
+            "優勝",
+            "がっかり"
+          ],
+          "question_node_id": 21304756,
+          "question_text": "ゆっくり【　　　】する。\n\n①免許\n②昼寝\n③優勝\n④がっかり",
+          "stem": "ゆっくり【　　　】する。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "地方",
+          "book_id": 1580591,
+          "edge_id": 18678251,
+          "explanation": "",
+          "id": 25003565,
+          "index": 1,
+          "options": [
+            "商店",
+            "地方",
+            "道路",
+            "地下"
+          ],
+          "question_node_id": 21304759,
+          "question_text": "この【　　　】は雨が多い。\n\n①商店\n②地方\n③道路\n④地下",
+          "stem": "この【　　　】は雨が多い。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "深く",
+          "book_id": 1580591,
+          "edge_id": 18678257,
+          "explanation": "",
+          "id": 25003566,
+          "index": 2,
+          "options": [
+            "深く",
+            "こわく",
+            "怪しく",
+            "かゆく"
+          ],
+          "question_node_id": 21304758,
+          "question_text": "【　　　】考える。\n\n①深く\n②こわく\n③怪しく\n④かゆく",
+          "stem": "【　　　】考える。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "似ている",
+          "book_id": 1580591,
+          "edge_id": 18678255,
+          "explanation": "",
+          "id": 25003567,
+          "index": 3,
+          "options": [
+            "学んでいる",
+            "貧しい",
+            "似ている",
+            "成功する"
+          ],
+          "question_node_id": 21304755,
+          "question_text": "あの二人は顔がよく【　　　】。\n\n①学んでいる\n②貧しい\n③似ている\n④成功する",
+          "stem": "あの二人は顔がよく【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "必ず",
+          "book_id": 1580591,
+          "edge_id": 18678254,
+          "explanation": "",
+          "id": 25003568,
+          "index": 4,
+          "options": [
+            "必要",
+            "必ず",
+            "がっかり",
+            "まったく"
+          ],
+          "question_node_id": 21304761,
+          "question_text": "「明日は【　　　】来てください。」\n\n①必要\n②必ず\n③がっかり\n④まったく",
+          "stem": "「明日は【　　　】来てください。」"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "野外",
+          "book_id": 1580591,
+          "edge_id": 18678256,
+          "explanation": "",
+          "id": 25003569,
+          "index": 5,
+          "options": [
+            "野外",
+            "大会",
+            "コンクール",
+            "次回"
+          ],
+          "question_node_id": 21304760,
+          "question_text": "今日ここで【　　　】コンサートが開かれる。\n\n①野外\n②大会\n③コンクール\n④次回",
+          "stem": "今日ここで【　　　】コンサートが開かれる。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "育てる",
+          "book_id": 1580591,
+          "edge_id": 18678253,
+          "explanation": "",
+          "id": 25003570,
+          "index": 6,
+          "options": [
+            "成長する",
+            "流れる",
+            "余る",
+            "育てる"
+          ],
+          "question_node_id": 21304754,
+          "question_text": "子どもを【　　　】。\n\n①成長する\n②流れる\n③余る\n④育てる",
+          "stem": "子どもを【　　　】。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "事務",
+          "book_id": 1580591,
+          "edge_id": 18678258,
+          "explanation": "",
+          "id": 25003571,
+          "index": 7,
+          "options": [
+            "書類",
+            "募集",
+            "仲間",
+            "事務"
+          ],
+          "question_node_id": 21304753,
+          "question_text": "姉は会社で【　　　】をしている。\n\n①書類\n②募集\n③仲間\n④事務",
+          "stem": "姉は会社で【　　　】をしている。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "謝る",
+          "book_id": 1580591,
+          "edge_id": 18678260,
+          "explanation": "",
+          "id": 25003572,
+          "index": 8,
+          "options": [
+            "謝る",
+            "辞める",
+            "閉じる",
+            "延ばす"
+          ],
+          "question_node_id": 21304757,
+          "question_text": "失敗を【　　　】。\n\n①謝る\n②辞める\n③閉じる\n④延ばす",
+          "stem": "失敗を【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "突然",
+          "book_id": 1580591,
+          "edge_id": 18678259,
+          "explanation": "",
+          "id": 25003573,
+          "index": 9,
+          "options": [
+            "急",
+            "急いで",
+            "突然",
+            "新鮮な"
+          ],
+          "question_node_id": 21304762,
+          "question_text": "【　　　】雨が降ってきた。\n\n①急\n②急いで\n③突然\n④新鮮な",
+          "stem": "【　　　】雨が降ってきた。"
+        }
+      ],
+      "task_id": 112456950,
+      "task_order": 22
+    },
+    {
+      "book_id": 1580592,
+      "book_name": "JLPT N3_23語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "作ります",
+          "book_id": 1580592,
+          "edge_id": 18678263,
+          "explanation": "",
+          "id": 25003574,
+          "index": 0,
+          "options": [
+            "進歩します",
+            "取り消します",
+            "でき上がります",
+            "作ります"
+          ],
+          "question_node_id": 21304763,
+          "question_text": "毎日料理を【　　　】。\n\n①進歩します\n②取り消します\n③でき上がります\n④作ります",
+          "stem": "毎日料理を【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "実行力",
+          "book_id": 1580592,
+          "edge_id": 18678270,
+          "explanation": "",
+          "id": 25003575,
+          "index": 1,
+          "options": [
+            "実行力",
+            "競争",
+            "初級",
+            "幸福感"
+          ],
+          "question_node_id": 21304767,
+          "question_text": "彼は【　　　】があって仕事がはやい。\n\n①実行力\n②競争\n③初級\n④幸福感",
+          "stem": "彼は【　　　】があって仕事がはやい。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "就職",
+          "book_id": 1580592,
+          "edge_id": 18678261,
+          "explanation": "",
+          "id": 25003576,
+          "index": 2,
+          "options": [
+            "習慣",
+            "渋滞",
+            "中心",
+            "就職"
+          ],
+          "question_node_id": 21304765,
+          "question_text": "いつか日本で【　　　】したい。\n\n①習慣\n②渋滞\n③中心\n④就職",
+          "stem": "いつか日本で【　　　】したい。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "習慣",
+          "book_id": 1580592,
+          "edge_id": 18678266,
+          "explanation": "",
+          "id": 25003577,
+          "index": 3,
+          "options": [
+            "文化",
+            "習慣",
+            "設計",
+            "日程"
+          ],
+          "question_node_id": 21304764,
+          "question_text": "毎朝走るのが私の【　　　】だ。\n\n①文化\n②習慣\n③設計\n④日程",
+          "stem": "毎朝走るのが私の【　　　】だ。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "一言",
+          "book_id": 1580592,
+          "edge_id": 18678264,
+          "explanation": "",
+          "id": 25003578,
+          "index": 4,
+          "options": [
+            "言葉",
+            "一言",
+            "案外",
+            "追って"
+          ],
+          "question_node_id": 21304770,
+          "question_text": "【　　　】謝る。\n\n①言葉\n②一言\n③案外\n④追って",
+          "stem": "【　　　】謝る。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "豆腐",
+          "book_id": 1580592,
+          "edge_id": 18678262,
+          "explanation": "",
+          "id": 25003579,
+          "index": 5,
+          "options": [
+            "豆腐",
+            "野原",
+            "モデル",
+            "ブレーキ"
+          ],
+          "question_node_id": 21304766,
+          "question_text": "【　　　】を使った料理を食べた。\n\n①豆腐\n②野原\n③モデル\n④ブレーキ",
+          "stem": "【　　　】を使った料理を食べた。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "彼",
+          "book_id": 1580592,
+          "edge_id": 18678265,
+          "explanation": "",
+          "id": 25003580,
+          "index": 6,
+          "options": [
+            "彼",
+            "それ",
+            "だれ",
+            "私"
+          ],
+          "question_node_id": 21304768,
+          "question_text": "【　　　】は私のせんぱいです。\n\n①彼\n②それ\n③だれ\n④私",
+          "stem": "【　　　】は私のせんぱいです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "長所",
+          "book_id": 1580592,
+          "edge_id": 18678268,
+          "explanation": "",
+          "id": 25003581,
+          "index": 7,
+          "options": [
+            "0分の【　　　】だ。",
+            "性格",
+            "長所",
+            "距離",
+            "連絡"
+          ],
+          "question_node_id": 21304772,
+          "question_text": "会社まで車で\n②0分の【　　　】だ。\n\n①性格\n②長所\n③距離\n④連絡",
+          "stem": "会社まで車で"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "持ち上げる",
+          "book_id": 1580592,
+          "edge_id": 18678267,
+          "explanation": "",
+          "id": 25003582,
+          "index": 8,
+          "options": [
+            "持ち上げる",
+            "持ち上がる",
+            "数える",
+            "重ねる"
+          ],
+          "question_node_id": 21304771,
+          "question_text": "この箱、重すぎて【　　　　】ことができない。\n\n①持ち上げる\n②持ち上がる\n③数える\n④重ねる",
+          "stem": "この箱、重すぎて【　　　　】ことができない。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "事情",
+          "book_id": 1580592,
+          "edge_id": 18678269,
+          "explanation": "",
+          "id": 25003583,
+          "index": 9,
+          "options": [
+            "事情",
+            "事実",
+            "活躍",
+            "一部"
+          ],
+          "question_node_id": 21304769,
+          "question_text": "ちょっと【　　　】があって、来月国へ帰ることになりました。\n\n①事情\n②事実\n③活躍\n④一部",
+          "stem": "ちょっと【　　　】があって、来月国へ帰ることになりました。"
+        }
+      ],
+      "task_id": 112456951,
+      "task_order": 23
+    },
+    {
+      "book_id": 1580594,
+      "book_name": "JLPT N3_24語彙",
+      "level": "N3_MEANING",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "世話",
+          "book_id": 1580594,
+          "edge_id": 18678284,
+          "explanation": "",
+          "id": 25003594,
+          "index": 0,
+          "options": [
+            "活躍",
+            "完成",
+            "世話",
+            "お願い"
+          ],
+          "question_node_id": 21304799,
+          "question_text": "動物の【　　　】をする。\n\n①活躍\n②完成\n③世話\n④お願い",
+          "stem": "動物の【　　　】をする。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "文化祭",
+          "book_id": 1580594,
+          "edge_id": 18678293,
+          "explanation": "",
+          "id": 25003595,
+          "index": 1,
+          "options": [
+            "整理",
+            "文化祭",
+            "会場",
+            "学年"
+          ],
+          "question_node_id": 21304800,
+          "question_text": "明日は学校の【　　　】だ。\n\n①整理\n②文化祭\n③会場\n④学年",
+          "stem": "明日は学校の【　　　】だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "参加",
+          "book_id": 1580594,
+          "edge_id": 18678291,
+          "explanation": "",
+          "id": 25003596,
+          "index": 2,
+          "options": [
+            "参加",
+            "不安",
+            "航空便",
+            "教授"
+          ],
+          "question_node_id": 21304801,
+          "question_text": "【　　　】人数をチェックする。\n\n①参加\n②不安\n③航空便\n④教授",
+          "stem": "【　　　】人数をチェックする。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "都会",
+          "book_id": 1580594,
+          "edge_id": 18678292,
+          "explanation": "",
+          "id": 25003597,
+          "index": 3,
+          "options": [
+            "自由",
+            "都会",
+            "休暇",
+            "観光"
+          ],
+          "question_node_id": 21304795,
+          "question_text": "【　　　】の生活は便利だ。\n\n①自由\n②都会\n③休暇\n④観光",
+          "stem": "【　　　】の生活は便利だ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "無理",
+          "book_id": 1580594,
+          "edge_id": 18678287,
+          "explanation": "",
+          "id": 25003598,
+          "index": 4,
+          "options": [
+            "無理",
+            "当然",
+            "歓迎",
+            "冗談"
+          ],
+          "question_node_id": 21304798,
+          "question_text": "この仕事は私一人では【　　　】だろう。\n\n①無理\n②当然\n③歓迎\n④冗談",
+          "stem": "この仕事は私一人では【　　　】だろう。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "笑う",
+          "book_id": 1580594,
+          "edge_id": 18678286,
+          "explanation": "",
+          "id": 25003599,
+          "index": 5,
+          "options": [
+            "似る",
+            "飽きる",
+            "笑う",
+            "休憩する"
+          ],
+          "question_node_id": 21304797,
+          "question_text": "大きい声で【　　　】。\n\n①似る\n②飽きる\n③笑う\n④休憩する",
+          "stem": "大きい声で【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "面倒",
+          "book_id": 1580594,
+          "edge_id": 18678285,
+          "explanation": "",
+          "id": 25003600,
+          "index": 6,
+          "options": [
+            "寝坊",
+            "名物",
+            "面倒",
+            "派手"
+          ],
+          "question_node_id": 21304796,
+          "question_text": "「この仕事、細かくて【　　　】だなあ。」\n\n①寝坊\n②名物\n③面倒\n④派手",
+          "stem": "「この仕事、細かくて【　　　】だなあ。」"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "大雨",
+          "book_id": 1580594,
+          "edge_id": 18678289,
+          "explanation": "",
+          "id": 25003601,
+          "index": 7,
+          "options": [
+            "爆発",
+            "大雨",
+            "地震",
+            "湿度"
+          ],
+          "question_node_id": 21304802,
+          "question_text": "天気予報によると、今日は【　　　】になるそうだ。\n\n①爆発\n②大雨\n③地震\n④湿度",
+          "stem": "天気予報によると、今日は【　　　】になるそうだ。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "勧めて",
+          "book_id": 1580594,
+          "edge_id": 18678290,
+          "explanation": "",
+          "id": 25003602,
+          "index": 8,
+          "options": [
+            "黙って",
+            "勧めて",
+            "飽きて",
+            "がまんして"
+          ],
+          "question_node_id": 21304804,
+          "question_text": "友だちに【　　　】もらったこのラーメン、本当においしい。\n\n①黙って\n②勧めて\n③飽きて\n④がまんして",
+          "stem": "友だちに【　　　】もらったこのラーメン、本当においしい。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "入社",
+          "book_id": 1580594,
+          "edge_id": 18678288,
+          "explanation": "",
+          "id": 25003603,
+          "index": 9,
+          "options": [
+            "通勤",
+            "経営",
+            "入社",
+            "出社"
+          ],
+          "question_node_id": 21304803,
+          "question_text": "【　　　】してから、初めてのボーナスが出た。\n\n①通勤\n②経営\n③入社\n④出社",
+          "stem": "【　　　】してから、初めてのボーナスが出た。"
+        }
+      ],
+      "task_id": 112456952,
+      "task_order": 24
+    }
+  ],
+  "class_id": 1073634,
+  "level": "N3_MEANING",
+  "question_count": 240
+}

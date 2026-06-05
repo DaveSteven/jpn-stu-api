@@ -1,0 +1,4808 @@
+{
+  "book_count": 24,
+  "books": [
+    {
+      "book_id": 1580390,
+      "book_name": "JLPT N4_03ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "聞こえる",
+          "book_id": 1580390,
+          "edge_id": 18161334,
+          "explanation": "",
+          "id": 25001427,
+          "index": 0,
+          "options": [
+            "聞きたい",
+            "聞こえる",
+            "聞いて",
+            "聞き"
+          ],
+          "question_node_id": 20654003,
+          "question_text": "よく【　　　】ように前の方に行きましょう。\n\n①聞きたい\n②聞こえる\n③聞いて\n④聞き",
+          "stem": "よく【　　　】ように前の方に行きましょう。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "心配しない",
+          "book_id": 1580390,
+          "edge_id": 18161333,
+          "explanation": "",
+          "id": 25001428,
+          "index": 1,
+          "options": [
+            "心配",
+            "心配で",
+            "心配しない",
+            "心配するな"
+          ],
+          "question_node_id": 20654001,
+          "question_text": "家族が【　　　】ように毎週連絡しています。\n\n①心配\n②心配で\n③心配しない\n④心配するな",
+          "stem": "家族が【　　　】ように毎週連絡しています。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "書ける",
+          "book_id": 1580390,
+          "edge_id": 18161335,
+          "explanation": "",
+          "id": 25001429,
+          "index": 2,
+          "options": [
+            "書ける",
+            "書き",
+            "書こう",
+            "書いて"
+          ],
+          "question_node_id": 20653997,
+          "question_text": "200ぐらい漢字が【　　　】ようになりました。\n\n①書ける\n②書き\n③書こう\n④書いて",
+          "stem": "200ぐらい漢字が【　　　】ようになりました。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "読まれて",
+          "book_id": 1580390,
+          "edge_id": 18161340,
+          "explanation": "",
+          "id": 25001430,
+          "index": 3,
+          "options": [
+            "読めて",
+            "読まれて",
+            "読もう",
+            "読まない"
+          ],
+          "question_node_id": 20654000,
+          "question_text": "この本は世界中で【　　　】います。\n\n①読めて\n②読まれて\n③読もう\n④読まない",
+          "stem": "この本は世界中で【　　　】います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "持っていかれ",
+          "book_id": 1580390,
+          "edge_id": 18161332,
+          "explanation": "",
+          "id": 25001431,
+          "index": 4,
+          "options": [
+            "持っていかれ",
+            "持っていく",
+            "持ち",
+            "持っていってくれ"
+          ],
+          "question_node_id": 20653999,
+          "question_text": "誰かにかばんを【　　　】ました。\n\n①持っていかれ\n②持っていく\n③持ち\n④持っていってくれ",
+          "stem": "誰かにかばんを【　　　】ました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "から",
+          "book_id": 1580390,
+          "edge_id": 18161336,
+          "explanation": "",
+          "id": 25001432,
+          "index": 5,
+          "options": [
+            "から",
+            "に",
+            "を",
+            "は"
+          ],
+          "question_node_id": 20653998,
+          "question_text": "このお酒は麦【　　】作られます。\n\n①から\n②に\n③を\n④は",
+          "stem": "このお酒は麦【　　】作られます。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "で",
+          "book_id": 1580390,
+          "edge_id": 18161337,
+          "explanation": "",
+          "id": 25001433,
+          "index": 6,
+          "options": [
+            "に",
+            "を",
+            "で",
+            "の"
+          ],
+          "question_node_id": 20654004,
+          "question_text": "この服は紙【　　　】作られています。\n\n①に\n②を\n③で\n④の",
+          "stem": "この服は紙【　　　】作られています。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "へ",
+          "book_id": 1580390,
+          "edge_id": 18161339,
+          "explanation": "",
+          "id": 25001434,
+          "index": 7,
+          "options": [
+            "と",
+            "が",
+            "の",
+            "へ"
+          ],
+          "question_node_id": 20654006,
+          "question_text": "日本の車はいろいろな国【　　　】輸出されています。\n\n①と\n②が\n③の\n④へ",
+          "stem": "日本の車はいろいろな国【　　　】輸出されています。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "で",
+          "book_id": 1580390,
+          "edge_id": 18161338,
+          "explanation": "",
+          "id": 25001435,
+          "index": 8,
+          "options": [
+            "に",
+            "で",
+            "を",
+            "へ"
+          ],
+          "question_node_id": 20654002,
+          "question_text": "京都【　　　】国際会議が開かれます。\n\n①に\n②で\n③を\n④へ",
+          "stem": "京都【　　　】国際会議が開かれます。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580390,
+          "edge_id": 18161341,
+          "explanation": "",
+          "id": 25001436,
+          "index": 9,
+          "options": [
+            "が",
+            "の",
+            "と",
+            "に"
+          ],
+          "question_node_id": 20654005,
+          "question_text": "田中さんに食事【　　　】誘われました。\n\n①が\n②の\n③と\n④に",
+          "stem": "田中さんに食事【　　　】誘われました。"
+        }
+      ],
+      "task_id": 112455815,
+      "task_order": 1
+    },
+    {
+      "book_id": 1580391,
+      "book_name": "JLPT N4_04ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580391,
+          "edge_id": 18161342,
+          "explanation": "",
+          "id": 25001437,
+          "index": 0,
+          "options": [
+            "が",
+            "へ",
+            "に",
+            "で"
+          ],
+          "question_node_id": 20654009,
+          "question_text": "私は母【　　　】雑誌を捨てられました。\n\n①が\n②へ\n③に\n④で",
+          "stem": "私は母【　　　】雑誌を捨てられました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580391,
+          "edge_id": 18161344,
+          "explanation": "",
+          "id": 25001438,
+          "index": 1,
+          "options": [
+            "が",
+            "を",
+            "の",
+            "と"
+          ],
+          "question_node_id": 20654011,
+          "question_text": "山田さんはピアノを弾くの【　　　】上手です。\n\n①が\n②を\n③の\n④と",
+          "stem": "山田さんはピアノを弾くの【　　　】上手です。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "は",
+          "book_id": 1580391,
+          "edge_id": 18161347,
+          "explanation": "",
+          "id": 25001439,
+          "index": 2,
+          "options": [
+            "を",
+            "へ",
+            "は",
+            "と"
+          ],
+          "question_node_id": 20654014,
+          "question_text": "いろいろな国の文化を知るの【　　　】おもしろいです。\n\n①を\n②へ\n③は\n④と",
+          "stem": "いろいろな国の文化を知るの【　　　】おもしろいです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580391,
+          "edge_id": 18161343,
+          "explanation": "",
+          "id": 25001440,
+          "index": 3,
+          "options": [
+            "を",
+            "こと",
+            "と",
+            "が"
+          ],
+          "question_node_id": 20654012,
+          "question_text": "日本のドラマを見るの【　　　】好きです。\n\n①を\n②こと\n③と\n④が",
+          "stem": "日本のドラマを見るの【　　　】好きです。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "こと",
+          "book_id": 1580391,
+          "edge_id": 18161346,
+          "explanation": "",
+          "id": 25001441,
+          "index": 4,
+          "options": [
+            "の",
+            "こと",
+            "もの",
+            "とき"
+          ],
+          "question_node_id": 20654007,
+          "question_text": "私の趣味は絵をかく【　　　】です。\n\n①の\n②こと\n③もの\n④とき",
+          "stem": "私の趣味は絵をかく【　　　】です。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "くる",
+          "book_id": 1580391,
+          "edge_id": 18161345,
+          "explanation": "",
+          "id": 25001442,
+          "index": 5,
+          "options": [
+            "くる",
+            "きた",
+            "こない",
+            "こなかった"
+          ],
+          "question_node_id": 20654010,
+          "question_text": "Bさん、宿題は？・・・すみません。もって【　　　】のを忘れました。\n\n①くる\n②きた\n③こない\n④こなかった",
+          "stem": "Bさん、宿題は？・・・すみません。もって【　　　】のを忘れました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "結婚した",
+          "book_id": 1580391,
+          "edge_id": 18161349,
+          "explanation": "",
+          "id": 25001443,
+          "index": 6,
+          "options": [
+            "結婚",
+            "結婚する",
+            "結婚した",
+            "結婚しそう"
+          ],
+          "question_node_id": 20654008,
+          "question_text": "先月鈴木さんが【　　　】のを知っていますか。\n\n①結婚\n②結婚する\n③結婚した\n④結婚しそう",
+          "stem": "先月鈴木さんが【　　　】のを知っていますか。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "いつ",
+          "book_id": 1580391,
+          "edge_id": 18161348,
+          "explanation": "",
+          "id": 25001444,
+          "index": 7,
+          "options": [
+            "どのぐらい",
+            "どこ",
+            "どうやって",
+            "いつ"
+          ],
+          "question_node_id": 20654013,
+          "question_text": "A：彼に初めて会ったのは【　　　】ですか。・・・B：去年の夏です。\n\n①どのぐらい\n②どこ\n③どうやって\n④いつ",
+          "stem": "A：彼に初めて会ったのは【　　　】ですか。・・・B：去年の夏です。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580391,
+          "edge_id": 18161350,
+          "explanation": "",
+          "id": 25001445,
+          "index": 8,
+          "options": [
+            "で",
+            "に",
+            "を",
+            "が"
+          ],
+          "question_node_id": 20654015,
+          "question_text": "パーティ【　　　】参加するのは学生です。\n\n①で\n②に\n③を\n④が",
+          "stem": "パーティ【　　　】参加するのは学生です。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "は",
+          "book_id": 1580391,
+          "edge_id": 18161351,
+          "explanation": "",
+          "id": 25001446,
+          "index": 9,
+          "options": [
+            "を",
+            "に",
+            "こと",
+            "は"
+          ],
+          "question_node_id": 20654016,
+          "question_text": "日本で生活するの【　　　】大変ですか。B：はい、少し大変です。\n\n①を\n②に\n③こと\n④は",
+          "stem": "日本で生活するの【　　　】大変ですか。B：はい、少し大変です。"
+        }
+      ],
+      "task_id": 112455816,
+      "task_order": 2
+    },
+    {
+      "book_id": 1580392,
+      "book_name": "JLPT N4_05ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "大変な",
+          "book_id": 1580392,
+          "edge_id": 18189334,
+          "explanation": "",
+          "id": 25001447,
+          "index": 0,
+          "options": [
+            "大変で",
+            "大変に",
+            "大変な",
+            "大変だ"
+          ],
+          "question_node_id": 20689172,
+          "question_text": "いちばん【　　　　】のは、ごみの捨て方です。\n\n①大変で\n②大変に\n③大変な\n④大変だ",
+          "stem": "いちばん【　　　　】のは、ごみの捨て方です。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "痛い",
+          "book_id": 1580392,
+          "edge_id": 18161352,
+          "explanation": "",
+          "id": 25001448,
+          "index": 1,
+          "options": [
+            "痛く",
+            "痛いだ",
+            "痛いな",
+            "痛い"
+          ],
+          "question_node_id": 20654020,
+          "question_text": "すみません、帰ってもいいですか。頭が【　　　 】んです。\n\n①痛く\n②痛いだ\n③痛いな\n④痛い",
+          "stem": "すみません、帰ってもいいですか。頭が【　　　 】んです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "しか",
+          "book_id": 1580392,
+          "edge_id": 18161354,
+          "explanation": "",
+          "id": 25001449,
+          "index": 2,
+          "options": [
+            "へ",
+            "までに",
+            "と",
+            "しか"
+          ],
+          "question_node_id": 20654017,
+          "question_text": "わたしは ひらがな【 　　　】書けません。\n\n①へ\n②までに\n③と\n④しか",
+          "stem": "わたしは ひらがな【 　　　】書けません。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "見せ",
+          "book_id": 1580392,
+          "edge_id": 18161357,
+          "explanation": "",
+          "id": 25001450,
+          "index": 3,
+          "options": [
+            "見せます",
+            "見せる",
+            "見せ",
+            "見せて"
+          ],
+          "question_node_id": 20654026,
+          "question_text": "写真を【 　　　】ながら説明します。\n\n①見せます\n②見せる\n③見せ\n④見せて",
+          "stem": "写真を【 　　　】ながら説明します。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "まちがえてしまった",
+          "book_id": 1580392,
+          "edge_id": 18161353,
+          "explanation": "",
+          "id": 25001451,
+          "index": 4,
+          "options": [
+            "まちがえてもいい",
+            "まちがえてしまった",
+            "まちがえてはいけない",
+            "まちがえにきた"
+          ],
+          "question_node_id": 20654021,
+          "question_text": "どうして遅れたんですか。・・・すみません。乗る電車を【　　 】んです。\n\n①まちがえてもいい\n②まちがえてしまった\n③まちがえてはいけない\n④まちがえにきた",
+          "stem": "どうして遅れたんですか。・・・すみません。乗る電車を【　　 】んです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580392,
+          "edge_id": 18161361,
+          "explanation": "",
+          "id": 25001452,
+          "index": 5,
+          "options": [
+            "は",
+            "で",
+            "が",
+            "と"
+          ],
+          "question_node_id": 20654023,
+          "question_text": "教室にポスター【 　　　】はってあります。\n\n①は\n②で\n③が\n④と",
+          "stem": "教室にポスター【 　　　】はってあります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "まえに",
+          "book_id": 1580392,
+          "edge_id": 18161356,
+          "explanation": "",
+          "id": 25001453,
+          "index": 6,
+          "options": [
+            "まえに",
+            "と",
+            "たら",
+            "まで"
+          ],
+          "question_node_id": 20654019,
+          "question_text": "大雨が降る【 　　　】、食べ物を買っておきます。\n\n①まえに\n②と\n③たら\n④まで",
+          "stem": "大雨が降る【 　　　】、食べ物を買っておきます。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "したら",
+          "book_id": 1580392,
+          "edge_id": 18161359,
+          "explanation": "",
+          "id": 25001454,
+          "index": 7,
+          "options": [
+            "捨てたいんですが",
+            "どう",
+            "いいです",
+            "したら"
+          ],
+          "question_node_id": 20654025,
+          "question_text": "ベッドを【　　　】、【　　　】【　★　】【　　　】か。\n\n①捨てたいんですが\n②どう\n③いいです\n④したら",
+          "stem": "ベッドを【　　　】、【　　　】【　★　】【　　　】か。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "声が",
+          "book_id": 1580392,
+          "edge_id": 18161358,
+          "explanation": "",
+          "id": 25001455,
+          "index": 8,
+          "options": [
+            "から",
+            "聞こえます",
+            "部屋",
+            "声が"
+          ],
+          "question_node_id": 20654022,
+          "question_text": "となりの【　　　】【　　　】【　★　】【　　　】。\n\n①から\n②聞こえます\n③部屋\n④声が",
+          "stem": "となりの【　　　】【　　　】【　★　】【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "ついています",
+          "book_id": 1580392,
+          "edge_id": 18189335,
+          "explanation": "",
+          "id": 25001456,
+          "index": 9,
+          "options": [
+            "から",
+            "エアコン",
+            "ついています",
+            "が"
+          ],
+          "question_node_id": 20689173,
+          "question_text": "【　　　】【　　　】【　★　】【　　　】、消してください。\n\n①から\n②エアコン\n③ついています\n④が",
+          "stem": "【　　　】【　　　】【　★　】【　　　】、消してください。"
+        }
+      ],
+      "task_id": 112455817,
+      "task_order": 3
+    },
+    {
+      "book_id": 1580393,
+      "book_name": "JLPT N4_06ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "日本のことも",
+          "book_id": 1580393,
+          "edge_id": 18161362,
+          "explanation": "",
+          "id": 25001457,
+          "index": 0,
+          "options": [
+            "あるし",
+            "人気も",
+            "日本のことも",
+            "わかります"
+          ],
+          "question_node_id": 20654032,
+          "question_text": "このドラマは【　　　】【　　　】、【　★　】【　　　】。\n\n①あるし\n②人気も\n③日本のことも\n④わかります",
+          "stem": "このドラマは【　　　】【　　　】、【　★　】【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "勉強する",
+          "book_id": 1580393,
+          "edge_id": 18161369,
+          "explanation": "",
+          "id": 25001458,
+          "index": 1,
+          "options": [
+            "勉強する",
+            "勉強した",
+            "勉強して",
+            "勉強しよう"
+          ],
+          "question_node_id": 20654029,
+          "question_text": "今月はテストがありますから、土曜日友達と【　　　】つもりです。\n\n①勉強する\n②勉強した\n③勉強して\n④勉強しよう",
+          "stem": "今月はテストがありますから、土曜日友達と【　　　】つもりです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580393,
+          "edge_id": 18161371,
+          "explanation": "",
+          "id": 25001459,
+          "index": 2,
+          "options": [
+            "に",
+            "を",
+            "と",
+            "が"
+          ],
+          "question_node_id": 20654033,
+          "question_text": "道【　　　】込んでいて、バスが遅れました。\n\n①に\n②を\n③と\n④が",
+          "stem": "道【　　　】込んでいて、バスが遅れました。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "か",
+          "book_id": 1580393,
+          "edge_id": 18161366,
+          "explanation": "",
+          "id": 25001460,
+          "index": 3,
+          "options": [
+            "で",
+            "か",
+            "が",
+            "に"
+          ],
+          "question_node_id": 20654030,
+          "question_text": "山田さんは何【　　　】言っていましたか・・・いいえ、なにも。\n\n①で\n②か\n③が\n④に",
+          "stem": "山田さんは何【　　　】言っていましたか・・・いいえ、なにも。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "書いた",
+          "book_id": 1580393,
+          "edge_id": 18161363,
+          "explanation": "",
+          "id": 25001461,
+          "index": 4,
+          "options": [
+            "書いた",
+            "書きます",
+            "書いて",
+            "書こう"
+          ],
+          "question_node_id": 20654028,
+          "question_text": "先生が【　　　】とおりに、漢字を書いてください。\n\n①書いた\n②書きます\n③書いて\n④書こう",
+          "stem": "先生が【　　　】とおりに、漢字を書いてください。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "入れないで",
+          "book_id": 1580393,
+          "edge_id": 18161370,
+          "explanation": "",
+          "id": 25001462,
+          "index": 5,
+          "options": [
+            "入れます",
+            "入れても",
+            "入れたほうが",
+            "入れないで"
+          ],
+          "question_node_id": 20654027,
+          "question_text": "私は砂糖を【　　　】コーヒーを飲みます。\n\n①入れます\n②入れても\n③入れたほうが\n④入れないで",
+          "stem": "私は砂糖を【　　　】コーヒーを飲みます。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "シャワーを",
+          "book_id": 1580393,
+          "edge_id": 18161364,
+          "explanation": "",
+          "id": 25001463,
+          "index": 6,
+          "options": [
+            "ときは",
+            "浴びない",
+            "シャワーを",
+            "ある"
+          ],
+          "question_node_id": 20654031,
+          "question_text": "熱が【　　　】【　　　】【　★　】【　　　】ほうがいいですよ。\n\n①ときは\n②浴びない\n③シャワーを\n④ある",
+          "stem": "熱が【　　　】【　　　】【　★　】【　　　】ほうがいいですよ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "書いて",
+          "book_id": 1580393,
+          "edge_id": 18161368,
+          "explanation": "",
+          "id": 25001464,
+          "index": 7,
+          "options": [
+            "書いて",
+            "あります",
+            "「入るな」",
+            "と"
+          ],
+          "question_node_id": 20654035,
+          "question_text": "ここで遊んではいけません。あそこに【　　　】【　　　】【　★　】【　　　】。\n\n①書いて\n②あります\n③「入るな」\n④と",
+          "stem": "ここで遊んではいけません。あそこに【　　　】【　　　】【　★　】【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "つけないで",
+          "book_id": 1580393,
+          "edge_id": 18161367,
+          "explanation": "",
+          "id": 25001465,
+          "index": 8,
+          "options": [
+            "つけないで",
+            "何",
+            "も",
+            "食べて"
+          ],
+          "question_node_id": 20654036,
+          "question_text": "この料理は【　　　】【　　　】【　★　】【　　　】ください。\n\n①つけないで\n②何\n③も\n④食べて",
+          "stem": "この料理は【　　　】【　　　】【　★　】【　　　】ください。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "は",
+          "book_id": 1580393,
+          "edge_id": 18161365,
+          "explanation": "",
+          "id": 25001466,
+          "index": 9,
+          "options": [
+            "所",
+            "いい",
+            "ありませんか",
+            "は"
+          ],
+          "question_node_id": 20654034,
+          "question_text": "歯医者を探しているんですが、どこか【　　　】【　　　】【　★　】【　　　】。\n\n①所\n②いい\n③ありませんか\n④は",
+          "stem": "歯医者を探しているんですが、どこか【　　　】【　　　】【　★　】【　　　】。"
+        }
+      ],
+      "task_id": 112455818,
+      "task_order": 4
+    },
+    {
+      "book_id": 1580394,
+      "book_name": "JLPT N4_07ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "みえません",
+          "book_id": 1580394,
+          "edge_id": 18161373,
+          "explanation": "",
+          "id": 25001467,
+          "index": 0,
+          "options": [
+            "みせません",
+            "みません",
+            "みえません",
+            "あいません"
+          ],
+          "question_node_id": 20654037,
+          "question_text": "きょうは曇っていて、富士山が【　　　】。\n\n①みせません\n②みません\n③みえません\n④あいません",
+          "stem": "きょうは曇っていて、富士山が【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "なくて",
+          "book_id": 1580394,
+          "edge_id": 18161374,
+          "explanation": "",
+          "id": 25001468,
+          "index": 1,
+          "options": [
+            "ないで",
+            "なくて",
+            "ないて",
+            "なんで"
+          ],
+          "question_node_id": 20654042,
+          "question_text": "時間が【　　　】なかなか友達に会えません。\n\n①ないで\n②なくて\n③ないて\n④なんで",
+          "stem": "時間が【　　　】なかなか友達に会えません。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "たべていない",
+          "book_id": 1580394,
+          "edge_id": 18161381,
+          "explanation": "",
+          "id": 25001469,
+          "index": 2,
+          "options": [
+            "たべる",
+            "たべられる",
+            "たべていない",
+            "たべるな"
+          ],
+          "question_node_id": 20654038,
+          "question_text": "昼ごはんを【　　　】ので、おなかがすきました。\n\n①たべる\n②たべられる\n③たべていない\n④たべるな",
+          "stem": "昼ごはんを【　　　】ので、おなかがすきました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "痛いんですが",
+          "book_id": 1580394,
+          "edge_id": 18950961,
+          "explanation": "",
+          "id": 25001470,
+          "index": 3,
+          "options": [
+            "痛いのが",
+            "痛いほうが",
+            "痛いんですが",
+            "痛いのを"
+          ],
+          "question_node_id": 20689174,
+          "question_text": "頭が【　　　】、帰ってもいいですか。\n\n①痛いのが\n②痛いほうが\n③痛いんですが\n③痛いのを",
+          "stem": "頭が【　　　】、帰ってもいいですか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "簡単な",
+          "book_id": 1580394,
+          "edge_id": 18161377,
+          "explanation": "",
+          "id": 25001471,
+          "index": 4,
+          "options": [
+            "簡単な",
+            "簡単で",
+            "簡単の",
+            "簡単に"
+          ],
+          "question_node_id": 20654045,
+          "question_text": "この電子辞書は操作が簡単【　　　】ので、人気が あります。\n\n①簡単な\n②簡単で\n③簡単の\n④簡単に",
+          "stem": "この電子辞書は操作が簡単【　　　】ので、人気が あります。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "で",
+          "book_id": 1580394,
+          "edge_id": 18161375,
+          "explanation": "",
+          "id": 25001472,
+          "index": 5,
+          "options": [
+            "が",
+            "に",
+            "で",
+            "を"
+          ],
+          "question_node_id": 20654039,
+          "question_text": "事故【　　　】電車が遅れました。\n\n①が\n②に\n③で\n④を",
+          "stem": "事故【　　　】電車が遅れました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "間に合わないので",
+          "book_id": 1580394,
+          "edge_id": 18161378,
+          "explanation": "",
+          "id": 25001473,
+          "index": 6,
+          "options": [
+            "間に合わなくて",
+            "間に合わないで",
+            "間に合わないほうが",
+            "間に合わないので"
+          ],
+          "question_node_id": 20654043,
+          "question_text": "【　　　】タクシーに乗りませんか。\n\n①間に合わなくて\n②間に合わないで\n③間に合わないほうが\n④間に合わないので",
+          "stem": "【　　　】タクシーに乗りませんか。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "高さ",
+          "book_id": 1580394,
+          "edge_id": 18161376,
+          "explanation": "",
+          "id": 25001474,
+          "index": 7,
+          "options": [
+            "高い",
+            "高いし",
+            "高く",
+            "高さ"
+          ],
+          "question_node_id": 20654040,
+          "question_text": "あの山の【　　　】は2,500メートルです。\n\n①高い\n②高いし\n③高く\n④高さ",
+          "stem": "あの山の【　　　】は2,500メートルです。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "あるか",
+          "book_id": 1580394,
+          "edge_id": 18161379,
+          "explanation": "",
+          "id": 25001475,
+          "index": 8,
+          "options": [
+            "あったら",
+            "あるか",
+            "あれば",
+            "あるの"
+          ],
+          "question_node_id": 20654046,
+          "question_text": "発表会が何時に【　　　】教えてください。\n\n①あったら\n②あるか\n③あれば\n④あるの",
+          "stem": "発表会が何時に【　　　】教えてください。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "ないかどうか",
+          "book_id": 1580394,
+          "edge_id": 18161380,
+          "explanation": "",
+          "id": 25001476,
+          "index": 9,
+          "options": [
+            "するかどうか",
+            "したかどうか",
+            "ないかどうか",
+            "どうか"
+          ],
+          "question_node_id": 20654041,
+          "question_text": "忘れ物が【　　　】確かめてください。\n\n①するかどうか\n②したかどうか\n③ないかどうか\n④どうか",
+          "stem": "忘れ物が【　　　】確かめてください。"
+        }
+      ],
+      "task_id": 112455819,
+      "task_order": 5
+    },
+    {
+      "book_id": 1580395,
+      "book_name": "JLPT N4_08ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "本当か",
+          "book_id": 1580395,
+          "edge_id": 18161382,
+          "explanation": "",
+          "id": 25001477,
+          "index": 0,
+          "options": [
+            "本当の",
+            "本当か",
+            "本当",
+            "本当も"
+          ],
+          "question_node_id": 20654047,
+          "question_text": "山田さんの話は【　　　】どうかわかりません。\n\n①本当の\n②本当か\n③本当\n④本当も",
+          "stem": "山田さんの話は【　　　】どうかわかりません。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "おとしたか",
+          "book_id": 1580395,
+          "edge_id": 18161390,
+          "explanation": "",
+          "id": 25001478,
+          "index": 1,
+          "options": [
+            "おとす",
+            "おとしに",
+            "おとしたのを",
+            "おとしたか"
+          ],
+          "question_node_id": 20654049,
+          "question_text": "どこで財布を【　　　】覚えていません。\n\n①おとす\n②おとしに\n③おとしたのを\n④おとしたか",
+          "stem": "どこで財布を【　　　】覚えていません。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "きて",
+          "book_id": 1580395,
+          "edge_id": 18161383,
+          "explanation": "",
+          "id": 25001479,
+          "index": 2,
+          "options": [
+            "きて",
+            "きる",
+            "きること",
+            "きた"
+          ],
+          "question_node_id": 20654048,
+          "question_text": "すみません。このコートを【　　　】みてもいいですか。\n\n①きて\n②きる\n③きること\n④きた",
+          "stem": "すみません。このコートを【　　　】みてもいいですか。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "かぞえて",
+          "book_id": 1580395,
+          "edge_id": 18161391,
+          "explanation": "",
+          "id": 25001480,
+          "index": 3,
+          "options": [
+            "はかって",
+            "かぞえて",
+            "さわって",
+            "よんで"
+          ],
+          "question_node_id": 20654051,
+          "question_text": "教室にパソコンが何台あるか【　　　】ください。\n\n①はかって\n②かぞえて\n③さわって\n④よんで",
+          "stem": "教室にパソコンが何台あるか【　　　】ください。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "いか",
+          "book_id": 1580395,
+          "edge_id": 18161389,
+          "explanation": "",
+          "id": 25001481,
+          "index": 4,
+          "options": [
+            "しか",
+            "いか",
+            "いない",
+            "いる"
+          ],
+          "question_node_id": 20654052,
+          "question_text": "このバスは小学生【　　　】のこどもは無料です。\n\n①しか\n②いか\n③いない\n④いる",
+          "stem": "このバスは小学生【　　　】のこどもは無料です。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580395,
+          "edge_id": 18161388,
+          "explanation": "",
+          "id": 25001482,
+          "index": 5,
+          "options": [
+            "で",
+            "を",
+            "が",
+            "に"
+          ],
+          "question_node_id": 20654053,
+          "question_text": "駅で困っていたとき、知らない人が親切【　　　】してくれました。\n\n①で\n②を\n③が\n④に",
+          "stem": "駅で困っていたとき、知らない人が親切【　　　】してくれました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1580395,
+          "edge_id": 18161384,
+          "explanation": "",
+          "id": 25001483,
+          "index": 6,
+          "options": [
+            "で",
+            "が",
+            "を",
+            "に"
+          ],
+          "question_node_id": 20654050,
+          "question_text": "寒いので、暖房の温度【　　　】上げてもいいですか。\n\n①で\n②が\n③を\n④に",
+          "stem": "寒いので、暖房の温度【　　　】上げてもいいですか。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580395,
+          "edge_id": 18161387,
+          "explanation": "",
+          "id": 25001484,
+          "index": 7,
+          "options": [
+            "が",
+            "を",
+            "に",
+            "など"
+          ],
+          "question_node_id": 20654055,
+          "question_text": "友達のお見舞い【　　　】くだものを持って行きました。\n\n①が\n②を\n③に\n④など",
+          "stem": "友達のお見舞い【　　　】くだものを持って行きました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580395,
+          "edge_id": 18161385,
+          "explanation": "",
+          "id": 25001485,
+          "index": 8,
+          "options": [
+            "が",
+            "に",
+            "を",
+            "で"
+          ],
+          "question_node_id": 20654054,
+          "question_text": "ボランティアの方【　　　】料理の作り方を教えてくださいました。\n\n①が\n②に\n③を\n④で",
+          "stem": "ボランティアの方【　　　】料理の作り方を教えてくださいました。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580395,
+          "edge_id": 18161386,
+          "explanation": "",
+          "id": 25001486,
+          "index": 9,
+          "options": [
+            "で",
+            "に",
+            "を",
+            "しか"
+          ],
+          "question_node_id": 20654056,
+          "question_text": "先生【　　　】作文を直していただきました。\n\n①で\n②に\n③を\n④しか",
+          "stem": "先生【　　　】作文を直していただきました。"
+        }
+      ],
+      "task_id": 112455820,
+      "task_order": 6
+    },
+    {
+      "book_id": 1580396,
+      "book_name": "JLPT N4_09ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1580396,
+          "edge_id": 18161394,
+          "explanation": "",
+          "id": 25001487,
+          "index": 0,
+          "options": [
+            "に",
+            "が",
+            "と",
+            "を"
+          ],
+          "question_node_id": 20654062,
+          "question_text": "休みの日に、子ども【　　　】コンサートへ連れて行ってやりました。\n\n①に\n②が\n③と\n④を",
+          "stem": "休みの日に、子ども【　　　】コンサートへ連れて行ってやりました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "の",
+          "book_id": 1580396,
+          "edge_id": 18161400,
+          "explanation": "",
+          "id": 25001488,
+          "index": 1,
+          "options": [
+            "に",
+            "を",
+            "の",
+            "が"
+          ],
+          "question_node_id": 20654058,
+          "question_text": "わたしは妹【　　　】かばんを持ってやりました。\n\n①に\n②を\n③の\n④が",
+          "stem": "わたしは妹【　　　】かばんを持ってやりました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "もらいました",
+          "book_id": 1580396,
+          "edge_id": 18161393,
+          "explanation": "",
+          "id": 25001489,
+          "index": 2,
+          "options": [
+            "いただきました",
+            "くれました",
+            "もらいました",
+            "さしあげました"
+          ],
+          "question_node_id": 20654057,
+          "question_text": "父にスーツを買って【　　　】。\n\n①いただきました\n②くれました\n③もらいました\n④さしあげました",
+          "stem": "父にスーツを買って【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "くれ",
+          "book_id": 1580396,
+          "edge_id": 18161395,
+          "explanation": "",
+          "id": 25001490,
+          "index": 3,
+          "options": [
+            "あげ",
+            "くれ",
+            "もらい",
+            "やり"
+          ],
+          "question_node_id": 20654060,
+          "question_text": "友達のお父さんが迎えに来て【　　　】ました。\n\n①あげ\n②くれ\n③もらい\n④やり",
+          "stem": "友達のお父さんが迎えに来て【　　　】ました。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "くださいませんか",
+          "book_id": 1580396,
+          "edge_id": 18189337,
+          "explanation": "",
+          "id": 25001491,
+          "index": 4,
+          "options": [
+            "いただきますか",
+            "くださいませんか",
+            "もらいますか",
+            "ほしいですか"
+          ],
+          "question_node_id": 20689175,
+          "question_text": "すみません。パソコンの調子が悪いんですが、ちょっと見て【　　　】。\n\n①いただきますか\n②くださいませんか\n③もらいますか\n③ほしいですか",
+          "stem": "すみません。パソコンの調子が悪いんですが、ちょっと見て【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "なる",
+          "book_id": 1580396,
+          "edge_id": 18161397,
+          "explanation": "",
+          "id": 25001492,
+          "index": 5,
+          "options": [
+            "なる",
+            "いる",
+            "なれる",
+            "なりに"
+          ],
+          "question_node_id": 20654065,
+          "question_text": "弁護士に【　　　】ために、大学へ行きたいです。\n\n①なる\n②いる\n③なれる\n④なりに",
+          "stem": "弁護士に【　　　】ために、大学へ行きたいです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "将来の",
+          "book_id": 1580396,
+          "edge_id": 18161396,
+          "explanation": "",
+          "id": 25001493,
+          "index": 6,
+          "options": [
+            "将来",
+            "将来は",
+            "将来で",
+            "将来の"
+          ],
+          "question_node_id": 20654064,
+          "question_text": "【　　　】ために、貯金をしています。\n\n①将来\n②将来は\n③将来で\n④将来の",
+          "stem": "【　　　】ために、貯金をしています。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "まぜる",
+          "book_id": 1580396,
+          "edge_id": 18161401,
+          "explanation": "",
+          "id": 25001494,
+          "index": 7,
+          "options": [
+            "まぜに",
+            "まぜる",
+            "まぜて",
+            "まぜかた"
+          ],
+          "question_node_id": 20654061,
+          "question_text": "材料を【　　　】のにミキサーを使いました。\n\n①まぜに\n②まぜる\n③まぜて\n④まぜかた",
+          "stem": "材料を【　　　】のにミキサーを使いました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ために",
+          "book_id": 1580396,
+          "edge_id": 18161398,
+          "explanation": "",
+          "id": 25001495,
+          "index": 8,
+          "options": [
+            "ために",
+            "ことの",
+            "に",
+            "つもり"
+          ],
+          "question_node_id": 20654059,
+          "question_text": "論文を書く【　　　】資料を集めました。\n\n①ために\n②ことの\n③に\n④つもり",
+          "stem": "論文を書く【　　　】資料を集めました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "たのしみ",
+          "book_id": 1580396,
+          "edge_id": 18161399,
+          "explanation": "",
+          "id": 25001496,
+          "index": 9,
+          "options": [
+            "たのしい",
+            "たのしさ",
+            "たのしく",
+            "たのしみ"
+          ],
+          "question_node_id": 20654066,
+          "question_text": "来月国から友達が遊びに来るので【　　　】です。\n\n①たのしい\n②たのしさ\n③たのしく\n④たのしみ",
+          "stem": "来月国から友達が遊びに来るので【　　　】です。"
+        }
+      ],
+      "task_id": 112455821,
+      "task_order": 7
+    },
+    {
+      "book_id": 1580397,
+      "book_name": "JLPT N4_10ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "べんり",
+          "book_id": 1580397,
+          "edge_id": 18161402,
+          "explanation": "",
+          "id": 25001497,
+          "index": 0,
+          "options": [
+            "べんりで",
+            "べんり",
+            "べんりに",
+            "べんりでは"
+          ],
+          "question_node_id": 20654070,
+          "question_text": "田中さんの家は駅から近くて【　　　】そうです。\n\n①べんりで\n②べんり\n③べんりに\n④べんりでは",
+          "stem": "田中さんの家は駅から近くて【　　　】そうです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "よさ",
+          "book_id": 1580397,
+          "edge_id": 18161411,
+          "explanation": "",
+          "id": 25001498,
+          "index": 1,
+          "options": [
+            "よく",
+            "よくて",
+            "よさ",
+            "よか"
+          ],
+          "question_node_id": 20654071,
+          "question_text": "最近祖母は体の調子が【　　　】そうです。\n\n①よく\n②よくて\n③よさ\n④よか",
+          "stem": "最近祖母は体の調子が【　　　】そうです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "なくなり",
+          "book_id": 1580397,
+          "edge_id": 18161403,
+          "explanation": "",
+          "id": 25001499,
+          "index": 2,
+          "options": [
+            "なくなり",
+            "なき",
+            "なければ",
+            "なくて"
+          ],
+          "question_node_id": 20654067,
+          "question_text": "ガソリンが【　　　】そうですから、入れましょう。\n\n①なくなり\n②なき\n③なければ\n④なくて",
+          "stem": "ガソリンが【　　　】そうですから、入れましょう。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "雨が降り",
+          "book_id": 1580397,
+          "edge_id": 18161406,
+          "explanation": "",
+          "id": 25001500,
+          "index": 3,
+          "options": [
+            "雨",
+            "天気が悪い",
+            "雨が降り",
+            "寒く"
+          ],
+          "question_node_id": 20654074,
+          "question_text": "空が暗くなりましたね。・・・ええ。【　　　】そうですね。\n\n①雨\n②天気が悪い\n③雨が降り\n④寒く",
+          "stem": "空が暗くなりましたね。・・・ええ。【　　　】そうですね。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "きれ",
+          "book_id": 1580397,
+          "edge_id": 18161404,
+          "explanation": "",
+          "id": 25001501,
+          "index": 4,
+          "options": [
+            "き",
+            "きり",
+            "きれ",
+            "きる"
+          ],
+          "question_node_id": 20654075,
+          "question_text": "靴のひもが【　　　】そうです。\n\n①き\n②きり\n③きれ\n④きる",
+          "stem": "靴のひもが【　　　】そうです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いれ",
+          "book_id": 1580397,
+          "edge_id": 18161407,
+          "explanation": "",
+          "id": 25001502,
+          "index": 5,
+          "options": [
+            "いれ",
+            "いれた",
+            "いれて",
+            "いれるの"
+          ],
+          "question_node_id": 20654072,
+          "question_text": "料理に塩を【　　　】すぎました。\n\n①いれ\n②いれた\n③いれて\n④いれるの",
+          "stem": "料理に塩を【　　　】すぎました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "すぎて",
+          "book_id": 1580397,
+          "edge_id": 18161410,
+          "explanation": "",
+          "id": 25001503,
+          "index": 6,
+          "options": [
+            "すぎて",
+            "やすくて",
+            "にくくて",
+            "なくて"
+          ],
+          "question_node_id": 20654068,
+          "question_text": "きのうワインを飲み【　　　】、気持ちが悪いです。\n\n①すぎて\n②やすくて\n③にくくて\n④なくて",
+          "stem": "きのうワインを飲み【　　　】、気持ちが悪いです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "あつ",
+          "book_id": 1580397,
+          "edge_id": 18161405,
+          "explanation": "",
+          "id": 25001504,
+          "index": 7,
+          "options": [
+            "あつい",
+            "あつく",
+            "あつ",
+            "あつくて"
+          ],
+          "question_node_id": 20654073,
+          "question_text": "このコーヒーは【　　　】すぎて、飲めません。\n\n①あつい\n②あつく\n③あつ\n④あつくて",
+          "stem": "このコーヒーは【　　　】すぎて、飲めません。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "のみ",
+          "book_id": 1580397,
+          "edge_id": 18161409,
+          "explanation": "",
+          "id": 25001505,
+          "index": 8,
+          "options": [
+            "のむ",
+            "のみ",
+            "のめ",
+            "のも"
+          ],
+          "question_node_id": 20654076,
+          "question_text": "この薬は【　　　】にくいです。\n\n①のむ\n②のみ\n③のめ\n④のも",
+          "stem": "この薬は【　　　】にくいです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "にくい",
+          "book_id": 1580397,
+          "edge_id": 18161408,
+          "explanation": "",
+          "id": 25001506,
+          "index": 9,
+          "options": [
+            "たかい",
+            "やすい",
+            "にくい",
+            "すぎる"
+          ],
+          "question_node_id": 20654069,
+          "question_text": "ここは駅が遠くて住み【　　　】です。\n\n①たかい\n②やすい\n③にくい\n④すぎる",
+          "stem": "ここは駅が遠くて住み【　　　】です。"
+        }
+      ],
+      "task_id": 112455822,
+      "task_order": 8
+    },
+    {
+      "book_id": 1580398,
+      "book_name": "JLPT N4_11ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "あかるく",
+          "book_id": 1580398,
+          "edge_id": 18950963,
+          "explanation": "",
+          "id": 28459560,
+          "index": 0,
+          "options": [
+            "あかるい",
+            "あかるさ",
+            "あかるくて",
+            "あかるく"
+          ],
+          "question_node_id": 21642367,
+          "question_text": "部屋を【　　　】しましょう。\n\n①あかるい\n②あかるさ\n③あかるくて\n④あかるく",
+          "stem": "部屋を【　　　】しましょう。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "量",
+          "book_id": 1580398,
+          "edge_id": 18161415,
+          "explanation": "",
+          "id": 28459561,
+          "index": 1,
+          "options": [
+            "量",
+            "高さ",
+            "値段",
+            "長さ"
+          ],
+          "question_node_id": 20654081,
+          "question_text": "砂糖の【　　　】を間違えたので、このケーキはおいしくありません。\n\n①量\n②高さ\n③値段\n④長さ",
+          "stem": "砂糖の【　　　】を間違えたので、このケーキはおいしくありません。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "きれいに",
+          "book_id": 1580398,
+          "edge_id": 18161413,
+          "explanation": "",
+          "id": 28459562,
+          "index": 2,
+          "options": [
+            "きれい",
+            "きれいに",
+            "きれいな",
+            "きれいで"
+          ],
+          "question_node_id": 20654077,
+          "question_text": "グラスを【　　　】してください。\n\n①きれい\n②きれいに\n②きれいな\n④きれいで",
+          "stem": "グラスを【　　　】してください。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580398,
+          "edge_id": 18161412,
+          "explanation": "",
+          "id": 28459563,
+          "index": 3,
+          "options": [
+            "で",
+            "の",
+            "に",
+            "を"
+          ],
+          "question_node_id": 20654079,
+          "question_text": "パーティーは来月【　　　】しましょう。\n\n①で\n②の\n③に\n④を",
+          "stem": "パーティーは来月【　　　】しましょう。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "やすむ",
+          "book_id": 1580398,
+          "edge_id": 18161421,
+          "explanation": "",
+          "id": 28459564,
+          "index": 4,
+          "options": [
+            "やすみ",
+            "やすもう",
+            "やすむ",
+            "やすんで"
+          ],
+          "question_node_id": 20654082,
+          "question_text": "学校を【　　　】場合は必ず連絡します。\n\n①やすみ\n②やすもう\n③やすむ\n④やすんで",
+          "stem": "学校を【　　　】場合は必ず連絡します。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "どうしたら",
+          "book_id": 1580398,
+          "edge_id": 20981944,
+          "explanation": "",
+          "id": 28459565,
+          "index": 5,
+          "options": [
+            "どうしても",
+            "どうしたら",
+            "どうして",
+            "どうしよう"
+          ],
+          "question_node_id": 24404995,
+          "question_text": "会議に出られない場合は【　　　】いいですか。\n\n①どうしても\n②どうしたら\n③どうして\n④どうしよう",
+          "stem": "会議に出られない場合は【　　　】いいですか。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "あめの",
+          "book_id": 1580398,
+          "edge_id": 18161418,
+          "explanation": "",
+          "id": 28459566,
+          "index": 6,
+          "options": [
+            "あめ",
+            "あめで",
+            "あめに",
+            "あめの"
+          ],
+          "question_node_id": 20654086,
+          "question_text": "【　　　】場合は、イベントは中止します。\n\n①あめ\n②あめで\n③あめに\n④あめの",
+          "stem": "【　　　】場合は、イベントは中止します。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "な",
+          "book_id": 1580398,
+          "edge_id": 18161417,
+          "explanation": "",
+          "id": 28459567,
+          "index": 7,
+          "options": [
+            "で",
+            "だ",
+            "に",
+            "な"
+          ],
+          "question_node_id": 20654084,
+          "question_text": "春【　　　】のに、寒いです。\n\n①で\n②だ\n③に\n④な",
+          "stem": "春【　　　】のに、寒いです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "のに",
+          "book_id": 1580398,
+          "edge_id": 18161420,
+          "explanation": "",
+          "id": 28459568,
+          "index": 8,
+          "options": [
+            "ことの",
+            "ので",
+            "のに",
+            "のを"
+          ],
+          "question_node_id": 20654080,
+          "question_text": "このシャツは新しい【　　　】、もうボタンがとれました。\n\n①ことの\n②ので\n③のに\n④のを",
+          "stem": "このシャツは新しい【　　　】、もうボタンがとれました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "のに",
+          "book_id": 1580398,
+          "edge_id": 18161419,
+          "explanation": "",
+          "id": 28459569,
+          "index": 9,
+          "options": [
+            "ので",
+            "のを",
+            "のは",
+            "のに"
+          ],
+          "question_node_id": 20654085,
+          "question_text": "ゆうべは早く寝た【　　　】、朝、起きられませんでした。\n\n①ので\n②のを\n③のは\n④のに",
+          "stem": "ゆうべは早く寝た【　　　】、朝、起きられませんでした。"
+        }
+      ],
+      "task_id": 112455823,
+      "task_order": 9
+    },
+    {
+      "book_id": 1580399,
+      "book_name": "JLPT N4_12ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "いいえ",
+          "book_id": 1580399,
+          "edge_id": 18161428,
+          "explanation": "",
+          "id": 25001517,
+          "index": 0,
+          "options": [
+            "はい",
+            "いいえ",
+            "わかりません",
+            "もうしました"
+          ],
+          "question_node_id": 20654095,
+          "question_text": "ホテルはもう予約しましたか。・・・【　　　】、今からするところです。\n\n①はい\n②いいえ\n③わかりません\n④もうしました",
+          "stem": "ホテルはもう予約しましたか。・・・【　　　】、今からするところです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いま",
+          "book_id": 1580399,
+          "edge_id": 18189338,
+          "explanation": "",
+          "id": 25001518,
+          "index": 1,
+          "options": [
+            "いま",
+            "いまから",
+            "さっき",
+            "たいてい"
+          ],
+          "question_node_id": 20689176,
+          "question_text": "会議の準備はできましたか。・・・【　　　】準備しているところです。\n\n①いま\n②いまから\n③さっき\n④たいてい",
+          "stem": "会議の準備はできましたか。・・・【　　　】準備しているところです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "おわった",
+          "book_id": 1580399,
+          "edge_id": 18161429,
+          "explanation": "",
+          "id": 25001519,
+          "index": 2,
+          "options": [
+            "おわり",
+            "おわる",
+            "おわった",
+            "おわっている"
+          ],
+          "question_node_id": 20654088,
+          "question_text": "宿題は終わりましたか。・・・ええ、たった今【　　　】ところです。\n\n①おわり\n②おわる\n③おわった\n④おわっている",
+          "stem": "宿題は終わりましたか。・・・ええ、たった今【　　　】ところです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "調べている",
+          "book_id": 1580399,
+          "edge_id": 18161422,
+          "explanation": "",
+          "id": 25001520,
+          "index": 3,
+          "options": [
+            "調べた",
+            "調べていない",
+            "調べに",
+            "調べている"
+          ],
+          "question_node_id": 20654094,
+          "question_text": "故障の原因は何ですか。・・・まだわかりません。今【　　】ところです。\n\n①調べた\n②調べていない\n③調べに\n④調べている",
+          "stem": "故障の原因は何ですか。・・・まだわかりません。今【　　】ところです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "あまりわかりません",
+          "book_id": 1580399,
+          "edge_id": 18161424,
+          "explanation": "",
+          "id": 25001521,
+          "index": 4,
+          "options": [
+            "じょうずです",
+            "よくわかります",
+            "とくいです",
+            "あまりわかりません"
+          ],
+          "question_node_id": 20654096,
+          "question_text": "日本に来たばかりですから、日本語が【　　　】。\n\n①じょうずです\n②よくわかります\n③とくいです\n④あまりわかりません",
+          "stem": "日本に来たばかりですから、日本語が【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "なのに",
+          "book_id": 1580399,
+          "edge_id": 18161430,
+          "explanation": "",
+          "id": 25001522,
+          "index": 5,
+          "options": [
+            "なので",
+            "なのに",
+            "など",
+            "ですから"
+          ],
+          "question_node_id": 20654091,
+          "question_text": "修理したばかり【　　　】、また故障しました。\n\n①なので\n②なのに\n③など\n④ですから",
+          "stem": "修理したばかり【　　　】、また故障しました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "元気な",
+          "book_id": 1580399,
+          "edge_id": 18161425,
+          "explanation": "",
+          "id": 25001523,
+          "index": 6,
+          "options": [
+            "元気な",
+            "元気で",
+            "元気に",
+            "元気"
+          ],
+          "question_node_id": 20654092,
+          "question_text": "山本さんは退院しましたから、【　　　】はずです。\n\n①元気な\n②元気で\n③元気に\n④元気",
+          "stem": "山本さんは退院しましたから、【　　　】はずです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "まだぬれている",
+          "book_id": 1580399,
+          "edge_id": 18161423,
+          "explanation": "",
+          "id": 25001524,
+          "index": 7,
+          "options": [
+            "もう乾いている",
+            "まだきれいじゃない",
+            "まだぬれている",
+            "もうおわっている"
+          ],
+          "question_node_id": 20654089,
+          "question_text": "洗濯したばかりなので、【　　　】はずです。\n\n①もう乾いている\n②まだきれいじゃない\n③まだぬれている\n④もうおわっている",
+          "stem": "洗濯したばかりなので、【　　　】はずです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "はずです",
+          "book_id": 1580399,
+          "edge_id": 18161426,
+          "explanation": "",
+          "id": 25001525,
+          "index": 8,
+          "options": [
+            "とおもいます",
+            "でしょう",
+            "はずです",
+            "ばかりです"
+          ],
+          "question_node_id": 20654093,
+          "question_text": "月曜日は図書館は休みの【　　　】。\n\n①とおもいます\n②でしょう\n③はずです\n④ばかりです",
+          "stem": "月曜日は図書館は休みの【　　　】。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "します",
+          "book_id": 1580399,
+          "edge_id": 18161427,
+          "explanation": "",
+          "id": 25001526,
+          "index": 9,
+          "options": [
+            "あります",
+            "ききます",
+            "なります",
+            "します"
+          ],
+          "question_node_id": 20654090,
+          "question_text": "声が【　　　】ね。部屋に誰かいるようです。\n\n①あります\n②ききます\n③なります\n④します",
+          "stem": "声が【　　　】ね。部屋に誰かいるようです。"
+        }
+      ],
+      "task_id": 112455824,
+      "task_order": 10
+    },
+    {
+      "book_id": 1580400,
+      "book_name": "JLPT N4_13ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "ようです",
+          "book_id": 1580400,
+          "edge_id": 18161432,
+          "explanation": "",
+          "id": 25001527,
+          "index": 0,
+          "options": [
+            "そうです",
+            "ようです",
+            "ありそうです",
+            "はずです"
+          ],
+          "question_node_id": 20654102,
+          "question_text": "駅に人が大勢います。事故の【　　　】ね。\n\n①そうです\n②ようです\n③ありそうです\n④はずです",
+          "stem": "駅に人が大勢います。事故の【　　　】ね。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "たかい",
+          "book_id": 1580400,
+          "edge_id": 18189340,
+          "explanation": "",
+          "id": 25001528,
+          "index": 1,
+          "options": [
+            "たかい",
+            "たかさ",
+            "たかく",
+            "たかくて"
+          ],
+          "question_node_id": 20689178,
+          "question_text": "佐藤さんの話によると、あの店は値段が【　　】そうです。\n\n①たかい\n②たかさ\n③たかく\n④たかくて",
+          "stem": "佐藤さんの話によると、あの店は値段が【　　】そうです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "留守の",
+          "book_id": 1580400,
+          "edge_id": 18161439,
+          "explanation": "",
+          "id": 25001529,
+          "index": 2,
+          "options": [
+            "留守",
+            "留守で",
+            "留守の",
+            "留守が"
+          ],
+          "question_node_id": 20654103,
+          "question_text": "部屋の電気が消えています。【　　　】ようですね。\n\n①留守\n②留守で\n③留守の\n④留守が",
+          "stem": "部屋の電気が消えています。【　　　】ようですね。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "くもりだ",
+          "book_id": 1580400,
+          "edge_id": 18161434,
+          "explanation": "",
+          "id": 25001530,
+          "index": 3,
+          "options": [
+            "くもりの",
+            "くもりだ",
+            "くも",
+            "くもりで"
+          ],
+          "question_node_id": 20654097,
+          "question_text": "天気予報によると、あしたは【　　　】そうです。\n\n①くもりの\n②くもりだ\n③くも\n④くもりで",
+          "stem": "天気予報によると、あしたは【　　　】そうです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "べんりだ",
+          "book_id": 1580400,
+          "edge_id": 18161437,
+          "explanation": "",
+          "id": 25001531,
+          "index": 4,
+          "options": [
+            "べんりで",
+            "べんりじゃ",
+            "べんりな",
+            "べんりだ"
+          ],
+          "question_node_id": 20654106,
+          "question_text": "店の人によると、新しいパソコンはとても【　　　】そうです。\n\n①べんりで\n②べんりじゃ\n③べんりな\n④べんりだ",
+          "stem": "店の人によると、新しいパソコンはとても【　　　】そうです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "やんだ",
+          "book_id": 1580400,
+          "edge_id": 18189339,
+          "explanation": "",
+          "id": 25001532,
+          "index": 5,
+          "options": [
+            "やんでいる",
+            "やみ",
+            "やむ",
+            "やんだ"
+          ],
+          "question_node_id": 20689177,
+          "question_text": "だれも傘をさしていません。雨が【　　　】ようですね。\n\n①やんでいる\n②やみ\n③やむ\n④やんだ",
+          "stem": "だれも傘をさしていません。雨が【　　　】ようですね。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "行かないと",
+          "book_id": 1580400,
+          "edge_id": 18189341,
+          "explanation": "",
+          "id": 25001533,
+          "index": 6,
+          "options": [
+            "行かないと",
+            "行くと",
+            "行きそうです",
+            "行くそうですか"
+          ],
+          "question_node_id": 20689179,
+          "question_text": "田中さんが入院したそうですよ。・・・じゃ、お見舞いに【　　　】…。\n\n①行かないと\n②行くと\n③行きそうです\n④行くそうですか",
+          "stem": "田中さんが入院したそうですよ。・・・じゃ、お見舞いに【　　　】…。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "行かせます",
+          "book_id": 1580400,
+          "edge_id": 18161435,
+          "explanation": "",
+          "id": 25001534,
+          "index": 7,
+          "options": [
+            "行きます",
+            "行かれます",
+            "行かせます",
+            "行ってください"
+          ],
+          "question_node_id": 20654101,
+          "question_text": "子どもを、塾に【　　　】。\n\n①行きます\n②行かれます\n③行かせます\n④行ってください",
+          "stem": "子どもを、塾に【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "させます",
+          "book_id": 1580400,
+          "edge_id": 18161441,
+          "explanation": "",
+          "id": 25001535,
+          "index": 8,
+          "options": [
+            "させます",
+            "してください",
+            "します",
+            "するとおもいます"
+          ],
+          "question_node_id": 20654100,
+          "question_text": "子どもには好きな仕事を【　　　】。\n\n①させます\n②してください\n③します\n④するとおもいます",
+          "stem": "子どもには好きな仕事を【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "調べさせます",
+          "book_id": 1580400,
+          "edge_id": 18161440,
+          "explanation": "",
+          "id": 25001536,
+          "index": 9,
+          "options": [
+            "調べます",
+            "調べられます",
+            "調べさせます",
+            "調べています"
+          ],
+          "question_node_id": 20654099,
+          "question_text": "すみません、お湯が出ないんですが……。・・・じゃ、係員に【　　　】。\n\n①調べます\n②調べられます\n③調べさせます\n④調べています",
+          "stem": "すみません、お湯が出ないんですが……。・・・じゃ、係員に【　　　】。"
+        }
+      ],
+      "task_id": 112455825,
+      "task_order": 11
+    },
+    {
+      "book_id": 1580401,
+      "book_name": "JLPT N4_14ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "教えていただき",
+          "book_id": 1580401,
+          "edge_id": 18189343,
+          "explanation": "",
+          "id": 25001537,
+          "index": 0,
+          "options": [
+            "教えていただき",
+            "教えてください",
+            "教えかた",
+            "教えること"
+          ],
+          "question_node_id": 20689180,
+          "question_text": "先生に日本語を【　　　】ました。\n\n①教えていただき\n②教えてください\n③教えかた\n④教えること",
+          "stem": "先生に日本語を【　　　】ました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "休ませて",
+          "book_id": 1580401,
+          "edge_id": 18189342,
+          "explanation": "",
+          "id": 25001538,
+          "index": 1,
+          "options": [
+            "休み",
+            "休まれて",
+            "休んで",
+            "休ませて"
+          ],
+          "question_node_id": 20689182,
+          "question_text": "体調が悪いので、仕事を【　　　】いただけませんか。\n\n①休み\n②休まれて\n③休んで\n④休ませて",
+          "stem": "体調が悪いので、仕事を【　　　】いただけませんか。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "手伝ってもらい",
+          "book_id": 1580401,
+          "edge_id": 18161443,
+          "explanation": "",
+          "id": 25001539,
+          "index": 2,
+          "options": [
+            "手伝い",
+            "手伝ってもらい",
+            "手伝いに",
+            "手伝ってい"
+          ],
+          "question_node_id": 20654107,
+          "question_text": "姉に宿題を【　　　】ました。\n\n①手伝い\n②手伝ってもらい\n③手伝いに\n④手伝ってい",
+          "stem": "姉に宿題を【　　　】ました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1580401,
+          "edge_id": 18161451,
+          "explanation": "",
+          "id": 25001540,
+          "index": 3,
+          "options": [
+            "と",
+            "で",
+            "を",
+            "が"
+          ],
+          "question_node_id": 20654112,
+          "question_text": "社長は部長【　　　】出張に行かせました。\n\n①と\n②で\n③を\n④が",
+          "stem": "社長は部長【　　　】出張に行かせました。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580401,
+          "edge_id": 18161445,
+          "explanation": "",
+          "id": 25001541,
+          "index": 4,
+          "options": [
+            "で",
+            "に",
+            "を",
+            "が"
+          ],
+          "question_node_id": 20654115,
+          "question_text": "部長は課長【　　　】レポートをまとめさせました。\n\n①で\n②に\n③を\n④が",
+          "stem": "部長は課長【　　　】レポートをまとめさせました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "おかせて",
+          "book_id": 1580401,
+          "edge_id": 18189344,
+          "explanation": "",
+          "id": 25001542,
+          "index": 5,
+          "options": [
+            "おきて",
+            "おこして",
+            "おかせて",
+            "もって"
+          ],
+          "question_node_id": 20689181,
+          "question_text": "ここに荷物を【　　　】いただけませんか。\n\n①おきて\n②おこして\n③おかせて\n④もって",
+          "stem": "ここに荷物を【　　　】いただけませんか。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "めしあがり",
+          "book_id": 1580401,
+          "edge_id": 18161448,
+          "explanation": "",
+          "id": 25001543,
+          "index": 6,
+          "options": [
+            "おっしゃい",
+            "いただき",
+            "めしあがり",
+            "もうし"
+          ],
+          "question_node_id": 20654116,
+          "question_text": "先生はお酒を 【　　　】ますか。\n\n①おっしゃい\n②いただき\n③めしあがり\n④もうし",
+          "stem": "先生はお酒を 【　　　】ますか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おっしゃい",
+          "book_id": 1580401,
+          "edge_id": 18161447,
+          "explanation": "",
+          "id": 25001544,
+          "index": 7,
+          "options": [
+            "おっしゃい",
+            "もうし",
+            "まいり",
+            "いただき"
+          ],
+          "question_node_id": 20654114,
+          "question_text": "お名前は何と【　　　】ますか。\n\n①おっしゃい\n②もうし\n③まいり\n④いただき",
+          "stem": "お名前は何と【　　　】ますか。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "いらっしゃい",
+          "book_id": 1580401,
+          "edge_id": 18161449,
+          "explanation": "",
+          "id": 25001545,
+          "index": 8,
+          "options": [
+            "おっしゃい",
+            "まいり",
+            "おり",
+            "いらっしゃい"
+          ],
+          "question_node_id": 20654113,
+          "question_text": "夏休みはどちらへ【　　　】ますか。\n\n①おっしゃい\n②まいり\n③おり\n④いらっしゃい",
+          "stem": "夏休みはどちらへ【　　　】ますか。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "ごらんになり",
+          "book_id": 1580401,
+          "edge_id": 18161450,
+          "explanation": "",
+          "id": 25001546,
+          "index": 9,
+          "options": [
+            "はいけんし",
+            "ごらんになり",
+            "おめにかかり",
+            "いただき"
+          ],
+          "question_node_id": 20654109,
+          "question_text": "社長はレポートを【　　　】ましたか。\n\n①はいけんし\n②ごらんになり\n③おめにかかり\n④いただき",
+          "stem": "社長はレポートを【　　　】ましたか。"
+        }
+      ],
+      "task_id": 112455826,
+      "task_order": 12
+    },
+    {
+      "book_id": 1580402,
+      "book_name": "JLPT N4_15ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "帰られました",
+          "book_id": 1580402,
+          "edge_id": 18161455,
+          "explanation": "",
+          "id": 25001547,
+          "index": 0,
+          "options": [
+            "おりません",
+            "帰られました",
+            "まいりません",
+            "いただきません"
+          ],
+          "question_node_id": 20654117,
+          "question_text": "先生はまだいらっしゃいますか。・・・いいえ、もう【　　　】。\n\n①おりません\n②帰られました\n③まいりません\n④いただきません",
+          "stem": "先生はまだいらっしゃいますか。・・・いいえ、もう【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おかき",
+          "book_id": 1580402,
+          "edge_id": 18161453,
+          "explanation": "",
+          "id": 25001548,
+          "index": 1,
+          "options": [
+            "おかき",
+            "かき",
+            "かかれ",
+            "かくこと"
+          ],
+          "question_node_id": 20654124,
+          "question_text": "住所と電話番号を【　　　】ください。\n\n①おかき\n②かき\n③かかれ\n④かくこと",
+          "stem": "住所と電話番号を【　　　】ください。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "ご連絡",
+          "book_id": 1580402,
+          "edge_id": 18161452,
+          "explanation": "",
+          "id": 25001549,
+          "index": 2,
+          "options": [
+            "連絡で",
+            "ご連絡して",
+            "ご連絡",
+            "ご連絡いたして"
+          ],
+          "question_node_id": 20654120,
+          "question_text": "ご出席の場合は、こちらに【　　　】ください。\n\n①連絡で\n②ご連絡して\n③ご連絡\n④ご連絡いたして",
+          "stem": "ご出席の場合は、こちらに【　　　】ください。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580402,
+          "edge_id": 18161454,
+          "explanation": "",
+          "id": 25001550,
+          "index": 3,
+          "options": [
+            "で",
+            "が",
+            "の",
+            "に"
+          ],
+          "question_node_id": 20654119,
+          "question_text": "兄は銀行【　　　】勤めています。\n\n①で\n②が\n③の\n④に",
+          "stem": "兄は銀行【　　　】勤めています。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "お読みに",
+          "book_id": 1580402,
+          "edge_id": 18189345,
+          "explanation": "",
+          "id": 25001551,
+          "index": 4,
+          "options": [
+            "お読み",
+            "読み",
+            "お読みに",
+            "読みに"
+          ],
+          "question_node_id": 20689183,
+          "question_text": "すみません、この本を【　　　】なりますか。\n\n①お読み\n②読み\n③お読みに\n④読みに",
+          "stem": "すみません、この本を【　　　】なりますか。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "おめにかかりました",
+          "book_id": 1580402,
+          "edge_id": 18161456,
+          "explanation": "",
+          "id": 25001552,
+          "index": 5,
+          "options": [
+            "はいけんしました",
+            "ごらんになりました",
+            "いらっしゃいました",
+            "おめにかかりました"
+          ],
+          "question_node_id": 20654123,
+          "question_text": "昨日先生の奥さまに【　　　】。\n\n①はいけんしました\n②ごらんになりました\n③いらっしゃいました\n④おめにかかりました",
+          "stem": "昨日先生の奥さまに【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "もうします",
+          "book_id": 1580402,
+          "edge_id": 18161458,
+          "explanation": "",
+          "id": 25001553,
+          "index": 6,
+          "options": [
+            "おっしゃいます",
+            "もうします",
+            "もうされます",
+            "おります"
+          ],
+          "question_node_id": 20654121,
+          "question_text": "はじめまして。田中と【　　　】。\n\n①おっしゃいます\n②もうします\n③もうされます\n④おります",
+          "stem": "はじめまして。田中と【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "めしあがり",
+          "book_id": 1580402,
+          "edge_id": 18161457,
+          "explanation": "",
+          "id": 25001554,
+          "index": 7,
+          "options": [
+            "いただき",
+            "おり",
+            "めしあがり",
+            "おもちになり"
+          ],
+          "question_node_id": 20654118,
+          "question_text": "何を【　　　】ますか。・・・コーヒーをいただきます。\n\n①いただき\n②おり\n③めしあがり\n④おもちになり",
+          "stem": "何を【　　　】ますか。・・・コーヒーをいただきます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "み",
+          "book_id": 1580402,
+          "edge_id": 18161460,
+          "explanation": "",
+          "id": 25001555,
+          "index": 8,
+          "options": [
+            "み",
+            "ごらんになり",
+            "いただき",
+            "おり"
+          ],
+          "question_node_id": 20654125,
+          "question_text": "週末、うちでゆっくりテレビを【　　　】たいです。\n\n①み\n②ごらんになり\n③いただき\n④おり",
+          "stem": "週末、うちでゆっくりテレビを【　　　】たいです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "ごぞんじです",
+          "book_id": 1580402,
+          "edge_id": 18161459,
+          "explanation": "",
+          "id": 25001556,
+          "index": 9,
+          "options": [
+            "ぞんじます",
+            "ぞんじています",
+            "ぞんじません",
+            "ごぞんじです"
+          ],
+          "question_node_id": 20654126,
+          "question_text": "会議のスケジュールを【　　　】か。\n\n①ぞんじます\n②ぞんじています\n③ぞんじません\n④ごぞんじです",
+          "stem": "会議のスケジュールを【　　　】か。"
+        }
+      ],
+      "task_id": 112455827,
+      "task_order": 13
+    },
+    {
+      "book_id": 1580403,
+      "book_name": "JLPT N4_16ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "あって",
+          "book_id": 1580403,
+          "edge_id": 18143456,
+          "explanation": "",
+          "id": 25001557,
+          "index": 0,
+          "options": [
+            "あって",
+            "あった",
+            "あったり",
+            "あいたり"
+          ],
+          "question_node_id": 20631078,
+          "question_text": "休みの日は　友達と【　　　】食事を　しています。\n\n①あって\n②あった\n③あったり\n④あいたり",
+          "stem": "休みの日は　友達と【　　　】食事を　しています。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "×",
+          "book_id": 1580403,
+          "edge_id": 18143457,
+          "explanation": "",
+          "id": 25001558,
+          "index": 1,
+          "options": [
+            "が",
+            "へ",
+            "×",
+            "と"
+          ],
+          "question_node_id": 20631084,
+          "question_text": "来週【　　　】　東京へ　行きます。\n\n①が\n②へ\n③×\n④と",
+          "stem": "来週【　　　】　東京へ　行きます。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "わかりません",
+          "book_id": 1580403,
+          "edge_id": 18143460,
+          "explanation": "",
+          "id": 25001559,
+          "index": 2,
+          "options": [
+            "わかります",
+            "わかりません",
+            "わかりました",
+            "わかりましょう"
+          ],
+          "question_node_id": 20631083,
+          "question_text": "漢字が　ぜんぜん　【　　　】。\n\n①わかります\n②わかりません\n③わかりました\n④わかりましょう",
+          "stem": "漢字が　ぜんぜん　【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580403,
+          "edge_id": 18143463,
+          "explanation": "",
+          "id": 25001560,
+          "index": 3,
+          "options": [
+            "に",
+            "で",
+            "を",
+            "と"
+          ],
+          "question_node_id": 20631079,
+          "question_text": "学校の　近く【　　　】　銀行が　あります。\n\n①に\n②で\n③を\n④と",
+          "stem": "学校の　近く【　　　】　銀行が　あります。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580403,
+          "edge_id": 18143459,
+          "explanation": "",
+          "id": 25001561,
+          "index": 4,
+          "options": [
+            "を",
+            "に",
+            "へ",
+            "で"
+          ],
+          "question_node_id": 20631085,
+          "question_text": "１日【　　　】何回　彼女に　電話しますか。\n\n①を\n②に\n③へ\n④で",
+          "stem": "１日【　　　】何回　彼女に　電話しますか。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "すき焼きの　ほうが",
+          "book_id": 1580403,
+          "edge_id": 18143462,
+          "explanation": "",
+          "id": 25001562,
+          "index": 5,
+          "options": [
+            "すき焼きも",
+            "すき焼きの　ほうが",
+            "刺身を",
+            "刺身と　すき焼きが"
+          ],
+          "question_node_id": 20631086,
+          "question_text": "すき焼きと　刺身と　どちらが　好きですか。・・・【　　　】　好きです。\n\n①すき焼きも\n②すき焼きの　ほうが\n③刺身を\n④刺身と　すき焼きが",
+          "stem": "すき焼きと　刺身と　どちらが　好きですか。・・・【　　　】　好きです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "読み方",
+          "book_id": 1580403,
+          "edge_id": 18143464,
+          "explanation": "",
+          "id": 25001563,
+          "index": 6,
+          "options": [
+            "読み方",
+            "この漢字",
+            "の",
+            "を"
+          ],
+          "question_node_id": 20631081,
+          "question_text": "すみません。【　　　】【　　　】【　★　】【　　　】　教えてください。\n\n①読み方\n②この漢字\n③の\n④を",
+          "stem": "すみません。【　　　】【　　　】【　★　】【　　　】　教えてください。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "ひいた",
+          "book_id": 1580403,
+          "edge_id": 18190148,
+          "explanation": "",
+          "id": 25001564,
+          "index": 7,
+          "options": [
+            "ひいて",
+            "ひいた",
+            "ひいても",
+            "ひく"
+          ],
+          "question_node_id": 20690987,
+          "question_text": "今日、休んでもいいですか。風邪を【　　　】んです。\n\n①ひいて\n②ひいた\n③ひいても\n④ひく",
+          "stem": "今日、休んでもいいですか。風邪を【　　　】んです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "ありました",
+          "book_id": 1580403,
+          "edge_id": 18143391,
+          "explanation": "",
+          "id": 25001565,
+          "index": 8,
+          "options": [
+            "あります",
+            "ありません",
+            "ありました",
+            "ありませんでした"
+          ],
+          "question_node_id": 20631011,
+          "question_text": "どうして　きのう　早く　帰りましたか。・・・京都で　友達と　約束が　【　　　】から。\n\n①あります\n②ありません\n③ありました\n④ありませんでした",
+          "stem": "どうして　きのう　早く　帰りましたか。・・・京都で　友達と　約束が　【　　　】から。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "休み",
+          "book_id": 1580403,
+          "edge_id": 18143392,
+          "explanation": "",
+          "id": 25001566,
+          "index": 9,
+          "options": [
+            "休みだ",
+            "休んで",
+            "休み",
+            "休みます"
+          ],
+          "question_node_id": 20631013,
+          "question_text": "あした 学校は 【　　　】 でしょう？\n\n①休みだ\n②休んで\n③休み\n④休みます",
+          "stem": "あした 学校は 【　　　】 でしょう？"
+        }
+      ],
+      "task_id": 112455828,
+      "task_order": 14
+    },
+    {
+      "book_id": 1580404,
+      "book_name": "JLPT N4_17ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1580404,
+          "edge_id": 18143393,
+          "explanation": "",
+          "id": 25001567,
+          "index": 0,
+          "options": [
+            "を",
+            "に",
+            "から",
+            "が"
+          ],
+          "question_node_id": 20631016,
+          "question_text": "わたしは 山田さん 【　　　】 うちまで　送って あげました。\n\n①を\n②に\n③から\n④が",
+          "stem": "わたしは 山田さん 【　　　】 うちまで　送って あげました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "という",
+          "book_id": 1580404,
+          "edge_id": 18143396,
+          "explanation": "",
+          "id": 25001568,
+          "index": 1,
+          "options": [
+            "のところ",
+            "ところ",
+            "で",
+            "という"
+          ],
+          "question_node_id": 20631021,
+          "question_text": "「富士」【　　　】ホテルへ行きました。\n\n①のところ\n②ところ\n③で\n④という",
+          "stem": "「富士」【　　　】ホテルへ行きました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "買って",
+          "book_id": 1580404,
+          "edge_id": 18143411,
+          "explanation": "",
+          "id": 25001569,
+          "index": 2,
+          "options": [
+            "買いに",
+            "買い",
+            "買う",
+            "買って"
+          ],
+          "question_node_id": 20631036,
+          "question_text": "マリーさん、飲み物を【　　　】きてください。・・・はい。\n\n①買いに\n②買い\n③買う\n④買って",
+          "stem": "マリーさん、飲み物を【　　　】きてください。・・・はい。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "どうした",
+          "book_id": 1580404,
+          "edge_id": 18143409,
+          "explanation": "",
+          "id": 25001570,
+          "index": 3,
+          "options": [
+            "どうして",
+            "どうやって",
+            "どうした",
+            "どんな"
+          ],
+          "question_node_id": 20631034,
+          "question_text": "【　　　】んですか。・・・・頭が痛いんです。\n\n①どうして\n②どうやって\n③どうした\n④どんな",
+          "stem": "【　　　】んですか。・・・・頭が痛いんです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "するそう",
+          "book_id": 1580404,
+          "edge_id": 18143420,
+          "explanation": "",
+          "id": 25001571,
+          "index": 4,
+          "options": [
+            "するそう",
+            "したそう",
+            "しただそう",
+            "するだそう"
+          ],
+          "question_node_id": 20631045,
+          "question_text": "ジムさんが　来月　結婚【　　　】ですよ。・・・そうですか。\n\n①するそう\n②したそう\n③しただそう\n④するだそう",
+          "stem": "ジムさんが　来月　結婚【　　　】ですよ。・・・そうですか。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580404,
+          "edge_id": 18143426,
+          "explanation": "",
+          "id": 25001572,
+          "index": 5,
+          "options": [
+            "が",
+            "に",
+            "で",
+            "の"
+          ],
+          "question_node_id": 20631051,
+          "question_text": "あ、もう　１２時【　　　】なりましたね。お弁当を食べましょう。\n\n①が\n②に\n③で\n④の",
+          "stem": "あ、もう　１２時【　　　】なりましたね。お弁当を食べましょう。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "降っても",
+          "book_id": 1580404,
+          "edge_id": 18143434,
+          "explanation": "",
+          "id": 25001573,
+          "index": 6,
+          "options": [
+            "降っても",
+            "降って",
+            "降った",
+            "降ると"
+          ],
+          "question_node_id": 20631056,
+          "question_text": "雨が 【　　　】 サッカーを しましょう。\n\n①降っても\n②降って\n③降った\n④降ると",
+          "stem": "雨が 【　　　】 サッカーを しましょう。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "ねたほうが",
+          "book_id": 1580404,
+          "edge_id": 18143452,
+          "explanation": "",
+          "id": 25001574,
+          "index": 7,
+          "options": [
+            "ねないで",
+            "ねてから",
+            "ねたほうが",
+            "ねたり"
+          ],
+          "question_node_id": 20631068,
+          "question_text": "熱が　あるんですか。よく【　　　】いいですよ。\n\n①ねないで\n②ねてから\n③ねたほうが\n④ねたり",
+          "stem": "熱が　あるんですか。よく【　　　】いいですよ。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "A に 　B はいって",
+          "book_id": 1580404,
+          "edge_id": 18143446,
+          "explanation": "",
+          "id": 25001575,
+          "index": 8,
+          "options": [
+            "A に 　B はいて",
+            "A を 　B はいって",
+            "A に 　B はいって",
+            "A を 　B はいて"
+          ],
+          "question_node_id": 20631074,
+          "question_text": "お風呂 【　 A　 】【　 B　 】から、寝ます。\n\n①A に 　B はいて\n②A を 　B はいって\n③A に 　B はいって\n④A を 　B はいて",
+          "stem": "お風呂 【　 A　 】【　 B　 】から、寝ます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "どうしましたか",
+          "book_id": 1580404,
+          "edge_id": 18143461,
+          "explanation": "",
+          "id": 25001576,
+          "index": 9,
+          "options": [
+            "どうしましたか",
+            "どこですか",
+            "どうしますか",
+            "どうでしたか"
+          ],
+          "question_node_id": 20631080,
+          "question_text": "【　　　】。・・・昨日から熱があるんです。\n\n①どうしましたか\n②どこですか\n③どうしますか\n④どうでしたか",
+          "stem": "【　　　】。・・・昨日から熱があるんです。"
+        }
+      ],
+      "task_id": 112455829,
+      "task_order": 15
+    },
+    {
+      "book_id": 1580405,
+      "book_name": "JLPT N4_18ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "さむい",
+          "book_id": 1580405,
+          "edge_id": 17962996,
+          "explanation": "",
+          "id": 25001577,
+          "index": 0,
+          "options": [
+            "さむい",
+            "さむくて",
+            "さむく",
+            "さむ"
+          ],
+          "question_node_id": 20388547,
+          "question_text": "わたしの国は冬とても【　　　】んです。\n\n①さむい\n②さむくて\n③さむく\n④さむ",
+          "stem": "わたしの国は冬とても【　　　】んです。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "降りたらいいですか",
+          "book_id": 1580405,
+          "edge_id": 17963004,
+          "explanation": "",
+          "id": 25001578,
+          "index": 1,
+          "options": [
+            "降りていただけませんか",
+            "降りませんか",
+            "降りませんでした",
+            "降りたらいいですか"
+          ],
+          "question_node_id": 20388548,
+          "question_text": "東京大学へ行きたいんですが、どこで【　　　】\n\n①降りていただけませんか\n②降りませんか\n③降りませんでした\n④降りたらいいですか",
+          "stem": "東京大学へ行きたいんですが、どこで【　　　】"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "どうしたらいいですか",
+          "book_id": 1580405,
+          "edge_id": 17963003,
+          "explanation": "",
+          "id": 25001579,
+          "index": 2,
+          "options": [
+            "どちらですか",
+            "どうでしたか",
+            "どうしたらいいですか",
+            "なんですか"
+          ],
+          "question_node_id": 20388551,
+          "question_text": "お湯が出ないんですが【　　　】。・・・ああ、このボタンを押してください。\n\n①どちらですか\n②どうでしたか\n③どうしたらいいですか\n④なんですか",
+          "stem": "お湯が出ないんですが【　　　】。・・・ああ、このボタンを押してください。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580405,
+          "edge_id": 17962997,
+          "explanation": "",
+          "id": 25001580,
+          "index": 3,
+          "options": [
+            "で",
+            "に",
+            "は",
+            "を"
+          ],
+          "question_node_id": 20388552,
+          "question_text": "すみません。お湯が出ないんですが…。・・・ガス会社【　　　】連絡してください。\n\n①で\n②に\n③は\n④を",
+          "stem": "すみません。お湯が出ないんですが…。・・・ガス会社【　　　】連絡してください。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "あわないように",
+          "book_id": 1580405,
+          "edge_id": 17962999,
+          "explanation": "",
+          "id": 25001581,
+          "index": 4,
+          "options": [
+            "あったら",
+            "あうように",
+            "あわないように",
+            "あおうと"
+          ],
+          "question_node_id": 20388549,
+          "question_text": "どうしてかばんにライトをつけているんですか。・・・事故に【　　　】つけているんです。\n\n①あったら\n②あうように\n③あわないように\n④あおうと",
+          "stem": "どうしてかばんにライトをつけているんですか。・・・事故に【　　　】つけているんです。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580405,
+          "edge_id": 17963000,
+          "explanation": "",
+          "id": 25001582,
+          "index": 5,
+          "options": [
+            "へ",
+            "に",
+            "と",
+            "で"
+          ],
+          "question_node_id": 20388554,
+          "question_text": "母【　　　】買い物を頼まれました。\n\n①へ\n②に\n③と\n④で",
+          "stem": "母【　　　】買い物を頼まれました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1580405,
+          "edge_id": 17962998,
+          "explanation": "",
+          "id": 25001583,
+          "index": 6,
+          "options": [
+            "に",
+            "で",
+            "が",
+            "を"
+          ],
+          "question_node_id": 20388553,
+          "question_text": "ラッシュの電車で足【　　　】踏まれました。\n\n①に\n②で\n③が\n④を",
+          "stem": "ラッシュの電車で足【　　　】踏まれました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580405,
+          "edge_id": 17963002,
+          "explanation": "",
+          "id": 25001584,
+          "index": 7,
+          "options": [
+            "で",
+            "に",
+            "を",
+            "が"
+          ],
+          "question_node_id": 20388550,
+          "question_text": "息子は走るの【　　　】速いです。\n\n①で\n②に\n③を\n④が",
+          "stem": "息子は走るの【　　　】速いです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "じゃまなので",
+          "book_id": 1580405,
+          "edge_id": 17963880,
+          "explanation": "",
+          "id": 25001585,
+          "index": 8,
+          "options": [
+            "じゃまで",
+            "じゃまだので",
+            "じゃまなので",
+            "じゃまので"
+          ],
+          "question_node_id": 20389866,
+          "question_text": "ちょっと【　　　】、その箱を片づけてください。\n\n①じゃまで\n②じゃまだので\n③じゃまなので\n④じゃまので",
+          "stem": "ちょっと【　　　】、その箱を片づけてください。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "ように",
+          "book_id": 1580405,
+          "edge_id": 17964072,
+          "explanation": "",
+          "id": 25001586,
+          "index": 9,
+          "options": [
+            "に",
+            "ように",
+            "練習しています",
+            "出られる"
+          ],
+          "question_node_id": 20390119,
+          "question_text": "試合【　　　】【　　　】【　★　】【　　　】。\n\n①に\n②ように\n③練習しています\n④出られる",
+          "stem": "試合【　　　】【　　　】【　★　】【　　　】。"
+        }
+      ],
+      "task_id": 112455830,
+      "task_order": 16
+    },
+    {
+      "book_id": 1580406,
+      "book_name": "JLPT N4_19ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "パーティ",
+          "book_id": 1580406,
+          "edge_id": 17964073,
+          "explanation": "",
+          "id": 25001587,
+          "index": 0,
+          "options": [
+            "誕生日",
+            "に",
+            "の",
+            "パーティ"
+          ],
+          "question_node_id": 20390120,
+          "question_text": "アンナさんに【　　　】【　　　】【　★　】【　　　】招待されました。\n\n①誕生日\n②に\n③の\n④パーティ",
+          "stem": "アンナさんに【　　　】【　　　】【　★　】【　　　】招待されました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "どこでも",
+          "book_id": 1580406,
+          "edge_id": 17963009,
+          "explanation": "",
+          "id": 25001588,
+          "index": 1,
+          "options": [
+            "どうしたら",
+            "どこか",
+            "どこも",
+            "どこでも"
+          ],
+          "question_node_id": 20388562,
+          "question_text": "どこで食事をしましょうか。・・・【　　　】いいですよ。\n\n①どうしたら\n②どこか\n③どこも\n④どこでも",
+          "stem": "どこで食事をしましょうか。・・・【　　　】いいですよ。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "来ました",
+          "book_id": 1580406,
+          "edge_id": 17976691,
+          "explanation": "",
+          "id": 25001589,
+          "index": 2,
+          "options": [
+            "来ました",
+            "行った",
+            "行きました",
+            "来ましょう"
+          ],
+          "question_node_id": 20412195,
+          "question_text": "はじめまして、サントスです。ブラジルから【　　　】。\n\n①来ました\n②行った\n③行きました\n④来ましょう",
+          "stem": "はじめまして、サントスです。ブラジルから【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "あるんです",
+          "book_id": 1580406,
+          "edge_id": 17963011,
+          "explanation": "",
+          "id": 25001590,
+          "index": 3,
+          "options": [
+            "なかったです",
+            "なかったんです",
+            "あるんです",
+            "あるんですから"
+          ],
+          "question_node_id": 20388560,
+          "question_text": "あしたパーティーへ行きません。用事が【　　　】。\n\n①なかったです\n②なかったんです\n③あるんです\n④あるんですから",
+          "stem": "あしたパーティーへ行きません。用事が【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "あったんです",
+          "book_id": 1580406,
+          "edge_id": 17963014,
+          "explanation": "",
+          "id": 25001591,
+          "index": 4,
+          "options": [
+            "あります",
+            "あったんです",
+            "なかったんです",
+            "ありませんか"
+          ],
+          "question_node_id": 20388558,
+          "question_text": "どうして学校を休んだんですか。・・・熱が【　　　】。\n\n①あります\n②あったんです\n③なかったんです\n④ありませんか",
+          "stem": "どうして学校を休んだんですか。・・・熱が【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "弾け",
+          "book_id": 1580406,
+          "edge_id": 17963008,
+          "explanation": "",
+          "id": 25001592,
+          "index": 5,
+          "options": [
+            "弾け",
+            "弾き",
+            "弾く",
+            "弾かない"
+          ],
+          "question_node_id": 20388563,
+          "question_text": "私はピアノが【　　　】ます。\n\n①弾け\n②弾き\n③弾く\n④弾かない",
+          "stem": "私はピアノが【　　　】ます。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "ひまなら",
+          "book_id": 1580406,
+          "edge_id": 17963013,
+          "explanation": "",
+          "id": 25001593,
+          "index": 6,
+          "options": [
+            "ひまか",
+            "ひまに",
+            "ひまなら",
+            "ひまがなければ"
+          ],
+          "question_node_id": 20388561,
+          "question_text": "明日【　　　】映画を見に行きませんか。\n\n①ひまか\n②ひまに\n③ひまなら\n④ひまがなければ",
+          "stem": "明日【　　　】映画を見に行きませんか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "どうやって",
+          "book_id": 1580406,
+          "edge_id": 17963882,
+          "explanation": "",
+          "id": 25001594,
+          "index": 7,
+          "options": [
+            "どうやって",
+            "なんで",
+            "どの",
+            "どんな"
+          ],
+          "question_node_id": 20389867,
+          "question_text": "浅草へ行きたいんですが【　　　】行けばいいですか。\n\n①どうやって\n②なんで\n③どの\n④どんな",
+          "stem": "浅草へ行きたいんですが【　　　】行けばいいですか。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "なら",
+          "book_id": 1580406,
+          "edge_id": 17963012,
+          "explanation": "",
+          "id": 25001595,
+          "index": 8,
+          "options": [
+            "から",
+            "が",
+            "なら",
+            "しか"
+          ],
+          "question_node_id": 20388566,
+          "question_text": "新しいカメラを買いたいんですが…。・・・カメラ【　　　】“にほんカメラ”がいいですよ。\n\n①から\n②が\n③なら\n④しか",
+          "stem": "新しいカメラを買いたいんですが…。・・・カメラ【　　　】“にほんカメラ”がいいですよ。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "よければ",
+          "book_id": 1580406,
+          "edge_id": 17963010,
+          "explanation": "",
+          "id": 25001596,
+          "index": 9,
+          "options": [
+            "いいの",
+            "よければ",
+            "よかった",
+            "よくなければ"
+          ],
+          "question_node_id": 20388565,
+          "question_text": "高くてもデザインが【　　　】買います。\n\n①いいの\n②よければ\n③よかった\n④よくなければ",
+          "stem": "高くてもデザインが【　　　】買います。"
+        }
+      ],
+      "task_id": 112455831,
+      "task_order": 17
+    },
+    {
+      "book_id": 1580407,
+      "book_name": "JLPT N4_20ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580407,
+          "edge_id": 17963027,
+          "explanation": "",
+          "id": 25001597,
+          "index": 0,
+          "options": [
+            "で",
+            "と",
+            "に",
+            "が"
+          ],
+          "question_node_id": 20388571,
+          "question_text": "この薬を飲めば病気【　　　】治ります。\n\n①で\n②と\n③に\n④が",
+          "stem": "この薬を飲めば病気【　　　】治ります。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "これで",
+          "book_id": 1580407,
+          "edge_id": 17963884,
+          "explanation": "",
+          "id": 25001598,
+          "index": 1,
+          "options": [
+            "これから",
+            "これで",
+            "このあいだ",
+            "今から"
+          ],
+          "question_node_id": 20388567,
+          "question_text": "会議は【　　　】終わりましょう。\n\n①これから\n②これで\n③このあいだ\n④今から",
+          "stem": "会議は【　　　】終わりましょう。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "出席できなくて",
+          "book_id": 1580407,
+          "edge_id": 17964075,
+          "explanation": "",
+          "id": 25001599,
+          "index": 2,
+          "options": [
+            "出席できなくて",
+            "今度の",
+            "ミーティングに",
+            "すみません"
+          ],
+          "question_node_id": 20390122,
+          "question_text": "【　　　】【　　　】【　★　】【　　　】。\n\n①出席できなくて\n②今度の\n③ミーティングに\n④すみません",
+          "stem": "【　　　】【　　　】【　★　】【　　　】。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "か",
+          "book_id": 1580407,
+          "edge_id": 17964074,
+          "explanation": "",
+          "id": 25001600,
+          "index": 3,
+          "options": [
+            "ある",
+            "数えます",
+            "何個",
+            "か"
+          ],
+          "question_node_id": 20390121,
+          "question_text": "ケーキが【　　　】【　　　】【     ★ 　】、【　　　】。\n\n①ある\n②数えます\n③何個\n④か",
+          "stem": "ケーキが【　　　】【　　　】【     ★ 　】、【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "食べられますか",
+          "book_id": 1580407,
+          "edge_id": 17963887,
+          "explanation": "",
+          "id": 25001601,
+          "index": 4,
+          "options": [
+            "食べなかったです",
+            "食べられますか",
+            "食べませんか",
+            "食べてください"
+          ],
+          "question_node_id": 20389873,
+          "question_text": "あなたは納豆が【　　　】。\n\n①食べなかったです\n②食べられますか\n③食べませんか\n④食べてください",
+          "stem": "あなたは納豆が【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "来られます",
+          "book_id": 1580407,
+          "edge_id": 17963885,
+          "explanation": "",
+          "id": 25001602,
+          "index": 5,
+          "options": [
+            "来られます",
+            "来たかったです",
+            "来ていただきました",
+            "行きたかったです"
+          ],
+          "question_node_id": 20389870,
+          "question_text": "来週のパーティーへ【　　　】か。\n\n①来られます\n②来たかったです\n③来ていただきました\n④行きたかったです",
+          "stem": "来週のパーティーへ【　　　】か。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "聞こえません",
+          "book_id": 1580407,
+          "edge_id": 17963886,
+          "explanation": "",
+          "id": 25001603,
+          "index": 6,
+          "options": [
+            "聞きません",
+            "聞いてください",
+            "聞こえません",
+            "聞けません"
+          ],
+          "question_node_id": 20389871,
+          "question_text": "先生の声が小さくて【　　　】。\n\n①聞きません\n②聞いてください\n③聞こえません\n④聞けません",
+          "stem": "先生の声が小さくて【　　　】。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "見られます",
+          "book_id": 1580407,
+          "edge_id": 17963026,
+          "explanation": "",
+          "id": 25001604,
+          "index": 7,
+          "options": [
+            "見ます",
+            "見ています",
+            "見えます",
+            "見られます"
+          ],
+          "question_node_id": 20388574,
+          "question_text": "この美術館で有名な絵が【　　　】。\n\n①見ます\n②見ています\n③見えます\n④見られます",
+          "stem": "この美術館で有名な絵が【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "きれいだし",
+          "book_id": 1580407,
+          "edge_id": 17963888,
+          "explanation": "",
+          "id": 25001605,
+          "index": 8,
+          "options": [
+            "きれいでは",
+            "きれいな",
+            "きれいだし",
+            "きれいなの"
+          ],
+          "question_node_id": 20389872,
+          "question_text": "この部屋は【　　　】家賃が安いです。\n\n①きれいでは\n②きれいな\n③きれいだし\n④きれいなの",
+          "stem": "この部屋は【　　　】家賃が安いです。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580407,
+          "edge_id": 17963025,
+          "explanation": "",
+          "id": 25001606,
+          "index": 9,
+          "options": [
+            "を",
+            "に",
+            "と",
+            "で"
+          ],
+          "question_node_id": 20388573,
+          "question_text": "弟はアメリカの大学【　　　】通っています。\n\n①を\n②に\n③と\n④で",
+          "stem": "弟はアメリカの大学【　　　】通っています。"
+        }
+      ],
+      "task_id": 112455832,
+      "task_order": 18
+    },
+    {
+      "book_id": 1580408,
+      "book_name": "JLPT N4_21ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "娘さん",
+          "book_id": 1580408,
+          "edge_id": 17964076,
+          "explanation": "",
+          "id": 25001607,
+          "index": 0,
+          "options": [
+            "娘さん",
+            "娘",
+            "女の人",
+            "母"
+          ],
+          "question_node_id": 20390123,
+          "question_text": "林さんの【　　　】は何歳ですか。・・・7歳です。\n\n①娘さん\n②娘\n③女の人\n④母",
+          "stem": "林さんの【　　　】は何歳ですか。・・・7歳です。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "閉まります",
+          "book_id": 1580408,
+          "edge_id": 17964077,
+          "explanation": "",
+          "id": 25001608,
+          "index": 1,
+          "options": [
+            "閉めます",
+            "閉めています",
+            "閉まります",
+            "閉めておきます"
+          ],
+          "question_node_id": 20390125,
+          "question_text": "ドアが【　　　】。\n\n①閉めます\n②閉めています\n③閉まります\n④閉めておきます",
+          "stem": "ドアが【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "外れます",
+          "book_id": 1580408,
+          "edge_id": 17964083,
+          "explanation": "",
+          "id": 25001609,
+          "index": 2,
+          "options": [
+            "外します",
+            "外れます",
+            "外しましょう",
+            "外しました"
+          ],
+          "question_node_id": 20390129,
+          "question_text": "ボタンが【　　　】。\n\n①外します\n②外れます\n③外しましょう\n④外しました",
+          "stem": "ボタンが【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "つきます",
+          "book_id": 1580408,
+          "edge_id": 17964081,
+          "explanation": "",
+          "id": 25001610,
+          "index": 3,
+          "options": [
+            "つきます",
+            "つけます",
+            "ついています",
+            "つけています"
+          ],
+          "question_node_id": 20390128,
+          "question_text": "ここをおすとエアコンが【　　　】。\n\n①つきます\n②つけます\n③ついています\n④つけています",
+          "stem": "ここをおすとエアコンが【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1580408,
+          "edge_id": 17964078,
+          "explanation": "",
+          "id": 25001611,
+          "index": 4,
+          "options": [
+            "が",
+            "を",
+            "で",
+            "に"
+          ],
+          "question_node_id": 20390124,
+          "question_text": "日曜日に部屋【　　　】片付けました。\n\n①が\n②を\n③で\n④に",
+          "stem": "日曜日に部屋【　　　】片付けました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "とまって",
+          "book_id": 1580408,
+          "edge_id": 17964080,
+          "explanation": "",
+          "id": 25001612,
+          "index": 5,
+          "options": [
+            "とまり",
+            "とめて",
+            "とめ",
+            "とまって"
+          ],
+          "question_node_id": 20390131,
+          "question_text": "車が【　　　】います。\n\n①とまり\n②とめて\n③とめ\n④とまって",
+          "stem": "車が【　　　】います。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "しまいました",
+          "book_id": 1580408,
+          "edge_id": 17964082,
+          "explanation": "",
+          "id": 25001613,
+          "index": 6,
+          "options": [
+            "しまいました",
+            "しまりました",
+            "しめています",
+            "しめました"
+          ],
+          "question_node_id": 20390126,
+          "question_text": "お土産のお菓子は全部食べて【　　　】。\n\n①しまいました\n②しまりました\n③しめています\n④しめました",
+          "stem": "お土産のお菓子は全部食べて【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "届く",
+          "book_id": 1580408,
+          "edge_id": 17964079,
+          "explanation": "",
+          "id": 25001614,
+          "index": 7,
+          "options": [
+            "届いて",
+            "届く",
+            "届いた",
+            "届け"
+          ],
+          "question_node_id": 20390130,
+          "question_text": "きのう宅配便で送りましたから、荷物はきょう【　　　】はずです。\n\n①届いて\n②届く\n③届いた\n④届け",
+          "stem": "きのう宅配便で送りましたから、荷物はきょう【　　　】はずです。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "食べに行く",
+          "book_id": 1580408,
+          "edge_id": 17964084,
+          "explanation": "",
+          "id": 25001615,
+          "index": 8,
+          "options": [
+            "食べに行っている",
+            "食べに行って",
+            "食べに行く",
+            "食べに行った"
+          ],
+          "question_node_id": 20390132,
+          "question_text": "これから昼ごはんを【　　　】ところです。イーさんもいっしょにどうですか。\n\n①食べに行っている\n②食べに行って\n③食べに行く\n④食べに行った",
+          "stem": "これから昼ごはんを【　　　】ところです。イーさんもいっしょにどうですか。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "帰られました",
+          "book_id": 1580408,
+          "edge_id": 17964085,
+          "explanation": "",
+          "id": 25001616,
+          "index": 9,
+          "options": [
+            "帰ろう",
+            "帰られました",
+            "帰れました",
+            "帰った"
+          ],
+          "question_node_id": 20390127,
+          "question_text": "あの、社長はまだ部屋にいらっしゃいますか。・・・いいえ、社長はもう【　　　】。\n\n①帰ろう\n②帰られました\n③帰れました\n④帰った",
+          "stem": "あの、社長はまだ部屋にいらっしゃいますか。・・・いいえ、社長はもう【　　　】。"
+        }
+      ],
+      "task_id": 112455833,
+      "task_order": 19
+    },
+    {
+      "book_id": 1580409,
+      "book_name": "JLPT N4_22ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "おきます",
+          "book_id": 1580409,
+          "edge_id": 17963056,
+          "explanation": "",
+          "id": 25001617,
+          "index": 0,
+          "options": [
+            "おきます",
+            "あります",
+            "あっています",
+            "あけます"
+          ],
+          "question_node_id": 20388582,
+          "question_text": "パーティーが終わったら、食器を洗って【　　　】。\n\n①おきます\n②あります\n③あっています\n④あけます",
+          "stem": "パーティーが終わったら、食器を洗って【　　　】。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "おいて",
+          "book_id": 1580409,
+          "edge_id": 17963899,
+          "explanation": "",
+          "id": 25001618,
+          "index": 1,
+          "options": [
+            "あって",
+            "おきて",
+            "して",
+            "おいて"
+          ],
+          "question_node_id": 20388583,
+          "question_text": "携帯電話はかばんにしまって【　　　】ください。\n\n①あって\n②おきて\n③して\n④おいて",
+          "stem": "携帯電話はかばんにしまって【　　　】ください。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "はな",
+          "book_id": 1580409,
+          "edge_id": 17976695,
+          "explanation": "",
+          "id": 25001619,
+          "index": 2,
+          "options": [
+            "はなし",
+            "はな",
+            "はなして",
+            "はなしに"
+          ],
+          "question_node_id": 20412199,
+          "question_text": "少し【　　　】そう。\n\n①はなし\n②はな\n③はなして\n④はなしに",
+          "stem": "少し【　　　】そう。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "続けよう",
+          "book_id": 1580409,
+          "edge_id": 17963900,
+          "explanation": "",
+          "id": 25001620,
+          "index": 3,
+          "options": [
+            "続き",
+            "続けよう",
+            "続こう",
+            "続けた"
+          ],
+          "question_node_id": 20388584,
+          "question_text": "国へ帰っても、日本語の勉強を【　　　】と思っています。\n\n①続き\n②続けよう\n③続こう\n④続けた",
+          "stem": "国へ帰っても、日本語の勉強を【　　　】と思っています。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "やっていません",
+          "book_id": 1580409,
+          "edge_id": 17963902,
+          "explanation": "",
+          "id": 25001621,
+          "index": 4,
+          "options": [
+            "やっていません",
+            "やりませんでした",
+            "やりました",
+            "やったと思います"
+          ],
+          "question_node_id": 20388591,
+          "question_text": "宿題はまだ【　　　】。\n\n①やっていません\n②やりませんでした\n③やりました\n④やったと思います",
+          "stem": "宿題はまだ【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "旅行する",
+          "book_id": 1580409,
+          "edge_id": 17963903,
+          "explanation": "",
+          "id": 25001622,
+          "index": 5,
+          "options": [
+            "旅行しよう",
+            "旅行したい",
+            "旅行する",
+            "旅行して"
+          ],
+          "question_node_id": 20388589,
+          "question_text": "連休は家族と【　　　】つもりです。\n\n①旅行しよう\n②旅行したい\n③旅行する\n④旅行して",
+          "stem": "連休は家族と【　　　】つもりです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580409,
+          "edge_id": 17963058,
+          "explanation": "",
+          "id": 25001623,
+          "index": 6,
+          "options": [
+            "に",
+            "で",
+            "を",
+            "から"
+          ],
+          "question_node_id": 20388586,
+          "question_text": "会議【　　　】出席します。\n\n①に\n②で\n③を\n④から",
+          "stem": "会議【　　　】出席します。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580409,
+          "edge_id": 17963062,
+          "explanation": "",
+          "id": 25001624,
+          "index": 7,
+          "options": [
+            "しか",
+            "に",
+            "と",
+            "から"
+          ],
+          "question_node_id": 20388590,
+          "question_text": "車【　　　】注意してください。\n\n①しか\n②に\n③と\n④から",
+          "stem": "車【　　　】注意してください。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "それで",
+          "book_id": 1580409,
+          "edge_id": 17963060,
+          "explanation": "",
+          "id": 25001625,
+          "index": 8,
+          "options": [
+            "それから",
+            "それに",
+            "それで",
+            "そう"
+          ],
+          "question_node_id": 20388587,
+          "question_text": "あの店は値段が安いし、味がいいんです。・・・【　　　】いつもあの店で食べているんですね。\n\n①それから\n②それに\n③それで\n④そう",
+          "stem": "あの店は値段が安いし、味がいいんです。・・・【　　　】いつもあの店で食べているんですね。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "しばらく",
+          "book_id": 1580409,
+          "edge_id": 17976696,
+          "explanation": "",
+          "id": 25001626,
+          "index": 9,
+          "options": [
+            "未来",
+            "将来",
+            "ひさしぶり",
+            "しばらく"
+          ],
+          "question_node_id": 20412200,
+          "question_text": "マイクさんには【　　　】会っていません。\n\n①未来\n②将来\n③ひさしぶり\n④しばらく",
+          "stem": "マイクさんには【　　　】会っていません。"
+        }
+      ],
+      "task_id": 112455834,
+      "task_order": 20
+    },
+    {
+      "book_id": 1580410,
+      "book_name": "JLPT N4_23ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "まいりました",
+          "book_id": 1580410,
+          "edge_id": 17964089,
+          "explanation": "",
+          "id": 25001627,
+          "index": 0,
+          "options": [
+            "まいっています",
+            "来ました",
+            "いらっしゃいました",
+            "まいりました"
+          ],
+          "question_node_id": 20390133,
+          "question_text": "いつ日本へいらっしゃいましたか。・・・きょねん、【　　　】。\n\n①まいっています\n②来ました\n③いらっしゃいました\n④まいりました",
+          "stem": "いつ日本へいらっしゃいましたか。・・・きょねん、【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "いない",
+          "book_id": 1580410,
+          "edge_id": 17964087,
+          "explanation": "",
+          "id": 25001628,
+          "index": 1,
+          "options": [
+            "だれも",
+            "場合は",
+            "いない",
+            "に"
+          ],
+          "question_node_id": 20390134,
+          "question_text": "受付【　　　】【　　　】【　★　】【　　　】、わたしに電話してください。\n\n①だれも\n②場合は\n③いない\n④に",
+          "stem": "受付【　　　】【　　　】【　★　】【　　　】、わたしに電話してください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "よると",
+          "book_id": 1580410,
+          "edge_id": 17964095,
+          "explanation": "",
+          "id": 25001629,
+          "index": 2,
+          "options": [
+            "よると",
+            "あしたの天気",
+            "天気予報",
+            "に"
+          ],
+          "question_node_id": 20390138,
+          "question_text": "【　　　】【　　　】【　★　】、【　　　】は雨だそうです。\n\n①よると\n②あしたの天気\n③天気予報\n④に",
+          "stem": "【　　　】【　　　】【　★　】、【　　　】は雨だそうです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ので",
+          "book_id": 1580410,
+          "edge_id": 17964091,
+          "explanation": "",
+          "id": 25001630,
+          "index": 3,
+          "options": [
+            "ので",
+            "作りたいと",
+            "言った",
+            "作らせました"
+          ],
+          "question_node_id": 20390137,
+          "question_text": "娘がカレーを【　　　】【　　　】【　★　】、【　　　】。\n\n①ので\n②作りたいと\n③言った\n④作らせました",
+          "stem": "娘がカレーを【　　　】【　　　】【　★　】、【　　　】。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "おやめ",
+          "book_id": 1580410,
+          "edge_id": 17964088,
+          "explanation": "",
+          "id": 25001631,
+          "index": 4,
+          "options": [
+            "を",
+            "おやめ",
+            "会社",
+            "に"
+          ],
+          "question_node_id": 20390140,
+          "question_text": "田中さんは先月【　　　】【　　　】【     ★ 　】【　　　】なりました。\n\n①を\n②おやめ\n③会社\n④に",
+          "stem": "田中さんは先月【　　　】【　　　】【     ★ 　】【　　　】なりました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "まちがえて",
+          "book_id": 1580410,
+          "edge_id": 17964086,
+          "explanation": "",
+          "id": 25001632,
+          "index": 5,
+          "options": [
+            "まちがわ",
+            "まちがい",
+            "まちがえて",
+            "まちがえ"
+          ],
+          "question_node_id": 20390139,
+          "question_text": "電話番号を【　　　】しまいました。\n\n①まちがわ\n②まちがい\n③まちがえて\n④まちがえ",
+          "stem": "電話番号を【　　　】しまいました。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "どこかで",
+          "book_id": 1580410,
+          "edge_id": 17964090,
+          "explanation": "",
+          "id": 25001633,
+          "index": 6,
+          "options": [
+            "どこで",
+            "どこに",
+            "どこかに",
+            "どこかで"
+          ],
+          "question_node_id": 20390135,
+          "question_text": "【　　　】コーヒーを飲みませんか。\n\n①どこで\n②どこに\n③どこかに\n④どこかで",
+          "stem": "【　　　】コーヒーを飲みませんか。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "もう",
+          "book_id": 1580410,
+          "edge_id": 17964092,
+          "explanation": "",
+          "id": 25001634,
+          "index": 7,
+          "options": [
+            "これから",
+            "もう",
+            "まだ",
+            "今に"
+          ],
+          "question_node_id": 20390141,
+          "question_text": "明日の準備は【　　　】してしまいました。\n\n①これから\n②もう\n③まだ\n④今に",
+          "stem": "明日の準備は【　　　】してしまいました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580410,
+          "edge_id": 17964093,
+          "explanation": "",
+          "id": 25001635,
+          "index": 8,
+          "options": [
+            "で",
+            "と",
+            "が",
+            "に"
+          ],
+          "question_node_id": 20390142,
+          "question_text": "壁に絵【　　　】かけてあります。\n\n①で\n②と\n③が\n④に",
+          "stem": "壁に絵【　　　】かけてあります。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "は",
+          "book_id": 1580410,
+          "edge_id": 17964094,
+          "explanation": "",
+          "id": 25001636,
+          "index": 9,
+          "options": [
+            "は",
+            "が",
+            "の",
+            "に"
+          ],
+          "question_node_id": 20390136,
+          "question_text": "すみません、ごみ箱はどこですか。・・・ごみ箱【　　　】机の右に置いてあります。\n\n①は\n②が\n③の\n④に",
+          "stem": "すみません、ごみ箱はどこですか。・・・ごみ箱【　　　】机の右に置いてあります。"
+        }
+      ],
+      "task_id": 112455835,
+      "task_order": 21
+    },
+    {
+      "book_id": 1580411,
+      "book_name": "JLPT N4_24ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "おきます",
+          "book_id": 1580411,
+          "edge_id": 17964096,
+          "explanation": "",
+          "id": 25001637,
+          "index": 0,
+          "options": [
+            "あけます",
+            "あきます",
+            "おきます",
+            "おこします"
+          ],
+          "question_node_id": 20390149,
+          "question_text": "パーティーのまえに、料理を作って【　　　】。\n\n①あけます\n②あきます\n③おきます\n④おこします",
+          "stem": "パーティーのまえに、料理を作って【　　　】。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "習った",
+          "book_id": 1580411,
+          "edge_id": 17964098,
+          "explanation": "",
+          "id": 25001638,
+          "index": 1,
+          "options": [
+            "言う",
+            "習う",
+            "習った",
+            "なった"
+          ],
+          "question_node_id": 20390143,
+          "question_text": "母に【　　　】とおりに料理しました。\n\n①言う\n②習う\n③習った\n④なった",
+          "stem": "母に【　　　】とおりに料理しました。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "の",
+          "book_id": 1580411,
+          "edge_id": 17964103,
+          "explanation": "",
+          "id": 25001639,
+          "index": 2,
+          "options": [
+            "×",
+            "の",
+            "で",
+            "と"
+          ],
+          "question_node_id": 20390146,
+          "question_text": "説明書【　　　】とおりに組み立ててください。\n\n①×\n②の\n③で\n④と",
+          "stem": "説明書【　　　】とおりに組み立ててください。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "おって",
+          "book_id": 1580411,
+          "edge_id": 17964097,
+          "explanation": "",
+          "id": 25001640,
+          "index": 3,
+          "options": [
+            "おきて",
+            "おわって",
+            "おって",
+            "おりて"
+          ],
+          "question_node_id": 20390144,
+          "question_text": "この通りに紙を【　　　】ください。\n\n①おきて\n②おわって\n③おって\n④おりて",
+          "stem": "この通りに紙を【　　　】ください。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "の",
+          "book_id": 1580411,
+          "edge_id": 17976697,
+          "explanation": "",
+          "id": 25001641,
+          "index": 4,
+          "options": [
+            "の",
+            "に",
+            "で",
+            "が"
+          ],
+          "question_node_id": 20412201,
+          "question_text": "今晩食事【　　　】あとで映画を見ませんか。\n\n①の\n②に\n③で\n④が",
+          "stem": "今晩食事【　　　】あとで映画を見ませんか。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "食べないで",
+          "book_id": 1580411,
+          "edge_id": 17964101,
+          "explanation": "",
+          "id": 25001642,
+          "index": 5,
+          "options": [
+            "食べない",
+            "食べなくて",
+            "食べるな",
+            "食べないで"
+          ],
+          "question_node_id": 20390147,
+          "question_text": "いつも朝ご飯を【　　　】学校へ行きます。\n\n①食べない\n②食べなくて\n③食べるな\n④食べないで",
+          "stem": "いつも朝ご飯を【　　　】学校へ行きます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "どこも",
+          "book_id": 1580411,
+          "edge_id": 17964105,
+          "explanation": "",
+          "id": 25001643,
+          "index": 6,
+          "options": [
+            "どこも",
+            "どこに",
+            "どこ",
+            "どこの"
+          ],
+          "question_node_id": 20390145,
+          "question_text": "日曜日【　　　】行かないでうちにいます。\n\n①どこも\n②どこに\n④どこ\n④どこの",
+          "stem": "日曜日【　　　】行かないでうちにいます。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580411,
+          "edge_id": 17964100,
+          "explanation": "",
+          "id": 25001644,
+          "index": 7,
+          "options": [
+            "の",
+            "に",
+            "を",
+            "で"
+          ],
+          "question_node_id": 20390150,
+          "question_text": "電車の中で忘れ物【　　　】気づきました。\n\n①の\n②に\n③を\n④で",
+          "stem": "電車の中で忘れ物【　　　】気づきました。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "なれば",
+          "book_id": 1580411,
+          "edge_id": 17964104,
+          "explanation": "",
+          "id": 25001645,
+          "index": 8,
+          "options": [
+            "なれれば",
+            "なれば",
+            "なりたければ",
+            "なければ"
+          ],
+          "question_node_id": 20390151,
+          "question_text": "春に【　　　】、桜が咲きます。\n\n①なれれば\n②なれば\n③なりたければ\n④なければ",
+          "stem": "春に【　　　】、桜が咲きます。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "おさなければ",
+          "book_id": 1580411,
+          "edge_id": 17964102,
+          "explanation": "",
+          "id": 25001646,
+          "index": 9,
+          "options": [
+            "きえれば",
+            "ながせば",
+            "はいれば",
+            "おさなければ"
+          ],
+          "question_node_id": 20390152,
+          "question_text": "スイッチを【　　　】使えません。\n\n①きえれば\n②ながせば\n③はいれば\n④おさなければ",
+          "stem": "スイッチを【　　　】使えません。"
+        }
+      ],
+      "task_id": 112455836,
+      "task_order": 22
+    },
+    {
+      "book_id": 1580412,
+      "book_name": "JLPT N4_25ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "いけば",
+          "book_id": 1580412,
+          "edge_id": 17964109,
+          "explanation": "",
+          "id": 25001647,
+          "index": 0,
+          "options": [
+            "いけば",
+            "使わなければ",
+            "乗れば",
+            "乗らなければ"
+          ],
+          "question_node_id": 20390155,
+          "question_text": "タクシーで【　　　】間に合います。\n\n①いけば\n②使わなければ\n③乗れば\n④乗らなければ",
+          "stem": "タクシーで【　　　】間に合います。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "晴れれば",
+          "book_id": 1580412,
+          "edge_id": 17964107,
+          "explanation": "",
+          "id": 25001648,
+          "index": 1,
+          "options": [
+            "晴れたから",
+            "晴れに",
+            "晴れれば",
+            "晴れに"
+          ],
+          "question_node_id": 20390154,
+          "question_text": "明日【　　　】海へ行きます。\n\n①晴れたから\n②晴れに\n③晴れれば\n④晴れに",
+          "stem": "明日【　　　】海へ行きます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580412,
+          "edge_id": 17964115,
+          "explanation": "",
+          "id": 25001649,
+          "index": 2,
+          "options": [
+            "が",
+            "を",
+            "に",
+            "で"
+          ],
+          "question_node_id": 20390157,
+          "question_text": "この間、先生【　　　】絵はがきをくださいました。\n\n①が\n②を\n③に\n④で",
+          "stem": "この間、先生【　　　】絵はがきをくださいました。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580412,
+          "edge_id": 17964114,
+          "explanation": "",
+          "id": 25001650,
+          "index": 3,
+          "options": [
+            "の",
+            "へ",
+            "に",
+            "を"
+          ],
+          "question_node_id": 20390158,
+          "question_text": "このお菓子、おみやげ【　　　】いいですね。\n\n①の\n②へ\n③に\n④を",
+          "stem": "このお菓子、おみやげ【　　　】いいですね。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "が",
+          "book_id": 1580412,
+          "edge_id": 17964106,
+          "explanation": "",
+          "id": 25001651,
+          "index": 4,
+          "options": [
+            "へ",
+            "が",
+            "で",
+            "を"
+          ],
+          "question_node_id": 20390153,
+          "question_text": "冬のボーナス【　　　】楽しみです。\n\n①へ\n②が\n③で\n④を",
+          "stem": "冬のボーナス【　　　】楽しみです。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "消えそう",
+          "book_id": 1580412,
+          "edge_id": 17964111,
+          "explanation": "",
+          "id": 25001652,
+          "index": 5,
+          "options": [
+            "消えそう",
+            "消えなくて",
+            "消えるそう",
+            "消えては"
+          ],
+          "question_node_id": 20390156,
+          "question_text": "あ、ガスの火が【　　　】です。窓を閉めてください。\n\n①消えそう\n②消えなくて\n③消えるそう\n④消えては",
+          "stem": "あ、ガスの火が【　　　】です。窓を閉めてください。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "やさしそう",
+          "book_id": 1580412,
+          "edge_id": 17964110,
+          "explanation": "",
+          "id": 25001653,
+          "index": 6,
+          "options": [
+            "やさしいだそう",
+            "やさしそう",
+            "やさしい",
+            "やさしいそう"
+          ],
+          "question_node_id": 20390162,
+          "question_text": "これ、山田さんのお姉さんの写真ですか？お姉さんは【　　　】な人ですね。\n\n①やさしいだそう\n②やさしそう\n③やさしい\n④やさしいそう",
+          "stem": "これ、山田さんのお姉さんの写真ですか？お姉さんは【　　　】な人ですね。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "飲みすぎ",
+          "book_id": 1580412,
+          "edge_id": 17964108,
+          "explanation": "",
+          "id": 25001654,
+          "index": 7,
+          "options": [
+            "飲むすぎ",
+            "飲みますぎ",
+            "飲んですぎ",
+            "飲みすぎ"
+          ],
+          "question_node_id": 20390159,
+          "question_text": "きのうお酒を【　　　】て、頭が痛いです。\n\n①飲むすぎ\n②飲みますぎ\n③飲んですぎ\n④飲みすぎ",
+          "stem": "きのうお酒を【　　　】て、頭が痛いです。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1580412,
+          "edge_id": 17964113,
+          "explanation": "",
+          "id": 25001655,
+          "index": 8,
+          "options": [
+            "に",
+            "を",
+            "旅行の写真",
+            "見せて"
+          ],
+          "question_node_id": 20390160,
+          "question_text": "鈴木さん【　　　】【　　　】【　★　】【　　　】いただきました。\n\n①に\n②を\n③旅行の写真\n④見せて",
+          "stem": "鈴木さん【　　　】【　　　】【　★　】【　　　】いただきました。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "通う",
+          "book_id": 1580412,
+          "edge_id": 17964112,
+          "explanation": "",
+          "id": 25001656,
+          "index": 9,
+          "options": [
+            "通う",
+            "に",
+            "のに",
+            "会社"
+          ],
+          "question_node_id": 20390161,
+          "question_text": "このアパートは駅から近いので、【　　　】【　　　】【    ★　】【　　　】便利です。\n\n①通う\n②に\n③のに\n④会社",
+          "stem": "このアパートは駅から近いので、【　　　】【　　　】【    ★　】【　　　】便利です。"
+        }
+      ],
+      "task_id": 112455837,
+      "task_order": 23
+    },
+    {
+      "book_id": 1580413,
+      "book_name": "JLPT N4_26ぶんぽう",
+      "level": "N4_GRAMMAR",
+      "question_count": 10,
+      "questions": [
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "寒く",
+          "book_id": 1580413,
+          "edge_id": 17964118,
+          "explanation": "",
+          "id": 25001657,
+          "index": 0,
+          "options": [
+            "は",
+            "寒く",
+            "なりそう",
+            "夜"
+          ],
+          "question_node_id": 20390164,
+          "question_text": "【　　　】【　　　】【　★　】【　　　】ですから、コートを着て行きます。\n\n①は\n②寒く\n③なりそう\n④夜",
+          "stem": "【　　　】【　　　】【　★　】【　　　】ですから、コートを着て行きます。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "ニ倍",
+          "book_id": 1580413,
+          "edge_id": 17976698,
+          "explanation": "",
+          "id": 25001658,
+          "index": 1,
+          "options": [
+            "大きさ",
+            "ニ倍",
+            "を",
+            "に"
+          ],
+          "question_node_id": 20412202,
+          "question_text": "字の【　　　】【　　　】【　★　】【　　　】します。\n\n①大きさ\n②ニ倍\n③を\n④に",
+          "stem": "字の【　　　】【　　　】【　★　】【　　　】します。"
+        },
+        {
+          "answer_index": 2,
+          "answer_node_id": null,
+          "answer_text": "を",
+          "book_id": 1580413,
+          "edge_id": 17964122,
+          "explanation": "",
+          "id": 25001659,
+          "index": 2,
+          "options": [
+            "へ",
+            "に",
+            "を",
+            "が"
+          ],
+          "question_node_id": 20390172,
+          "question_text": "わたしは子ども【　　　】駅まで歩かせます。\n\n①へ\n②に\n③を\n④が",
+          "stem": "わたしは子ども【　　　】駅まで歩かせます。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580413,
+          "edge_id": 17964123,
+          "explanation": "",
+          "id": 25001660,
+          "index": 3,
+          "options": [
+            "へ",
+            "に",
+            "を",
+            "が"
+          ],
+          "question_node_id": 20390163,
+          "question_text": "先生は学生【　　　】レポートを書かせます。\n\n①へ\n②に\n③を\n④が",
+          "stem": "先生は学生【　　　】レポートを書かせます。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "に",
+          "book_id": 1580413,
+          "edge_id": 17964121,
+          "explanation": "",
+          "id": 25001661,
+          "index": 4,
+          "options": [
+            "に",
+            "を",
+            "で",
+            "へ"
+          ],
+          "question_node_id": 20390170,
+          "question_text": "忙しいので、毎日子ども【　　　】朝ごはんを準備させています。\n\n①に\n②を\n③で\n④へ",
+          "stem": "忙しいので、毎日子ども【　　　】朝ごはんを準備させています。"
+        },
+        {
+          "answer_index": 3,
+          "answer_node_id": null,
+          "answer_text": "10月な",
+          "book_id": 1580413,
+          "edge_id": 17964119,
+          "explanation": "",
+          "id": 25001662,
+          "index": 5,
+          "options": [
+            "10月だ",
+            "10月",
+            "10月で",
+            "10月な"
+          ],
+          "question_node_id": 20390166,
+          "question_text": "もう【　　　】のに、今日は暑いですね。・・・ええ、そうですね。\n\n①10月だ\n②10月\n③10月で\n④10月な",
+          "stem": "もう【　　　】のに、今日は暑いですね。・・・ええ、そうですね。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "いただけ",
+          "book_id": 1580413,
+          "edge_id": 17964125,
+          "explanation": "",
+          "id": 25001663,
+          "index": 6,
+          "options": [
+            "いただいて",
+            "いただけ",
+            "いただき",
+            "いただく"
+          ],
+          "question_node_id": 20390168,
+          "question_text": "この問題がわからないんですが、教えて【　　　】ませんか。\n\n①いただいて\n②いただけ\n③いただき\n④いただく",
+          "stem": "この問題がわからないんですが、教えて【　　　】ませんか。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "ありますか",
+          "book_id": 1580413,
+          "edge_id": 17964116,
+          "explanation": "",
+          "id": 25001664,
+          "index": 7,
+          "options": [
+            "ありますか",
+            "あるんですか",
+            "ないんですか",
+            "なかったんですか"
+          ],
+          "question_node_id": 20390167,
+          "question_text": "先生、頭が痛いんですが、薬が【　　　】。\n\n①ありますか\n②あるんですか\n③ないんですか\n④なかったんですか",
+          "stem": "先生、頭が痛いんですが、薬が【　　　】。"
+        },
+        {
+          "answer_index": 0,
+          "answer_node_id": null,
+          "answer_text": "遅れました",
+          "book_id": 1580413,
+          "edge_id": 17976759,
+          "explanation": "",
+          "id": 25001665,
+          "index": 8,
+          "options": [
+            "遅れました",
+            "遅れたんです",
+            "遅れて",
+            "遅れ"
+          ],
+          "question_node_id": 20412243,
+          "question_text": "電車が【　　　】から時間に間に合いませんでした。\n\n①遅れました\n②遅れたんです\n③遅れて\n④遅れ",
+          "stem": "電車が【　　　】から時間に間に合いませんでした。"
+        },
+        {
+          "answer_index": 1,
+          "answer_node_id": null,
+          "answer_text": "聞こえます",
+          "book_id": 1580413,
+          "edge_id": 17964124,
+          "explanation": "",
+          "id": 25001666,
+          "index": 9,
+          "options": [
+            "聞けます",
+            "聞こえます",
+            "聞いています",
+            "聞きません"
+          ],
+          "question_node_id": 20390171,
+          "question_text": "庭から鳥の声が【　　　】。\n\n①聞けます\n②聞こえます\n③聞いています\n④聞きません",
+          "stem": "庭から鳥の声が【　　　】。"
+        }
+      ],
+      "task_id": 112455838,
+      "task_order": 24
+    }
+  ],
+  "class_id": 1073620,
+  "level": "N4_GRAMMAR",
+  "question_count": 240
+}
