@@ -45,6 +45,14 @@ The Blueprint wires `DATABASE_URL` to the Render PostgreSQL internal connection
 string. The pre-deploy command imports the bundled `import_data` question data
 before the service starts.
 
+If you create the Render web service manually instead of using the Blueprint,
+create a Render PostgreSQL database first and add this environment variable to
+the web service:
+
+```text
+DATABASE_URL=<your Render PostgreSQL internal connection string>
+```
+
 Health check:
 
 ```text
