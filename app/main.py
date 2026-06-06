@@ -8,7 +8,7 @@ from datetime import timedelta
 
 from fastapi import Depends, FastAPI, Header, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
-from sqlalchemy import select
+from sqlalchemy import select, text
 from sqlalchemy.orm import Session, selectinload
 
 from .database import Base, engine, get_db
@@ -62,6 +62,7 @@ def startup() -> None:
     with Session(engine) as db:
         ensure_schema(db)
         ensure_default_user(db)
+        sync_postgres_sequences(db)
 
 
 def hash_password(password: str, salt: str | None = None) -> str:
@@ -119,6 +120,24 @@ def ensure_default_user(db: Session) -> User:
     db.commit()
     db.refresh(user)
     return user
+
+
+def sync_postgres_sequences(db: Session) -> None:
+    if not engine.url.drivername.startswith("postgresql"):
+        return
+
+    db.execute(
+        text(
+            """
+            SELECT setval(
+                pg_get_serial_sequence('users', 'id'),
+                GREATEST((SELECT COALESCE(MAX(id), 1) FROM users), 1),
+                (SELECT COUNT(*) > 0 FROM users)
+            )
+            """
+        )
+    )
+    db.commit()
 
 
 def get_current_user(
