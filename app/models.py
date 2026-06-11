@@ -1,6 +1,7 @@
 from datetime import datetime
 
 from sqlalchemy import (
+    BigInteger,
     DateTime,
     ForeignKey,
     Integer,
@@ -135,3 +136,131 @@ class WrongQuestion(Base):
     wrong_count: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
     last_chosen_option_id: Mapped[int | None] = mapped_column(ForeignKey("options.id"))
     last_wrong_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+
+
+class Exam(Base):
+    __tablename__ = "exams"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    external_id: Mapped[str] = mapped_column(String(32), unique=True, index=True, nullable=False)
+    level: Mapped[str] = mapped_column(String(16), index=True, nullable=False)
+    title: Mapped[str] = mapped_column(String(255), nullable=False)
+    exam_date: Mapped[int | None] = mapped_column(BigInteger)
+    exam_type: Mapped[str] = mapped_column(String(32), default="", nullable=False)
+    is_published: Mapped[int] = mapped_column(Integer, default=1, nullable=False)
+    media_id: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    media_path: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    vocabulary_num: Mapped[int | None] = mapped_column(Integer)
+    grammar_num: Mapped[int | None] = mapped_column(Integer)
+    reading_num: Mapped[int | None] = mapped_column(Integer)
+    listening_num: Mapped[int | None] = mapped_column(Integer)
+    duration_json: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    layer_count: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
+    question_count: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
+
+    layers: Mapped[list["ExamLayer"]] = relationship(
+        back_populates="exam", cascade="all, delete-orphan"
+    )
+    questions: Mapped[list["ExamQuestion"]] = relationship(
+        back_populates="exam", cascade="all, delete-orphan"
+    )
+
+
+class ExamLayer(Base):
+    __tablename__ = "exam_layers"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    external_id: Mapped[str] = mapped_column(String(32), unique=True, index=True, nullable=False)
+    exam_id: Mapped[int] = mapped_column(ForeignKey("exams.id"), index=True, nullable=False)
+    order_index: Mapped[int] = mapped_column(Integer, nullable=False)
+    title: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    question_type: Mapped[int | None] = mapped_column(Integer)
+    data_type: Mapped[int | None] = mapped_column(Integer)
+    questions_num: Mapped[int | None] = mapped_column(Integer)
+    question_count: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
+
+    exam: Mapped[Exam] = relationship(back_populates="layers")
+    questions: Mapped[list["ExamQuestion"]] = relationship(
+        back_populates="layer", cascade="all, delete-orphan"
+    )
+
+
+class ExamQuestion(Base):
+    __tablename__ = "exam_questions"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    external_id: Mapped[str] = mapped_column(String(32), unique=True, index=True, nullable=False)
+    exam_id: Mapped[int] = mapped_column(ForeignKey("exams.id"), index=True, nullable=False)
+    layer_id: Mapped[int] = mapped_column(ForeignKey("exam_layers.id"), index=True, nullable=False)
+    order_index: Mapped[int] = mapped_column(Integer, nullable=False)
+    level: Mapped[str] = mapped_column(String(16), index=True, nullable=False)
+    question_type: Mapped[int | None] = mapped_column(Integer)
+    data_type: Mapped[int | None] = mapped_column(Integer)
+    identity_json: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    title: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    passage: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    analysis: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    translation: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    subtitle: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    parent_external_id: Mapped[str] = mapped_column(String(32), default="", nullable=False)
+    image_id: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    image_path: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    media_id: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    media_path: Mapped[str] = mapped_column(Text, default="", nullable=False)
+    created_at_text: Mapped[str] = mapped_column(String(64), default="", nullable=False)
+    updated_at_text: Mapped[str] = mapped_column(String(64), default="", nullable=False)
+
+    exam: Mapped[Exam] = relationship(back_populates="questions")
+    layer: Mapped[ExamLayer] = relationship(back_populates="questions")
+    options: Mapped[list["ExamOption"]] = relationship(
+        back_populates="question", cascade="all, delete-orphan"
+    )
+
+
+class ExamOption(Base):
+    __tablename__ = "exam_options"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    question_id: Mapped[int] = mapped_column(
+        ForeignKey("exam_questions.id"), index=True, nullable=False
+    )
+    text: Mapped[str] = mapped_column(Text, nullable=False)
+    is_correct: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
+    source_order: Mapped[int] = mapped_column(Integer, nullable=False)
+
+    question: Mapped[ExamQuestion] = relationship(back_populates="options")
+
+
+class ExamAttempt(Base):
+    __tablename__ = "exam_attempts"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), index=True, nullable=False)
+    exam_id: Mapped[int] = mapped_column(ForeignKey("exams.id"), index=True, nullable=False)
+    level: Mapped[str] = mapped_column(String(16), index=True, nullable=False)
+    title: Mapped[str] = mapped_column(String(255), nullable=False)
+    correct: Mapped[int] = mapped_column(Integer, nullable=False)
+    total: Mapped[int] = mapped_column(Integer, nullable=False)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+
+    answers: Mapped[list["ExamAttemptAnswer"]] = relationship(
+        back_populates="attempt", cascade="all, delete-orphan"
+    )
+
+
+class ExamAttemptAnswer(Base):
+    __tablename__ = "exam_attempt_answers"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    attempt_id: Mapped[int] = mapped_column(
+        ForeignKey("exam_attempts.id"), index=True, nullable=False
+    )
+    user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), index=True, nullable=False)
+    question_id: Mapped[int] = mapped_column(
+        ForeignKey("exam_questions.id"), index=True, nullable=False
+    )
+    chosen_option_id: Mapped[int | None] = mapped_column(ForeignKey("exam_options.id"))
+    correct_option_id: Mapped[int] = mapped_column(ForeignKey("exam_options.id"), nullable=False)
+    is_correct: Mapped[int] = mapped_column(Integer, nullable=False)
+
+    attempt: Mapped[ExamAttempt] = relationship(back_populates="answers")

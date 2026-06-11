@@ -5,9 +5,12 @@ import hmac
 import secrets
 from datetime import datetime
 from datetime import timedelta
+from pathlib import Path
+from urllib.parse import quote
 
 from fastapi import Depends, FastAPI, Header, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from sqlalchemy import select, text
 from sqlalchemy.orm import Session, selectinload
 
@@ -16,6 +19,12 @@ from .models import (
     Attempt,
     AttemptAnswer,
     Book,
+    Exam,
+    ExamAttempt,
+    ExamAttemptAnswer,
+    ExamLayer,
+    ExamOption,
+    ExamQuestion,
     Option,
     Question,
     User,
@@ -29,6 +38,14 @@ from .schemas import (
     AttemptIn,
     AttemptOut,
     BookOut,
+    ExamAttemptIn,
+    ExamAttemptOut,
+    ExamAttemptAnswerOut,
+    ExamDetailOut,
+    ExamLayerOut,
+    ExamOptionOut,
+    ExamOut,
+    ExamQuestionOut,
     LoginIn,
     QuizOptionOut,
     QuizOut,
@@ -45,6 +62,12 @@ DEFAULT_USER_ID = 1
 DEFAULT_DAVID_PASSWORD = os.getenv("DEFAULT_DAVID_PASSWORD", "214423")
 SESSION_DAYS = 30
 JLPT_LEVELS = {"N5", "N4", "N3", "N2", "N1"}
+ASSETS_DIR = Path(
+    os.getenv(
+        "EXAM_ASSETS_DIR",
+        Path(__file__).resolve().parents[2] / "mojitest_spider" / "data" / "assets",
+    )
+)
 
 app = FastAPI(title="Japanese Study API")
 
@@ -56,6 +79,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+if ASSETS_DIR.exists():
+    app.mount("/assets", StaticFiles(directory=ASSETS_DIR), name="assets")
 
 
 @app.on_event("startup")
@@ -92,6 +118,7 @@ def verify_password(password: str, password_hash: str) -> bool:
 def ensure_schema(db: Session) -> None:
     if engine.url.drivername.startswith("postgresql"):
         db.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS current_level VARCHAR(16) NOT NULL DEFAULT 'N5'"))
+        db.execute(text("ALTER TABLE exam_questions ADD COLUMN IF NOT EXISTS passage TEXT NOT NULL DEFAULT ''"))
         db.commit()
         return
 
@@ -109,6 +136,15 @@ def ensure_schema(db: Session) -> None:
     if "current_level" not in columns:
         db.connection().exec_driver_sql(
             "ALTER TABLE users ADD COLUMN current_level VARCHAR(16) NOT NULL DEFAULT 'N5'"
+        )
+        db.commit()
+
+    question_columns = {
+        row[1] for row in db.connection().exec_driver_sql("PRAGMA table_info(exam_questions)").all()
+    }
+    if "passage" not in question_columns:
+        db.connection().exec_driver_sql(
+            "ALTER TABLE exam_questions ADD COLUMN passage TEXT NOT NULL DEFAULT ''"
         )
         db.commit()
 
@@ -225,6 +261,116 @@ def build_quiz(
         book_id=book_id,
         questions=[question_to_quiz_out(question) for question in questions],
     )
+
+
+def asset_url(path: str) -> str:
+    if not path:
+        return ""
+    try:
+        relative = Path(path).resolve().relative_to(ASSETS_DIR.resolve())
+    except ValueError:
+        relative = Path(path)
+    return "/assets/" + quote(str(relative).replace("\\", "/"))
+
+
+def exam_to_out(exam: Exam) -> ExamOut:
+    return ExamOut(
+        id=exam.id,
+        external_id=exam.external_id,
+        level=exam.level,
+        title=exam.title,
+        exam_date=exam.exam_date,
+        media_url=asset_url(exam.media_path),
+        question_count=exam.question_count,
+        layer_count=exam.layer_count,
+        vocabulary_num=exam.vocabulary_num,
+        grammar_num=exam.grammar_num,
+        reading_num=exam.reading_num,
+        listening_num=exam.listening_num,
+    )
+
+
+def exam_question_to_out(question: ExamQuestion) -> ExamQuestionOut:
+    return ExamQuestionOut(
+        id=question.id,
+        external_id=question.external_id,
+        layer_id=question.layer_id,
+        layer_external_id=question.layer.external_id,
+        order_index=question.order_index,
+        question_type=question.question_type,
+        data_type=question.data_type,
+        title=question.title,
+        passage=question.passage,
+        analysis=question.analysis,
+        translation=question.translation,
+        subtitle=question.subtitle,
+        image_url=asset_url(question.image_path),
+        media_url=asset_url(question.media_path),
+        options=[
+            ExamOptionOut(id=option.id, text=option.text, source_order=option.source_order)
+            for option in sorted(question.options, key=lambda item: item.source_order)
+        ],
+    )
+
+
+def exam_attempt_to_out(
+    attempt: ExamAttempt,
+    answers: list[ExamAttemptAnswerOut] | None = None,
+) -> ExamAttemptOut:
+    return ExamAttemptOut(
+        id=attempt.id,
+        exam_id=attempt.exam_id,
+        level=attempt.level,
+        title=attempt.title,
+        correct=attempt.correct,
+        total=attempt.total,
+        created_at=attempt.created_at,
+        answers=answers or [],
+    )
+
+
+def exam_attempt_answers_to_out(db: Session, attempt: ExamAttempt) -> list[ExamAttemptAnswerOut]:
+    rows = list(
+        db.scalars(
+            select(ExamAttemptAnswer).where(ExamAttemptAnswer.attempt_id == attempt.id)
+        )
+    )
+    question_ids = [row.question_id for row in rows]
+    option_ids = {
+        option_id
+        for row in rows
+        for option_id in (row.chosen_option_id, row.correct_option_id)
+        if option_id
+    }
+    questions = {
+        question.id: question
+        for question in db.scalars(
+            select(ExamQuestion).where(ExamQuestion.id.in_(question_ids))
+        )
+    }
+    options = {
+        option.id: option
+        for option in db.scalars(select(ExamOption).where(ExamOption.id.in_(option_ids)))
+    }
+
+    answers: list[ExamAttemptAnswerOut] = []
+    for row in sorted(rows, key=lambda item: questions[item.question_id].order_index):
+        question = questions[row.question_id]
+        chosen_option = options.get(row.chosen_option_id) if row.chosen_option_id else None
+        correct_option = options[row.correct_option_id]
+        answers.append(
+            ExamAttemptAnswerOut(
+                question_id=question.id,
+                title=question.title,
+                chosen_option_id=chosen_option.id if chosen_option else None,
+                chosen_text=chosen_option.text if chosen_option else None,
+                correct_option_id=correct_option.id,
+                answer_text=correct_option.text,
+                analysis=question.analysis,
+                is_correct=bool(row.is_correct),
+            )
+        )
+    return answers
 
 
 @app.get("/api/health")
@@ -356,6 +502,163 @@ def book_quiz(
     )
 
 
+@app.get("/api/exams", response_model=list[ExamOut])
+def exams(
+    level: str = Query(...),
+    db: Session = Depends(get_db),
+) -> list[ExamOut]:
+    rows = list(
+        db.scalars(
+            select(Exam)
+            .where(Exam.level == level)
+            .order_by(Exam.exam_date.desc().nullslast(), Exam.title.desc())
+        )
+    )
+    return [exam_to_out(row) for row in rows]
+
+
+@app.get("/api/exams/{exam_id}", response_model=ExamDetailOut)
+def exam_detail(exam_id: int, db: Session = Depends(get_db)) -> ExamDetailOut:
+    exam = db.scalar(
+        select(Exam)
+        .where(Exam.id == exam_id)
+        .options(selectinload(Exam.layers))
+    )
+    if not exam:
+        raise HTTPException(status_code=404, detail="Exam not found")
+
+    base = exam_to_out(exam).model_dump()
+    base["layers"] = [
+        ExamLayerOut.model_validate(layer)
+        for layer in sorted(exam.layers, key=lambda item: item.order_index)
+    ]
+    return ExamDetailOut(**base)
+
+
+@app.get("/api/exams/{exam_id}/questions", response_model=list[ExamQuestionOut])
+def exam_questions(exam_id: int, db: Session = Depends(get_db)) -> list[ExamQuestionOut]:
+    exam = db.get(Exam, exam_id)
+    if not exam:
+        raise HTTPException(status_code=404, detail="Exam not found")
+
+    questions = list(
+        db.scalars(
+            select(ExamQuestion)
+            .where(ExamQuestion.exam_id == exam_id)
+            .options(selectinload(ExamQuestion.options), selectinload(ExamQuestion.layer))
+            .order_by(ExamQuestion.order_index)
+        )
+    )
+    return [exam_question_to_out(question) for question in questions]
+
+
+@app.post("/api/exam-attempts", response_model=ExamAttemptOut)
+def create_exam_attempt(
+    payload: ExamAttemptIn,
+    db: Session = Depends(get_db),
+    user: User = Depends(get_current_user),
+) -> ExamAttemptOut:
+    exam = db.get(Exam, payload.exam_id)
+    if not exam:
+        raise HTTPException(status_code=404, detail="Exam not found")
+
+    question_ids = [answer.question_id for answer in payload.answers]
+    questions = {
+        question.id: question
+        for question in db.scalars(
+            select(ExamQuestion)
+            .where(ExamQuestion.id.in_(question_ids), ExamQuestion.exam_id == exam.id)
+            .options(selectinload(ExamQuestion.options))
+        )
+    }
+    if len(questions) != len(set(question_ids)):
+        raise HTTPException(status_code=400, detail="Unknown question in answers")
+
+    created_at = datetime.utcnow()
+    correct_count = 0
+    evaluated: list[ExamAttemptAnswerOut] = []
+    attempt = ExamAttempt(
+        user_id=user.id,
+        exam_id=exam.id,
+        level=exam.level,
+        title=exam.title,
+        correct=0,
+        total=len(payload.answers),
+        created_at=created_at,
+    )
+    db.add(attempt)
+    db.flush()
+
+    for answer in payload.answers:
+        question = questions[answer.question_id]
+        correct_option = next(option for option in question.options if option.is_correct)
+        chosen_option = (
+            db.get(ExamOption, answer.chosen_option_id) if answer.chosen_option_id else None
+        )
+        if chosen_option and chosen_option.question_id != question.id:
+            raise HTTPException(status_code=400, detail="Chosen option does not belong to question")
+
+        is_correct = bool(chosen_option and chosen_option.id == correct_option.id)
+        correct_count += 1 if is_correct else 0
+        db.add(
+            ExamAttemptAnswer(
+                attempt_id=attempt.id,
+                user_id=user.id,
+                question_id=question.id,
+                chosen_option_id=chosen_option.id if chosen_option else None,
+                correct_option_id=correct_option.id,
+                is_correct=1 if is_correct else 0,
+            )
+        )
+        evaluated.append(
+            ExamAttemptAnswerOut(
+                question_id=question.id,
+                title=question.title,
+                chosen_option_id=chosen_option.id if chosen_option else None,
+                chosen_text=chosen_option.text if chosen_option else None,
+                correct_option_id=correct_option.id,
+                answer_text=correct_option.text,
+                analysis=question.analysis,
+                is_correct=is_correct,
+            )
+        )
+
+    attempt.correct = correct_count
+    db.commit()
+    db.refresh(attempt)
+    return exam_attempt_to_out(attempt, evaluated)
+
+
+@app.get("/api/exam-attempts", response_model=list[ExamAttemptOut])
+def exam_attempts(
+    level: str | None = None,
+    limit: int = Query(20, ge=1, le=100),
+    db: Session = Depends(get_db),
+    user: User = Depends(get_current_user),
+) -> list[ExamAttemptOut]:
+    stmt = (
+        select(ExamAttempt)
+        .where(ExamAttempt.user_id == user.id)
+        .order_by(ExamAttempt.created_at.desc())
+    )
+    if level:
+        stmt = stmt.where(ExamAttempt.level == level)
+    stmt = stmt.limit(limit)
+    return [exam_attempt_to_out(row) for row in db.scalars(stmt)]
+
+
+@app.get("/api/exam-attempts/{attempt_id}", response_model=ExamAttemptOut)
+def exam_attempt_detail(
+    attempt_id: int,
+    db: Session = Depends(get_db),
+    user: User = Depends(get_current_user),
+) -> ExamAttemptOut:
+    attempt = db.get(ExamAttempt, attempt_id)
+    if not attempt or attempt.user_id != user.id:
+        raise HTTPException(status_code=404, detail="Exam attempt not found")
+    return exam_attempt_to_out(attempt, exam_attempt_answers_to_out(db, attempt))
+
+
 @app.get("/api/quiz/mixed", response_model=QuizOut)
 def mixed_quiz(
     level: str = Query(...),
@@ -481,6 +784,10 @@ def create_attempt(
                 correct_option_id=correct_option.id,
                 answer_text=correct_option.text,
                 is_correct=is_correct,
+                options=[
+                    QuizOptionOut(id=option.id, text=option.text)
+                    for option in sorted(question.options, key=lambda item: item.source_order)
+                ],
             )
         )
 

@@ -106,6 +106,7 @@ class AttemptAnswerOut(BaseModel):
     correct_option_id: int
     answer_text: str
     is_correct: bool
+    options: list[QuizOptionOut] = []
 
 
 class AttemptOut(BaseModel):
@@ -134,3 +135,93 @@ class WrongQuestionOut(BaseModel):
     wrong_count: int
     last_chosen_text: str | None
     last_wrong_at: datetime
+
+
+class ExamOut(BaseModel):
+    id: int
+    external_id: str
+    level: str
+    title: str
+    exam_date: int | None
+    media_url: str
+    question_count: int
+    layer_count: int
+    vocabulary_num: int | None
+    grammar_num: int | None
+    reading_num: int | None
+    listening_num: int | None
+
+    model_config = ConfigDict(from_attributes=True)
+
+
+class ExamLayerOut(BaseModel):
+    id: int
+    external_id: str
+    order_index: int
+    title: str
+    question_type: int | None
+    data_type: int | None
+    questions_num: int | None
+    question_count: int
+
+    model_config = ConfigDict(from_attributes=True)
+
+
+class ExamOptionOut(BaseModel):
+    id: int
+    text: str
+    source_order: int
+
+
+class ExamQuestionOut(BaseModel):
+    id: int
+    external_id: str
+    layer_id: int
+    layer_external_id: str
+    order_index: int
+    question_type: int | None
+    data_type: int | None
+    title: str
+    passage: str
+    analysis: str
+    translation: str
+    subtitle: str
+    image_url: str
+    media_url: str
+    options: list[ExamOptionOut]
+
+
+class ExamDetailOut(ExamOut):
+    layers: list[ExamLayerOut]
+
+
+class ExamAttemptAnswerIn(BaseModel):
+    question_id: int
+    chosen_option_id: int | None = None
+
+
+class ExamAttemptIn(BaseModel):
+    exam_id: int
+    answers: list[ExamAttemptAnswerIn]
+
+
+class ExamAttemptAnswerOut(BaseModel):
+    question_id: int
+    title: str
+    chosen_option_id: int | None
+    chosen_text: str | None
+    correct_option_id: int
+    answer_text: str
+    analysis: str
+    is_correct: bool
+
+
+class ExamAttemptOut(BaseModel):
+    id: int
+    exam_id: int
+    level: str
+    title: str
+    correct: int
+    total: int
+    created_at: datetime
+    answers: list[ExamAttemptAnswerOut] = []
