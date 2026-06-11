@@ -7,6 +7,7 @@ class UserOut(BaseModel):
     id: int
     username: str
     display_name: str
+    current_level: str = "N5"
 
     model_config = ConfigDict(from_attributes=True)
 
@@ -20,6 +21,10 @@ class UserCreate(BaseModel):
 class LoginIn(BaseModel):
     username: str
     password: str
+
+
+class UserUpdate(BaseModel):
+    current_level: str | None = None
 
 
 class SessionOut(BaseModel):

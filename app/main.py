@@ -36,6 +36,7 @@ from .schemas import (
     SessionOut,
     UserCreate,
     UserOut,
+    UserUpdate,
     WrongQuestionOut,
 )
 
@@ -43,6 +44,7 @@ from .schemas import (
 DEFAULT_USER_ID = 1
 DEFAULT_DAVID_PASSWORD = os.getenv("DEFAULT_DAVID_PASSWORD", "214423")
 SESSION_DAYS = 30
+JLPT_LEVELS = {"N5", "N4", "N3", "N2", "N1"}
 
 app = FastAPI(title="Japanese Study API")
 
@@ -88,6 +90,11 @@ def verify_password(password: str, password_hash: str) -> bool:
 
 
 def ensure_schema(db: Session) -> None:
+    if engine.url.drivername.startswith("postgresql"):
+        db.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS current_level VARCHAR(16) NOT NULL DEFAULT 'N5'"))
+        db.commit()
+        return
+
     if not engine.url.drivername.startswith("sqlite"):
         return
 
@@ -99,6 +106,11 @@ def ensure_schema(db: Session) -> None:
             "ALTER TABLE users ADD COLUMN password_hash VARCHAR(255) NOT NULL DEFAULT ''"
         )
         db.commit()
+    if "current_level" not in columns:
+        db.connection().exec_driver_sql(
+            "ALTER TABLE users ADD COLUMN current_level VARCHAR(16) NOT NULL DEFAULT 'N5'"
+        )
+        db.commit()
 
 
 def ensure_default_user(db: Session) -> User:
@@ -106,6 +118,10 @@ def ensure_default_user(db: Session) -> User:
     if user:
         if not user.password_hash:
             user.password_hash = hash_password(DEFAULT_DAVID_PASSWORD)
+            db.commit()
+            db.refresh(user)
+        if not user.current_level:
+            user.current_level = "N5"
             db.commit()
             db.refresh(user)
         return user
@@ -221,14 +237,34 @@ def me(user: User = Depends(get_current_user)) -> User:
     return user
 
 
-@app.get("/api/users", response_model=list[UserOut])
-def users(db: Session = Depends(get_db)) -> list[User]:
-    ensure_default_user(db)
-    return list(db.scalars(select(User).order_by(User.id)))
+@app.patch("/api/me", response_model=UserOut)
+def update_me(
+    payload: UserUpdate,
+    user: User = Depends(get_current_user),
+    db: Session = Depends(get_db),
+) -> User:
+    if payload.current_level is not None:
+        current_level = payload.current_level.strip().upper()
+        if current_level not in JLPT_LEVELS:
+            raise HTTPException(status_code=400, detail="Invalid JLPT level")
+        user.current_level = current_level
+
+    db.add(user)
+    db.commit()
+    db.refresh(user)
+    return user
 
 
-@app.post("/api/users", response_model=UserOut)
-def create_user(payload: UserCreate, db: Session = Depends(get_db)) -> User:
+@app.post("/api/me/level", response_model=UserOut)
+def update_my_level(
+    payload: UserUpdate,
+    user: User = Depends(get_current_user),
+    db: Session = Depends(get_db),
+) -> User:
+    return update_me(payload, user, db)
+
+
+def create_user(payload: UserCreate, db: Session) -> User:
     username = payload.username.strip()
     display_name = payload.display_name.strip()
     password = payload.password.strip()
