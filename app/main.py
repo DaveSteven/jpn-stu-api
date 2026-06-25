@@ -1,5 +1,6 @@
 import os
 import random
+import json
 import hashlib
 import hmac
 import secrets
@@ -11,7 +12,7 @@ from urllib.parse import quote
 from fastapi import Depends, FastAPI, Header, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from sqlalchemy import select, text
+from sqlalchemy import func, or_, select, text
 from sqlalchemy.orm import Session, selectinload
 
 from .database import Base, engine, get_db
@@ -29,6 +30,11 @@ from .models import (
     Question,
     User,
     UserSession,
+    UserVocabularyProgress,
+    VocabularyCollocation,
+    VocabularyEntry,
+    VocabularyExample,
+    VocabularyRelation,
     WrongQuestion,
 )
 from .schemas import (
@@ -54,6 +60,11 @@ from .schemas import (
     UserCreate,
     UserOut,
     UserUpdate,
+    VocabularyEntryOut,
+    VocabularyExampleOut,
+    VocabularyRelationOut,
+    VocabularyReviewIn,
+    VocabularyStatsOut,
     WrongQuestionOut,
 )
 
@@ -119,6 +130,13 @@ def ensure_schema(db: Session) -> None:
     if engine.url.drivername.startswith("postgresql"):
         db.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS current_level VARCHAR(16) NOT NULL DEFAULT 'N5'"))
         db.execute(text("ALTER TABLE exam_questions ADD COLUMN IF NOT EXISTS passage TEXT NOT NULL DEFAULT ''"))
+        db.execute(text("ALTER TABLE exam_attempt_answers ALTER COLUMN chosen_option_id DROP NOT NULL"))
+        db.execute(text("ALTER TABLE vocabulary_entries ADD COLUMN IF NOT EXISTS transitivity VARCHAR(24)"))
+        db.execute(text("ALTER TABLE vocabulary_relations ADD COLUMN IF NOT EXISTS term_reading_katakana VARCHAR(256) NOT NULL DEFAULT ''"))
+        db.execute(text("ALTER TABLE vocabulary_examples ADD COLUMN IF NOT EXISTS reading_katakana TEXT NOT NULL DEFAULT ''"))
+        db.execute(text("ALTER TABLE vocabulary_examples ADD COLUMN IF NOT EXISTS reading_hiragana TEXT NOT NULL DEFAULT ''"))
+        db.execute(text("ALTER TABLE vocabulary_examples ADD COLUMN IF NOT EXISTS phonetic_guide_json TEXT NOT NULL DEFAULT '[]'"))
+        db.execute(text("ALTER TABLE vocabulary_examples ADD COLUMN IF NOT EXISTS source VARCHAR(64) NOT NULL DEFAULT ''"))
         db.commit()
         return
 
@@ -147,6 +165,108 @@ def ensure_schema(db: Session) -> None:
             "ALTER TABLE exam_questions ADD COLUMN passage TEXT NOT NULL DEFAULT ''"
         )
         db.commit()
+
+    ensure_nullable_exam_chosen_option(db)
+
+    vocabulary_columns = {
+        row[1] for row in db.connection().exec_driver_sql("PRAGMA table_info(vocabulary_relations)").all()
+    }
+    if vocabulary_columns and "term_reading_katakana" not in vocabulary_columns:
+        db.connection().exec_driver_sql(
+            "ALTER TABLE vocabulary_relations ADD COLUMN term_reading_katakana VARCHAR(256) NOT NULL DEFAULT ''"
+        )
+        db.commit()
+
+    example_columns = {
+        row[1] for row in db.connection().exec_driver_sql("PRAGMA table_info(vocabulary_examples)").all()
+    }
+    if example_columns and "reading_katakana" not in example_columns:
+        db.connection().exec_driver_sql(
+            "ALTER TABLE vocabulary_examples ADD COLUMN reading_katakana TEXT NOT NULL DEFAULT ''"
+        )
+        db.commit()
+    if example_columns and "reading_hiragana" not in example_columns:
+        db.connection().exec_driver_sql(
+            "ALTER TABLE vocabulary_examples ADD COLUMN reading_hiragana TEXT NOT NULL DEFAULT ''"
+        )
+        db.commit()
+    if example_columns and "phonetic_guide_json" not in example_columns:
+        db.connection().exec_driver_sql(
+            "ALTER TABLE vocabulary_examples ADD COLUMN phonetic_guide_json TEXT NOT NULL DEFAULT '[]'"
+        )
+        db.commit()
+
+    entry_columns = {
+        row[1] for row in db.connection().exec_driver_sql("PRAGMA table_info(vocabulary_entries)").all()
+    }
+    if entry_columns and "transitivity" not in entry_columns:
+        db.connection().exec_driver_sql(
+            "ALTER TABLE vocabulary_entries ADD COLUMN transitivity VARCHAR(24)"
+        )
+        db.commit()
+    if example_columns and "source" not in example_columns:
+        db.connection().exec_driver_sql(
+            "ALTER TABLE vocabulary_examples ADD COLUMN source VARCHAR(64) NOT NULL DEFAULT ''"
+        )
+        db.commit()
+
+
+def ensure_nullable_exam_chosen_option(db: Session) -> None:
+    columns = db.connection().exec_driver_sql("PRAGMA table_info(exam_attempt_answers)").all()
+    chosen_column = next((row for row in columns if row[1] == "chosen_option_id"), None)
+    if not chosen_column or not chosen_column[3]:
+        return
+
+    db.commit()
+    db.connection().exec_driver_sql("PRAGMA foreign_keys=OFF")
+    db.connection().exec_driver_sql(
+        """
+        CREATE TABLE exam_attempt_answers_new (
+            id INTEGER NOT NULL,
+            attempt_id INTEGER NOT NULL,
+            user_id INTEGER NOT NULL,
+            question_id INTEGER NOT NULL,
+            chosen_option_id INTEGER,
+            correct_option_id INTEGER NOT NULL,
+            is_correct INTEGER NOT NULL,
+            PRIMARY KEY (id),
+            FOREIGN KEY(attempt_id) REFERENCES exam_attempts (id),
+            FOREIGN KEY(user_id) REFERENCES users (id),
+            FOREIGN KEY(question_id) REFERENCES exam_questions (id),
+            FOREIGN KEY(chosen_option_id) REFERENCES exam_options (id),
+            FOREIGN KEY(correct_option_id) REFERENCES exam_options (id)
+        )
+        """
+    )
+    db.connection().exec_driver_sql(
+        """
+        INSERT INTO exam_attempt_answers_new (
+            id,
+            attempt_id,
+            user_id,
+            question_id,
+            chosen_option_id,
+            correct_option_id,
+            is_correct
+        )
+        SELECT
+            id,
+            attempt_id,
+            user_id,
+            question_id,
+            chosen_option_id,
+            correct_option_id,
+            is_correct
+        FROM exam_attempt_answers
+        """
+    )
+    db.connection().exec_driver_sql("DROP TABLE exam_attempt_answers")
+    db.connection().exec_driver_sql("ALTER TABLE exam_attempt_answers_new RENAME TO exam_attempt_answers")
+    db.connection().exec_driver_sql("CREATE INDEX ix_exam_attempt_answers_attempt_id ON exam_attempt_answers (attempt_id)")
+    db.connection().exec_driver_sql("CREATE INDEX ix_exam_attempt_answers_question_id ON exam_attempt_answers (question_id)")
+    db.connection().exec_driver_sql("CREATE INDEX ix_exam_attempt_answers_user_id ON exam_attempt_answers (user_id)")
+    db.connection().exec_driver_sql("PRAGMA foreign_keys=ON")
+    db.commit()
 
 
 def ensure_default_user(db: Session) -> User:
@@ -455,6 +575,169 @@ def logout(
             db.delete(session)
             db.commit()
     return {"status": "ok"}
+
+
+def vocabulary_out(
+    entry: VocabularyEntry,
+    progress: UserVocabularyProgress | None,
+) -> VocabularyEntryOut:
+    return VocabularyEntryOut(
+        id=entry.id,
+        lesson=entry.lesson,
+        frequency_tier=entry.frequency_tier,
+        word=entry.word,
+        reading_hiragana=entry.reading_hiragana,
+        reading_katakana=entry.reading_katakana,
+        part_of_speech=entry.part_of_speech,
+        transitivity=entry.transitivity,
+        meaning_zh=entry.meaning_zh,
+        source_page=entry.source_page,
+        relations=[
+            VocabularyRelationOut(
+                type=item.relation_type,
+                term=item.term,
+                term_reading_katakana=item.term_reading_katakana,
+            )
+            for item in entry.relations
+        ],
+        collocations=[item.text for item in entry.collocations],
+        examples=[
+            VocabularyExampleOut(
+                sentence=item.sentence,
+                reading_hiragana=item.reading_hiragana,
+                phonetic_guide=json.loads(item.phonetic_guide_json or "[]"),
+                source=item.source,
+            )
+            for item in entry.examples
+        ],
+        study_status=progress.status if progress else "new",
+        correct_count=progress.correct_count if progress else 0,
+        review_count=progress.review_count if progress else 0,
+    )
+
+
+@app.get("/api/vocabulary", response_model=list[VocabularyEntryOut])
+def vocabulary(
+    lesson: int | None = Query(default=None, ge=1, le=16),
+    part_of_speech: str | None = Query(default=None),
+    status: str | None = Query(default=None),
+    q: str | None = Query(default=None),
+    limit: int = Query(default=100, ge=1, le=500),
+    offset: int = Query(default=0, ge=0),
+    user: User = Depends(get_current_user),
+    db: Session = Depends(get_db),
+) -> list[VocabularyEntryOut]:
+    statement = (
+        select(VocabularyEntry)
+        .options(
+            selectinload(VocabularyEntry.relations),
+            selectinload(VocabularyEntry.collocations),
+            selectinload(VocabularyEntry.examples),
+        )
+        .order_by(VocabularyEntry.lesson, VocabularyEntry.id)
+    )
+    if lesson is not None:
+        statement = statement.where(VocabularyEntry.lesson == lesson)
+    if part_of_speech in {"noun", "verb", "adverb"}:
+        statement = statement.where(VocabularyEntry.part_of_speech == part_of_speech)
+    if q:
+        query = f"%{q.strip()}%"
+        statement = statement.where(
+            or_(
+                VocabularyEntry.word.ilike(query),
+                VocabularyEntry.reading_hiragana.ilike(query),
+                VocabularyEntry.reading_katakana.ilike(query),
+                VocabularyEntry.meaning_zh.ilike(query),
+                VocabularyEntry.collocations.any(VocabularyCollocation.text.ilike(query)),
+                VocabularyEntry.examples.any(VocabularyExample.sentence.ilike(query)),
+                VocabularyEntry.relations.any(VocabularyRelation.term.ilike(query)),
+            )
+        )
+
+    entries = list(db.scalars(statement.offset(offset).limit(limit)))
+    if not entries:
+        return []
+    progress_by_entry = {
+        row.entry_id: row
+        for row in db.scalars(
+            select(UserVocabularyProgress).where(
+                UserVocabularyProgress.user_id == user.id,
+                UserVocabularyProgress.entry_id.in_([entry.id for entry in entries]),
+            )
+        )
+    }
+    output = [vocabulary_out(entry, progress_by_entry.get(entry.id)) for entry in entries]
+    if status in {"new", "learning", "mastered"}:
+        output = [item for item in output if item.study_status == status]
+    return output
+
+
+@app.get("/api/vocabulary/stats", response_model=VocabularyStatsOut)
+def vocabulary_stats(
+    user: User = Depends(get_current_user),
+    db: Session = Depends(get_db),
+) -> VocabularyStatsOut:
+    total = db.scalar(select(func.count(VocabularyEntry.id))) or 0
+    rows = db.execute(
+        select(UserVocabularyProgress.status, func.count(UserVocabularyProgress.id))
+        .where(UserVocabularyProgress.user_id == user.id)
+        .group_by(UserVocabularyProgress.status)
+    ).all()
+    counts = dict(rows)
+    learning = counts.get("learning", 0)
+    mastered = counts.get("mastered", 0)
+    return VocabularyStatsOut(
+        total=total,
+        new=max(0, total - learning - mastered),
+        learning=learning,
+        mastered=mastered,
+    )
+
+
+@app.post("/api/vocabulary/{entry_id}/review", response_model=VocabularyEntryOut)
+def review_vocabulary(
+    entry_id: int,
+    payload: VocabularyReviewIn,
+    user: User = Depends(get_current_user),
+    db: Session = Depends(get_db),
+) -> VocabularyEntryOut:
+    entry = db.scalar(
+        select(VocabularyEntry)
+        .where(VocabularyEntry.id == entry_id)
+        .options(
+            selectinload(VocabularyEntry.relations),
+            selectinload(VocabularyEntry.collocations),
+            selectinload(VocabularyEntry.examples),
+        )
+    )
+    if not entry:
+        raise HTTPException(status_code=404, detail="Vocabulary entry not found")
+
+    progress = db.scalar(
+        select(UserVocabularyProgress).where(
+            UserVocabularyProgress.user_id == user.id,
+            UserVocabularyProgress.entry_id == entry_id,
+        )
+    )
+    if progress is None:
+        progress = UserVocabularyProgress(
+            user_id=user.id,
+            entry_id=entry_id,
+            status="learning",
+            correct_count=0,
+            review_count=0,
+            last_reviewed_at=datetime.utcnow(),
+        )
+    progress.review_count += 1
+    if payload.remembered:
+        progress.correct_count += 1
+    accuracy = progress.correct_count / progress.review_count
+    progress.status = "mastered" if progress.correct_count >= 3 and accuracy >= 0.75 else "learning"
+    progress.last_reviewed_at = datetime.utcnow()
+    db.add(progress)
+    db.commit()
+    db.refresh(progress)
+    return vocabulary_out(entry, progress)
 
 
 @app.get("/api/books", response_model=list[BookOut])
