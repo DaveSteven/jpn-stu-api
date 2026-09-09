@@ -835,6 +835,36 @@ def exam_questions(exam_id: int, db: Session = Depends(get_db)) -> list[ExamQues
     return [exam_question_to_out(question) for question in questions]
 
 
+@app.post("/api/listening/check", response_model=ExamAttemptAnswerOut)
+def check_listening_answer(
+    payload: ExamAttemptIn,
+    db: Session = Depends(get_db),
+    user: User = Depends(get_current_user),
+) -> ExamAttemptAnswerOut:
+    if len(payload.answers) != 1:
+        raise HTTPException(status_code=400, detail="Exactly one answer is required")
+    answer = payload.answers[0]
+    question = db.scalar(select(ExamQuestion).where(
+        ExamQuestion.id == answer.question_id,
+        ExamQuestion.exam_id == payload.exam_id,
+        ExamQuestion.question_type.between(41, 46),
+    ).options(selectinload(ExamQuestion.options)))
+    if not question:
+        raise HTTPException(status_code=404, detail="Listening question not found")
+    chosen = next((o for o in question.options if o.id == answer.chosen_option_id), None)
+    correct = next((o for o in question.options if o.is_correct), None)
+    if not chosen:
+        raise HTTPException(status_code=400, detail="Choose an option belonging to this question")
+    if not correct:
+        raise HTTPException(status_code=409, detail="Answer unavailable")
+    return ExamAttemptAnswerOut(
+        question_id=question.id, title=question.title,
+        chosen_option_id=chosen.id, chosen_text=chosen.text,
+        correct_option_id=correct.id, answer_text=correct.text,
+        analysis=question.analysis, is_correct=chosen.id == correct.id,
+    )
+
+
 @app.post("/api/exam-attempts", response_model=ExamAttemptOut)
 def create_exam_attempt(
     payload: ExamAttemptIn,
