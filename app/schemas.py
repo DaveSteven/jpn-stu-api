@@ -234,6 +234,12 @@ class ExamQuestionOut(BaseModel):
     options: list[ExamOptionOut]
 
 
+class RandomExamQuestionOut(ExamQuestionOut):
+    exam_id: int
+    exam_title: str
+    practice_order: int
+
+
 class ExamDetailOut(ExamOut):
     layers: list[ExamLayerOut]
 

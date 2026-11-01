@@ -52,6 +52,7 @@ from .schemas import (
     ExamOptionOut,
     ExamOut,
     ExamQuestionOut,
+    RandomExamQuestionOut,
     LoginIn,
     QuizOptionOut,
     QuizOut,
@@ -833,6 +834,52 @@ def exam_questions(exam_id: int, db: Session = Depends(get_db)) -> list[ExamQues
         )
     )
     return [exam_question_to_out(question) for question in questions]
+
+
+@app.get("/api/exam-practice/random", response_model=list[RandomExamQuestionOut])
+def random_exam_practice(
+    level: str = Query(...),
+    types: str = Query(..., description="Comma-separated JLPT question type codes"),
+    limit: int = Query(20, ge=1, le=100),
+    db: Session = Depends(get_db),
+) -> list[RandomExamQuestionOut]:
+    if level not in JLPT_LEVELS:
+        raise HTTPException(status_code=400, detail="Unknown JLPT level")
+    try:
+        question_types = sorted({int(value) for value in types.split(",") if value.strip()})
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail="Invalid question type") from exc
+    if not question_types:
+        raise HTTPException(status_code=400, detail="Choose at least one question type")
+
+    questions = list(
+        db.scalars(
+            select(ExamQuestion)
+            .where(
+                ExamQuestion.level == level,
+                ExamQuestion.question_type.in_(question_types),
+            )
+            .options(
+                selectinload(ExamQuestion.options),
+                selectinload(ExamQuestion.layer),
+                selectinload(ExamQuestion.exam),
+            )
+            .order_by(func.random())
+            .limit(limit)
+        )
+    )
+    if not questions:
+        raise HTTPException(status_code=404, detail="No matching exam questions found")
+
+    return [
+        RandomExamQuestionOut(
+            **exam_question_to_out(question).model_dump(),
+            exam_id=question.exam_id,
+            exam_title=question.exam.title,
+            practice_order=index,
+        )
+        for index, question in enumerate(questions, start=1)
+    ]
 
 
 @app.post("/api/listening/check", response_model=ExamAttemptAnswerOut)
