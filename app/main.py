@@ -13,6 +13,7 @@ from fastapi import Depends, FastAPI, Header, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from sqlalchemy import func, or_, select, text
+from sqlalchemy.exc import IntegrityError
 from sqlalchemy.orm import Session, selectinload
 
 from .database import Base, engine, get_db
@@ -153,6 +154,7 @@ def ensure_schema(db: Session) -> None:
         db.execute(text("ALTER TABLE vocabulary_examples ADD COLUMN IF NOT EXISTS phonetic_guide_json TEXT NOT NULL DEFAULT '[]'"))
         db.execute(text("ALTER TABLE vocabulary_examples ADD COLUMN IF NOT EXISTS source VARCHAR(64) NOT NULL DEFAULT ''"))
         db.execute(text("ALTER TABLE exam_runs ADD COLUMN IF NOT EXISTS attempt_id INTEGER REFERENCES exam_attempts(id)"))
+        db.execute(text("CREATE UNIQUE INDEX IF NOT EXISTS uq_active_exam_run ON exam_runs(user_id, exam_id) WHERE status IN ('in_progress', 'awaiting_section')"))
         db.commit()
         return
 
@@ -1049,9 +1051,42 @@ def start_exam_run(
         started_at=now,
     )
     db.add(run)
-    db.commit()
+    try:
+        db.commit()
+    except IntegrityError:
+        db.rollback()
+        active = db.scalar(
+            select(ExamRun).where(
+                ExamRun.user_id == user.id,
+                ExamRun.exam_id == exam_id,
+                ExamRun.status.in_(["in_progress", "awaiting_section"]),
+            )
+        )
+        if not active:
+            raise
+        return exam_run_to_out(db, active)
     db.refresh(run)
     return exam_run_to_out(db, run)
+
+
+@app.get("/api/exam-runs", response_model=list[ExamRunOut])
+def list_exam_runs(
+    db: Session = Depends(get_db),
+    user: User = Depends(get_authenticated_user),
+) -> list[ExamRunOut]:
+    runs = list(
+        db.scalars(
+            select(ExamRun)
+            .where(
+                ExamRun.user_id == user.id,
+                ExamRun.status.in_(["in_progress", "awaiting_section"]),
+            )
+            .order_by(ExamRun.started_at.desc())
+        )
+    )
+    for run in runs:
+        sync_exam_run_timeout(db, run)
+    return [exam_run_to_out(db, run) for run in runs if run.status != "completed"]
 
 
 @app.get("/api/exam-runs/{run_id}", response_model=ExamRunOut)
@@ -1149,6 +1184,25 @@ def start_exam_run_section(
     run.section_expires_at = now + timedelta(minutes=section.duration_minutes)
     db.commit()
     db.refresh(run)
+    return exam_run_to_out(db, run)
+
+
+@app.post("/api/exam-runs/{run_id}/abandon", response_model=ExamRunOut)
+def abandon_exam_run(
+    run_id: int,
+    db: Session = Depends(get_db),
+    user: User = Depends(get_authenticated_user),
+) -> ExamRunOut:
+    run = db.get(ExamRun, run_id)
+    if not run or run.user_id != user.id:
+        raise HTTPException(status_code=404, detail="Exam run not found")
+    if run.status in {"in_progress", "awaiting_section"}:
+        run.status = "abandoned"
+        run.completed_at = datetime.utcnow()
+        run.section_started_at = None
+        run.section_expires_at = None
+        db.commit()
+        db.refresh(run)
     return exam_run_to_out(db, run)
 
 
