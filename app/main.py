@@ -26,6 +26,8 @@ from .models import (
     ExamLayer,
     ExamOption,
     ExamQuestion,
+    ExamRun,
+    ExamRunAnswer,
     Option,
     Question,
     User,
@@ -53,6 +55,9 @@ from .schemas import (
     ExamOut,
     ExamQuestionOut,
     ExamQuestionReviewOut,
+    ExamRunOut,
+    ExamRunAnswerIn,
+    ExamSectionOut,
     RandomExamQuestionOut,
     LoginIn,
     QuizOptionOut,
@@ -75,6 +80,14 @@ DEFAULT_USER_ID = 1
 DEFAULT_DAVID_PASSWORD = os.getenv("DEFAULT_DAVID_PASSWORD", "214423")
 SESSION_DAYS = 30
 JLPT_LEVELS = {"N5", "N4", "N3", "N2", "N1"}
+JLPT_SECTION_TIMES = {
+    "N1": [("language_reading", "语言知识・阅读", 110)],
+    "N2": [("language_reading", "语言知识・阅读", 105)],
+    "N3": [("vocabulary", "文字词汇", 30), ("grammar_reading", "文法・阅读", 70)],
+    "N4": [("vocabulary", "文字词汇", 25), ("grammar_reading", "文法・阅读", 55)],
+    "N5": [("vocabulary", "文字词汇", 20), ("grammar_reading", "文法・阅读", 40)],
+}
+JLPT_LISTENING_TIMES = {"N1": 55, "N2": 50, "N3": 40, "N4": 35, "N5": 30}
 ASSETS_DIR = Path(
     os.getenv(
         "EXAM_ASSETS_DIR",
@@ -139,6 +152,7 @@ def ensure_schema(db: Session) -> None:
         db.execute(text("ALTER TABLE vocabulary_examples ADD COLUMN IF NOT EXISTS reading_hiragana TEXT NOT NULL DEFAULT ''"))
         db.execute(text("ALTER TABLE vocabulary_examples ADD COLUMN IF NOT EXISTS phonetic_guide_json TEXT NOT NULL DEFAULT '[]'"))
         db.execute(text("ALTER TABLE vocabulary_examples ADD COLUMN IF NOT EXISTS source VARCHAR(64) NOT NULL DEFAULT ''"))
+        db.execute(text("ALTER TABLE exam_runs ADD COLUMN IF NOT EXISTS attempt_id INTEGER REFERENCES exam_attempts(id)"))
         db.commit()
         return
 
@@ -459,6 +473,134 @@ def exam_question_to_out(
             translation=question.translation,
         )
     return ExamQuestionOut(**values)
+
+
+def exam_sections(level: str, questions: list[ExamQuestion]) -> list[ExamSectionOut]:
+    definitions = [
+        *JLPT_SECTION_TIMES[level],
+        ("listening", "听力", JLPT_LISTENING_TIMES[level]),
+    ]
+    grouped: dict[str, list[int]] = {key: [] for key, _, _ in definitions}
+    for question in questions:
+        question_type = question.question_type or 0
+        if question_type >= 41:
+            key = "listening"
+        elif level in {"N1", "N2"}:
+            key = "language_reading"
+        elif question_type < 21:
+            key = "vocabulary"
+        else:
+            key = "grammar_reading"
+        grouped[key].append(question.id)
+    return [
+        ExamSectionOut(
+            key=key,
+            label=label,
+            duration_minutes=duration,
+            question_ids=grouped[key],
+        )
+        for key, label, duration in definitions
+    ]
+
+
+def exam_run_to_out(db: Session, run: ExamRun) -> ExamRunOut:
+    exam = db.get(Exam, run.exam_id)
+    questions = list(
+        db.scalars(
+            select(ExamQuestion)
+            .where(ExamQuestion.exam_id == run.exam_id)
+            .order_by(ExamQuestion.order_index)
+        )
+    )
+    answers = {
+        row.question_id: row.chosen_option_id
+        for row in db.scalars(select(ExamRunAnswer).where(ExamRunAnswer.run_id == run.id))
+    }
+    return ExamRunOut(
+        id=run.id,
+        exam_id=run.exam_id,
+        status=run.status,
+        current_section=run.current_section,
+        section_started_at=run.section_started_at,
+        section_expires_at=run.section_expires_at,
+        sections=exam_sections(exam.level, questions),
+        answers=answers,
+        attempt_id=run.attempt_id,
+    )
+
+
+def finalize_exam_run(db: Session, run: ExamRun) -> None:
+    if run.attempt_id:
+        return
+    exam = db.get(Exam, run.exam_id)
+    questions = list(
+        db.scalars(
+            select(ExamQuestion)
+            .where(ExamQuestion.exam_id == run.exam_id)
+            .options(selectinload(ExamQuestion.options))
+            .order_by(ExamQuestion.order_index)
+        )
+    )
+    saved_answers = {
+        row.question_id: row.chosen_option_id
+        for row in db.scalars(select(ExamRunAnswer).where(ExamRunAnswer.run_id == run.id))
+    }
+    attempt = ExamAttempt(
+        user_id=run.user_id,
+        exam_id=exam.id,
+        level=exam.level,
+        title=exam.title,
+        correct=0,
+        total=len(questions),
+        created_at=datetime.utcnow(),
+    )
+    db.add(attempt)
+    db.flush()
+    correct_count = 0
+    for question in questions:
+        correct_option = next(option for option in question.options if option.is_correct)
+        chosen_option_id = saved_answers.get(question.id)
+        is_correct = chosen_option_id == correct_option.id
+        correct_count += int(is_correct)
+        db.add(
+            ExamAttemptAnswer(
+                attempt_id=attempt.id,
+                user_id=run.user_id,
+                question_id=question.id,
+                chosen_option_id=chosen_option_id,
+                correct_option_id=correct_option.id,
+                is_correct=int(is_correct),
+            )
+        )
+    attempt.correct = correct_count
+    run.status = "completed"
+    run.completed_at = datetime.utcnow()
+    run.section_started_at = None
+    run.section_expires_at = None
+    run.attempt_id = attempt.id
+
+
+def advance_exam_run_section(db: Session, run: ExamRun) -> None:
+    sections = exam_run_to_out(db, run).sections
+    next_section = run.current_section + 1
+    run.section_started_at = None
+    run.section_expires_at = None
+    if next_section >= len(sections):
+        finalize_exam_run(db, run)
+    else:
+        run.current_section = next_section
+        run.status = "awaiting_section"
+
+
+def sync_exam_run_timeout(db: Session, run: ExamRun) -> None:
+    if (
+        run.status == "in_progress"
+        and run.section_expires_at
+        and run.section_expires_at <= datetime.utcnow()
+    ):
+        advance_exam_run_section(db, run)
+        db.commit()
+        db.refresh(run)
 
 
 def exam_attempt_to_out(
@@ -866,6 +1008,148 @@ def exam_questions(exam_id: int, db: Session = Depends(get_db)) -> list[ExamQues
         )
     )
     return [exam_question_to_out(question) for question in questions]
+
+
+@app.post("/api/exam-runs", response_model=ExamRunOut)
+def start_exam_run(
+    exam_id: int = Query(...),
+    db: Session = Depends(get_db),
+    user: User = Depends(get_authenticated_user),
+) -> ExamRunOut:
+    exam = db.get(Exam, exam_id)
+    if not exam:
+        raise HTTPException(status_code=404, detail="Exam not found")
+
+    active = db.scalar(
+        select(ExamRun)
+        .where(
+            ExamRun.user_id == user.id,
+            ExamRun.exam_id == exam_id,
+            ExamRun.status.in_(["in_progress", "awaiting_section"]),
+        )
+        .order_by(ExamRun.started_at.desc())
+    )
+    if active:
+        sync_exam_run_timeout(db, active)
+        return exam_run_to_out(db, active)
+
+    questions = list(db.scalars(select(ExamQuestion).where(ExamQuestion.exam_id == exam_id)))
+    sections = exam_sections(exam.level, questions)
+    if not questions or not sections[0].question_ids:
+        raise HTTPException(status_code=409, detail="Exam sections are incomplete")
+
+    now = datetime.utcnow()
+    run = ExamRun(
+        user_id=user.id,
+        exam_id=exam_id,
+        current_section=0,
+        status="in_progress",
+        section_started_at=now,
+        section_expires_at=now + timedelta(minutes=sections[0].duration_minutes),
+        started_at=now,
+    )
+    db.add(run)
+    db.commit()
+    db.refresh(run)
+    return exam_run_to_out(db, run)
+
+
+@app.get("/api/exam-runs/{run_id}", response_model=ExamRunOut)
+def get_exam_run(
+    run_id: int,
+    db: Session = Depends(get_db),
+    user: User = Depends(get_authenticated_user),
+) -> ExamRunOut:
+    run = db.get(ExamRun, run_id)
+    if not run or run.user_id != user.id:
+        raise HTTPException(status_code=404, detail="Exam run not found")
+    sync_exam_run_timeout(db, run)
+    return exam_run_to_out(db, run)
+
+
+@app.put("/api/exam-runs/{run_id}/answers/{question_id}", response_model=ExamRunOut)
+def save_exam_run_answer(
+    run_id: int,
+    question_id: int,
+    payload: ExamRunAnswerIn,
+    db: Session = Depends(get_db),
+    user: User = Depends(get_authenticated_user),
+) -> ExamRunOut:
+    run = db.get(ExamRun, run_id)
+    if not run or run.user_id != user.id:
+        raise HTTPException(status_code=404, detail="Exam run not found")
+    sync_exam_run_timeout(db, run)
+    if run.status != "in_progress":
+        raise HTTPException(status_code=409, detail="Current section is closed")
+
+    current_section = exam_run_to_out(db, run).sections[run.current_section]
+    if question_id not in current_section.question_ids:
+        raise HTTPException(status_code=409, detail="Question is not in the current section")
+    option = db.get(ExamOption, payload.chosen_option_id) if payload.chosen_option_id else None
+    if option and option.question_id != question_id:
+        raise HTTPException(status_code=400, detail="Option does not belong to question")
+
+    answer = db.scalar(
+        select(ExamRunAnswer).where(
+            ExamRunAnswer.run_id == run.id,
+            ExamRunAnswer.question_id == question_id,
+        )
+    )
+    if answer:
+        answer.chosen_option_id = option.id if option else None
+    else:
+        db.add(
+            ExamRunAnswer(
+                run_id=run.id,
+                question_id=question_id,
+                chosen_option_id=option.id if option else None,
+            )
+        )
+    db.commit()
+    db.refresh(run)
+    return exam_run_to_out(db, run)
+
+
+@app.post("/api/exam-runs/{run_id}/section/complete", response_model=ExamRunOut)
+def complete_exam_run_section(
+    run_id: int,
+    db: Session = Depends(get_db),
+    user: User = Depends(get_authenticated_user),
+) -> ExamRunOut:
+    run = db.get(ExamRun, run_id)
+    if not run or run.user_id != user.id:
+        raise HTTPException(status_code=404, detail="Exam run not found")
+    sync_exam_run_timeout(db, run)
+    if run.status != "in_progress":
+        return exam_run_to_out(db, run)
+    advance_exam_run_section(db, run)
+    db.commit()
+    db.refresh(run)
+    return exam_run_to_out(db, run)
+
+
+@app.post("/api/exam-runs/{run_id}/section/start", response_model=ExamRunOut)
+def start_exam_run_section(
+    run_id: int,
+    db: Session = Depends(get_db),
+    user: User = Depends(get_authenticated_user),
+) -> ExamRunOut:
+    run = db.get(ExamRun, run_id)
+    if not run or run.user_id != user.id:
+        raise HTTPException(status_code=404, detail="Exam run not found")
+    sync_exam_run_timeout(db, run)
+    if run.status != "awaiting_section":
+        raise HTTPException(status_code=409, detail="Exam run is not awaiting a section")
+
+    sections = exam_run_to_out(db, run).sections
+    section = sections[run.current_section]
+    now = datetime.utcnow()
+    run.status = "in_progress"
+    run.section_started_at = now
+    run.section_expires_at = now + timedelta(minutes=section.duration_minutes)
+    db.commit()
+    db.refresh(run)
+    return exam_run_to_out(db, run)
 
 
 @app.get(

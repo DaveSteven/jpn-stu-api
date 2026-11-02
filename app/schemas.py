@@ -256,6 +256,29 @@ class ExamAttemptIn(BaseModel):
     answers: list[ExamAttemptAnswerIn]
 
 
+class ExamSectionOut(BaseModel):
+    key: str
+    label: str
+    duration_minutes: int
+    question_ids: list[int]
+
+
+class ExamRunOut(BaseModel):
+    id: int
+    exam_id: int
+    status: str
+    current_section: int
+    section_started_at: datetime | None
+    section_expires_at: datetime | None
+    sections: list[ExamSectionOut]
+    answers: dict[int, int | None] = {}
+    attempt_id: int | None = None
+
+
+class ExamRunAnswerIn(BaseModel):
+    chosen_option_id: int | None = None
+
+
 class ExamAttemptAnswerOut(BaseModel):
     question_id: int
     title: str

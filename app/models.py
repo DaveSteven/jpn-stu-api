@@ -323,6 +323,31 @@ class ExamAttempt(Base):
     )
 
 
+class ExamRun(Base):
+    __tablename__ = "exam_runs"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), index=True, nullable=False)
+    exam_id: Mapped[int] = mapped_column(ForeignKey("exams.id"), index=True, nullable=False)
+    current_section: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
+    status: Mapped[str] = mapped_column(String(32), default="ready", index=True, nullable=False)
+    section_started_at: Mapped[datetime | None] = mapped_column(DateTime)
+    section_expires_at: Mapped[datetime | None] = mapped_column(DateTime)
+    started_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, nullable=False)
+    completed_at: Mapped[datetime | None] = mapped_column(DateTime)
+    attempt_id: Mapped[int | None] = mapped_column(ForeignKey("exam_attempts.id"))
+
+
+class ExamRunAnswer(Base):
+    __tablename__ = "exam_run_answers"
+    __table_args__ = (UniqueConstraint("run_id", "question_id", name="uq_exam_run_question"),)
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    run_id: Mapped[int] = mapped_column(ForeignKey("exam_runs.id"), index=True, nullable=False)
+    question_id: Mapped[int] = mapped_column(ForeignKey("exam_questions.id"), index=True, nullable=False)
+    chosen_option_id: Mapped[int | None] = mapped_column(ForeignKey("exam_options.id"))
+
+
 class ExamAttemptAnswer(Base):
     __tablename__ = "exam_attempt_answers"
 
