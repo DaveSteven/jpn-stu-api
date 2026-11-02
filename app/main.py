@@ -52,6 +52,7 @@ from .schemas import (
     ExamOptionOut,
     ExamOut,
     ExamQuestionOut,
+    ExamQuestionReviewOut,
     RandomExamQuestionOut,
     LoginIn,
     QuizOptionOut,
@@ -337,6 +338,24 @@ def get_current_user(
     return user
 
 
+def get_authenticated_user(
+    authorization: str | None = Header(default=None),
+    db: Session = Depends(get_db),
+) -> User:
+    if not authorization or not authorization.lower().startswith("bearer "):
+        raise HTTPException(status_code=401, detail="Authentication required")
+
+    token = authorization.split(" ", 1)[1].strip()
+    session = db.scalar(select(UserSession).where(UserSession.token == token))
+    if not session or session.expires_at < datetime.utcnow():
+        raise HTTPException(status_code=401, detail="Invalid or expired session")
+
+    user = db.get(User, session.user_id)
+    if not user:
+        raise HTTPException(status_code=401, detail="Session user not found")
+    return user
+
+
 def create_session_for_user(db: Session, user: User) -> SessionOut:
     session = UserSession(
         user_id=user.id,
@@ -358,7 +377,6 @@ def question_to_quiz_out(question: Question) -> QuizQuestionOut:
         book_name=question.book.name,
         stem=question.stem,
         question_text=question.question_text,
-        explanation=question.explanation or "",
         options=[QuizOptionOut(id=option.id, text=option.text) for option in options],
     )
 
@@ -411,8 +429,12 @@ def exam_to_out(exam: Exam) -> ExamOut:
     )
 
 
-def exam_question_to_out(question: ExamQuestion) -> ExamQuestionOut:
-    return ExamQuestionOut(
+def exam_question_to_out(
+    question: ExamQuestion,
+    *,
+    include_review_fields: bool = False,
+) -> ExamQuestionOut | ExamQuestionReviewOut:
+    values = dict(
         id=question.id,
         external_id=question.external_id,
         layer_id=question.layer_id,
@@ -422,8 +444,6 @@ def exam_question_to_out(question: ExamQuestion) -> ExamQuestionOut:
         data_type=question.data_type,
         title=question.title,
         passage=question.passage,
-        analysis=question.analysis,
-        translation=question.translation,
         subtitle=question.subtitle,
         image_url=asset_url(question.image_path),
         media_url=asset_url(question.media_path),
@@ -432,6 +452,13 @@ def exam_question_to_out(question: ExamQuestion) -> ExamQuestionOut:
             for option in sorted(question.options, key=lambda item: item.source_order)
         ],
     )
+    if include_review_fields:
+        return ExamQuestionReviewOut(
+            **values,
+            analysis=question.analysis,
+            translation=question.translation,
+        )
+    return ExamQuestionOut(**values)
 
 
 def exam_attempt_to_out(
@@ -549,10 +576,15 @@ def create_user(payload: UserCreate, db: Session) -> User:
     return user
 
 
-@app.post("/api/auth/register", response_model=SessionOut)
-def register(payload: UserCreate, db: Session = Depends(get_db)) -> SessionOut:
-    user = create_user(payload, db)
-    return create_session_for_user(db, user)
+@app.post("/api/auth/register", response_model=UserOut)
+def register(
+    payload: UserCreate,
+    admin: User = Depends(get_authenticated_user),
+    db: Session = Depends(get_db),
+) -> User:
+    if admin.username != "david":
+        raise HTTPException(status_code=403, detail="Only david can register users")
+    return create_user(payload, db)
 
 
 @app.post("/api/auth/login", response_model=SessionOut)
@@ -834,6 +866,33 @@ def exam_questions(exam_id: int, db: Session = Depends(get_db)) -> list[ExamQues
         )
     )
     return [exam_question_to_out(question) for question in questions]
+
+
+@app.get(
+    "/api/exam-attempts/{attempt_id}/questions",
+    response_model=list[ExamQuestionReviewOut],
+)
+def exam_attempt_questions(
+    attempt_id: int,
+    db: Session = Depends(get_db),
+    user: User = Depends(get_authenticated_user),
+) -> list[ExamQuestionReviewOut]:
+    attempt = db.get(ExamAttempt, attempt_id)
+    if not attempt or attempt.user_id != user.id:
+        raise HTTPException(status_code=404, detail="Exam attempt not found")
+
+    questions = list(
+        db.scalars(
+            select(ExamQuestion)
+            .where(ExamQuestion.exam_id == attempt.exam_id)
+            .options(selectinload(ExamQuestion.options), selectinload(ExamQuestion.layer))
+            .order_by(ExamQuestion.order_index)
+        )
+    )
+    return [
+        exam_question_to_out(question, include_review_fields=True)
+        for question in questions
+    ]
 
 
 @app.get("/api/exam-practice/random", response_model=list[RandomExamQuestionOut])

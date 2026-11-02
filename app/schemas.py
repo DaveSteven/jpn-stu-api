@@ -56,7 +56,6 @@ class QuizQuestionOut(BaseModel):
     book_name: str
     stem: str
     question_text: str
-    explanation: str
     options: list[QuizOptionOut]
 
 
@@ -226,12 +225,15 @@ class ExamQuestionOut(BaseModel):
     data_type: int | None
     title: str
     passage: str
-    analysis: str
-    translation: str
     subtitle: str
     image_url: str
     media_url: str
     options: list[ExamOptionOut]
+
+
+class ExamQuestionReviewOut(ExamQuestionOut):
+    analysis: str
+    translation: str
 
 
 class RandomExamQuestionOut(ExamQuestionOut):
