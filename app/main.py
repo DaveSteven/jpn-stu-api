@@ -116,6 +116,7 @@ def startup() -> None:
     Base.metadata.create_all(bind=engine)
     with Session(engine) as db:
         ensure_schema(db)
+        normalize_exam_layer_images(db)
         ensure_default_user(db)
         sync_postgres_sequences(db)
 
@@ -146,6 +147,7 @@ def ensure_schema(db: Session) -> None:
     if engine.url.drivername.startswith("postgresql"):
         db.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS current_level VARCHAR(16) NOT NULL DEFAULT 'N5'"))
         db.execute(text("ALTER TABLE exam_questions ADD COLUMN IF NOT EXISTS passage TEXT NOT NULL DEFAULT ''"))
+        db.execute(text("ALTER TABLE exam_layers ADD COLUMN IF NOT EXISTS image_path TEXT NOT NULL DEFAULT ''"))
         db.execute(text("ALTER TABLE exam_attempt_answers ALTER COLUMN chosen_option_id DROP NOT NULL"))
         db.execute(text("ALTER TABLE vocabulary_entries ADD COLUMN IF NOT EXISTS transitivity VARCHAR(24)"))
         db.execute(text("ALTER TABLE vocabulary_relations ADD COLUMN IF NOT EXISTS term_reading_katakana VARCHAR(256) NOT NULL DEFAULT ''"))
@@ -181,6 +183,15 @@ def ensure_schema(db: Session) -> None:
     if "passage" not in question_columns:
         db.connection().exec_driver_sql(
             "ALTER TABLE exam_questions ADD COLUMN passage TEXT NOT NULL DEFAULT ''"
+        )
+        db.commit()
+
+    layer_columns = {
+        row[1] for row in db.connection().exec_driver_sql("PRAGMA table_info(exam_layers)").all()
+    }
+    if layer_columns and "image_path" not in layer_columns:
+        db.connection().exec_driver_sql(
+            "ALTER TABLE exam_layers ADD COLUMN image_path TEXT NOT NULL DEFAULT ''"
         )
         db.commit()
 
@@ -227,6 +238,29 @@ def ensure_schema(db: Session) -> None:
             "ALTER TABLE vocabulary_examples ADD COLUMN source VARCHAR(64) NOT NULL DEFAULT ''"
         )
         db.commit()
+
+
+def normalize_exam_layer_images(db: Session) -> None:
+    layers = list(
+        db.scalars(select(ExamLayer).options(selectinload(ExamLayer.questions)))
+    )
+    for layer in layers:
+        questions = sorted(layer.questions, key=lambda item: item.order_index)
+        image_paths = [question.image_path for question in questions if question.image_path]
+        if len(questions) > 1 and len(image_paths) == len(questions) and len(set(image_paths)) == 1:
+            layer.image_path = image_paths[0]
+            for question in questions:
+                question.image_id = ""
+                question.image_path = ""
+
+    recipe_layer = next((layer for layer in layers if layer.external_id == "sHDAKnyXHO"), None)
+    if recipe_layer:
+        recipe_layer.image_path = "images/924f57ea-ceea-421f-bd82-934d848521a2.png"
+        for question in recipe_layer.questions:
+            if question.external_id == "d7GXT2AEDj":
+                question.image_id = ""
+                question.image_path = ""
+    db.commit()
 
 
 def ensure_nullable_exam_chosen_option(db: Session) -> None:
@@ -989,7 +1023,10 @@ def exam_detail(exam_id: int, db: Session = Depends(get_db)) -> ExamDetailOut:
 
     base = exam_to_out(exam).model_dump()
     base["layers"] = [
-        ExamLayerOut.model_validate(layer)
+        ExamLayerOut(
+            **ExamLayerOut.model_validate(layer).model_dump(exclude={"image_url"}),
+            image_url=asset_url(layer.image_path),
+        )
         for layer in sorted(exam.layers, key=lambda item: item.order_index)
     ]
     return ExamDetailOut(**base)

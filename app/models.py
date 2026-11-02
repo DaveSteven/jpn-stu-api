@@ -253,6 +253,7 @@ class ExamLayer(Base):
     data_type: Mapped[int | None] = mapped_column(Integer)
     questions_num: Mapped[int | None] = mapped_column(Integer)
     question_count: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
+    image_path: Mapped[str] = mapped_column(Text, default="", nullable=False)
 
     exam: Mapped[Exam] = relationship(back_populates="layers")
     questions: Mapped[list["ExamQuestion"]] = relationship(

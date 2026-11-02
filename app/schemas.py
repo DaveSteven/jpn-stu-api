@@ -205,6 +205,7 @@ class ExamLayerOut(BaseModel):
     data_type: int | None
     questions_num: int | None
     question_count: int
+    image_url: str = ""
 
     model_config = ConfigDict(from_attributes=True)
 

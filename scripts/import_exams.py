@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import Any
 
 from sqlalchemy import select, text
+from sqlalchemy.orm import selectinload
 
 from app.database import Base, SessionLocal, engine
 from app.main import ASSETS_DIR, ensure_default_user
@@ -177,6 +178,24 @@ def main() -> None:
                         option.text = option_text
                         option.is_correct = 1 if option_index == right_answer_index else 0
                         option_total += 1
+
+        layers = list(db.scalars(select(ExamLayer).options(selectinload(ExamLayer.questions))))
+        for layer in layers:
+            questions = sorted(layer.questions, key=lambda item: item.order_index)
+            image_paths = [question.image_path for question in questions if question.image_path]
+            if len(questions) > 1 and len(image_paths) == len(questions) and len(set(image_paths)) == 1:
+                layer.image_path = image_paths[0]
+                for question in questions:
+                    question.image_id = ""
+                    question.image_path = ""
+
+        recipe_layer = next((layer for layer in layers if layer.external_id == "sHDAKnyXHO"), None)
+        if recipe_layer:
+            recipe_layer.image_path = "images/924f57ea-ceea-421f-bd82-934d848521a2.png"
+            for question in recipe_layer.questions:
+                if question.external_id == "d7GXT2AEDj":
+                    question.image_id = ""
+                    question.image_path = ""
 
         db.commit()
 
